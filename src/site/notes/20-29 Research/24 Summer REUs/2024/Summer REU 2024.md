@@ -48,4 +48,4 @@ The task list below will grow and change over the course of our project.
 # Project timeline
 
 Because of various technical issues, I cannot share the live version of the project timeline. As a workaround, I am embedding a snapshot of that timeline below. I'll make sure to update this snapshot whenever I update the timeline.
-![Project_Timeline.png|800](/img/user/00-09%20Meta/01%20Images/Project_Timeline.png)
+![Project_Timeline.png|900](/img/user/00-09%20Meta/01%20Images/Project_Timeline.png)
