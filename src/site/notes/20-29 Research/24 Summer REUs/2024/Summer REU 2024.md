@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-07-14T08:58:19-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-07-19T14:34:09-07:00"}
 ---
 
 # Meeting notes
@@ -31,12 +31,12 @@ The task list below will grow and change over the course of our project.
 - [x] Duality for projective plane conics
 
 ### Tropical algebraic geometry
-- [ ] A brief history of tropical geometry
-- [ ] Tropical curves
-- [ ] The tropical projective plane
-- [ ] Tropical projective plane conics
+- [x] A brief history of tropical geometry
+- [x] Tropical curves
+- [x] The tropical projective plane
+- [x] Tropical projective plane conics
 - [ ] Tropical tangency
-- [ ] Tropical algebra
+- [x] Tropical algebra
 
 ## Investigation
 

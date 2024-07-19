@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-16/","updated":"2024-07-16T14:51:25-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-16/","updated":"2024-07-19T14:36:19-07:00"}
 ---
 
 This following is a brief summary of our research meeting on 2024-07-16.
@@ -14,9 +14,9 @@ This following is a brief summary of our research meeting on 2024-07-16.
 
 # Tasks for next meeting
 
-- Read Sections 2.1 and 2.2 in [Kathryn Burton's paper](https://cpslo-my.sharepoint.com/:b:/g/personal/rweaston_calpoly_edu/EQ4NAss4etlOmWnkXkyJIDcB8mNO4it9xyQstF5BDQM4Bg?e=ZK5S55)
-- Take a look at page 96 in ["Tropical conics for the layman"](https://1drv.ms/b/s!AjXgnHVvUalnkPRvKEHf_WpPoBFhqg?e=lfeJ6e), where there are images of 21 types of tropical conics
-- Compare with Kathryn's list of 20 tropical conics and find the discrepancy
-- Take a look at the following [Desmos page](https://www.desmos.com/calculator/ywustbaxrr) page and try messing around with the sliders.
+- [x] Read Sections 2.1 and 2.2 in [Kathryn Burton's paper](https://cpslo-my.sharepoint.com/:b:/g/personal/rweaston_calpoly_edu/EQ4NAss4etlOmWnkXkyJIDcB8mNO4it9xyQstF5BDQM4Bg?e=ZK5S55)
+- [x] Take a look at page 96 in ["Tropical conics for the layman"](https://1drv.ms/b/s!AjXgnHVvUalnkPRvKEHf_WpPoBFhqg?e=lfeJ6e), where there are images of 21 types of tropical conics
+- [x] Compare with Kathryn's list of 20 tropical conics and find the discrepancy
+- [x] Take a look at the following [Desmos page](https://www.desmos.com/calculator/ywustbaxrr) page and try messing around with the sliders.
 	- Can you figure out what is going on?
 	- Can you produce examples of every (combinatorial) type of tropical conic?

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-09/","updated":"2024-07-12T19:03:25-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-09/","updated":"2024-07-19T14:35:02-07:00"}
 ---
 
 This following is a brief summary of our research meeting on 2024-07-09.
@@ -18,7 +18,7 @@ This following is a brief summary of our research meeting on 2024-07-09.
 
 # Tasks for next meeting
 
-- [ ] Read/skim Sections 8.1–8.3
-- [ ] Work through the following exercises:
+- [x] Read/skim Sections 8.1–8.3
+- [x] Work through the following exercises:
     - 8.1: 4, 5, 11
     - 8.2: 1
