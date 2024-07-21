@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-20T20:39:02-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-20T20:56:19-07:00"}
 ---
 
 ![banner_home.png](/img/user/00-09%20Meta/01%20Images/Banners/banner_home.png)
@@ -8,18 +8,21 @@
 
 This page is under heavy construction. Testing out some custom CSS.
 
-> [!multi-column|left-fixed]
+> [!multi-column|float-left]
 >
 >> [!blank-container]
->> Container 1
+>>
 >
 >> [!blank-container]
->> Container 2
+>>
 >
->> [!tldr]
+>> [!blank-container]
+>>
+>
+>> [!tldr]+
 >> Container 3
 >
->> [!note]
+>> [!note]-
 >> Container 4
 >
 >> [!question]
@@ -27,23 +30,4 @@ This page is under heavy construction. Testing out some custom CSS.
 >
 >>[!warning]
 >>Container 6
-
-> [!multi-column|center-fixed]
->
-> > [!blank|no-margin pw2]
-> > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
->
-> > [!multi-column|pw6]
-> >
-> > > [!tldr]- Manifest
-> > > Contents
-> >
-> > > [!info]- Backlog
-> > > Contents
-> >
-> > > [!tip] Project
-> > > - ### Project A
-> > > 	- completed
-> > > - ### Project B
-> > > 	- ongoing
 
