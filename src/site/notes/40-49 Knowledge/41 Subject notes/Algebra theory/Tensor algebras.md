@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-subject-notes/algebra-theory/tensor-algebras/","tags":["algebra_theory"],"updated":"2024-03-06T13:58:04-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-subject-notes/algebra-theory/tensor-algebras/","tags":["algebra_theory"],"updated":"2024-07-21T13:46:36-07:00"}
 ---
 
 ## Motivation
