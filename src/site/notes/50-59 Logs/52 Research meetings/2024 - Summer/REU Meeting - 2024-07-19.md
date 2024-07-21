@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-19/","updated":"2024-07-19T14:36:48-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-19/","updated":"2024-07-20T20:12:02-07:00"}
 ---
 
 This following is a brief summary of our research meeting on 2024-07-19.
