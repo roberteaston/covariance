@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-20T20:37:58-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-20T20:39:02-07:00"}
 ---
 
 ![banner_home.png](/img/user/00-09%20Meta/01%20Images/Banners/banner_home.png)
@@ -8,7 +8,7 @@
 
 This page is under heavy construction. Testing out some custom CSS.
 
-> [!multi-column]
+> [!multi-column|left-fixed]
 >
 >> [!blank-container]
 >> Container 1
@@ -28,7 +28,7 @@ This page is under heavy construction. Testing out some custom CSS.
 >>[!warning]
 >>Container 6
 
-> [!multi-column]
+> [!multi-column|center-fixed]
 >
 > > [!blank|no-margin pw2]
 > > Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
