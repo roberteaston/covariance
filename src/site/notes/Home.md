@@ -1,33 +1,26 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-20T20:56:19-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-21T07:58:15-07:00"}
 ---
-
-![banner_home.png](/img/user/00-09%20Meta/01%20Images/Banners/banner_home.png)
 
 # Welcome to Covariance
 
-This page is under heavy construction. Testing out some custom CSS.
+>[!warning] Pardon the dust
+>This page is currently under construction.
 
-> [!multi-column|float-left]
->
->> [!blank-container]
->>
->
->> [!blank-container]
->>
->
->> [!blank-container]
->>
->
->> [!tldr]+
->> Container 3
->
->> [!note]-
->> Container 4
->
->> [!question]
->> Container 5
->
->>[!warning]
->>Container 6
+---
+## Research Projects
 
+### Tropical conic duality (Frost summer research 2024)
+
+- [[20-29 Research/24 Summer REUs/2024/Examples of classical conic duality\|Examples of classical conic duality]]
+- [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]
+
+{ .block-language-dataview}
+
+---
+## Knowledge
+
+| Topic |
+| ----- |
+
+{ .block-language-dataview}
