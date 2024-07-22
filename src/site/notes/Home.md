@@ -11,10 +11,10 @@
 
 ## Algebra theory
 
-| Topic                                                                                       |
-| ------------------------------------------------------------------------------------------- |
-| [[40-49 Knowledge/41 Subject notes/Algebra theory/Algebras\|Algebras]]                   |
-| [[40-49 Knowledge/41 Subject notes/Algebra theory/Exterior algebras\|Exterior algebras]] |
+| Topic                                                                        |
+| ---------------------------------------------------------------------------- |
+| [[40-49 Knowledge/41 Subject notes/Algebras\|Algebras]]                   |
+| [[40-49 Knowledge/41 Subject notes/Exterior algebras\|Exterior algebras]] |
 
 { .block-language-dataview}
 
