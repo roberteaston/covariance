@@ -23,9 +23,8 @@
 
 ## Category theory
 
-| Topic                                                                                                 |
-| ----------------------------------------------------------------------------------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories\|Ab-categories]] |
+| Topic |
+| ----- |
 
 { .block-language-dataview}
 
