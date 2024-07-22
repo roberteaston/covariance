@@ -13,8 +13,11 @@
 
 | Topic                                                                                       |
 | ------------------------------------------------------------------------------------------- |
-| [[Algebras\|Algebras]]                                                                   |
-| [[40-49 Knowledge/41 Subject notes/Algebra theory/Exterior algebras\|Exterior algebras]] |
+| [[40-49 Knowledge/Algebras\|Algebras]]                                                   |
+| [[40-49 Knowledge/Exterior algebras\|Exterior algebras]]                                 |
+| [[40-49 Knowledge/Symmetric algebras\|Symmetric algebras]]                               |
+| [[40-49 Knowledge/Symmetric and alternating tensors\|Symmetric and alternating tensors]] |
+| [[40-49 Knowledge/Tensor algebras\|Tensor algebras]]                                     |
 
 { .block-language-dataview}
 
