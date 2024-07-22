@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-subject-notes/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2024-07-21T19:27:44-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-subject-notes/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2024-07-21T19:37:28-07:00"}
 ---
 
 ## Motivation
