@@ -8,9 +8,13 @@ We've seen how the notion of a ring acting on an abelian group leads to the stru
 >Let $R$ be a commutative ring (with unity). An **$R$-algebra** is an $R$-module $A$ that is also equipped with a multiplication that makes $A$ into a ring (with unity), with the following compatibility property between the $R$-action and the multiplication in $A$:
 >$$r(a_1a_2) = (ra_1)a_2 = a_1(ra_2)$$
 >for all $r\in R$ and $a_1, a_2\in A$.
+{ #32e02b}
+
 
 >[!note] Definition of an algebra (via rings)
 >Let $R$ be a commutative ring (with unity). An **$R$-algebra** is a ring $A$ (with unity) together with a ring morphism^[We always assume ring morphisms send $1_R$ to $1_A$.] $f:R\to A$ whose image is contained in the center of $A$.
+{ #02247f}
+
 
 Let's quickly verify these two definitions are actually equivalent. First suppose $A$ is an $R$-algebra in the first sense. For the sake of this analysis, let's use a $\star$ to denote the action of an element $r\in R$ on an element $a\in A$, and reserve a $\cdot$ (or no notation at all) for a product of elements in $A$. Then $A$ is a ring (with unity) and we can consider the map $f:R\to A$ defined by $r\mapsto r\star 1_A$. We claim this is a ring morphism whose image is in the center of $A$. First note we certainly have $f(1_R)=1_R\star 1_A = 1_A$, since part of the assumption of the $R$-action on the module $A$ is that the identity element $1_R$ acts as the identity on $A$. Next note that properties of the $R$-action on the module $A$ guarantee that
 $$f(r+r')=(r+r')\star 1_A = r\star 1_A+r'\star 1_A = f(r)+f(r').$$

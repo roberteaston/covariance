@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-22T06:04:31-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-22T08:45:45-07:00"}
 ---
 
 # Welcome to Covariance
@@ -7,16 +7,29 @@
 >[!warning] Pardon the dust
 >This page is currently under construction.
 
+# Recently updated notes
+
+| Note                                                                                                                                        | Last Updated            |
+| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-19\|REU Meeting - 2024-07-19]]                                     | 8:39 AM - July 22, 2024 |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/2024-07-12\|2024-07-12]]                                                                 | 8:16 AM - July 22, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Examples of extending scalars\|Examples of extending scalars]] | 6:00 AM - July 22, 2024 |
+
+{ .block-language-dataview}
+
 # Knowledge
 
+## Mathematics
+
 >[!summary]- Algebra theory
-> | Topic                                                                                                                     |
-> | ------------------------------------------------------------------------------------------------------------------------- |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]                                 |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]                               |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]                                     |
+>Not to be confused with the most general concept of *algebra* (abstract or otherwise), an [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras#^32e02b\|algebra]] is an algebraic structure similar to a [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules#^ac6884\|module]], only with two internal binary operations.
+> | Note                                                                                                                      | Last Updated            |
+> | ------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 7:37 PM - July 21, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]                                 | 7:37 PM - July 21, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]                               | 7:37 PM - July 21, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 7:37 PM - July 21, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]                                     | 7:37 PM - July 21, 2024 |
 > 
 { .block-language-dataview}
 
