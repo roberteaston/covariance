@@ -8,8 +8,8 @@
 | ------------------------------------------------------------------------------------------------------- |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-19\|REU Meeting - 2024-07-19]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-16\|REU Meeting - 2024-07-16]] |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-12\|REU Meeting - 2024-07-12]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/2024-07-12\|2024-07-12]]                             |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-12\|REU Meeting - 2024-07-12]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-09\|REU Meeting - 2024-07-09]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-05\|REU Meeting - 2024-07-05]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-02\|REU Meeting - 2024-07-02]] |

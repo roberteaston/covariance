@@ -1,11 +1,33 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-22T08:45:45-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-22T13:12:26-07:00"}
 ---
 
 # Welcome to Covariance
 
 >[!warning] Pardon the dust
 >This page is currently under construction.
+
+``` dataview
+TABLE
+	file.link
+FROM ""
+WHERE
+	dg-publish
+FLATTEN
+	date(now) as Now
+FLATTEN
+	(file.mtime.year + file.mtime.hour + file.mtime.day + file.mtime.hour + file.mtime.minute + file.mtime.second + file.size + Now.hour + Now.minute + Now.second) * 15485863 as Hash
+FLATTEN
+	((Hash * Hash * Hash) % 2038074743) / 2038074743 as Rand
+WHERE
+	max(Rand)
+SORT
+	Rand
+LIMIT
+	1
+```
+
+<div><ul class="dataview list-view-ul"><li><span><a data-tooltip-position="top" aria-label="10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Cyclic modules and tensor algebras.md" data-href="10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Cyclic modules and tensor algebras.md" href="10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Cyclic modules and tensor algebras.md" class="internal-link" target="_blank" rel="noopener">Cyclic modules and tensor algebras</a></span></li></ul></div>
 
 # Recently updated notes
 
