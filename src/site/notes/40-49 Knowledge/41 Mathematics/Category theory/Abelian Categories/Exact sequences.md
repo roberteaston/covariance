@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/exact-sequences/","updated":"2024-03-06T14:02:04-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/exact-sequences/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:11:27-07:00"}
 ---
 
 ## Exact sequences

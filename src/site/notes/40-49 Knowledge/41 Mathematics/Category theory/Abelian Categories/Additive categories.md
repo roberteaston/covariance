@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","updated":"2024-03-06T14:01:32-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:11:02-07:00"}
 ---
 
 ## Initial objects, terminal objects, and null objects

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","updated":"2024-03-06T14:01:34-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:10:56-07:00"}
 ---
 
 ## Kernels and Cokernels

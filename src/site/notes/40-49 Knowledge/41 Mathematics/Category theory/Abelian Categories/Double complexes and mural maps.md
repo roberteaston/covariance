@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/double-complexes-and-mural-maps/","updated":"2024-03-06T14:01:59-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/double-complexes-and-mural-maps/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:11:21-07:00"}
 ---
 
 ## Double complexes

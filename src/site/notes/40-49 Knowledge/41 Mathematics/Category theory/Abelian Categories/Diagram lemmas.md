@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","updated":"2024-03-06T14:01:55-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:11:16-07:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]] (and the various mural maps) to quickly prove many of the named "diagram lemmas" one encounters in homological algebra (and elsewhere). This is just a sampling.
