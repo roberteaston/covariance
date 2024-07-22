@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-21T20:27:11-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-22T06:04:31-07:00"}
 ---
 
 # Welcome to Covariance
@@ -26,25 +26,25 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories\|Ab-categories]]                                                                 |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|Abelian categories]]                                                       |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Additive categories\|Additive categories]]                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]                                                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]                                                                         |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|Chain complexes]]                                                             |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram chases without elements\|Diagram chases without elements]]                             |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]                                                               |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Diagrams and cones\|Diagrams and cones]]                                                     |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Double complexes and mural maps\|Double complexes and mural maps]]                             |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences\|Exact sequences]]                                                             |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]                                                   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]                                                                                     |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]                                                                         |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of categories\|Examples of categories]]                                                 |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of functors\|Examples of functors]]                                                     |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of natural transformations\|Examples of natural transformations]]                       |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|Examples of universal properties]]                         |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties - Revisited\|Examples of universal properties - Revisited]] |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functor categories\|Functor categories]]                                                         |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]                                                                             |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Monomorphisms, Epimorphisms and Isomorphisms\|Monomorphisms, Epimorphisms and Isomorphisms]]     |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|Natural transformations]]                                               |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Set-theoretic issues\|Set-theoretic issues]]                                                     |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Diagrams and cones\|Diagrams and cones]]                                                     |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|Examples of universal properties]]                         |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties - Revisited\|Examples of universal properties - Revisited]] |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]                                                   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal arrows and elements\|Universal arrows and elements]]                               |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]]                                                             |
 > 
@@ -65,8 +65,46 @@
 { .block-language-dataview}
 
 >[!summary]- Module theory
-> | Topic |
-> | ----- |
+> | Topic                                                                                                                                                                                                                                                     |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules\|Bimodules]]                                                                                                                                                                        |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]                                                                                                                       |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]]                                                                                           |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]                                                                                                                               |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Examples of bimodules\|Examples of bimodules]]                                                                                                                                                |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Examples of extending scalars\|Examples of extending scalars]]                                                                                                               |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]]                                                                                                                           |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Examples of module morphisms\|Examples of module morphisms]]                                                                                                             |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Examples of modules\|Examples of modules]]                                                                                                                               |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Examples of submodules\|Examples of submodules]]                                                                                                                         |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]                                                                                                                                                   |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Generators for modules and submodules\|Generators for modules and submodules]]                                                                                                 |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Illustrative examples\|Illustrative examples]]                                                                                                                                          |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Jordan Canonical Form I - Definition\|Jordan Canonical Form I - Definition]]                                                                                                         |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Jordan Canonical Form II - Computation\|Jordan Canonical Form II - Computation]]                                                                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence and rank\|Linear independence and rank]]                                                                                                                         |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms\|Module morphisms]]                                                                                                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules\|Module morphisms and submodules]]                                                                                                       |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|Modules]]                                                                                                                                                       |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Modules over a PID - The Fundamental Theorem\|Modules over a PID - The Fundamental Theorem]]                                                                                         |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Morphisms of exact sequences\|Morphisms of exact sequences]]                                                                                                                            |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Noetherian modules\|Noetherian modules]]                                                                                                                                             |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Quotient modules\|Quotient modules]]                                                                                                                                           |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form I - Definition\|Rational Canonical Form I - Definition]]                                                                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form II - Additional Properties\|Rational Canonical Form II - Additional Properties]]                                                                             |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation\|Rational Canonical Form III - Computation]]                                                                                               |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Short and long exact sequences\|Short and long exact sequences]]                                                                                                                        |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Submodules\|Submodules]]                                                                                                                                                 |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules\|Sums of submodules]]                                                                                                                                       |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products I - Extending scalars\|Tensor Products I - Extending scalars]]                                                                                               |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|Tensor Products II - Tensor products of bimodules]]                                                                       |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and the Universal Property of the Tensor Product\|Tensor Products III - Balanced Maps and the Universal Property of the Tensor Product]] |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - Additional Properties\|Tensor Products IV - Additional Properties]]                                                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/The 2-category of bimodules\|The 2-category of bimodules]]                                                                                                                                    |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/The Hom-in functor and injective modules\|The Hom-in functor and injective modules]]                                                                                                    |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/The Hom-out functor and projective modules\|The Hom-out functor and projective modules]]                                                                                                |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]]                                                                                                   |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/The tensor product functor and flat modules\|The tensor product functor and flat modules]]                                                                                              |
 > 
 { .block-language-dataview}
 
