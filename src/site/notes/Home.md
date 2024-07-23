@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-22T13:23:32-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-22T15:54:25-07:00"}
 ---
 
 # Welcome to Covariance
@@ -9,11 +9,11 @@
 
 # Recently updated notes
 
-| Note                                                                                                                                        | Last Updated            |
-| ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-19\|REU Meeting - 2024-07-19]]                                     | 8:39 AM - July 22, 2024 |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/2024-07-12\|2024-07-12]]                                                                 | 8:16 AM - July 22, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Examples of extending scalars\|Examples of extending scalars]] | 6:00 AM - July 22, 2024 |
+| Note                                                                                                                                          | Last Updated            |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|Examples of universal properties]] | 3:56 PM - July 22, 2024 |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-19\|REU Meeting - 2024-07-19]]                                       | 8:39 AM - July 22, 2024 |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/2024-07-12\|2024-07-12]]                                                                   | 8:16 AM - July 22, 2024 |
 
 { .block-language-dataview}
 
@@ -22,7 +22,7 @@
 ## Mathematics
 
 >[!summary]- Algebra theory
->Not to be confused with the most general concept of *algebra* (abstract or otherwise), an [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras#^32e02b\|algebra]] is an algebraic structure similar to a [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules#^ac6884\|module]], only with two internal binary operations.
+>Not to be confused with the general concept of *algebra* (abstract or otherwise), an [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras#^32e02b\|algebra]] is an algebraic structure similar to a [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules#^ac6884\|module]], only with two internal binary operations.
 > | Note                                                                                                                      | Last Updated            |
 > | ------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 7:37 PM - July 21, 2024 |

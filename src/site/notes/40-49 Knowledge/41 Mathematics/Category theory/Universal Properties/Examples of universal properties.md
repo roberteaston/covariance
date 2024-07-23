@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/examples-of-universal-properties/","tags":["category_theory"],"updated":"2024-07-21T20:30:24-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/examples-of-universal-properties/","tags":["category_theory"],"updated":"2024-07-22T15:56:11-07:00"}
 ---
 
 >[!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=66|Saunders Mac Lane]]
 >The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).
+#quotes
 
 Many (perhaps even most!) constructions in abstract algebra involve an object (and morphism) that satisfies some defining "universal property." Rather than dive straight into the technical definitions, it's more illuminating to first review many specific situations in which a common construction was characterized by some property about maps.
 
