@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory"],"updated":"2024-03-06T14:02:24-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2024-07-22T20:00:39-07:00"}
 ---
 
->[!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=117|Saunders Mac Lane]]
->...good general theory does not search for the maximum
-generality, but for the right generality.
+> [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=117|Saunders Mac Lane]]
+> ...good general theory does not search for the maximum generality, but for the right generality.
+
+
 ## Definition
 
 There a several equivalent definitions, but we'll give the one that most resembles the situations we've seen:

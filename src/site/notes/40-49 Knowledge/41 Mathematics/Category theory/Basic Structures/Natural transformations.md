@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/natural-transformations/","tags":["category_theory"],"updated":"2024-07-21T20:29:51-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/natural-transformations/","tags":["category_theory","quotes"],"updated":"2024-07-22T20:02:22-07:00"}
 ---
 
 
->[!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=28|Eilenberg and Mac Lane]]
->..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."
+> [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=28|Eilenberg and Mac Lane]]
+> ..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."
 
 Have you ever been reading a math textbook (or even these notes!) and come across the phrase "there is a natural map" or "there is a natural isomorphism" and wondered if there was a precise meaning to the use of the word "natural"? If so, the answer is yes and it is codified in the idea of a *natural transformation*.
 

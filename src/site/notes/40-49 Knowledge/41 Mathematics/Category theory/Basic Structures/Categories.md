@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/categories/","tags":["category_theory"],"updated":"2024-07-17T05:50:39-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/categories/","tags":["category_theory","quotes"],"updated":"2024-07-22T20:01:07-07:00"}
 ---
 
->[!quote] [Peter Freyd](https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense)
->Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.
+> [!quote] [Peter Freyd](https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense)
+> Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.
 
 Every definition of a *category* is a bit unwieldly. Here we take the definition as presented in [[Riehl - Category Theory in Context.pdf#page=21|Riehl]]:
 

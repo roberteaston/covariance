@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/yoneda-s-lemma/","tags":["category_theory"],"updated":"2024-07-21T20:30:45-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2024-07-22T20:02:10-07:00"}
 ---
 
->[!quote] Euripides
->Every man is like the company he is wont to keep.
+> [!quote] Euripides
+> Every man is like the company he is wont to keep.
 
 One of the most consistent philosophies throughout all of category theory is "It's all about the arrows." This is built into the very core of the theory, in that you don't even really need objects to define a category: they are in one-to-one correspondence with the identity arrows!
 
