@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-19/","updated":"2024-07-22T20:19:31-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-19/","updated":"2024-07-25T05:56:23-07:00"}
 ---
 
 This following is a brief summary of our research meeting on 2024-07-19.
@@ -30,13 +30,13 @@ This following is a brief summary of our research meeting on 2024-07-19.
 
 We will now investigate a new type of tropical subset, namely **congruence varieties**. These are subsets in tropical space where two tropical polynomials agree.
 
-- [ ] First create a few examples in one variable, finding all points in the tropical line where two different tropical polynomials agree; i.e., satisfy an equality $f(x)=g(x)$ for some tropical polynomials $f(x)$ and $g(x)$. Try to find examples where:
-	- [ ] The congruence variety consists only of discrete points
-	- [ ] The congruence variety contains at least one line segment or ray
+- [x] First create a few examples in one variable, finding all points in the tropical line where two different tropical polynomials agree; i.e., satisfy an equality $f(x)=g(x)$ for some tropical polynomials $f(x)$ and $g(x)$. Try to find examples where:
+	- [x] The congruence variety consists only of discrete points
+	- [x] The congruence variety contains at least one line segment or ray
 
-- [ ] Now try the same thing in two variables, finding all points in the tropical plane where two different tropical polynomials agree; i.e., satisfy an equality $f(x,y)=g(x,y)$ for some tropical polynomials $f(x,y)$ and $g(x,y)$. Try to find examples where:
-	- [ ] The polynomials are both of low degree, say less than 2.
-	- [ ] The polynomials are both of degree 2.
+- [x] Now try the same thing in two variables, finding all points in the tropical plane where two different tropical polynomials agree; i.e., satisfy an equality $f(x,y)=g(x,y)$ for some tropical polynomials $f(x,y)$ and $g(x,y)$. Try to find examples where:
+	- [x] The polynomials are both of low degree, say less than 2.
+	- [x] The polynomials are both of degree 2.
 
 >[!question] Challenge Question
 >Every bend locus is the union of a bunch of congruence varieties. Can you show this? (Try a few examples!)

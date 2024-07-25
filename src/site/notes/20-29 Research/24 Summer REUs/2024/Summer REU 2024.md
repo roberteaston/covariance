@@ -1,14 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-07-19T15:57:02-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-07-23T05:56:04-07:00"}
 ---
 
 # Meeting notes
 
 | Meeting Date                                                                                            |
 | ------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-23\|REU Meeting - 2024-07-23]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-19\|REU Meeting - 2024-07-19]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-16\|REU Meeting - 2024-07-16]] |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/2024-07-12\|2024-07-12]]                             |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-12\|REU Meeting - 2024-07-12]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-09\|REU Meeting - 2024-07-09]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-05\|REU Meeting - 2024-07-05]] |
