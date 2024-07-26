@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-26T09:46:22-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-07-26T13:59:30-07:00"}
 ---
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener">Yoneda's Lemma</a></div></div><div class="callout-content">
-<p dir="auto">Every man is like the company he is wont to keep.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener">Natural transformations</a></div></div><div class="callout-content">
+<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                    | Last Updated             |
-| ------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-23\|REU Meeting - 2024-07-23]] | 12:48 PM - July 26, 2024 |
-| [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]                              | 11:59 AM - July 26, 2024 |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-26\|REU Meeting - 2024-07-26]] | 11:58 AM - July 26, 2024 |
+| Note                                                                                                                              | Last Updated            |
+| --------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]                                                        | 2:07 PM - July 26, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Algebraic geometry/Examples of classical conic duality\|Examples of classical conic duality]] | 2:02 PM - July 26, 2024 |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-26\|REU Meeting - 2024-07-26]]                           | 1:52 PM - July 26, 2024 |
 
 { .block-language-dataview}
 
@@ -31,6 +31,13 @@
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]                               | 7:37 PM - July 21, 2024 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 7:37 PM - July 21, 2024 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]                                     | 7:37 PM - July 21, 2024 |
+> 
+{ .block-language-dataview}
+
+>[!summary]- Algebraic geometry
+> | Note                                                                                                                              | Last Updated            |
+> | --------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+> | [[40-49 Knowledge/41 Mathematics/Algebraic geometry/Examples of classical conic duality\|Examples of classical conic duality]] | 2:02 PM - July 26, 2024 |
 > 
 { .block-language-dataview}
 
@@ -128,6 +135,12 @@
 > | [[40-49 Knowledge/41 Mathematics/Ring theory/Chinese Remainder Theorem\|Chinese Remainder Theorem]]           |
 > | [[40-49 Knowledge/41 Mathematics/Ring theory/Graded rings\|Graded rings]]                                     |
 > | [[40-49 Knowledge/41 Mathematics/Ring theory/Principal ideal domains (PIDs)\|Principal ideal domains (PIDs)]] |
+> 
+{ .block-language-dataview}
+
+>[!summary]- Tropical algebraic geometry
+> | Topic |
+> | ----- |
 > 
 { .block-language-dataview}
 

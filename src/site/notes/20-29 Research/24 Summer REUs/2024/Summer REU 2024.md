@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-07-26T11:59:20-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-07-26T14:07:40-07:00"}
 ---
 
 # Meeting notes
@@ -37,7 +37,7 @@ The task list below will grow and change over the course of our project.
 - [x] Tropical curves
 - [x] The tropical projective plane
 - [x] Tropical projective plane conics
-- [?] Tropical tangency
+- [x] Tropical tangency
 - [x] Tropical algebra
 
 ## Investigation

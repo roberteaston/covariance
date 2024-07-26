@@ -6,7 +6,7 @@ This following is a brief summary of our research meeting on 2024-07-16.
 
 ## Summary of discoveries
 
-- The entire team took turns working through [[20-29 Research/24 Summer REUs/2024/Examples of classical conic duality\|Examples of classical conic duality]]. Their solution has been put into that page now.
+- The entire team took turns working through [[40-49 Knowledge/41 Mathematics/Algebraic geometry/Examples of classical conic duality\|Examples of classical conic duality]]. Their solution has been put into that page now.
 
 ## Questions
 

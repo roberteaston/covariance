@@ -19,4 +19,4 @@ This following is a brief summary of our research meeting on 2024-07-12.
 # Tasks for next meeting
 
 - [x]  Read the first section (i.e., first three pages) of [this paper](https://cpslo-my.sharepoint.com/:b:/g/personal/rweaston_calpoly_edu/EQ4NAss4etlOmWnkXkyJIDcB8mNO4it9xyQstF5BDQM4Bg?e=ZK5S55). It's a senior project by former Cal Poly student Kathryn Burton, who made the first investigations into a tropical version of the duality map for projective plane conics. In her first section she reviews (without proofs!) the classical result and several different formulations/proofs.
-- [x] Investigate the classical duality map for [[20-29 Research/24 Summer REUs/2024/Examples of classical conic duality\|some specific projective plane conics]], to see how all of the formulations come together.
+- [x] Investigate the classical duality map for [[40-49 Knowledge/41 Mathematics/Algebraic geometry/Examples of classical conic duality\|some specific projective plane conics]], to see how all of the formulations come together.
