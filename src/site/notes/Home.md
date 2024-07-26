@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener">Yoneda's Lemma</a></div></div><div class="callout-content">
+<p dir="auto">Every man is like the company he is wont to keep.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
 | Note                                                                                                    | Last Updated             |
 | ------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-23\|REU Meeting - 2024-07-23]] | 12:48 PM - July 26, 2024 |
 | [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]                              | 11:59 AM - July 26, 2024 |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-26\|REU Meeting - 2024-07-26]] | 11:58 AM - July 26, 2024 |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-23\|REU Meeting - 2024-07-23]] | 10:25 AM - July 26, 2024 |
 
 { .block-language-dataview}
 

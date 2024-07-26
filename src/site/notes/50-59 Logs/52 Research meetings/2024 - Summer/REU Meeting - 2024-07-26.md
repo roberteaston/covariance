@@ -18,7 +18,10 @@ The finding was something very similar to this piece of investigations from my o
 # Tasks for next meeting
 
 - [ ] We need lots of examples! Let's try to at least sketch (conjectural) dual regions for each of the twenty combinatorial types of tropical conics.
-	- [!] Warning: For some types, the locus of lines that are tropically tangent will be ... confusing.
+
+> [!warning] Warning
+> For some types of tropical conics, the locus of lines that are tropically tangent will be ... confusing.
+
 - [ ] We also needs lots of examples how how the dual locus changes as we slowly adjust the coefficients of the tropical conic; i.e., for each given type, a bunch of explicit examples of what happens to tropical conics of that type.
 - [ ] We need explicit formulas for the conjectural dual regions (whether that be tropical polynomials for which that is the bend locus, or tropical equations if the conjectural dual region is a congruence variety). In the image above, you can see where I've given at least one tropical equation that produces the shaded congruence variety.
 - [ ] Look for patterns! With enough examples, we should be able to slowly piece together a single formula/rule that produces the conjectured dual picture. There will probably be cases (e.g., type $A_1$) for which our formula/rule doesn't work. But we'll cross that bridge when we come to it!
