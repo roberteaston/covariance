@@ -6,6 +6,7 @@
 
 | Meeting Date                                                                                            |
 | ------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-30\|REU Meeting - 2024-07-30]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-26\|REU Meeting - 2024-07-26]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-23\|REU Meeting - 2024-07-23]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-19\|REU Meeting - 2024-07-19]] |
