@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Set-theoretic issues.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Set-theoretic issues.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Set-theoretic issues.md" class="internal-link" target="_blank" rel="noopener">Set-theoretic issues</a></div></div><div class="callout-content">
-<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener">Functors</a></div></div><div class="callout-content">
+<p dir="auto">Before functoriality, people lived in caves.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                    | Last Updated            |
-| ------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-26\|REU Meeting - 2024-07-26]] | 3:09 PM - July 30, 2024 |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-30\|REU Meeting - 2024-07-30]] | 3:09 PM - July 30, 2024 |
-| [[40-49 Knowledge/47 Quotes/Mathematical Quotes\|Mathematical Quotes]]                               | 8:44 PM - July 27, 2024 |
+| Note                                                                                                                         | Last Updated            |
+| ---------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Quadratic tropical varieties\|Quadratic tropical varieties]] | 3:39 PM - July 31, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Linear tropical varieties\|Linear tropical varieties]]       | 3:39 PM - July 31, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Tropical geometry\|Tropical geometry]]                       | 3:34 PM - July 31, 2024 |
 
 { .block-language-dataview}
 
@@ -139,8 +139,11 @@
 { .block-language-dataview}
 
 >[!summary]- Tropical algebraic geometry
-> | Topic |
-> | ----- |
+> | Topic                                                                                                                        |
+> | ---------------------------------------------------------------------------------------------------------------------------- |
+> | [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Linear tropical varieties\|Linear tropical varieties]]       |
+> | [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Quadratic tropical varieties\|Quadratic tropical varieties]] |
+> | [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Tropical geometry\|Tropical geometry]]                       |
 > 
 { .block-language-dataview}
 
