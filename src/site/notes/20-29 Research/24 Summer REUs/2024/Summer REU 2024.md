@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-07-26T14:07:40-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-08-02T09:43:30-07:00"}
 ---
 
 # Meeting notes
@@ -17,6 +17,17 @@
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-02\|REU Meeting - 2024-07-02]] |
 
 { .block-language-dataview}
+
+---
+
+# Notes on tropical geometry
+
+[[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/A brief history of tropical algebraic geometry\|A brief history of tropical algebraic geometry]]
+[[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Tropical numbers\|Tropical numbers]]
+[[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Tropical varieties\|Tropical varieties]]
+[[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Linear tropical varieties\|Linear tropical varieties]]
+[[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Quadratic tropical varieties\|Quadratic tropical varieties]]
+[[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Investigation into tropical tangency loci\|Investigation into tropical tangency loci]]
 
 ---
 # Task list

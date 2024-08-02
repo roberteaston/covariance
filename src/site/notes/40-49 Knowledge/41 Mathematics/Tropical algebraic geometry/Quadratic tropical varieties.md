@@ -5,7 +5,7 @@
 > [!warning] Under construction!
 > This page is still under heavy construction. Expect massive updates.
 
-[[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Tropical geometry\|In light of]] the two leading candidates for the title of "tropical variety", we need to distinguish two competing (cooperating?) notions of tropical conics: 1) bend loci defined by quadratic tropical polynomials; and 2) congruence varieties defined by quadratic tropical equations.
+[[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Tropical varieties\|In light of]] the two leading candidates for the title of "tropical variety", we need to distinguish two competing (cooperating?) notions of tropical conics: 1) bend loci defined by quadratic tropical polynomials; and 2) congruence varieties defined by quadratic tropical equations.
 # Quadratic bend varieties
 
 The bendy option for tropical conics is the bend locus of a quadratic tropical polynomial. Focusing on plane conics, these are the bend loci of polynomials of the form $f(x,y)=(a\odot x^{\odot 2})\oplus (b\odot x\odot y)\oplus (c\odot y^{\odot 2})\oplus (d\odot x)\oplus (e\odot y)\oplus f$, where $a,b,c,d,e,f\in {\bf T}$ (and at least one of $a,b,c$ is not equal to $0_{\bf T}=-\infty$.) It turns out that these conics fall into exactly 20 combinatorial types, depending on the relations between the coefficients.
