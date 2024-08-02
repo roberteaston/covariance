@@ -4,15 +4,15 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties.md" class="internal-link" target="_blank" rel="noopener">Examples of universal properties</a></div></div><div class="callout-content">
-<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
 | Note                                                                                                                                                   | Last Updated              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Investigation into tropical tangency loci\|Investigation into tropical tangency loci]] | 2:46 PM - August 02, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Investigation into tropical tangency loci\|Investigation into tropical tangency loci]] | 2:58 PM - August 02, 2024 |
 | [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Tropical varieties\|Tropical varieties]]                                               | 2:43 PM - August 02, 2024 |
 | [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]                                                                             | 9:43 AM - August 02, 2024 |
 
