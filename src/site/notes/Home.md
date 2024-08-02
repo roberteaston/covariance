@@ -12,7 +12,7 @@
 
 | Note                                                                                                                                                   | Last Updated              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Investigation into tropical tangency loci\|Investigation into tropical tangency loci]] | 3:17 PM - August 02, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Investigation into tropical tangency loci\|Investigation into tropical tangency loci]] | 3:50 PM - August 02, 2024 |
 | [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Tropical varieties\|Tropical varieties]]                                               | 2:43 PM - August 02, 2024 |
 | [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]                                                                             | 9:43 AM - August 02, 2024 |
 
