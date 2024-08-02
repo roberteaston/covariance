@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/tropical-algebraic-geometry/investigation-into-tropical-tangency-loci/","tags":["tropical_geometry"],"updated":"2024-08-02T14:58:05-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/tropical-algebraic-geometry/investigation-into-tropical-tangency-loci/","tags":["tropical_geometry"],"updated":"2024-08-02T15:04:08-07:00"}
 ---
 
 I'm going to post ongoing work here, first in a super rough format (but eventually tidied up!)
