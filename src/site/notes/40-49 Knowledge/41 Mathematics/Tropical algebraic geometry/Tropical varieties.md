@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/tropical-algebraic-geometry/tropical-varieties/","tags":["tropical_geometry"],"updated":"2024-08-01T15:00:14-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/tropical-algebraic-geometry/tropical-varieties/","tags":["tropical_geometry"],"updated":"2024-08-02T14:43:04-07:00"}
 ---
 
 > [!warning] Under construction!
