@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-30/","updated":"2024-07-30T15:09:11-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-30/","updated":"2024-08-02T19:32:33-07:00"}
 ---
 
 This following is a brief summary of our research meeting on 2024-07-30.
@@ -19,7 +19,7 @@ This following is a brief summary of our research meeting on 2024-07-30.
 
 # Tasks for next meeting
 
-- [ ]   Work through more examples!
-- [ ] Try to find explicit tropical equations that produce the proposed dual regions.
-- [ ] Look for patterns. If you keep the bend conic type constant (say, type $B_1$) but vary the coefficients, can you find a formula for the equation of the resulting dual region?
-- [ ] How does this analysis look for the other types of conics? Do you see any possible patterns? Do the dual regions seem to have some predictable behavior, e.g., the dual of a bend conic of type $C_1$ looks like a congruence variety similar to a bend conic of type ...?
+- [x] Work through more examples!
+- [x] Try to find explicit tropical equations that produce the proposed dual regions.
+- [x] Look for patterns. If you keep the bend conic type constant (say, type $B_1$) but vary the coefficients, can you find a formula for the equation of the resulting dual region?
+- [x] How does this analysis look for the other types of conics? Do you see any possible patterns? Do the dual regions seem to have some predictable behavior, e.g., the dual of a bend conic of type $C_1$ looks like a congruence variety similar to a bend conic of type ...?
