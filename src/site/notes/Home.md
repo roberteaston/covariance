@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-08-01T07:21:02-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-08-03T14:12:14-07:00"}
 ---
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Brian Greene | <a data-tooltip-position="top" aria-label="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" data-href="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" href="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" class="internal-link" target="_blank" rel="noopener">Mathematical Quotes</a></div></div><div class="callout-content">
+<p dir="auto">Geniuses make up shit that's right.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                    | Last Updated              |
-| ------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]                              | 7:35 PM - August 02, 2024 |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-30\|REU Meeting - 2024-07-30]] | 7:32 PM - August 02, 2024 |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-02\|REU Meeting - 2024-08-02]] | 7:32 PM - August 02, 2024 |
+| Note                                                                                                                                                   | Last Updated              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Tropical varieties\|Tropical varieties]]                                               | 3:04 PM - August 05, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Linear tropical varieties\|Linear tropical varieties]]                                 | 3:03 PM - August 05, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Investigation into tropical tangency loci\|Investigation into tropical tangency loci]] | 3:02 PM - August 05, 2024 |
 
 { .block-language-dataview}
 
