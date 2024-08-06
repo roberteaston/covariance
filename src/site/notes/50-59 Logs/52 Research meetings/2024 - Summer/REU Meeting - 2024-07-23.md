@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-23/","updated":"2024-07-26T12:48:10-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-23/","updated":"2024-08-06T14:11:29-07:00"}
 ---
 
 This following is a brief summary of our research meeting on 2024-07-23.
@@ -21,8 +21,8 @@ When then moved to two-variable polynomials and saw:
 
 # Tasks for next meeting
 
-- [ ] Using [Desmos](https://www.desmos.com/calculator/mkaf5lwrbt), investigate how tropical lines intersect tropical conics.
-- [ ] For a fixed conic, try moving around a tropical line while looking at how it intersects the conic. Lines that intersect the conic in two points should probably be considered "secant". As we move the tropical line around, there will be times when two distinct intersection points seem to come together to a single point. When that happens, it seems reasonable to consider such a tropical line "tangent".
-- [ ] With this working definition of tropical tangency, try to sketch the locus (of the vertices) of all tropical lines that seem to be tangent to the given conic.
-- [ ] If you look into the Desmos code on that page, you'll notice a second point being plotted as you move the tropical line around. That point is the dual point to the tropical line. Try to sketch the locus of points dual to lines tangent to your conic.
-- [ ] If possible, try to find a congruence variety (i.e., tropical equation) for the resulting region.
+- Using [Desmos](https://www.desmos.com/calculator/mkaf5lwrbt), investigate how tropical lines intersect tropical conics.
+- For a fixed conic, try moving around a tropical line while looking at how it intersects the conic. Lines that intersect the conic in two points should probably be considered "secant". As we move the tropical line around, there will be times when two distinct intersection points seem to come together to a single point. When that happens, it seems reasonable to consider such a tropical line "tangent".
+- With this working definition of tropical tangency, try to sketch the locus (of the vertices) of all tropical lines that seem to be tangent to the given conic.
+- If you look into the Desmos code on that page, you'll notice a second point being plotted as you move the tropical line around. That point is the dual point to the tropical line. Try to sketch the locus of points dual to lines tangent to your conic.
+- If possible, try to find a congruence variety (i.e., tropical equation) for the resulting region.

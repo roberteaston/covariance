@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-02/","updated":"2024-07-19T14:34:24-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-02/","updated":"2024-08-06T14:10:27-07:00"}
 ---
 
 This following is a brief summary of our research meeting on 2024-07-02.
@@ -18,7 +18,7 @@ Step 1: Learn the foundations of algebraic geometry, focusing on:
 
 # Tasks for next meeting
 
-- [x] Read Section 1.1 in [Cox, Little, Oshea - Ideals, Varieties, and Algorithms](https://cpslo-my.sharepoint.com/:b:/g/personal/rweaston_calpoly_edu/ETjS_LuGyWJNoYCHGwmCCpEBXhKBwk5SDlxjnCxYtMBnXQ?e=tbXcCm)
-- [x] Read Section 1.2 in [Cox, Little, Oshea - Ideals, Varieties, and Algorithms](https://cpslo-my.sharepoint.com/:b:/g/personal/rweaston_calpoly_edu/ETjS_LuGyWJNoYCHGwmCCpEBXhKBwk5SDlxjnCxYtMBnXQ?e=tbXcCm)
-- [x] Work through the following exercises:
+- Read Section 1.1 in [Cox, Little, Oshea - Ideals, Varieties, and Algorithms](https://cpslo-my.sharepoint.com/:b:/g/personal/rweaston_calpoly_edu/ETjS_LuGyWJNoYCHGwmCCpEBXhKBwk5SDlxjnCxYtMBnXQ?e=tbXcCm)
+- Read Section 1.2 in [Cox, Little, Oshea - Ideals, Varieties, and Algorithms](https://cpslo-my.sharepoint.com/:b:/g/personal/rweaston_calpoly_edu/ETjS_LuGyWJNoYCHGwmCCpEBXhKBwk5SDlxjnCxYtMBnXQ?e=tbXcCm)
+- Work through the following exercises:
       - Section 1.2: 1, 3, 4abd, 6, 8, 15abc

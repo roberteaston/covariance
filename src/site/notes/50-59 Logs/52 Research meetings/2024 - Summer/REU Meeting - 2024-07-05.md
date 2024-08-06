@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-05/","updated":"2024-07-19T14:34:43-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-05/","updated":"2024-08-06T14:10:37-07:00"}
 ---
 
 This following is a brief summary of our research meeting on 2024-07-05.
@@ -26,8 +26,8 @@ This following is a brief summary of our research meeting on 2024-07-05.
 - Aaron also sketched the solution to Exercise 8 in Section 1.2, following the solution strategy outlined in the book. The crux of the argument relied on the fact that a polynomial in one variable has at most a finite number of zeroes.
 # Tasks for next meeting
 
-- [x] Read/skim Section 1.4, 4.1–4.3, and Sections 5.1, 5.2 and 5.4
-- [x] Work through the following exercises:
+- Read/skim Section 1.4, 4.1–4.3, and Sections 5.1, 5.2 and 5.4
+- Work through the following exercises:
 	- 1.4: 1, 3, 5, 7, 8, 15
 	- 4.1: 1, 2
 	- 4.2: 3, 5

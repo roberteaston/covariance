@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-08-02/","updated":"2024-08-02T19:32:09-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-08-02/","updated":"2024-08-06T14:11:58-07:00"}
 ---
 
 This following is a brief summary of our research meeting on 2024-08-02.
@@ -16,7 +16,7 @@ This following is a brief summary of our research meeting on 2024-08-02.
 
 # Tasks for next meeting
 
-- [ ] Flesh out more examples. For conics of Type $B_1$, find equations that define the dual regions as congruence varieties.
-- [ ] For the dual regions, look for some way (geometric or algebraic) that we could reasonably reconstruct the original bend conic.
-- [ ] Look at some of the more ... interesting types, such as Type $E$ of $F$. Can we apply our ideas from the other types to those?
-- [ ] Don't be afraid to think outside of the box!
+- Flesh out more examples. For conics of Type $B_1$, find equations that define the dual regions as congruence varieties.
+- For the dual regions, look for some way (geometric or algebraic) that we could reasonably reconstruct the original bend conic.
+- Look at some of the more ... interesting types, such as Type $E$ of $F$. Can we apply our ideas from the other types to those?
+- Don't be afraid to think outside of the box!
