@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-08-06T14:25:39-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-08-09T14:06:45-07:00"}
 ---
 
 # Meeting notes
 
 | Meeting Date                                                                                            |
 | ------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-09\|REU Meeting - 2024-08-09]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-06\|REU Meeting - 2024-08-06]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-02\|REU Meeting - 2024-08-02]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-30\|REU Meeting - 2024-07-30]] |
@@ -58,7 +59,8 @@ The task list below will grow and change over the course of our project.
 
 - [x] Duality via tropical tangency
 - [x] A hybrid approach: bend loci and congruence varieties
-- [ ] Summarize previous investigations
+- [x] Summarize previous investigations
+- [ ] Tropicalize the arguments used in the classical case
 
 ---
 # Project timeline
