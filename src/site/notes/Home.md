@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Brian Greene | <a data-tooltip-position="top" aria-label="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" data-href="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" href="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" class="internal-link" target="_blank" rel="noopener">Mathematical Quotes</a></div></div><div class="callout-content">
+<p dir="auto">Geniuses make up shit that's right.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
 | Note                                                                                                    | Last Updated              |
 | ------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-13\|REU Meeting - 2024-08-13]] | 2:55 PM - August 13, 2024 |
 | [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]                              | 2:06 PM - August 09, 2024 |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-09\|REU Meeting - 2024-08-09]] | 2:06 PM - August 09, 2024 |
-| [[40-49 Knowledge/42 Software/LaTeX/Systems of equations\|Systems of equations]]                     | 2:56 PM - August 06, 2024 |
 
 { .block-language-dataview}
 
