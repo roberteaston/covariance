@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-08-06T14:57:50-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-08-20T10:38:20-07:00"}
 ---
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Brian Greene | <a data-tooltip-position="top" aria-label="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" data-href="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" href="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" class="internal-link" target="_blank" rel="noopener">Mathematical Quotes</a></div></div><div class="callout-content">
-<p dir="auto">Geniuses make up shit that's right.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" rel="noopener" class="external-link" href="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" target="_blank">Peter Freyd</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" class="internal-link" target="_blank" rel="noopener">Categories</a></div></div><div class="callout-content">
+<p dir="auto">Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                    | Last Updated              |
-| ------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-13\|REU Meeting - 2024-08-13]] | 2:55 PM - August 13, 2024 |
-| [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]                              | 2:06 PM - August 09, 2024 |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-09\|REU Meeting - 2024-08-09]] | 2:06 PM - August 09, 2024 |
+| Note                                                                                                    | Last Updated               |
+| ------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-20\|REU Meeting - 2024-08-20]] | 11:08 AM - August 20, 2024 |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-13\|REU Meeting - 2024-08-13]] | 10:38 AM - August 20, 2024 |
+| [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]                              | 2:06 PM - August 09, 2024  |
 
 { .block-language-dataview}
 
