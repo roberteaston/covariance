@@ -43,6 +43,6 @@ I'll include the proof of this at some point, but for now see [here](https://nca
 
 >[!summary] Intramural isomorphisms
 >If $\partial:A\to B$ is a morphism in a double complex and at one end of that morphism the complex is exact in the perpendicular direction, then two of the intramural maps are isomorphisms (as shown below; I'll TeX up this massive diagram eventually):
->![intramural_isos.png](/img/user/00-09%20Meta/01%20Images/Category%20theory/intramural_isos.png)
+>![intramural_isos.png](/img/user/90-99%20Meta/91%20Images/Category%20theory/intramural_isos.png)
 
 (A proof will be added here eventually.)

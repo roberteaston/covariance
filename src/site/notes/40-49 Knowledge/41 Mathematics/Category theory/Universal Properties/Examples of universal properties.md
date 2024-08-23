@@ -79,4 +79,4 @@ Suppose $A$ and $B$ are two abelian groups. What is the smallest abelian group t
 
 Look at this diagram and compare with with the [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties#^f76d9f\|diagram]] (in $\textbf{Set}$) for disjoint union At least as far as category theory is concerned, it's the same image!
 
-![theyre-the-same-picture-pam-the-office.png](/img/user/00-09%20Meta/01%20Images/Memes/theyre-the-same-picture-pam-the-office.png)
+![theyre-the-same-picture-pam-the-office.png](/img/user/90-99%20Meta/91%20Images/Memes/theyre-the-same-picture-pam-the-office.png)

@@ -6,7 +6,7 @@ I'm going to post ongoing work here, first in a super rough format (but eventual
 
 # Examples for each type of conic
 
-![Examples of each type.png|800](/img/user/00-09%20Meta/01%20Images/Tropical%20geometry/Examples%20of%20each%20type.png)
+![Examples of each type.png|800](/img/user/90-99%20Meta/91%20Images/Tropical%20geometry/Examples%20of%20each%20type.png)
 
 # Analysis of Type $A$
 
@@ -74,13 +74,13 @@ If we take the union of the green and orange vertex loci and then rotate them 18
 If my intuition for the dual locus of a Type $A_1$ tropical conic is correct, then for consistency I must conclude that the dual locus includes those orange rays. At the same time, I feel strongly that the entire shaded region should be part of the dual locus, which means the dual locus should definitely be a congruence variety. Based on the sketch, it is some particular flavor of a Type $D_3$ locus.
 
 
-![B_1 examples.png|700](/img/user/00-09%20Meta/01%20Images/Tropical%20geometry/B_1%20examples.png)
+![B_1 examples.png|700](/img/user/90-99%20Meta/91%20Images/Tropical%20geometry/B_1%20examples.png)
 
 ## Type $B_2$
 
 ## Type $B_3$
 
-![B_3 examples.png|700](/img/user/00-09%20Meta/01%20Images/Tropical%20geometry/B_3%20examples.png)
+![B_3 examples.png|700](/img/user/90-99%20Meta/91%20Images/Tropical%20geometry/B_3%20examples.png)
 # Analysis of Type $C$
 
 ## Type $C_1$
