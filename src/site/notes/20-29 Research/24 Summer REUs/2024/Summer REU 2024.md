@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-08-09T14:06:45-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-08-22T12:20:08-07:00"}
 ---
 
 # Meeting notes
 
 | Meeting Date                                                                                            |
 | ------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-23\|REU Meeting - 2024-08-23]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-20\|REU Meeting - 2024-08-20]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-13\|REU Meeting - 2024-08-13]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-09\|REU Meeting - 2024-08-09]] |
@@ -68,4 +69,4 @@ The task list below will grow and change over the course of our project.
 # Project timeline
 
 Because of various technical issues, I cannot share the live version of the project timeline. As a workaround, I am embedding a snapshot of that timeline below. I'll make sure to update this snapshot whenever I update the timeline.
-![Project_Timeline.png|900](/img/user/00-09%20Meta/01%20Images/Project_Timeline.png)
+![Project_Timeline.png|900](/img/user/00-09%20Meta/01%20Images/Tropical%20geometry/Project_Timeline.png)

@@ -20,6 +20,6 @@ Here is an example illustrating the basic syntax:
 
 This will produce the following:
 
-![systems_of_equations.png|300](/img/user/00-09%20Meta/06%20Attachments/systems_of_equations.png)
+![systems_of_equations.png|300](/img/user/00-09%20Meta/01%20Images/Misc/systems_of_equations.png)
 
 Note that this won't work in Obsidian (without doing some sneaky stuff to load additional LaTeX packages, which I haven't yet investigated).

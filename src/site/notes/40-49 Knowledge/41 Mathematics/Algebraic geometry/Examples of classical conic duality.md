@@ -52,7 +52,7 @@ We first handle the duals of the tangent lines:
 
 As for the dual conic, let's first recall the general duality result, snipped here from Kathryn's paper:
 
-![00-09 Meta/06 Attachments/Kathryn Burton - Tropical Conics and the Search for a Tropical Dual Map 1.png|800](/img/user/00-09%20Meta/06%20Attachments/Kathryn%20Burton%20-%20Tropical%20Conics%20and%20the%20Search%20for%20a%20Tropical%20Dual%20Map%201.png)
+![[00-09 Meta/06 Attachments/Kathryn Burton - Tropical Conics and the Search for a Tropical Dual Map 1.png\|800]]
 
 Note that we are now using capital letters for our variables, and our equation for $\overline{C}$ is $X^2-YZ=0$. So for our curve we have $a=1$, $e=-1$, and $b=c=d=f=0$. If we use the variables $U, V, W$ for the polynomials on the dual plane, then the dual curve should be given by $U^2-4VW=0.$
 

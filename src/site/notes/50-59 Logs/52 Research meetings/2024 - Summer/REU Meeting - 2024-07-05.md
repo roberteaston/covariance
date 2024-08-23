@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-05/","updated":"2024-08-06T14:10:37-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-05/","updated":"2024-08-22T13:10:26-07:00"}
 ---
 
 This following is a brief summary of our research meeting on 2024-07-05.
@@ -12,15 +12,15 @@ This following is a brief summary of our research meeting on 2024-07-05.
   $\frac{1}{4^2}(x+1)^2+\frac{1}{2^2}(y-2)^2=1.$
   He then recognized this as an equation of an ellipse, centered at $(-1,2)$ with "horizontal radius" $4$ and "vertical radius" $2$:
   
-  ![desmos-graph.png|500](/img/user/00-09%20Meta/01%20Images/desmos-graph.png)
+  ![desmos-graph.png|500](/img/user/00-09%20Meta/01%20Images/Misc/desmos-graph.png)
 
 - Nicholas presented a solution to Exercise 1b in Section 1.2, noting that the equation $x^2-y^2=0$ was equivalent to the conditions that either $x=y$ or $x=-y$. (This can be seen either by solving the equation for $y$, or by factoring as $(x-y)(x+y)=0$.) Thus, the solution set was the union of two lines:
   
-  ![desmos-graph (1).png|500](/img/user/00-09%20Meta/01%20Images/desmos-graph%20(1).png)
+  ![desmos-graph (1).png|500](/img/user/00-09%20Meta/01%20Images/Misc/desmos-graph%20(1).png)
 
 - Aaron presented a solution of Exercise 4d, noting that the equation $xz^2-xy=0$ is equivalent to the conditions that either $x=0$ or $y=z^2$. Thus, the solution set was the union of the plane $x=0$ and the parabolic cylinder $y=z^2$:
   
-  ![surfaces.png|500](/img/user/00-09%20Meta/01%20Images/surfaces.png)
+  ![surfaces.png|500](/img/user/00-09%20Meta/01%20Images/Misc/surfaces.png)
   (Ignore the janky edges. Those are rendering errors in the Desmos 3D visualizer.)
 
 - Aaron also sketched the solution to Exercise 8 in Section 1.2, following the solution strategy outlined in the book. The crux of the argument relied on the fact that a polynomial in one variable has at most a finite number of zeroes.
