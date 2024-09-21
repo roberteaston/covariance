@@ -41,6 +41,8 @@ A group can be viewed as a category, with a single object and an arrow for each 
 ### Matrices over a fixed commutative ring
 
 For each commutative ring $R$, the set of all matrices with entries in $R$ is the arrow set of a category $\textbf{Matr}_R$. The objects of this category are the positive integers, and each $m\times n$ matrix $A$ is regarded as an arrow $A:n\to m$. Composition of arrows corresponds to matrix product.
+{ #ef81b1}
+
 
 ---
 ### Preorders
