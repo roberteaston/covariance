@@ -12,7 +12,7 @@
 
 | Note                                                                                                                                                   | Last Updated                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]                                                          | 5:41 AM - September 23, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]                                                          | 5:47 AM - September 23, 2024 |
 | [[20-29 Research/24 Summer REUs/2024/Summer REU 2024\|Summer REU 2024]]                                                                             | 8:37 PM - September 22, 2024 |
 | [[40-49 Knowledge/41 Mathematics/Tropical algebraic geometry/Investigation into tropical tangency loci\|Investigation into tropical tangency loci]] | 3:23 PM - September 07, 2024 |
 
