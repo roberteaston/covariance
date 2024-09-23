@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" rel="noopener" class="external-link" href="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" target="_blank">Peter Freyd</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" class="internal-link" target="_blank" rel="noopener">Categories</a></div></div><div class="callout-content">
-<p dir="auto">Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Brian Greene | <a data-tooltip-position="top" aria-label="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" data-href="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" href="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" class="internal-link" target="_blank" rel="noopener">Mathematical Quotes</a></div></div><div class="callout-content">
+<p dir="auto">Geniuses make up shit that's right.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                  | Last Updated                  |
-| --------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]]                              | 12:48 PM - September 23, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of categories\|Examples of categories]] | 12:43 PM - September 23, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]                         | 11:52 AM - September 23, 2024 |
+| Note                                                                                                                  | Last Updated                 |
+| --------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of categories\|Examples of categories]] | 1:56 PM - September 23, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]               | 1:56 PM - September 23, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]                         | 1:41 PM - September 23, 2024 |
 
 { .block-language-dataview}
 
