@@ -12,8 +12,9 @@
 
 # Recent class summaries
 
-| Class Date |
-| ---------- |
+| Class Date                                                                               |
+| ---------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]] |
 
 { .block-language-dataview}
 
