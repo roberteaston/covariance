@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-08-28T19:00:36-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024/","updated":"2024-09-22T20:37:08-07:00"}
 ---
 
 # Meeting notes

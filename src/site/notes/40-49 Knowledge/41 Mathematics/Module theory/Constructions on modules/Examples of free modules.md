@@ -16,7 +16,7 @@ This is why you sometimes see books/people declare (usually by fiat) that the "e
 ---
 ## The free module on a singleton set
 
-Now let's consider a singleton set $A=\{a\}$. By our construction, the module $F(\{a\})$ consists of all $R$-multiples $ra$ with $r\in R$. We therefore have a set bijection $F(\{a\})\simeq R$, which you can quickly verify is actually an $R$-module isomorphism. We could have already predicted this, since [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercise Solutions/Public/Hom(R,M) is M - Solution\|we've seen]] that $\operatorname{Hom}_R(R,M)\simeq R$ as an $R$-module (at least for commutative rings $R$), and the universal property for $F(\{a\})$ is that we have a natural set bijection $$\phi_{\{a\},M}:\operatorname{Hom}_R(F(\{a\}), M)\to \operatorname{Hom}_{\textbf{Set}}(\{a\},U(M))\simeq U(M)$$
+Now let's consider a singleton set $A=\{a\}$. By our construction, the module $F(\{a\})$ consists of all $R$-multiples $ra$ with $r\in R$. We therefore have a set bijection $F(\{a\})\simeq R$, which you can quickly verify is actually an $R$-module isomorphism. We could have already predicted this, since [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercise Solutions/Private/Hom(R,M) is M - Solution\|we've seen]] that $\operatorname{Hom}_R(R,M)\simeq R$ as an $R$-module (at least for commutative rings $R$), and the universal property for $F(\{a\})$ is that we have a natural set bijection $$\phi_{\{a\},M}:\operatorname{Hom}_R(F(\{a\}), M)\to \operatorname{Hom}_{\textbf{Set}}(\{a\},U(M))\simeq U(M)$$
 >[!summary]
 >For any singleton set $A$, the free module on $A$ is isomorphic to $R$ as an $R$-module.
 
