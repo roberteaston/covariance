@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Brian Greene | <a data-tooltip-position="top" aria-label="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" data-href="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" href="40-49 Knowledge/47 Quotes/Mathematical Quotes.md" class="internal-link" target="_blank" rel="noopener">Mathematical Quotes</a></div></div><div class="callout-content">
-<p dir="auto">Geniuses make up shit that's right.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener">Adjoints</a></div></div><div class="callout-content">
+<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
 | Note                                                                                                                  | Last Updated                 |
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of categories\|Examples of categories]] | 1:56 PM - September 23, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1\|Homework 1]]              | 5:35 AM - September 24, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of categories\|Examples of categories]] | 1:57 PM - September 23, 2024 |
 | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]               | 1:56 PM - September 23, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]                         | 1:41 PM - September 23, 2024 |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/examples-of-categories/","tags":["category_theory"],"updated":"2024-09-23T13:56:58-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/examples-of-categories/","tags":["category_theory"],"updated":"2024-09-23T13:57:41-07:00"}
 ---
 
 Examples are abundant! We begin with some really basic categories before discussing the (more complicated) categories you've likely encountered before.

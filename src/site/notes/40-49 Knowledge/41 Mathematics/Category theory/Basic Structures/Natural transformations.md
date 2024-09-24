@@ -13,5 +13,7 @@ Have you ever been reading a math textbook (or even these notes!) and come acros
 ><iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNCxbMCwwLCJGYyJdLFsxLDAsIkdjIl0sWzAsMSwiRmMnIl0sWzEsMSwiR2MnIl0sWzAsMiwiRmYiLDJdLFswLDEsIlxcdGF1X2MiXSxbMiwzLCJcXHRhdV97Yyd9IiwyXSxbMSwzLCJHZiJdXQ==&embed" width="200" height="200" style="border-radius: 8px; border: none; display: block; margin: auto"></iframe>
 >
 >The arrows $\tau_c$ are called the **components** of the natural transformation, while the commutativity of the above diagrams is often referred to as the **naturality condition**.
+{ #cc0370}
+
 
 A natural transformation is often called a **morphism of functors**. It can also be viewed as a way to compare the images of two functors, since it directly connects every image of one functor $F$ with the image (of the same object) of another functor $G$; the naturality condition guarantees that these comparisons are compatible with arrow composition.
