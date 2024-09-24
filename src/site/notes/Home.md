@@ -10,11 +10,11 @@
 
 # Recently updated notes
 
-| Note                                                                                                  | Last Updated                  |
-| ----------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]]              | 12:49 PM - September 24, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]         | 10:09 AM - September 24, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/MATH 561 Home\|MATH 561 Home]] | 6:55 AM - September 24, 2024  |
+| Note                                                                                                | Last Updated                  |
+| --------------------------------------------------------------------------------------------------- | ----------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]]            | 12:49 PM - September 24, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|Modules]] | 11:15 AM - September 24, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]       | 10:09 AM - September 24, 2024 |
 
 { .block-language-dataview}
 

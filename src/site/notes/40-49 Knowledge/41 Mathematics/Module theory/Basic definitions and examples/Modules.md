@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2024-09-24T05:56:32-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2024-09-24T11:15:12-07:00"}
 ---
 
 > [!quote] Everyone
@@ -28,3 +28,10 @@ It will be occasionally useful to have the following simple result:
 { #06c4a9}
 
 Here's a quick proof, directly analogous to the similar statement for vector spaces (a special case of modules!). For any $m\in M$ we have $0_R \cdot m = (0_R+0_R)m = 0_R\cdot m+0_R\cdot m$. By additive cancellation (in the abelian group $M$) we then have $0_M = 0_R\cdot m$. Similarly, $r\cdot 0_M = r(0_M+0_M) = r\cdot 0_M + r\cdot 0_M$, and additive cancellation once again gives $0_M = r\cdot 0_M$.
+
+## Suggested next notes
+
+[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Examples of modules\|Examples of modules]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms\|Module morphisms]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Submodules\|Submodules]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Quotient modules\|Quotient modules]]
