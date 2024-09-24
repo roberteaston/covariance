@@ -16,6 +16,7 @@ Did you miss a class? Or maybe just need a reminder about what we covered on a s
 | Class Date                                                                               |
 | ---------------------------------------------------------------------------------------- |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]] |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]] |
 
 { .block-language-dataview}
 
