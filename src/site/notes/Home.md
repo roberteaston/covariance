@@ -10,11 +10,11 @@
 
 # Recently updated notes
 
-| Note                                                                                                                  | Last Updated                 |
-| --------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1\|Homework 1]]              | 5:40 AM - September 24, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of categories\|Examples of categories]] | 1:57 PM - September 23, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]               | 1:56 PM - September 23, 2024 |
+| Note                                                                                                     | Last Updated                 |
+| -------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/MATH 561 Home\|MATH 561 Home]]    | 6:55 AM - September 24, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|Modules]]      | 5:56 AM - September 24, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1\|Homework 1]] | 5:40 AM - September 24, 2024 |
 
 { .block-language-dataview}
 

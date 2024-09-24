@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2024-07-22T20:02:54-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2024-09-24T05:56:32-07:00"}
 ---
 
 > [!quote] Everyone
@@ -18,7 +18,7 @@ The quote above pretty much says it all. Have you ever wondered what would happe
 { #ac6884}
 
 
-You could reasonably complain about the the use of the word "action" in the above definition, since it hasn't been defined here and you possibly only encountered it previously in the contect of a group acting on a set. However, it is being used here very much in the same spirit as in group theory, in that it is a set map $R\times M\to M$ that satisfies the expected compatibility conditions between the algebraic structures on $R$ and $M$ (detailed explicitly above). With a bit more category theory under our belts, we could reasonably consider defining the general notion of an *action* of an object of one category on an object of another. Something to keep in the back of our minds...
+You could reasonably complain about the the use of the word "action" in the above definition, since it hasn't been defined here and you possibly only encountered it previously in the context of a group acting on a set. However, it is being used here very much in the same spirit as in group theory, in that it is a set map $R\times M\to M$ that satisfies the expected compatibility conditions between the algebraic structures on $R$ and $M$ (detailed explicitly above). With a bit more category theory under our belts, we could reasonably consider defining the general notion of an *action* of an object of one category on an object of another. Something to keep in the back of our minds...
 
 ### A small note about the action of zero
 
