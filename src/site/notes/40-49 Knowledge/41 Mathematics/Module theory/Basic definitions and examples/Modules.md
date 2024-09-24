@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2024-09-24T11:15:12-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2024-09-24T11:15:45-07:00"}
 ---
 
 > [!quote] Everyone

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/math-561-home/","updated":"2024-09-24T06:55:48-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/math-561-home/","updated":"2024-09-24T13:23:02-07:00"}
 ---
 
 # Welcome to MATH 561
@@ -15,8 +15,8 @@ Did you miss a class? Or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               |
 | ---------------------------------------------------------------------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]] |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]] |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]] |
 
 { .block-language-dataview}
 
