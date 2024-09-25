@@ -12,7 +12,7 @@
 
 | Note                                                                                                  | Last Updated                  |
 | ----------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/MATH 561 Home\|MATH 561 Home]] | 12:39 PM - September 25, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/MATH 561 Home\|MATH 561 Home]] | 3:27 PM - September 25, 2024  |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]]              | 12:38 PM - September 25, 2024 |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]]              | 12:38 PM - September 25, 2024 |
 

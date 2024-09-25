@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/math-561-home/","updated":"2024-09-25T12:39:13-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/math-561-home/","updated":"2024-09-25T15:27:36-07:00"}
 ---
 
 # Welcome to MATH 561
@@ -11,7 +11,7 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 # Recent class summaries
 
-Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the five most recent classes. The full collection of summaries is available in the file tree to the left.
+Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the five most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Daily class summaries\|here]].
 
 | Class Date                                                                               | Topics Covered                                                                                                                                                                                                                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
