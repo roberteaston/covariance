@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/math-561-home/","updated":"2024-09-25T15:27:36-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/math-561-home/","updated":"2024-09-25T15:43:44-07:00"}
 ---
 
 # Welcome to MATH 561
@@ -13,10 +13,10 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the five most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Daily class summaries\|here]].
 
-| Class Date                                                                               | Topics Covered                                                                                                                                                                                                                                                                                                                                                                             |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]] | <ul><li>[[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of categories.md\\|Examples of categories]]</li><li>[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md\\|Modules]]</li><li>[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Examples of modules.md\\|Examples of modules]]</li></ul> |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]] | <ul><li>[[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md\\|Categories]]</li><li>[[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of categories.md\\|Examples of categories]]</li></ul>                                                                                                                                            |
+| Class Date                                                                               | Topics Covered                                                                       |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]] | <ul><li>Examples of categories</li><li>Modules</li><li>Examples of modules</li></ul> |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]] | <ul><li>Categories</li><li>Examples of categories</li></ul>                          |
 
 { .block-language-dataview}
 
