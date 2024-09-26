@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2024-09-25T12:16:27-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2024-09-26T05:40:25-07:00"}
 ---
 
 > [!quote] Everyone
@@ -40,6 +40,8 @@ Thus, we need the original left $R$-action on $M$ to satisfy $(rs)\cdot m = (sr)
 
 > [!note] Modules over commutative rings
 > When $R$ is a commutative ring, there is no real distinction between left and right $R$-modules. So, we simply refer to both as $R$-modules.
+
+For a general (possibly noncommutative) ring, the phrase "$R$-module" is usually meant to mean "left $R$-module."
 
 ## A small note about the action of zero
 
