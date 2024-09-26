@@ -12,9 +12,9 @@
 
 | Note                                                                                                                  | Last Updated                 |
 | --------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Daily class summaries\|Daily class summaries]] | 3:43 PM - September 25, 2024 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/MATH 561 Home\|MATH 561 Home]]                 | 3:43 PM - September 25, 2024 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1\|Homework 1]]              | 3:38 PM - September 25, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Daily class summaries\|Daily class summaries]] | 3:34 PM - September 25, 2024 |
 
 { .block-language-dataview}
 
