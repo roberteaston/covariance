@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/examples-of-module-morphisms/","tags":["module_theory"],"updated":"2024-09-26T05:37:18-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/examples-of-module-morphisms/","tags":["module_theory"],"updated":"2024-09-26T20:27:44-07:00"}
 ---
 
 # Vector spaces

@@ -13,10 +13,12 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the five most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Daily class summaries\|here]].
 
-| Class Date                                                                               | Topics Covered                                                                       |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]] | <ul><li>Examples of categories</li><li>Modules</li><li>Examples of modules</li></ul> |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]] | <ul><li>Categories</li><li>Examples of categories</li></ul>                          |
+| Class Date                                                                               | Topics Covered                                                                                                          |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-72\|2024-09-72]] | <ul><li>Submodules</li><li>Quotient modules</li><li>Module morphisms</li><li>Isomorphism Theorems for Modules</li></ul> |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-26\|2024-09-26]] | <ul><li>Module morphisms</li><li>Examples of module morphisms</li></ul>                                                 |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]] | <ul><li>Examples of categories</li><li>Modules</li><li>Examples of modules</li></ul>                                    |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]] | <ul><li>Categories</li><li>Examples of categories</li></ul>                                                             |
 
 { .block-language-dataview}
 
