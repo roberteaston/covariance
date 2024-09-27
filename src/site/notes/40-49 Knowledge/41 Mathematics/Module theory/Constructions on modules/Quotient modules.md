@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/quotient-modules/","tags":["module_theory"],"updated":"2024-03-06T13:54:05-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/quotient-modules/","tags":["module_theory"],"updated":"2024-09-27T09:47:49-07:00"}
 ---
 
 >[!summary] Existence of quotient modules
@@ -17,3 +17,10 @@ The projection map $\pi:M\to M/N$ is the same as the projection map for the abel
 The fact that $\ker(\pi)=N$ is immediate from the same result for groups and the definition of the [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules#^668147\|kernel]] for a module morphism.
 
 The universal property is then almost immediate from the corresponding universal property for quotient groups in the category $\textbf{Ab}$.
+
+## Suggested next notes
+
+[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules\|Sums of submodules]]
