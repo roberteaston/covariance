@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-07-22T20:01:39-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-09-27T19:22:32-07:00"}
 ---
 
 > [!quote] [[Riehl - Category Theory in Context.pdf#page=31|Eilenberg and Mac Lane]]
