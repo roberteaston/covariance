@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-09-27T19:22:32-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-09-29T20:13:24-07:00"}
 ---
 
 > [!quote] [[Riehl - Category Theory in Context.pdf#page=31|Eilenberg and Mac Lane]]
@@ -11,15 +11,15 @@
 > [!quote] [[Vakil - The Rising Sea.pdf#page=25|Brian Conrad]]
 > Before functoriality, people lived in caves.
 
-Maps between categories are called *functors*. Briefly, a functor between categories consists of a maps of objects and arrows that preserves the structure of a category. In more detail:
+Maps between categories are called *functors*. Briefly, a functor between categories consists of maps of objects and arrows that preserve the categorical structure. In more detail:
 
 >[!note] Definition of functor
 >Suppose $C$ and $D$ are categories. A **functor** $F:C\to D$ consists of the following data:
->- For each object $c\in C$, an object $Fc\in D$
->- For each arrow $f:c\to c'$ in $C$, an arrow $Ff: Fc\to Fc'$ in $D$
+>- For each object $c\in C$, an object $F(c)\in D$
+>- For each arrow $f:c\to c'$ in $C$, an arrow $F(f): F(c)\to F(c')$ in $D$
 >
 >with the following properties:
->1. (Compatibility with composition) For every pair of composable arrows $f,g$ in $C$, we must have $F(g\circ f)=Fg\circ Ff$
->2. (Identity Preservation) For every object $c\in C$, one has $F1_c = 1_{Fc}$
+>1. (Compatibility with composition) For every pair of composable arrows $f,g$ in $C$, we must have $F(g\circ f)=F(g)\circ F(f)$
+>2. (Identity Preservation) For every object $c\in C$, one has $F(1_c) = 1_{Fc}$
 { #a05956}
 
