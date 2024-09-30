@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                              | Last Updated                 |
-| ----------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of functors\|Examples of functors]] | 8:15 PM - September 29, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]                         | 8:13 PM - September 29, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Submodules\|Submodules]]         | 7:17 PM - September 28, 2024 |
+| Note                                                                                                                         | Last Updated                 |
+| ---------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1 Solutions\|Homework 1 Solutions]] | 6:46 AM - September 30, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 2\|Homework 2]]                     | 5:37 AM - September 30, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Examples of functors\|Examples of functors]]            | 8:15 PM - September 29, 2024 |
 
 { .block-language-dataview}
 
