@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-09-30T06:55:10-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-09-30T13:44:05-07:00"}
 ---
 
 > [!quote] [[Riehl - Category Theory in Context.pdf#page=31|Eilenberg and Mac Lane]]
@@ -26,6 +26,15 @@ Maps between categories are called *functors*. Briefly, a functor between catego
 { #a05956}
 
 
+> [!question] Covariant? Contravariant?
+> You may run across the phrase "covariant functor" or "contravariant functor." Both are holdovers from the early days of category theory, when the foundations were still being established. Back then, many of the inspiring examples in algebraic geometry and algebraic topology involved functor-like maps that reversed the directions of arrows. We will even see examples of this in both module theory (see [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/The Hom-in functor and injective modules\|here]]) and category theory (see [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]]). In other words, we'll see maps between categories that send an arrow $f:c_1\to c_2$ in $C$ to an arrow $F(f):F(c_2)\to F(c_1)$ in $D$. In other words, the direction of the arrow is being reversed.
+> 
+> Since such maps between categories arose naturally and behaved well in all other respects, they were called **contravariant functors**. By contrast, our usual (direction-preserving) maps were called **covariant functors**.^[Hence the origin for the name of this wiki!] Note that a contravariant functor "reverses" composition, i.e., satisfies $F(f\circ g)=F(g)\circ F(g)$.
+> 
+> The more modern view has reverted to simply "functors", and has incorporated the contravariant functors via the notion of [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories#Opposite categories\|opposite categories]]: a contravariant functor $C\to D$ is equivalent to a (covariant) functor $C\to D^{\text{op}}$ (and also to a covariant functor $C^{\text{op}}\to D$).
+{ #70ab9e}
+
+
 # Examples
 
 ## The power set functor
@@ -38,12 +47,15 @@ You should verify for yourself that these maps satisfy the [[40-49 Knowledge/41 
 ---
 ## Forgetful functors
 
-A functor that simply "forgets" some or all of the structure of an algebraic object is commonly called a **forgetful** (or **underlying**) functor. For example, the forgetful functor $U:{\bf Grp}\to {\bf Set}$ assigns to each group $G$ the set $UG$ of its elements ("forgetting" the multiplication and hence the group structure), and assigns to each group homomorphism $f:G\to G'$ the same function $f$, regarded simply as a set map. Below are some other common forgetful functors:
+A functor that simply "forgets" some or all of the structure of an algebraic object is commonly called a **forgetful** (or **underlying**) functor. For example, the forgetful functor $U:{\bf Grp}\to {\bf Set}$ assigns to each group $G$ the set $U(G)$ of its elements ("forgetting" the multiplication and hence the group structure), and assigns to each group homomorphism $f:G\to G'$ the same function $f$, regarded simply as a set map. Below are some other common forgetful functors:
 - $U:{\bf Ab}\to {\bf Grp}$
 - $U:{\bf Ab}\to {\bf Set}$
 - $U:{\bf Ring}\to {\bf Ab}$
 - $U:{\bf Top}\to {\bf Set}$
 - $U:{\bf Field}\to {\bf Ring}$
+
+> [!question] What purpose could forgetting possibly serve?
+> A fair question. For now the answer is simply "Let's wait and see." Soon we will see that many (all?) constructions and "[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|universal properties]]" depend crucially on the category in which one is working. As such, being able to be incredibly specific about which category is being considered will often prove critically important.
 
 ---
 ## Remember me not
@@ -78,7 +90,7 @@ For each commutative ring $R$, the set of all invertible $n\times n$ matrices wi
 ---
 ## Unit groups
 
-This example is [[Examples of natural transformations#^c9052c\|closely related]] to the previous. For each ring $R$, the set of (multiplicative) units in $R$ forms a group $R^{\times}$, and since ring homomorphisms preserve units we have for each ring homomorphism $R\to S$ an induced group homomorphism $R^{\times}\to S^{\times}$. Convince yourself again this defines a functor $\bullet^{\times}:{\bf Ring}\to {\bf Grp}$. We similarly have a functor $\bullet^{\times}:{\bf CRing}\to {\bf Ab}$.
+This example is [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations#The determinant\|closely related]] to the previous. For each ring $R$, the set of (multiplicative) units in $R$ forms a group $R^{\times}$, and since ring homomorphisms preserve units we have for each ring homomorphism $R\to S$ an induced group homomorphism $R^{\times}\to S^{\times}$. Convince yourself again this defines a functor $\bullet^{\times}:{\bf Ring}\to {\bf Grp}$. We similarly have a functor $\bullet^{\times}:{\bf CRing}\to {\bf Ab}$.
 
 ---
 ## Examples in topology

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/math-561-home/","updated":"2024-09-25T15:43:44-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/math-561-home/","updated":"2024-09-30T13:21:08-07:00"}
 ---
 
 # Welcome to MATH 561

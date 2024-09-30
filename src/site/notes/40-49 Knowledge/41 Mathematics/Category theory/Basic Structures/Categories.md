@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/categories/","tags":["category_theory","quotes"],"updated":"2024-09-30T06:57:55-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/categories/","tags":["category_theory","quotes"],"updated":"2024-09-30T13:39:42-07:00"}
 ---
 
 # Motivation
@@ -169,6 +169,12 @@ Note that composition is written algebraically right-to-left ("inside out"), so 
 
 > [!note] A rare case
 > This is the rare case of a category named after its arrows!
+
+## Opposite categories
+
+For each category $C$, its **opposite** is the category $C^{\text{op}}$ with the same objects as $C$ and with all arrows "reversed." In other words, for each arrow $f:c\to d$ in $C$ there is a corresponding arrow $f^{\text{op}}:d\to c$ in $C^{\text{op}}$ (and conversely).
+
+Why consider such a category? [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors#^70ab9e\|We'll see]].
 
 ---
 ## Large categories
