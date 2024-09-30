@@ -91,7 +91,7 @@ Suppose $R$ is a commutative ring. A nonzero $R$-module $M$ is called **irreduci
 3. Prove that if $M$ is an irreducible $R$-module, then the endomorphism ring $\operatorname{End}_R(M)$ is a division ring. 
 
 >[!summary]- Hints
->1. Consider using some of the [[[The Isomorphism Theorems for Modules\|Isomorphism Theorems]] for modules. Also recall the [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Examples of submodules#Submodules and ideals\|correspondence between submodules and ideals]].
+>1. Consider using some of the [[[The Isomorphism Theorems for Modules\|Isomorphism Theorems]] for modules. Also recall the [[Examples of submodules#Submodules and ideals\|correspondence between submodules and ideals]].
 >2. The [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules\|kernel and image]] of a module morphism are submodules ...
 >3. Use the previous part.
 

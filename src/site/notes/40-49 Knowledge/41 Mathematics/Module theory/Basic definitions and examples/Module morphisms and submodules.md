@@ -4,7 +4,7 @@
 
 # Kernels are submodules
 
-Suppose $f:M\to N$ is an $R$-module morphism. Let $\operatorname{ker}(f)$ be the usual kernel of $f$ when it is viewed as simply a group morphism, i.e.., $\operatorname{ker}(f)=\{m\in M\mid f(m)=0_N\}$. This set is not only a subgroup of $M$ (when viewed as an abelian group), but also a submodule of $M$. It is still called the **kernel** of the morphism $f$. One can also give a definition of the kernel without reference to any elements, using the [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Examples of module morphisms#The zero morphism\|zero morphism]].
+Suppose $f:M\to N$ is an $R$-module morphism. Let $\operatorname{ker}(f)$ be the usual kernel of $f$ when it is viewed as simply a group morphism, i.e.., $\operatorname{ker}(f)=\{m\in M\mid f(m)=0_N\}$. This set is not only a subgroup of $M$ (when viewed as an abelian group), but also a submodule of $M$. It is still called the **kernel** of the morphism $f$. One can also give a definition of the kernel without reference to any elements, using the [[Examples of module morphisms#The zero morphism\|zero morphism]].
 
 # Images are submodules
 

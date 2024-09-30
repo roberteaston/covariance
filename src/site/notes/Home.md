@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" class="internal-link" target="_blank" rel="noopener">Categories</a></div></div><div class="callout-content">
-<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                          | Last Updated                 |
-| --------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]]      | 6:59 AM - September 30, 2024 |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-23\|2024-09-23]]      | 6:58 AM - September 30, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]] | 6:57 AM - September 30, 2024 |
+| Note                                                                                                                    | Last Updated                  |
+| ----------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|Natural transformations]] | 12:40 PM - September 30, 2024 |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-30\|2024-09-30]]                                | 12:39 PM - September 30, 2024 |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-26\|2024-09-26]]                                | 12:33 PM - September 30, 2024 |
 
 { .block-language-dataview}
 
@@ -91,9 +91,6 @@
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Examples of bimodules\|Examples of bimodules]]                                                                                                                                                |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Examples of extending scalars\|Examples of extending scalars]]                                                                                                               |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]]                                                                                                                           |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Examples of module morphisms\|Examples of module morphisms]]                                                                                                             |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Examples of modules\|Examples of modules]]                                                                                                                               |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Examples of submodules\|Examples of submodules]]                                                                                                                         |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]                                                                                                                                                   |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Generators for modules and submodules\|Generators for modules and submodules]]                                                                                                 |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Illustrative examples\|Illustrative examples]]                                                                                                                                          |
