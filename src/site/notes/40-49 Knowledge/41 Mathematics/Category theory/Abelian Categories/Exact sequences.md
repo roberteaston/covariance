@@ -5,7 +5,7 @@
 ## Exact sequences
 
 >[!summary] Factorization into monomorphism and epimorphism
->In an abelian category $A$, every morphism $f$ has a factorization $f=me$ with $m$ a [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Monomorphisms, Epimorphisms and Isomorphisms#^676200\|monomorphism]] and $e$ an [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Monomorphisms, Epimorphisms and Isomorphisms#^205688\|epimorphism]]. Moreover,
+>In an abelian category $A$, every morphism $f$ has a factorization $f=me$ with $m$ a [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms#^676200\|monomorphism]] and $e$ an [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms#^205688\|epimorphism]]. Moreover,
 >$$m=\ker(\operatorname{coker} f),\quad e=\operatorname{coker}(\ker f).$$
 >We can thus define the (usual) image and coimage of $f=me:a\to b$ as
 >$$m=\operatorname{im}(f),\quad e=\operatorname{coim}(f).$$

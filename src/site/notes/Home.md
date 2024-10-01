@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener">Adjoints</a></div></div><div class="callout-content">
-<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                  | Last Updated                 |
-| ----------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]             | 1:44 PM - September 30, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]         | 1:39 PM - September 30, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/MATH 561 Home\|MATH 561 Home]] | 1:21 PM - September 30, 2024 |
+| Note                                                                                                                                          | Last Updated                 |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[00-09 Atlas/🗺️ Map of Content - Modules\|🗺️ Map of Content - Modules]]                                                                 | 7:44 PM - September 30, 2024 |
+| [[00-09 Atlas/🗺️ Map of Content - Category Theory\|🗺️ Map of Content - Category Theory]]                                                 | 7:40 PM - September 30, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|Examples of universal properties]] | 7:27 PM - September 30, 2024 |
 
 { .block-language-dataview}
 
@@ -59,8 +59,8 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties - Revisited\|Examples of universal properties - Revisited]] |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functor categories\|Functor categories]]                                                         |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]                                                                             |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Monomorphisms, Epimorphisms and Isomorphisms\|Monomorphisms, Epimorphisms and Isomorphisms]]     |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|Natural transformations]]                                               |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms\|Special morphisms]]                                                           |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]                                                   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal arrows and elements\|Universal arrows and elements]]                               |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]]                                                             |
