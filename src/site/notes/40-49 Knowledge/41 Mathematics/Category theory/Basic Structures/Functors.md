@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-09-30T19:48:06-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-10-01T06:52:06-07:00"}
 ---
 
 > [!quote] [[Riehl - Category Theory in Context.pdf#page=31|Eilenberg and Mac Lane]]
@@ -85,7 +85,7 @@ Although nearly every common construction in algebra is the object function of a
 ---
 ## General linear group
 
-For each commutative ring $R$, the set of all invertible $n\times n$ matrices with entries in $R$ is called **general linear group** $\operatorname{GL}_n(R)$. Moreover, for each ring morphism $R\to S$ between commutative rings there is a natural map that takes each matrix with entries in $R$ to a  matrix with entries in $S$ (by simply applying the ring morphism on each entry of the matrix). You can also verify that this map sends invertible matrices with entries in $R$ to invertible matrices with entries in $S$, and in fact is a group morphism $\operatorname{GL}_n(R)\to \operatorname{GL}_n(S)$. Convince yourself that this defines a functor $\operatorname{GL}_n:{\bf CRing}\to {\bf Grp}$.
+For each commutative ring $R$, the set of all invertible $n\times n$ matrices with entries in $R$ is called **general linear group** $\operatorname{GL}_n(R)$. Moreover, for each ring morphism $R\to S$ between commutative rings there is a set map that takes each matrix with entries in $R$ to a  matrix with entries in $S$ (by simply applying the ring morphism on each entry of the matrix). You can also verify that this map sends invertible matrices with entries in $R$ to invertible matrices with entries in $S$, and in fact is a group morphism $\operatorname{GL}_n(R)\to \operatorname{GL}_n(S)$. Convince yourself that this defines a functor $\operatorname{GL}_n:{\bf CRing}\to {\bf Grp}$.
 
 ---
 ## Unit groups

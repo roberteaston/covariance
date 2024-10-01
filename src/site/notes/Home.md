@@ -12,9 +12,9 @@
 
 | Note                                                                                                                                          | Last Updated                 |
 | --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|Examples of universal properties]] | 5:50 AM - October 01, 2024   |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]                                                     | 6:52 AM - October 01, 2024   |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|Examples of universal properties]] | 6:46 AM - October 01, 2024   |
 | [[00-09 Atlas/🗺️ Map of Content - Category Theory\|🗺️ Map of Content - Category Theory]]                                                 | 7:59 PM - September 30, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]]                                     | 7:58 PM - September 30, 2024 |
 
 { .block-language-dataview}
 
