@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-09-30T13:44:05-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-09-30T19:48:06-07:00"}
 ---
 
 > [!quote] [[Riehl - Category Theory in Context.pdf#page=31|Eilenberg and Mac Lane]]
@@ -110,6 +110,7 @@ In general, we have a (natural) bijection $$\operatorname{Hom}_{\textbf{Set}}(S,
 This allows us to interchangeably think of families of objects in a given category $C$ as either collections of objects in $C$ indexed by $S$, or functors from the discrete category $\textbf{Set}$ to $C$.
 
 
-## Suggested next note
+## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|Natural transformations]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|Examples of universal properties]]

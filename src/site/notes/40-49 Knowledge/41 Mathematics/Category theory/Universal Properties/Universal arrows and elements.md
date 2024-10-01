@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-arrows-and-elements/","tags":["category_theory"],"updated":"2024-07-21T20:30:37-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-arrows-and-elements/","tags":["category_theory"],"updated":"2024-09-30T19:57:23-07:00"}
 ---
 
 There are [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|examples]] scattered all throughout mathematics in which an object is constructed with certain special properties (usually in relation to some diagram or system of information) and then shown to be "special" in some way amongst the collection of all objects with such properties. Such an object is then usually granted a unique name, often with reference to the diagram of information from which that object was constructed.
@@ -12,7 +12,7 @@ It is possible in category theory to give a uniform description of these varied 
 >In other words, every arrow $f$ to $F$ factors uniquely through the universal arrow $u$, as in the commutative diagram below:
 ><iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNSxbMCwwLCJyIl0sWzIsMCwiZCJdLFszLDAsIkYocikiXSxbMCwxLCJjIl0sWzMsMSwiRihjKSJdLFsxLDIsInUiXSxbMSw0LCJmIiwyXSxbMCwzLCJcXGV4aXN0cyFoIiwwLHsic3R5bGUiOnsiYm9keSI6eyJuYW1lIjoiZGFzaGVkIn19fV0sWzIsNCwiRihoKSIsMCx7InN0eWxlIjp7ImJvZHkiOnsibmFtZSI6ImRhc2hlZCJ9fX1dXQ==&embed" width="400" height="200" style="border-radius: 8px; border: none; display: block; margin: auto"></iframe>
 
-There is also the dual notion of a **universal arrow from $F$ to $d$**, which consists of a pair $(r,v)$ consisting of an object $r\in\mathcal{C}$ and an arrow $v:F(r)\to d$ such that to every pair $(c,f)$ with $f:F(c)\to d$ there is a a unique $h:c\to r$ with $f=v\circ F(h)$. In other words, simply reverse all arrows in the diagram above.
+There is also the dual notion of a **universal arrow from $F$ to $d$**, which is a pair $(r,v)$ consisting of an object $r\in\mathcal{C}$ and an arrow $v:F(r)\to d$ such that to every pair $(c,f)$ with $f:F(c)\to d$ there is a a unique $h:c\to r$ with $f=v\circ F(h)$. In other words, simply reverse all arrows in the diagram above.
 
 ## Example of universal arrows: free modules
 

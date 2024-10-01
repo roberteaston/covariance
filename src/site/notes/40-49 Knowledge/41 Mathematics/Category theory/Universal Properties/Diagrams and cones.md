@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/diagrams-and-cones/","tags":["category_theory"],"updated":"2024-07-21T20:30:17-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/diagrams-and-cones/","tags":["category_theory"],"updated":"2024-09-30T19:57:54-07:00"}
 ---
 
 Many of our [[[Universal Properties I - Inspiring Examples\|inspiring examples]] of universal properties can be described by the following basic situation:
@@ -8,7 +8,7 @@ Many of our [[[Universal Properties I - Inspiring Examples\|inspiring examples]]
 - Among all such objects (equipped with such arrows), there is a "universal" object $c_0$ through which all other such objects must uniquely factor.
 Let's try to make sense of this and gradually discover how to "encode" such information in a compact, categorical way.
 
-## Step 1: An intuitive way to visualize arrows "to a diagram"
+# Step 1: An intuitive way to visualize arrows "to a diagram"
 
 This first step is not strictly necessary but it can definitely help simplify our mental picture. Imagine a commutative diagram in a category $\mathcal{C}$ as simply a picture of a constellation of dots (the objects) and arrows. We can imagine this picture as existing in some ambient space, even though this is entirely metaphorical. Let's imagine the diagram has been drawn (or exists) on a horizontal glass plane. We can then think of other objects $c\in \mathcal{C}$ as dots floating above this plane. Now imagine we had arrows connecting an object $c$ to every object in the diagram. Visually, this would look like a cone (of light, say) with vertex at $c$ and rays shooting down from $c$ to every object in the diagram.
 
@@ -16,7 +16,7 @@ Assuming this picture we've drawn represents a commutative diagram in $\mathcal{
 
 For some examples of cones, check out any of the diagrams in our collection of [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|inspiring examples]].
 
-## Step 2: Formalizing the notion of "commutative diagram"
+# Step 2: Formalizing the notion of "commutative diagram"
 
 How do we formally encode the concept of a commutative diagram in a category, without using the clunky phrasing "a collection of objects in the category together with certain arrows, such that all possible compositions of arrows in that collection that have the same domain and codomain agree"? The answer: we use a "helper" category (sometimes called a "diagram category") and a a functor from that category to our category.
 
@@ -27,7 +27,7 @@ The general definition is as follows:
 
 Observe that this short definition really does encode the idea of a diagram in $\mathcal{C}$ of "shape" $\mathcal{J}$. If we visualize $\mathcal{J}$ as some dots connected by some arrows, then a functor $F:\mathcal{J}\to \mathcal{C}$ assigns to each dot some object of $\mathcal{C}$, and to each arrow between those dots some arrow in $\mathcal{C}$. The commutativity of the resulting diagram is encoded in the fact that $\mathcal{J}$ is a category and $F$ is a functor.
 
-### Examples of diagrams of various shapes
+## Examples of diagrams of various shapes
 
 If $\mathcal{J}$ is the category with a single object and only the identity arrow, then a diagram in $C$ of shape $\mathcal{J}$ is simply an object $c\in C$.
 
@@ -37,7 +37,7 @@ Then each functor $F:\mathcal{J}\to C$ corresponds to a diagram in $C$ of the fo
 $$F(j_1)\xrightarrow{F(f)} F(j_3)\xleftarrow{F(g)} F(j_2).$$
 This functor category is useful when studying pullbacks and pushforwards.
 
-## Step 3: Formalizing cones to diagrams
+# Step 3: Formalizing cones to diagrams
 
 Now that we have a formal way to define a diagram of a given shape in our favorite category, we can repackage the notion of a cone to that diagram. We first observe that any single object $c$ in $\mathcal{C}$ can be "turned into" a diagram in $\mathcal{C}$ of shape $\mathcal{J}$, using a very simple functor.
 
@@ -58,7 +58,7 @@ In other words, a cone from $c$ to $F$ consists of an arrow $\tau_j:c\to F(j)$ f
 Observe that if we merge the two copies of $c$ (connected by the identity arrow), we can redraw the above diagram to look a lot more like the cone we were expecting:
 <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsMyxbMSwwLCJjIl0sWzAsMSwiRihqKSJdLFsyLDEsIkYoaicpIl0sWzEsMiwiRihmKSIsMl0sWzAsMSwiXFx0YXVfaiIsMl0sWzAsMiwiXFx0YXVfe2onfSJdXQ==&embed" width="300" height="300" style="border-radius: 8px; border: none; display: block; margin: auto"></iframe>
 
-### Examples of constant diagrams and cones
+## Examples of constant diagrams and cones
 
 Suppose $\mathcal{J}$ is the category with three objects and two nonidentity arrows, as illustrated below:
 $$j_1\xrightarrow{f} j_3\xleftarrow{g} j_2.$$
@@ -66,7 +66,7 @@ For each object $c\in C$, the constant diagram
 $$c\xrightarrow{1_c} c \xleftarrow{1_c} c$$
 corresponds to a "constant" or "diagonal" functor $\Delta c:\mathcal{J}\to C$.
 
-## Step 4: Limits are universal cones
+# Step 4: Limits are universal cones
 
 At last we can formalize the notion of a single object $r\in\mathcal{C}$ "representing" (or "encoding") all of the information in a given commutative diagram in $\mathcal{C}$. In terms of the language we've now established, we are really looking for a cone to the diagram through which all other cones uniquely factor. To be even more precise, we define the following:
 

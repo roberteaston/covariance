@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-category-theory/","updated":"2024-09-30T19:40:56-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-category-theory/","updated":"2024-09-30T19:44:48-07:00"}
 ---
 
 # Basic structures
@@ -66,14 +66,3 @@
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram chases without elements\|Diagram chases without elements]]
-
----
-# Videos
-
-![27 Unhelpful Facts About Category Theory](https://www.youtube.com/watch?v=H0Ek86IH-3Y&list=WL&index=3&pp=gAQBiAQB "27 Unhelpful Facts About Category Theory")
-
-![A Sensible Introduction to Category Theory](https://www.youtube.com/watch?v=yAi3XWCBkDo&list=WL&index=3)
-
-![The Woman Who's Rewriting Higher Category Theory](https://www.youtube.com/watch?v=QpDTcefoWEQ&list=WL&index=2)
-
-![Introduction to Limits](https://youtu.be/5uI0uJpsEhI?si=Oo6_lSQvcLTaizcC)

@@ -10,11 +10,11 @@
 
 # Recently updated notes
 
-| Note                                                                                                                                          | Last Updated                 |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[00-09 Atlas/🗺️ Map of Content - Modules\|🗺️ Map of Content - Modules]]                                                                 | 7:44 PM - September 30, 2024 |
-| [[00-09 Atlas/🗺️ Map of Content - Category Theory\|🗺️ Map of Content - Category Theory]]                                                 | 7:40 PM - September 30, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|Examples of universal properties]] | 7:27 PM - September 30, 2024 |
+| Note                                                                                                                                    | Last Updated                 |
+| --------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]]                               | 7:58 PM - September 30, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Diagrams and cones\|Diagrams and cones]]                       | 7:57 PM - September 30, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal arrows and elements\|Universal arrows and elements]] | 7:57 PM - September 30, 2024 |
 
 { .block-language-dataview}
 
