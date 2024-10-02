@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/torsion-submodules/","updated":"2023-09-27T06:45:35-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/torsion-submodules/","updated":"2024-10-01T10:32:59-07:00"}
 ---
 
 Suppose $R$ is a ring and $M$ is a left $R$-module. An element $m\in M$ is called a **torsion element** if $rm=0$ for some nonzero $r\in R$. The set of torsion elements in $M$ is denoted $\operatorname{Tor}(M)$.

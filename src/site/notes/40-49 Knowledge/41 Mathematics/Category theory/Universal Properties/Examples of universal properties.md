@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/examples-of-universal-properties/","tags":["category_theory","quotes"],"updated":"2024-10-01T10:27:45-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/examples-of-universal-properties/","tags":["category_theory","quotes"],"updated":"2024-10-01T11:47:29-07:00"}
 ---
 
 > [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=66|Saunders Mac Lane]]

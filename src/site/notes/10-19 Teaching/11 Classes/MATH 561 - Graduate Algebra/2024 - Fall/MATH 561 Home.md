@@ -15,10 +15,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                                                          |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-01\|2024-10-01]] | <ul><li>Universal properties</li><li>Functors</li></ul>                                                                 |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-30\|2024-09-30]] | <ul><li>Functors</li></ul>                                                                                              |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-27\|2024-09-27]] | <ul><li>Submodules</li><li>Quotient modules</li><li>Module morphisms</li><li>Isomorphism Theorems for Modules</li></ul> |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-26\|2024-09-26]] | <ul><li>Module morphisms</li></ul>                                                                                      |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-09/2024-09-24\|2024-09-24]] | <ul><li>Modules</li></ul>                                                                                               |
 
 { .block-language-dataview}
 
