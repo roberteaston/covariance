@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/sums-of-submodules/","tags":["module_theory"],"updated":"2024-10-03T05:51:53-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/sums-of-submodules/","tags":["module_theory"],"updated":"2024-10-03T06:50:16-07:00"}
 ---
 
 Given any family of submodules of a given $R$-module $M$, is there a "smallest" submodule of $M$ that contains them all? In other words, is there an analogue of the union operation in $\textbf{Set}$? Yes. It is called the **sum** of the family of submodules.
@@ -25,7 +25,7 @@ Most generally, suppose $\{N_s\mid s\in S\}$ is any family of submodules of $M$,
 ---
 ## What's really going on
 
-Sums of submodules has a simple interpretation from the point of view of category theory. For each $R$-module $M$, let $\mathcal{M}$ be the category whose objects are the submodules $N$ of $M$, and for which there is an arrow $N_1\to N_2$ exactly when $N_1$ is a submodule of $N_2$. (In other words, the arrows in $\mathcal{M}$ correspond to the inclusion morphisms of submodules of $M$.) The sum of a family of submodules of $M$ is then exactly the coproduct of the corresponding family of objects in $\mathcal{M}$.
+Sums of submodules has a simple interpretation from the point of view of category theory. For each $R$-module $M$, let $\mathbf{M}$ be the category whose objects are the submodules $N$ of $M$, and for which there is an arrow $N_1\to N_2$ exactly when $N_1$ is a submodule of $N_2$. (In other words, the arrows in $\mathbf{M}$ correspond to the inclusion morphisms of submodules of $M$.) The sum of a family of submodules of $M$ is then exactly the coproduct of the corresponding family of objects in $\mathbf{M}$.
 
 ---
 # Direct sums of modules vs. sums of submodules
