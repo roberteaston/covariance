@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/sums-of-submodules/","tags":["module_theory"],"updated":"2024-10-03T06:50:16-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/sums-of-submodules/","tags":["module_theory"],"updated":"2024-10-03T06:59:58-07:00"}
 ---
 
 Given any family of submodules of a given $R$-module $M$, is there a "smallest" submodule of $M$ that contains them all? In other words, is there an analogue of the union operation in $\textbf{Set}$? Yes. It is called the **sum** of the family of submodules.

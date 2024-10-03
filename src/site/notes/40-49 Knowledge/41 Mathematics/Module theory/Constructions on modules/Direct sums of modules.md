@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-sums-of-modules/","tags":["module_theory"],"updated":"2024-10-03T05:50:52-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-sums-of-modules/","tags":["module_theory"],"updated":"2024-10-03T06:59:55-07:00"}
 ---
 
 As is always the case with category-theoretic constructions, there is a construction exactly dual to that of the direct product of modules, called the **direct sum** of modules. It is characterized by the property dual to that of direct product. To reflect this duality, this note will be an entirely identical "dual" version of the note for [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|direct products of modules]].

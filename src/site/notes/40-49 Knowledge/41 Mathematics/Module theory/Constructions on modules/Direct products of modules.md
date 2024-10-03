@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-of-modules/","tags":["module_theory"],"updated":"2024-10-03T05:41:35-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-of-modules/","tags":["module_theory"],"updated":"2024-10-03T06:59:57-07:00"}
 ---
 
 For any family of modules, there is a construction analogous to the Cartesian product in $\textbf{Set}$ that produces a single module characterized by a universal property.

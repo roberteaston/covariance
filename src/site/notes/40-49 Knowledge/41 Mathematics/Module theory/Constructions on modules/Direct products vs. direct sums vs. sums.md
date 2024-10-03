@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-vs-direct-sums-vs-sums/","tags":["module_theory"],"updated":"2024-10-03T06:55:17-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-vs-direct-sums-vs-sums/","tags":["module_theory"],"updated":"2024-10-03T06:59:58-07:00"}
 ---
 
 Suppose $\{N_s\mid s\in S\}$ is a family of submodules of a fixed $R$-module $M$. We have four constructions available to create a new module:

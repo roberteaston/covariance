@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-09-28T19:23:23-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2024-10-03T13:39:29-07:00"}
 ---
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" rel="noopener" class="external-link" href="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" target="_blank">Peter Freyd</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" class="internal-link" target="_blank" rel="noopener">Categories</a></div></div><div class="callout-content">
-<p dir="auto">Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener">Yoneda's Lemma</a></div></div><div class="callout-content">
+<p dir="auto">Every man is like the company he is wont to keep.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
 | Note                                                                                                                                                            | Last Updated               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]] | 6:55 AM - October 03, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules\|Sums of submodules]]                                             | 6:50 AM - October 03, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]                                     | 5:50 AM - October 03, 2024 |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-03\|2024-10-03]]                                                                        | 1:45 PM - October 03, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]] | 6:59 AM - October 03, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules\|Sums of submodules]]                                             | 6:59 AM - October 03, 2024 |
 
 { .block-language-dataview}
 
