@@ -29,7 +29,7 @@
 >*My source:* [[Riehl - Category Theory in Context.pdf#page=10|Riehl]]
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties II - Diagrams and cones\|Universal Properties II - Diagrams and cones]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties II - Commutative diagrams and cones\|Universal Properties II - Commutative diagrams and cones]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal arrows and elements\|Universal arrows and elements]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties - Revisited\|Examples of universal properties - Revisited]]

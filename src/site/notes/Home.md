@@ -10,11 +10,11 @@
 
 # Recently updated notes
 
-| Note                                                                                                                                                                  | Last Updated               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties II - Diagrams and cones\|Universal Properties II - Diagrams and cones]] | 2:01 PM - October 03, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]   | 1:57 PM - October 03, 2024 |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-03\|2024-10-03]]                                                                              | 1:45 PM - October 03, 2024 |
+| Note                                                                                                                                                                                          | Last Updated               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties II - Commutative diagrams and cones\|Universal Properties II - Commutative diagrams and cones]] | 4:01 PM - October 03, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                           | 3:47 PM - October 03, 2024 |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-03\|2024-10-03]]                                                                                                      | 1:45 PM - October 03, 2024 |
 
 { .block-language-dataview}
 
@@ -42,28 +42,28 @@
 { .block-language-dataview}
 
 >[!summary]- Category theory
-> | Topic                                                                                                                                                                 |
-> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories\|Ab-categories]]                                                                 |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|Abelian categories]]                                                       |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Additive categories\|Additive categories]]                                                     |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]                                                                                     |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]                                                                         |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|Chain complexes]]                                                             |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram chases without elements\|Diagram chases without elements]]                             |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]                                                               |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Double complexes and mural maps\|Double complexes and mural maps]]                             |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences\|Exact sequences]]                                                             |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties - Revisited\|Examples of universal properties - Revisited]] |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functor categories\|Functor categories]]                                                         |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]                                                                             |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|Natural transformations]]                                               |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms\|Special morphisms]]                                                           |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]                                                   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal arrows and elements\|Universal arrows and elements]]                               |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties II - Diagrams and cones\|Universal Properties II - Diagrams and cones]] |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]]                                                             |
+> | Topic                                                                                                                                                                                         |
+> | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories\|Ab-categories]]                                                                                         |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|Abelian categories]]                                                                               |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Additive categories\|Additive categories]]                                                                             |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]                                                                                                             |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]                                                                                                 |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|Chain complexes]]                                                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram chases without elements\|Diagram chases without elements]]                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]                                                                                       |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Double complexes and mural maps\|Double complexes and mural maps]]                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences\|Exact sequences]]                                                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties - Revisited\|Examples of universal properties - Revisited]]                         |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functor categories\|Functor categories]]                                                                                 |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]                                                                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|Natural transformations]]                                                                       |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms\|Special morphisms]]                                                                                   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]                                                                           |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal arrows and elements\|Universal arrows and elements]]                                                       |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                           |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties II - Commutative diagrams and cones\|Universal Properties II - Commutative diagrams and cones]] |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]]                                                                                     |
 > 
 { .block-language-dataview}
 
