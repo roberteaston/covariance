@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-arrows-and-elements/","tags":["category_theory"],"updated":"2024-09-30T19:57:23-07:00"}
 ---
 
-There are [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|examples]] scattered all throughout mathematics in which an object is constructed with certain special properties (usually in relation to some diagram or system of information) and then shown to be "special" in some way amongst the collection of all objects with such properties. Such an object is then usually granted a unique name, often with reference to the diagram of information from which that object was constructed.
+There are [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|examples]] scattered all throughout mathematics in which an object is constructed with certain special properties (usually in relation to some diagram or system of information) and then shown to be "special" in some way amongst the collection of all objects with such properties. Such an object is then usually granted a unique name, often with reference to the diagram of information from which that object was constructed.
 
 It is possible in category theory to give a uniform description of these varied constructions. We first present a very abstract notion of *universal arrow*.
 

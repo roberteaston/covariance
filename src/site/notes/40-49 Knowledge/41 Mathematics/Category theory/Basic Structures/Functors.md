@@ -55,7 +55,7 @@ A functor that simply "forgets" some or all of the structure of an algebraic obj
 - $U:{\bf Field}\to {\bf Ring}$
 
 > [!question] What purpose could forgetting possibly serve?
-> A fair question. For now the answer is simply "Let's wait and see." Soon we will see that many (all?) constructions and "[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|universal properties]]" depend crucially on the category in which one is working. As such, being able to be incredibly specific about which category is being considered will often prove critically important.
+> A fair question. For now the answer is simply "Let's wait and see." Soon we will see that many (all?) constructions and "[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|universal properties]]" depend crucially on the category in which one is working. As such, being able to be incredibly specific about which category is being considered will often prove critically important.
 
 ---
 ## Remember me not
@@ -113,4 +113,4 @@ This allows us to interchangeably think of families of objects in a given catego
 ## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|Natural transformations]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|Examples of universal properties]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]
