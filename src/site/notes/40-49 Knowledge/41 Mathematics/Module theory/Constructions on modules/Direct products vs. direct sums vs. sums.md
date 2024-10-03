@@ -4,27 +4,27 @@
 
 Suppose $\{N_s\mid s\in S\}$ is a family of submodules of a fixed $R$-module $M$. We have four constructions available to create a new module:
 
-#### The intersection of this family of submodules
+# The intersection of this family of submodules
 
 This module is denoted $\displaystyle \bigcap_{s\in S} N_s$. As a set, its elements are those elements contained in every submodule $N_s$; i.e., it is the set-theoretic intersection of the sets of elements of the $N_s$. It is a submodule of $M$, and it is the largest submodule of $M$ that is contained within every submodule $N_s$ in the original family.
 
 ---
-#### The sum of this family of submodules
+# The sum of this family of submodules
 
 This module is denoted $\displaystyle \sum_{s\in S} N_s$. As a set, its elements are all finite $R$-linear sums of the form $\displaystyle \sum_{s\in S} r_s n_s$, where each $n_s\in N_s$ and $r_s\in R$ (all but finitely many of which are zero). It is a submodule of $M$, and it is the smallest submodule of $M$ that contains every submodule $N_s$ in the original family. In this module, different sums may represent the same element.
 
 ---
-#### The direct sum of this family as modules
+# The direct sum of this family as modules
 
 This module is denoted $\displaystyle \bigoplus_{s\in S} N_s$. As a set, its elements are all *formal* finite $R$-linear sums of the form $\displaystyle \sum_{s\in S} r_s n_s$, where each $n_s\in N_s$ and $r_s\in R$ (all but finitely many of which are zero). It is *not* a submodule of $M$, nor does it literally contain any of the modules $N_s$ from the original family; however, it does contain a copy of each of those submodules. In this module, different sums always represent different elements. There are no relations or simplifications, beyond that of combining or simplifying coefficients.
 
 ---
-#### The direct product of this family as modules
+# The direct product of this family as modules
 
 This module is denoted $\displaystyle \prod_{s\in S}N_s$. As a set, its elements consist of maps $f$ from $S$ such that $f(s)\in N_s$ for every $s\in S$. When $S$ is finite, its elements can equivalently be viewed as $S$-tuples of elements $(n_s)_{s\in S}$ with $n_s\in N_s$ for each $s\in S$. It is not a submodule of $M$, nor does it literally contain any of the original submodules $N_s$; however, there are surjective morphisms from $\displaystyle\prod_{s\in S}N_s$ to each $N_s$, and in the finite case we will see there are injective morphisms from each $N_s$ into $\displaystyle\prod_{s\in S} N_s$. This also means that we have an injective morphism $\bigoplus_{s\in S}N_s \to \prod_{s\in S} N_s$. In the case of a finite set $S$, this is an isomorphism.
 
 ---
-## Relationships between these constructions
+# Relationships between these constructions
 
 We should investigate how these three constructions are related, when (if ever) they are the same, and when (if ever) they are different. We first put these constructions into categorical context, where their differences are immediately obvious.
 
@@ -38,7 +38,7 @@ So where does this put us? In a good position, actually. Suppose $\{N_s\mid s\in
 
 However, now suppose we consider the family of submodules as a family of modules in their own right. In other words, suppose we consider the family of objects $\{U(N_s)\mid s\in S\}$ in the category $R-\textbf{Mod}$. We can now consider the product and coproduct for this family. The product is by definition the direct product of these modules, $\displaystyle \prod_{s\in S} N_s$. The coproduct is by definition the direct sum of these modules, $\displaystyle \bigoplus_{s\in S} N_s$.
 
-### When, if ever, do some of these constructions coincide?
+## When, if ever, do some of these constructions coincide?
 
 As mentioned above, whenever $S$ is finite there is a natural isomorphism between the direct product over $S$ and the direct sum over $S$.  There is also a special case in which the sum of a family of submodules is isomorphic to the direct sum of the family of submodules (viewed as modules).^[In the finite case, this is also isomorphic to the direct product of those submodules viewed as modules.]
 
@@ -46,3 +46,4 @@ As mentioned above, whenever $S$ is finite there is a natural isomorphism betwee
 >Suppose $N_1,\ldots, N_k$ is a family of submodules of an $R$-module $M$. Then the map $n_1\oplus\cdots\oplus n_k\mapsto n_1+\cdots+n_k$ is an $R$-module isomorphism
 >$$N_1\oplus\cdots \oplus N_k\simeq N_1+\cdots +N_k$$
 >exactly when $N_j\cap (N_1+\cdots +\hat{N_j}+\cdots +N_k)=(0)$ for every $j$.
+

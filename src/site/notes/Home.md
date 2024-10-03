@@ -10,11 +10,11 @@
 
 # Recently updated notes
 
-| Note                                                                                                                                          | Last Updated                |
-| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-01\|2024-10-01]]                                                      | 11:25 AM - October 02, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Examples of universal properties\|Examples of universal properties]] | 11:47 AM - October 01, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Torsion submodules\|Torsion submodules]]                                 | 10:32 AM - October 01, 2024 |
+| Note                                                                                                                                | Last Updated               |
+| ----------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules\|Sums of submodules]]                 | 5:51 AM - October 03, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]         | 5:50 AM - October 03, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]] | 5:41 AM - October 03, 2024 |
 
 { .block-language-dataview}
 
