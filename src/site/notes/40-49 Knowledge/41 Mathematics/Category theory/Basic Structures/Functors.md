@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-10-01T06:52:06-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-10-03T19:49:34-07:00"}
 ---
 
 > [!quote] [[Riehl - Category Theory in Context.pdf#page=31|Eilenberg and Mac Lane]]
@@ -109,7 +109,7 @@ For example, the set of objects of $C$ is in (natural) bijection with the set of
 In general, we have a (natural) bijection $$\operatorname{Hom}_{\textbf{Set}}(S,\operatorname{Ob}(C))\simeq \operatorname{Hom}_{\textbf{Cat}}(\textbf{S},C).$$
 This allows us to interchangeably think of families of objects in a given category $C$ as either collections of objects in $C$ indexed by $S$, or functors from the discrete category $\textbf{Set}$ to $C$.
 
-
+---
 ## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|Natural transformations]]

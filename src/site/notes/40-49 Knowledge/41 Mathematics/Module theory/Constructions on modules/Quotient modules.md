@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/quotient-modules/","tags":["module_theory"],"updated":"2024-09-27T10:54:38-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/quotient-modules/","tags":["module_theory"],"updated":"2024-10-03T19:50:41-07:00"}
 ---
 
 >[!summary] Existence of quotient modules
@@ -19,6 +19,7 @@ The fact that $\ker(\pi)=N$ is immediate from the same result for groups and the
 
 The universal property is then almost immediate from the corresponding universal property for quotient groups in the category $\textbf{Ab}$.
 
+---
 ## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]]

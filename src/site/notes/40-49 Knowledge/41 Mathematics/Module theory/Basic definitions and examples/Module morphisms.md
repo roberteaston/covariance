@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms/","tags":["module_theory"],"updated":"2024-09-30T12:31:32-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms/","tags":["module_theory"],"updated":"2024-10-03T19:50:06-07:00"}
 ---
 
 As we will see, the road to understanding modules is through understanding the connections between modules, i.e., the maps between modules.
@@ -47,6 +47,7 @@ The safest way to avoid any of these issues is to work within an explicit catego
 > [!warning] Recommendation
 > Be specific about the category in which you're working.
 
+---
 ## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Submodules\|Submodules]]

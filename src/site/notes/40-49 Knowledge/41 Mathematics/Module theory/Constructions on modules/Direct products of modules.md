@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-of-modules/","tags":["module_theory"],"updated":"2024-10-03T06:59:57-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-of-modules/","tags":["module_theory"],"updated":"2024-10-03T19:50:22-07:00"}
 ---
 
 For any family of modules, there is a construction analogous to the Cartesian product in $\textbf{Set}$ that produces a single module characterized by a universal property.
@@ -37,7 +37,7 @@ The finite case can be seen as a special case of this general construction by co
 
 The terms "Cartesian product" (of sets) and "direct product" (of modules, groups, etc.) is a bit antiquated. Each of these types of objects satisfies the "same" universal property from the point of view of category theory, which is simply that of a **product**. To make matters unnecessarily confusing, categorical products are special cases of a more general notion of **limit**, which was sometimes called "inverse limit" or "projective limit". This was to distinguish them from the dual of notion of **colimit**, which was once called "direct limit" or "inductive limit". So a direct product is an example of an inverse limit (not a direct limit), while a direct sum is an example of a colimit (or direct limit). Oof. Let's be kind to ourselves and stick simply with "product" and "coproduct".
 
-
+---
 ## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]

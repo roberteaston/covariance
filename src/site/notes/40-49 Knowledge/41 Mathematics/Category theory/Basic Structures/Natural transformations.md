@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/natural-transformations/","tags":["category_theory","quotes"],"updated":"2024-09-30T19:08:01-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/natural-transformations/","tags":["category_theory","quotes"],"updated":"2024-10-03T19:49:43-07:00"}
 ---
 
 
@@ -46,7 +46,7 @@ Let $k$ be a field. For each set $X$, the *free $F$-vector space on $X$* is the 
 
 Let $U:\textbf{Vec}_k\to \textbf{Set}$ be the usual forgetful functor and consider the composition $UF:\textbf{Set}\to \textbf{Set}$. This composition sends each set $X$ to the set of elements of the vector space $F(X)$. There is evidently a set map $i:X\to UF(X)$ that sends each element $x\in X$ to the same element in $F(X)$, only now considered as a formal linear combination of the elements of $X$ (that just happens not to involve any of the other elements). This map is sometimes called the *insertion of generators*. It is immediate to verify this defines a natural transformation from the identity functor on $\textbf{Set}$ to the composition $UF$.
 
-
+---
 ## Suggested next note
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functor categories\|Functor categories]]

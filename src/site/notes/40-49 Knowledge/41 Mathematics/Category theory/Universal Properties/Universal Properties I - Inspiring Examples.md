@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-i-inspiring-examples/","tags":["category_theory","quotes"],"updated":"2024-10-03T15:47:22-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-i-inspiring-examples/","tags":["category_theory","quotes"],"updated":"2024-10-03T19:49:12-07:00"}
 ---
 
 > [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=66|Saunders Mac Lane]]
@@ -80,6 +80,8 @@ The quotient group construction is probably the first time most of us officially
 
 (You might recall that we actually have $\ker(\pi_N)=N$. Can you prove this must be the case regardless, simply from the universal property?)
 
+You might notice something a little different about this example compared to all the others listed here. In this example, the universal property involves information *not* encoded in the diagram, namely that the arrows have been restricted (to only morphisms with a certain property). This suggests that we should ultimately look for a characterization of "universal property" that goes behind representing diagrams.
+
 >[!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=67|Saunders Mac Lane]]
 >Now the quotient group is usually described as a group whose elements are cosets. However, once the cosets are used to prove this one "universal" property of $\pi: G\to G/N$, all other properties of quotient groups - for example, the isomorphism theorems - can be proved with no further mention of cosets ... All that is needed is the existence of a universal element ... For that matter, even this existence could be proved without using cosets (see the adjoint functor theorem ...)
 
@@ -99,3 +101,10 @@ Look at this diagram and compare with the [[40-49 Knowledge/41 Mathematics/Categ
 At least as far as category theory is concerned ...
 
 ![theyre-the-same-picture-pam-the-office.png|600](/img/user/90-99%20Meta/91%20Images/Memes/theyre-the-same-picture-pam-the-office.png)
+
+---
+## Suggested next note
+
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]]
+
+

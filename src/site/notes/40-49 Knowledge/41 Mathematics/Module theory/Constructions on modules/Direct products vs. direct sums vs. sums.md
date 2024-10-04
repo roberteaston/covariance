@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-vs-direct-sums-vs-sums/","tags":["module_theory"],"updated":"2024-10-03T06:59:58-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-vs-direct-sums-vs-sums/","tags":["module_theory"],"updated":"2024-10-03T19:50:30-07:00"}
 ---
 
 Suppose $\{N_s\mid s\in S\}$ is a family of submodules of a fixed $R$-module $M$. We have four constructions available to create a new module:
@@ -47,6 +47,7 @@ As mentioned above, whenever $S$ is finite there is a natural isomorphism betwee
 >$$N_1\oplus\cdots \oplus N_k\simeq N_1+\cdots +N_k$$
 >exactly when $N_j\cap (N_1+\cdots +\hat{N_j}+\cdots +N_k)=(0)$ for every $j$.
 
+---
 ## Suggested next note
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]

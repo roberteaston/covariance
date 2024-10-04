@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/categories/","tags":["category_theory","quotes"],"updated":"2024-09-30T13:39:42-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/categories/","tags":["category_theory","quotes"],"updated":"2024-10-03T19:49:26-07:00"}
 ---
 
 # Motivation
@@ -199,6 +199,7 @@ Most of the objects we encounter in math are the objects of some ([[40-49 Knowle
 { #9c9672}
 
 
+---
 ## Suggested next note
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/submodules/","tags":["module_theory"],"updated":"2024-09-30T12:31:45-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/submodules/","tags":["module_theory"],"updated":"2024-10-03T19:50:15-07:00"}
 ---
 
 # Definition
@@ -40,6 +40,7 @@ When a ring $R$ is considered as a left $R$-module (via left multiplication), th
 >[!summary]
 >$F[x]$-submodules are $T$-stable subspaces
 
+---
 ## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules\|Module morphisms and submodules]]

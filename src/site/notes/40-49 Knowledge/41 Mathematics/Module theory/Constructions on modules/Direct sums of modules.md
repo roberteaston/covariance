@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-sums-of-modules/","tags":["module_theory"],"updated":"2024-10-03T06:59:55-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-sums-of-modules/","tags":["module_theory"],"updated":"2024-10-03T19:50:34-07:00"}
 ---
 
 As is always the case with category-theoretic constructions, there is a construction exactly dual to that of the direct product of modules, called the **direct sum** of modules. It is characterized by the property dual to that of direct product. To reflect this duality, this note will be an entirely identical "dual" version of the note for [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|direct products of modules]].
@@ -31,6 +31,7 @@ Finally, suppose $\{M_s\mid s\in S\}$ is a family of $R$-modules indexed by some
 
 The only difference here between this general case (which includes infinite sets) and the finite case is that the elements of the set $\displaystyle \bigoplus_{s\in S} M_s$ are *finite* formal sums of elements of the form $\displaystyle \sum_{s\in S}m_s$, with $m_s\in S$ (all but finitely many zero).
 
+---
 ## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules\|Sums of submodules]]

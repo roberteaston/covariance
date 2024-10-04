@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms-and-submodules/","tags":["module_theory"],"updated":"2024-09-27T05:46:29-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms-and-submodules/","tags":["module_theory"],"updated":"2024-10-03T19:50:09-07:00"}
 ---
 
 # Kernels are submodules
@@ -18,6 +18,7 @@ When $N=M$, the set $\operatorname{Hom}_R(M,M)$ has the natural structure of a r
 { #5f0b4d}
 
 
+---
 ## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Quotient modules\|Quotient modules]]
