@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-ii-commutative-diagrams-cones-and-limits/","tags":["category_theory"],"updated":"2024-10-04T06:53:22-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-ii-commutative-diagrams-cones-and-limits/","tags":["category_theory"],"updated":"2024-10-04T08:28:41-07:00"}
 ---
 
 Many of our [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|inspiring examples]] of universal properties can be described by the following basic situation:
