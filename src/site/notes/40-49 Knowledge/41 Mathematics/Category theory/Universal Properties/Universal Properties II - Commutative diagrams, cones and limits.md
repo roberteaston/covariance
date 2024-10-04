@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-ii-commutative-diagrams-cones-and-limits/","tags":["category_theory"],"updated":"2024-10-04T05:51:15-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-ii-commutative-diagrams-cones-and-limits/","tags":["category_theory"],"updated":"2024-10-04T06:53:22-07:00"}
 ---
 
 Many of our [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|inspiring examples]] of universal properties can be described by the following basic situation:
@@ -104,6 +104,14 @@ Recall that the empty diagram in a category $C$ corresponds to the empty functor
 Dually, a universal cone from the empty diagram is an object $i\in C$ such that for every object $c\in C$ there is a unique arrow $i\to c$. Such an object $i$ is called an **initial object** of the category $C$.
 
 So, a limit of the empty diagram is a terminal object, and a colimit of the empty diagram is an initial object.
+
+## The one-object, no arrows diagram
+
+Recall that functors $\textbf{1}\to C$ correspond to objects of $C$, and hence to to single-object diagrams (with no nonidentity arrows). Convince yourself that both the limit and colimit of such a one-object diagram is simply that object itself (with the identity arrow to/from that object).
+
+## The two-object, no arrows diagram
+
+Let $J$ be a category with exactly two objects and no non-identity arrows. Each functor $F:J\to C$ then corresponds to a choice of two objects $c_1, c_2\in C$. (UNDER CONSTRUCTION)
 
 
 > [!warning] Under Construction

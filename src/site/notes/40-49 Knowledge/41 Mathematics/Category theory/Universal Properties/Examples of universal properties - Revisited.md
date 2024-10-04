@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/examples-of-universal-properties-revisited/","tags":["category_theory"],"updated":"2024-10-04T05:39:18-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/examples-of-universal-properties-revisited/","tags":["category_theory"],"updated":"2024-10-04T06:20:05-07:00"}
 ---
 
 In light of [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]], it is useful to revisit [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]] to see how each can be framed in the same language: as a natural isomorphism between a hom-functor and another $\textbf{Set}$-valued functor.
