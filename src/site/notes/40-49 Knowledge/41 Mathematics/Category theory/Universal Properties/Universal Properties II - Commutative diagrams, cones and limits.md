@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-ii-commutative-diagrams-cones-and-limits/","tags":["category_theory"],"updated":"2024-10-03T19:48:53-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-ii-commutative-diagrams-cones-and-limits/","tags":["category_theory"],"updated":"2024-10-04T05:51:15-07:00"}
 ---
 
 Many of our [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|inspiring examples]] of universal properties can be described by the following basic situation:
@@ -97,17 +97,22 @@ At last we can formalize the notion of a single object $r\in C$ "representing" (
 Note that we are not claiming that limits and colimits always exist. We'll delay that question until the distant future and instead focus on concrete examples.
 # Examples of limits and colimits
 
-## Examples in the category $\textbf{Set}$
+## The empty diagram
 
-(COMING SOON)
+Recall that the empty diagram in a category $C$ corresponds to the empty functor $\textbf{0}\to C$. What is a cone to/from the empty diagram? It's simply an object $c\in C$. A universal cone to the empty diagram is then an object through which all other objects uniquely factor, i.e., an object $t\in C$ such that for every $c\in C$ there is a unique arrow $c\to t$. Such an object $t$ is called a **terminal object** of the category $C$.
 
-## Examples in the category $\textbf{Ab}$
+Dually, a universal cone from the empty diagram is an object $i\in C$ such that for every object $c\in C$ there is a unique arrow $i\to c$. Such an object $i$ is called an **initial object** of the category $C$.
 
-(COMING SOON)
+So, a limit of the empty diagram is a terminal object, and a colimit of the empty diagram is an initial object.
 
-## Examples in the category $R\textbf{-Mod}$
 
-(COMING SOON)
+> [!warning] Under Construction
+> This section is currently under construction. More examples will be added soon, including:
+> - products and coproducts
+> - powers and copowers
+> -  pullbacks and pushforwards
+> - equalizers and coequalizers
+> - kernels and cokernels
 
 ---
 ## Suggested next note
