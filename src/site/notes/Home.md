@@ -10,11 +10,11 @@
 
 # Recently updated notes
 
-| Note                                                                                                                         | Last Updated                |
-| ---------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 2 Solutions\|Homework 2 Solutions]] | 12:51 PM - October 07, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1 Solutions\|Homework 1 Solutions]] | 12:43 PM - October 07, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Hom(R,R) is R\|Hom(R,R) is R]]                          | 11:02 AM - October 07, 2024 |
+| Note                                                                                                                                          | Last Updated               |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Quotients of cyclic modules\|Quotients of cyclic modules]]               | 1:02 PM - October 07, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Annihilators of torsion modules\|Annihilators of torsion modules]]       | 1:02 PM - October 07, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/The pullback functor is an adjoint\|The pullback functor is an adjoint]] | 1:02 PM - October 07, 2024 |
 
 { .block-language-dataview}
 
