@@ -1,8 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-1-solutions/","updated":"2024-10-07T11:03:28-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-1-solutions/","updated":"2024-10-07T12:11:23-07:00"}
 ---
 
 ## Problem 1
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/ring-property-from-module-property/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -16,18 +22,8 @@ Suppose $R$ is a ring, $M$ is a left $R$-module, and $r\in R$ is an element for 
 
 
 > [!summary]- Solution
-> 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-<div class="markdown-embed-title">
-
-# Solution
-
-</div>
-
-
-### Solution
 Suppose, towards a contradiction, that $r$ had a left inverse. Let $s\in R$ be a left inverse of $r$ in $R$, so that $sr=1_R$. On the one hand, we then have $s(rm)=s\cdot 0=0$; on the other hand we also have $s(rm)=(sr)m=1_R \cdot m = m$. Since $m$ was assumed to be nonzero, this is a contradiction. 
+
 
 </div></div>
 
