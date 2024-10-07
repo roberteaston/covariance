@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-1-solutions/","updated":"2024-09-30T06:46:43-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-1-solutions/","updated":"2024-10-07T10:39:58-07:00"}
 ---
 
-### Problem 1
+## Problem 1
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -34,7 +34,7 @@ Suppose, towards a contradiction, that $r$ had a left inverse. Let $s\in R$ be a
 
 ---
 
-### Problem 2
+## Problem 2
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -63,7 +63,7 @@ Since $I$ is a left ideal of $R$, we have $ri_k\in R$ for every $k$ and so the f
    
 ---
 
-### Problem 3
+## Problem 3
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/torsion-submodules/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -96,7 +96,7 @@ Suppose $R$ is a ring and $M$ is a left $R$-module. An element $m\in M$ is calle
 
 ---
 
-### Problem 4
+## Problem 4
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -129,7 +129,7 @@ Suppose $R$ is a ring and $M$ is a left $R$-module.
 
 ---
 
-### Problem 5
+## Problem 5
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -156,7 +156,7 @@ There are many possible such examples. One familiar examples that of complex con
 
 ---
 
-### Problem 6
+## Problem 6
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -199,7 +199,7 @@ Chasing the diagram around, suppose we have an element in the module on the top 
 
 ---
 
-### Problem 7
+## Problem 7
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

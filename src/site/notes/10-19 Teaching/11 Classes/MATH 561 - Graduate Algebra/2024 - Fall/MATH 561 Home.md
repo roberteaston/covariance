@@ -26,9 +26,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 Although the weekly assignments should be submitted digitally in Canvas, the assignments themselves are posted here. You can also see when the assignments were last updated, whether it were to correct mistakes, add hints, or post solutions.
 
-| Assignment                                                                                                                   | Due Date           | Last Updated                 |
-| ---------------------------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 2\|Homework 2]]                     | October 06, 2024   | 5:37 AM - September 30, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1 Solutions\|Homework 1 Solutions]] | September 29, 2024 | 6:46 AM - September 30, 2024 |
+| Assignment                                                                                                                   | Due Date           | Last Updated                |
+| ---------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 3\|Homework 3]]                     | October 13, 2024   | 10:39 AM - October 07, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 2\|Homework 2]]                     | October 06, 2024   | 10:40 AM - October 07, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1 Solutions\|Homework 1 Solutions]] | September 29, 2024 | 10:39 AM - October 07, 2024 |
 
 { .block-language-dataview}

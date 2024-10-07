@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-2/","updated":"2024-09-30T05:37:47-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-2/","updated":"2024-10-07T10:40:09-07:00"}
 ---
 
-### Problem 1
+## Problem 1
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -20,7 +20,7 @@ Prove there does not exist a functor ${\bf Grp}\to {\bf Ab}$ with object functio
 
 ---
 
-### Problem 2
+## Problem 2
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -40,7 +40,7 @@ Suppose $F$ is a field and $A, B$ are two $m\times n$ matrices with entries in $
 
 ---
 
-### Problem 3
+## Problem 3
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -60,7 +60,7 @@ Suppose $E$ is an equivalence relation on a set $X$. Show that the usual set $X/
 
 ---
 
-### Problem 4
+## Problem 4
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
@@ -77,7 +77,7 @@ An $R$-module $M$ is called **torsion**^[Check [[10-19 Teaching/11 Classes/MATH 
 
 ---
 
-### Problem 5
+## Problem 5
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
