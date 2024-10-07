@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener">Yoneda's Lemma</a></div></div><div class="callout-content">
-<p dir="auto">Every man is like the company he is wont to keep.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
 | Note                                                                                                                         | Last Updated                |
 | ---------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 2 Solutions\|Homework 2 Solutions]] | 10:44 AM - October 07, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1 Solutions\|Homework 1 Solutions]] | 10:39 AM - October 07, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 3\|Homework 3]]                     | 10:39 AM - October 07, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1 Solutions\|Homework 1 Solutions]] | 11:03 AM - October 07, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Hom(R,R) is R\|Hom(R,R) is R]]                          | 11:02 AM - October 07, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Hom(R,M) is M\|Hom(R,M) is M]]                          | 11:02 AM - October 07, 2024 |
 
 { .block-language-dataview}
 

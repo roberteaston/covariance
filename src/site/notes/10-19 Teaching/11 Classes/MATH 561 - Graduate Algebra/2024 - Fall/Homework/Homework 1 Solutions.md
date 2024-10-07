@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-1-solutions/","updated":"2024-10-07T10:39:58-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-1-solutions/","updated":"2024-10-07T11:03:28-07:00"}
 ---
 
 ## Problem 1
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/ring-property-from-module-property/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -15,8 +15,8 @@ Suppose $R$ is a ring, $M$ is a left $R$-module, and $r\in R$ is an element for 
 </div></div>
 
 
->[!summary]- Solution
-
+> [!summary]- Solution
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 <div class="markdown-embed-title">
@@ -37,7 +37,7 @@ Suppose, towards a contradiction, that $r$ had a left inverse. Let $s\in R$ be a
 ## Problem 2
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/submodules-via-ideals/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -47,8 +47,8 @@ Suppose, towards a contradiction, that $r$ had a left inverse. Let $s\in R$ be a
 </div></div>
 
 
-   >[!summary]- Solution
-   >
+> [!summary]- Solution
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -79,8 +79,9 @@ Suppose $R$ is a ring and $M$ is a left $R$-module. An element $m\in M$ is calle
 
 </div></div>
 
-   >[!summary]- Solution
-   >
+
+> [!summary]- Solution
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -99,7 +100,7 @@ Suppose $R$ is a ring and $M$ is a left $R$-module. An element $m\in M$ is calle
 ## Problem 4
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/annihilators/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -111,8 +112,9 @@ Suppose $R$ is a ring and $M$ is a left $R$-module.
 
 </div></div>
 
-   >[!summary]- Solution
-   >
+   
+> [!summary]- Solution
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -132,7 +134,7 @@ Suppose $R$ is a ring and $M$ is a left $R$-module.
 ## Problem 5
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/group-morphisms-that-cannot-define-module-morphisms/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -142,8 +144,8 @@ Give an example of a ring $R$, two $R$-modules $M$ and $N$, and a set map $f:M\t
 </div></div>
 
 
-   >[!summary]- Solution
-   >
+> [!summary]- Solution
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -159,7 +161,7 @@ There are many possible such examples. One familiar examples that of complex con
 ## Problem 6
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/hom-r-m-is-m/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -172,8 +174,8 @@ Suppose $R$ is a commutative ring and $M$ is left $R$-module. Prove that $\opera
 </div></div>
 
 
-   >[!summary]- Solution
-   >
+> [!summary]- Solution
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
@@ -202,7 +204,7 @@ Chasing the diagram around, suppose we have an element in the module on the top 
 ## Problem 7
 
 
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/hom-r-r-is-r/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
@@ -212,8 +214,8 @@ Suppose $R$ is a commutative ring. Prove that $\operatorname{Hom}_R(R,R)$ and $R
 </div></div>
 
 
-   >[!summary]- Solution
-   >
+> [!summary]- Solution
+> 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
 
 
