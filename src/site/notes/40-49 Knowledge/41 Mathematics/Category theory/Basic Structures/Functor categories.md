@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functor-categories/","tags":["category_theory"],"updated":"2024-10-07T13:27:13-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functor-categories/","tags":["category_theory"],"updated":"2024-10-07T19:40:57-07:00"}
 ---
 
 # Definition
@@ -28,12 +28,14 @@ Similarly, the category $\textbf{1}$ has a single object and only the identity a
 
 ## Commutative diagrams of a fixed shape
 
-Suppose $J$ is a fixed category. Recall that for any category $C$, functors $F:J\to C$ can be thought of as "commutative diagrams in $C$ of shape $J$." For example, if $J=\textbf{1}$ is the category with a unique object and only the identity arrow on that object, then functors $F:\textbf{1}\to C$ are in bijection with objects $c\in C$.
+Suppose $J$ is a fixed category. Recall that for any category $C$, functors $F:J\to C$ can be thought of as "commutative diagrams in $C$ of shape $J$." For example, suppose $J$ is the category with three objects and two nonidentity arrows, as illustrated below:
 
-For a more interesting example, suppose $J$ is the category with three objects and two nonidentity arrows, as illustrated below:
 $$a\xrightarrow{f} c\xleftarrow{g} b.$$
+
 Then each functor $F:J\to C$ corresponds to a diagram in $C$ of the form
+
 $$F(a)\xrightarrow{F(f)} F(c)\xleftarrow{F(g)} F(b).$$
+
 This functor category is useful when studying pullbacks and pushforwards.
 
 ---
