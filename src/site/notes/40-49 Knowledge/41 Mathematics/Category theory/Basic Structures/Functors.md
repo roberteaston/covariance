@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-10-03T19:49:34-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2024-10-07T19:11:26-07:00"}
 ---
 
 > [!quote] [[Riehl - Category Theory in Context.pdf#page=31|Eilenberg and Mac Lane]]
@@ -106,7 +106,8 @@ Suppose $C$ is any category and $S$ is any set. A **family of objects in $C$ ind
 
 For example, the set of objects of $C$ is in (natural) bijection with the set of functors $\textbf{1}\to C$, while the set of pairs of objects in $C$ is in (natural) bijection with the set of functors $\textbf{S}\to C$, where $\textbf{S}$ is the discrete category on the set $\{1,2\}$.
 
-In general, we have a (natural) bijection $$\operatorname{Hom}_{\textbf{Set}}(S,\operatorname{Ob}(C))\simeq \operatorname{Hom}_{\textbf{Cat}}(\textbf{S},C).$$
+In general, we have a (natural) bijection
+$$\operatorname{Hom}_{\textbf{Set}}(S,\operatorname{Ob}(C))\simeq \operatorname{Hom}_{\textbf{Cat}}(\textbf{S},C).$$
 This allows us to interchangeably think of families of objects in a given category $C$ as either collections of objects in $C$ indexed by $S$, or functors from the discrete category $\textbf{Set}$ to $C$.
 
 ---
