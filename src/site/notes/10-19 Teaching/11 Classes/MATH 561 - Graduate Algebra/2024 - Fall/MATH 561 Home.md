@@ -15,10 +15,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                                         |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-08\|2024-10-08]] | <ul><li>Adjoints</li></ul>                                                                             |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-07\|2024-10-07]] | <ul><li>Natural transformations</li><li>Functor categories</li></ul>                                   |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-04\|2024-10-04]] | <ul><li>Commutative diagrams</li><li>Cones</li><li>Limits and colimits</li></ul>                       |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-03\|2024-10-03]] | <ul><li>Direct products of modules</li><li>Direct sums of modules</li><li>Sums of submodules</li></ul> |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-01\|2024-10-01]] | <ul><li>Universal properties</li><li>Functors</li></ul>                                                |
 
 { .block-language-dataview}
 
@@ -30,7 +30,6 @@ Although the weekly assignments should be submitted digitally in Canvas, the ass
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------- |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 3\|Homework 3]]                     | October 13, 2024   | 10:39 AM - October 07, 2024 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 2 Solutions\|Homework 2 Solutions]] | October 06, 2024   | 12:51 PM - October 07, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 2\|Homework 2]]                     | October 06, 2024   | 10:40 AM - October 07, 2024 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1 Solutions\|Homework 1 Solutions]] | September 29, 2024 | 12:43 PM - October 07, 2024 |
 
 { .block-language-dataview}
