@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-category-theory/","updated":"2024-09-30T19:59:28-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-category-theory/","updated":"2024-10-09T14:57:00-07:00"}
 ---
 
 # Basic structures
@@ -43,6 +43,8 @@
 >*My source:* [[Maclane - Categories for the Working Mathematician.pdf#page=117|Mac Lane]]
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|Examples of adjoints]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints\|Properties of adjoints]]
 
 ---
 # Abelian categories

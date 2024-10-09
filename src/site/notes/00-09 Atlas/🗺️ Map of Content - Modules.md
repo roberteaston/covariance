@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-modules/","updated":"2024-09-30T19:44:18-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-modules/","updated":"2024-10-09T14:57:39-07:00"}
 ---
 
 # Basic structures
@@ -14,19 +14,19 @@
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Quotient modules\|Quotient modules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]]
-[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]
-[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules\|Sums of submodules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Generators for modules and submodules\|Generators for modules and submodules]]
 
 ---
 # Bimodules
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules\|Bimodules]]
-[[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Examples of bimodules\|Examples of bimodules]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodule morphisms\|Bimodule morphisms]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/The 2-category of bimodules\|The 2-category of bimodules]]
 
 ---
