@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/properties-of-adjoints/","tags":["category_theory"],"updated":"2024-10-08T19:47:04-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/properties-of-adjoints/","tags":["category_theory"],"updated":"2024-10-09T10:24:30-07:00"}
 ---
 
 We list the following two properties of adjoints without proof.

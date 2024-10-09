@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2024-10-08T19:45:28-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2024-10-09T05:43:50-07:00"}
 ---
 
 > [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=117|Saunders Mac Lane]]
@@ -57,7 +57,7 @@ There a several equivalent definitions, but we'll give the one that most resembl
 >
 >$$F:C\rightleftarrows D:G$$
 >
->and $\tau$ is a function that assigns to every pair of objects $c\in C$, $d\in D$ a natural^[This can be phrased in a way such that the given maps define a natural transformation between two functors.] bijection
+>and $\tau$ is a function that assigns to every pair of objects $c\in C$, $d\in D$ a natural bijection
 >
 >$$\tau_{c,d}:\operatorname{Hom}_D(F(c),d)\xrightarrow{\sim} \operatorname{Hom}_C(c,G(d)).$$
 >
