@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener">Functors</a></div></div><div class="callout-content">
-<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                          | Last Updated                |
-| ------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints\|Properties of adjoints]] | 10:24 AM - October 09, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|Examples of adjoints]]     | 5:59 AM - October 09, 2024  |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]                             | 5:43 AM - October 09, 2024  |
+| Note                                                                                                                            | Last Updated                |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]                         | 11:43 AM - October 09, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]] | 11:40 AM - October 09, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 2 Solutions\|Homework 2 Solutions]]    | 11:12 AM - October 09, 2024 |
 
 { .block-language-dataview}
 
