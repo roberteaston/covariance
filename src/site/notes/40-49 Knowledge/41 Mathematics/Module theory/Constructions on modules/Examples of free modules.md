@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/examples-of-free-modules/","tags":["module_theory"],"updated":"2024-10-09T11:40:08-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/examples-of-free-modules/","tags":["module_theory"],"updated":"2024-10-10T06:50:48-07:00"}
 ---
 
 For each finite set $X$, the structure of the free module $F(X)$ is entirely determined by the cardinality of $X$. Let's consider some specific examples.
@@ -16,7 +16,7 @@ This is why you sometimes see books/people declare (usually by fiat) that the "e
 ---
 # The free module on a singleton set
 
-Now let's consider a singleton set $X=\{x\}$. By our construction, the module $F(\{x\})$ consists of all $R$-multiples $rx$ with $r\in R$. We therefore have a set bijection $F(\{x\})\simeq R$, which you can quickly verify is actually an $R$-module isomorphism. We could have already predicted this, since [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercise Solutions/Hom(R,M) is M - Solution\|we've seen]] that $\operatorname{Hom}_R(R,M)\simeq R$ as an $R$-module (at least for commutative rings $R$), and the universal property for $F(\{x\})$ is that we have a natural set bijection
+Now let's consider a singleton set $X=\{x\}$. By our construction, the module $F(\{x\})$ consists of all $R$-multiples $rx$ with $r\in R$. We therefore have a set bijection $F(\{x\})\simeq R$, which you can quickly verify is actually an $R$-module isomorphism. We could have already predicted this, since [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercise Solutions/Hom(R,M) is M - Solution\|we've seen]] that $\operatorname{Hom}_R(R,M)\simeq M$ as an $R$-module (at least for commutative rings $R$), and the universal property for $F(\{x\})$ is that we have a natural set bijection
 
 $$\phi_{\{x\},M}:\operatorname{Hom}_R(F(\{x\}), M)\to \operatorname{Hom}_{\textbf{Set}}(\{x\},U(M))\simeq U(M)$$
 
