@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2024-10-10T20:04:58-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2024-10-11T06:53:24-07:00"}
 ---
 
 # Motivation
@@ -47,7 +47,10 @@ One more observation (to be elaborated upon later): there is a "copy"^[More prec
 
 ## Verifying the natural bijections
 
-First suppose $X$ is any set, $M$ is any $R$-module, and $f:F(X)\to M$ is a module morphism. By using the identification above of a copy of $X$ in $F(X)$, we then also have a set map $X\to U(M)$. More specifically, for each $x_0\in X$ let $e_{x_0}\in F(X)$ be the "standard basis element" corresponding to $x_0$, i.e., the $R$-linear combination that has coefficient $1_R$ for $x_0$, and coefficient $0_R$ for all other $x\in X$. We can then send $x_0$ to the image of $e_{x_0}$ under the given morphism $f$. This is how we construct our set map $$\phi_{X,M}:\operatorname{Hom}_R(F(X),M)\to \operatorname{Hom}_{\textbf{Set}}(X, U(M)).$$
+First suppose $X$ is any set, $M$ is any $R$-module, and $f:F(X)\to M$ is a module morphism. By using the identification above of a copy of $X$ in $F(X)$, we then also have a set map $X\to U(M)$. More specifically, for each $x_0\in X$ let $e_{x_0}\in F(X)$ be the "standard basis element" corresponding to $x_0$, i.e., the $R$-linear combination that has coefficient $1_R$ for $x_0$, and coefficient $0_R$ for all other $x\in X$. We can then send $x_0$ to the image of $e_{x_0}$ under the given morphism $f$. This is how we construct our set map 
+
+$$\phi_{X,M}:\operatorname{Hom}_R(F(X),M)\to \operatorname{Hom}_{\textbf{Set}}(X, U(M)).$$
+
 We can verify this set map is bijective by constructing the inverse set map. Suppose $g:X\to U(M)$ is any set map. We can then define a map on $F(X)$ by applying $g$ to the "basis" elements and "using linearity." More precisely, suppose $v=\displaystyle \sum_{x\in X} r_x x$ is an element in the free module $F(X)$. Define a map $\psi_{X,M}(g):F(X)\to M$ that sends $v$ to the element in $M$ given by $\displaystyle \sum_{x\in X} r_x g(x)$. 
 
 > [!question] Challenge

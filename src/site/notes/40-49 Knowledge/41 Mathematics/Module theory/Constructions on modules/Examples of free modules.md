@@ -1,11 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/examples-of-free-modules/","tags":["module_theory"],"updated":"2024-10-10T06:50:48-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/examples-of-free-modules/","tags":["module_theory"],"updated":"2024-10-11T06:53:42-07:00"}
 ---
 
 For each finite set $X$, the structure of the free module $F(X)$ is entirely determined by the cardinality of $X$. Let's consider some specific examples.
 # The free module on the empty set
 
-What is the free module on the empty set? According to our construction the set of elements of the $R$-module $F(\emptyset)$ consists of all formal finite $R$-linear combinations of elements $\emptyset$. But what the heck is the set of combinations of nothing, you might ask? Let's look at the universal property $F(\emptyset)$ should enjoy, namely that there is a natural bijection $$\phi_{\emptyset, M}:\operatorname{Hom}_R(F(\emptyset), M)\to \operatorname{Hom}_{\textbf{Set}}(\emptyset, U(M)).$$
+What is the free module on the empty set? According to our construction the set of elements of the $R$-module $F(\emptyset)$ consists of all formal finite $R$-linear combinations of elements $\emptyset$. But what the heck is the set of combinations of nothing, you might ask? Let's look at the universal property $F(\emptyset)$ should enjoy, namely that there is a natural bijection
+
+$$\phi_{\emptyset, M}:\operatorname{Hom}_R(F(\emptyset), M)\to \operatorname{Hom}_{\textbf{Set}}(\emptyset, U(M)).$$
+
 The empty set is the initial object in $\textbf{Set}$, so there is a unique set map (the empty map) from it to any other set. In other words, the set $\operatorname{Hom}_{\textbf{Set}}(\emptyset, U(M))$ is a singleton set. Our bijection above then implies $\operatorname{Hom}_R(F(\emptyset), M)$ is a singleton set, for every $R$-module $M$. This exactly says that $F(\emptyset)$ is the initial object in the category $R\textbf{-Mod}$, which we've already seen is the zero module. Thus, $F(\emptyset)= 0$, the zero module.
 
 This is why you sometimes see books/people declare (usually by fiat) that the "empty combination" is the zero element.
