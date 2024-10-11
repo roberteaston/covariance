@@ -13,12 +13,12 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the four most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Daily class summaries\|here]].
 
-| Class Date                                                                               | Topics Covered                                                                                         |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-08\|2024-10-08]] | <ul><li>Adjoints</li></ul>                                                                             |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-07\|2024-10-07]] | <ul><li>Natural transformations</li><li>Functor categories</li></ul>                                   |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-04\|2024-10-04]] | <ul><li>Commutative diagrams</li><li>Cones</li><li>Limits and colimits</li></ul>                       |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-03\|2024-10-03]] | <ul><li>Direct products of modules</li><li>Direct sums of modules</li><li>Sums of submodules</li></ul> |
+| Class Date                                                                               | Topics Covered                                                       |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-08\|2024-10-08]] | <ul><li>Adjoints</li></ul>                                           |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-11\|2024-10-11]] | <ul><li>Free modules</li><li>Generators for modules</li></ul>        |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-10\|2024-10-10]] | <ul><li>Adjoints</li><li>Free modules</li></ul>                      |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-07\|2024-10-07]] | <ul><li>Natural transformations</li><li>Functor categories</li></ul> |
 
 { .block-language-dataview}
 
