@@ -37,7 +37,7 @@ $$M\otimes_S \left(\bigoplus_{i\in I} N_i\right)\simeq \bigoplus_{i\in I} \left(
 { #690b7a}
 
 
-We could prove this directly, but we can also simply note that the tensor product functor $M\times_S -$ is a [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and the Universal Property of the Tensor Product#^4dc916\|left adjoint]] and hence [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints#^6063ae\|commutes with all colimits]], such as direct sums.
+We could prove this directly, but we can also simply note that the tensor product functor $M\times_S -$ is a [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product#^4dc916\|left adjoint]] and hence [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints#^6063ae\|commutes with all colimits]], such as direct sums.
 
 The analogous result is true with the positions of the tensor product and direct sum exchanged, i.e., right-tensoring distributes across direct sums. Because of this, we say that **tensor product commutes with direct sums**. As finite direct products are isomorphic to the corresponding direct sums, this also implies that **tensor product commutes with finite direct products**.
 

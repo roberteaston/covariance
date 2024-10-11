@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodules/","tags":["#module_theory"],"updated":"2024-10-09T15:10:46-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodules/","tags":["#module_theory"],"updated":"2024-10-11T09:27:35-07:00"}
 ---
 
 # Definition
@@ -45,6 +45,8 @@ We call this $(R,R)$-bimodule structure on $M$ the **standard $(R,R)$-bimodule s
 
 > [!note] Note
 > We should really be defining a functor from the category of $R$-modules to the category of $(R,R)$-bimodules.
+
+---
 ## From bimodules to modules
 
 For any $(R,S)$-bimodule $M$ we can always forget either the left $R$- or right $S$-action, resulting in a right $S$- or left $R$-module, respectively. Although technically we should define a forgetful functor from one category to another, in practice most mathematicians usually just wave their hands and simply say "considered only as a left $R$-module" and what not.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodule-morphisms/","tags":["#module_theory"],"updated":"2024-10-09T15:13:24-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodule-morphisms/","tags":["#module_theory"],"updated":"2024-10-11T09:55:21-07:00"}
 ---
 
 # Definition
@@ -33,11 +33,11 @@ In summary:
 
 Suppose $M$ is an $(R,S)$-bimodule, $N$ is an $(S, T)$-bimodule, and $P$ is an $(R,T)$-bimodule. By the above construction, the set $\operatorname{Hom}_T(N,P)$ has the structure of an $(R,S)$-bimodule. We can then consider the set of $(R,S)$-bimodule morphisms between $M$ and $\operatorname{Hom}_T(N,P)$. This is the set
 $$\operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P)).$$
-This set will play a critical role with the [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and the Universal Property of the Tensor Product\|tensor product]] construction on bimodules.
+This set will play a critical role with the [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product\|tensor product]] construction on bimodules.
 
 ---
 
 ## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/The 2-category of bimodules\|The 2-category of bimodules]]
-[[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products I - Extending scalars\|Tensor Products I - Extending scalars]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|Tensor Products II - Tensor products of bimodules]]
