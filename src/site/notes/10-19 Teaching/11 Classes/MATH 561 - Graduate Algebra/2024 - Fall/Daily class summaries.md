@@ -6,9 +6,9 @@ Below you can find the complete list of daily class summaries, beginning with th
 
 | Class Date                                                                               | Topics Covered                                                                                                          |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-08\|2024-10-08]] | <ul><li>Adjoints</li></ul>                                                                                              |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-11\|2024-10-11]] | <ul><li>Free modules</li><li>Generators for modules</li></ul>                                                           |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-10\|2024-10-10]] | <ul><li>Adjoints</li><li>Free modules</li></ul>                                                                         |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-08\|2024-10-08]] | <ul><li>Adjoints</li></ul>                                                                                              |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-07\|2024-10-07]] | <ul><li>Natural transformations</li><li>Functor categories</li></ul>                                                    |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-04\|2024-10-04]] | <ul><li>Commutative diagrams</li><li>Cones</li><li>Limits and colimits</li></ul>                                        |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-03\|2024-10-03]] | <ul><li>Direct products of modules</li><li>Direct sums of modules</li><li>Sums of submodules</li></ul>                  |

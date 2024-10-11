@@ -15,9 +15,9 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                       |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-08\|2024-10-08]] | <ul><li>Adjoints</li></ul>                                           |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-11\|2024-10-11]] | <ul><li>Free modules</li><li>Generators for modules</li></ul>        |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-10\|2024-10-10]] | <ul><li>Adjoints</li><li>Free modules</li></ul>                      |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-08\|2024-10-08]] | <ul><li>Adjoints</li></ul>                                           |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-07\|2024-10-07]] | <ul><li>Natural transformations</li><li>Functor categories</li></ul> |
 
 { .block-language-dataview}
