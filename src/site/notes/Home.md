@@ -12,9 +12,9 @@
 
 | Note                                                                                                                            | Last Updated               |
 | ------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]                         | 8:04 PM - October 10, 2024 |
 | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]] | 6:50 AM - October 10, 2024 |
 | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/The 2-category of bimodules\|The 2-category of bimodules]]          | 6:46 AM - October 10, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodule morphisms\|Bimodule morphisms]]                            | 3:13 PM - October 09, 2024 |
 
 { .block-language-dataview}
 
