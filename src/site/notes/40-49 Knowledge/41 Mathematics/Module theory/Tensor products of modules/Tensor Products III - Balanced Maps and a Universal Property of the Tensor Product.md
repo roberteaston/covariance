@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2024-10-11T09:56:57-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2024-10-11T12:04:18-07:00"}
 ---
 
 # Balanced maps

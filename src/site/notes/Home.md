@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener">Yoneda's Lemma</a></div></div><div class="callout-content">
+<p dir="auto">Every man is like the company he is wont to keep.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                                                                                                                                                  | Last Updated               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product\|Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product]] | 9:56 AM - October 11, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|Tensor Products II - Tensor products of bimodules]]                                                                   | 9:56 AM - October 11, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodule morphisms\|Bimodule morphisms]]                                                                                                                                                  | 9:55 AM - October 11, 2024 |
+| Note                                                                                                                                                                                                                                                  | Last Updated                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - Additional Properties\|Tensor Products IV - Additional Properties]]                                                                                 | 4:02 PM - October 12, 2024  |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product\|Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product]] | 12:04 PM - October 11, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|Tensor Products II - Tensor products of bimodules]]                                                                   | 9:56 AM - October 11, 2024  |
 
 { .block-language-dataview}
 
