@@ -13,12 +13,12 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the four most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Daily class summaries\|here]].
 
-| Class Date                                                                               | Topics Covered                                                       |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-11\|2024-10-11]] | <ul><li>Free modules</li><li>Generators for modules</li></ul>        |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-10\|2024-10-10]] | <ul><li>Adjoints</li><li>Free modules</li></ul>                      |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-08\|2024-10-08]] | <ul><li>Adjoints</li></ul>                                           |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-07\|2024-10-07]] | <ul><li>Natural transformations</li><li>Functor categories</li></ul> |
+| Class Date                                                                               | Topics Covered                                                |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-14\|2024-10-14]] | <ul><li>Extending scalars</li><li>Tensor products</li></ul>   |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-11\|2024-10-11]] | <ul><li>Free modules</li><li>Generators for modules</li></ul> |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-10\|2024-10-10]] | <ul><li>Adjoints</li><li>Free modules</li></ul>               |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-08\|2024-10-08]] | <ul><li>Adjoints</li></ul>                                    |
 
 { .block-language-dataview}
 
@@ -28,7 +28,7 @@ Although the weekly assignments should be submitted digitally in Canvas, the ass
 
 | Assignment                                                                                               | Due Date           | Last Updated                |
 | -------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 3\|Homework 3]] | October 13, 2024   | 10:39 AM - October 07, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 3\|Homework 3]] | October 13, 2024   | 11:57 AM - October 14, 2024 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 2\|Homework 2]] | October 06, 2024   | 11:12 AM - October 09, 2024 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 1\|Homework 1]] | September 29, 2024 | 12:43 PM - October 07, 2024 |
 

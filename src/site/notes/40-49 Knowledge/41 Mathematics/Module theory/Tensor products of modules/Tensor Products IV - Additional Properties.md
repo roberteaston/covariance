@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-additional-properties/","tags":["module_theory"],"updated":"2024-10-12T16:02:54-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-additional-properties/","tags":["module_theory"],"updated":"2024-10-14T06:49:22-07:00"}
 ---
 
 This universal property of the tensor product can be used to prove many properties, the most important of which we list below. Proofs will be added at some point, but for now we will simply state (and allow ourselves to use) each property.

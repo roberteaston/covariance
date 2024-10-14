@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/examples-of-extending-scalars/","tags":["module_theory"],"updated":"2024-10-11T09:54:37-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/examples-of-extending-scalars/","tags":["module_theory"],"updated":"2024-10-14T10:09:00-07:00"}
 ---
 
 # Trivial extensions
