@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2024-10-14T06:56:43-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2024-10-15T06:56:59-07:00"}
 ---
 
 # Restriction of scalars
@@ -69,7 +69,7 @@ is a morphism of abelian groups with $H\leq \ker(f)$. We'll leave [[Dummit, Foot
 
 There is a (natural) $R$-module morphism $j:M\to U(S\otimes_R M)$ defined by $m\mapsto 1_S\otimes m$, where $U$ is the forgetful functor from $S\textbf{-Mod}$ to $R\textbf{-Mod}$. Since our tensor product involved taking a quotient group, it should not be expected that this morphism is injective. However, the module we created does possess the desired universal property, in that there is a natural bijection 
 
-$$tau_{M,N}:\displaystyle\operatorname{Hom}_{S\textbf{-Mod}}(S\otimes_R M, N)\xrightarrow{\sim} \operatorname{Hom}_{R\textbf{-Mod}}(M, U(N))$$
+$$\tau_{M,N}:\displaystyle\operatorname{Hom}_{S\textbf{-Mod}}(S\otimes_R M, N)\xrightarrow{\sim} \operatorname{Hom}_{R\textbf{-Mod}}(M, U(N))$$
 
 We'll add the details of this argument later, but for now we'll simply note that the construction follows from a universal property of the free ${\bf Z}$-module on $S\times M$, a universal property of quotient groups, and the fact that our subgroup $H$ of desired relations automatically is in the kernel of any module morphism to an $S$-module.
 

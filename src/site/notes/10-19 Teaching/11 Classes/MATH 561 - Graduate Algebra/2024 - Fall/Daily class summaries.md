@@ -6,6 +6,7 @@ Below you can find the complete list of daily class summaries, beginning with th
 
 | Class Date                                                                               | Topics Covered                                                                                                          |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-15\|2024-10-15]] | <ul><li>Tensor products</li><li>Extending scalars</li></ul>                                                             |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-14\|2024-10-14]] | <ul><li>Extending scalars</li><li>Tensor products</li></ul>                                                             |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-11\|2024-10-11]] | <ul><li>Free modules</li><li>Generators for modules</li></ul>                                                           |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-10\|2024-10-10]] | <ul><li>Adjoints</li><li>Free modules</li></ul>                                                                         |
