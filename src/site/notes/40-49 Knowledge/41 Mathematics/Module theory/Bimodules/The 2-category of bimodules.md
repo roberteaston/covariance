@@ -7,4 +7,4 @@ Very similar to the category of all matrices with entries in a fixed ring $R$, w
 > [!warning] Under construction
 > This section is currently under construction. For now, consider the material FORBIDDEN.
 
-![a skull with mathematical symbols engraved in it.png](/img/user/a%20skull%20with%20mathematical%20symbols%20engraved%20in%20it.png)
+![a skull with mathematical symbols engraved in it.png](/img/user/90-99%20Meta/91%20Images/a%20skull%20with%20mathematical%20symbols%20engraved%20in%20it.png)
