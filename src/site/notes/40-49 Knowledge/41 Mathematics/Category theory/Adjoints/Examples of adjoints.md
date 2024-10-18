@@ -40,7 +40,7 @@ For $U:R\textbf{-Mod}\to \textbf{Set}$, a left adjoint is the [[40-49 Knowledge/
 
 ### The tensor product functor
 
-For $U:R\textbf{-Mod}\to \textbf{Ab}$, a left adjoint is the [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|tensor product]] functor $A\mapsto R\otimes_{\bf Z} A$. The unit of the adjunction is $A\to U(R\otimes_{\bf Z} A)$ given by $a\mapsto 1\otimes a$. We will [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - Additional Properties\|also see]] the functor $U$ also has a right adjoint, namely the functor $A\mapsto \operatorname{Hom}_{\textbf{Ab}}(U(R),A).$
+For $U:R\textbf{-Mod}\to \textbf{Ab}$, a left adjoint is the [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|tensor product]] functor $A\mapsto R\otimes_{\bf Z} A$. The unit of the adjunction is $A\to U(R\otimes_{\bf Z} A)$ given by $a\mapsto 1\otimes a$. We will [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|also see]] the functor $U$ also has a right adjoint, namely the functor $A\mapsto \operatorname{Hom}_{\textbf{Ab}}(U(R),A).$
 
 ### The tensor algebra functor
 
