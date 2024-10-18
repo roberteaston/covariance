@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-additional-properties/","tags":["module_theory"],"updated":"2024-10-17T19:53:32-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-additional-properties/","tags":["module_theory"],"updated":"2024-10-18T06:55:13-07:00"}
 ---
 
 Our [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product#A universal property of tensor products\|universal property]] of the tensor product can be used to prove many properties, the most important of which we list below. Proofs will be added at some point, but for now we will simply state (and allow ourselves to use) each property.
@@ -10,7 +10,7 @@ We have properties similar to the basic properties of conventional multiplicatio
 ## Identity
 
 >[!summary] Proposition
->Suppose $M$ is an $(R,S)$-bimodule. If we consider the ring $R$ with its standard $(R,R)$-bimodule structure, then there is a isomorphism of $(R,S)$-modules
+>Suppose $M$ is an $(R,S)$-bimodule. If we consider the ring $R$ with its usual $(R,R)$-bimodule structure, then there is a isomorphism of $(R,S)$-modules
 >
 >$$R\otimes_R M\xrightarrow{\sim} M,$$
 >

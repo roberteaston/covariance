@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2024-10-17T19:53:47-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2024-10-18T06:52:07-07:00"}
 ---
 
 # Balanced maps
@@ -76,7 +76,7 @@ h(m_1+m_2)&=h_{m_1+m_2}\\
 \end{align*}$$
 Here we've used a dash ($-$) to indicate where the input (from $N$) would go. This is to minimize the number of parentheses involved, so that we don't have to write awkward things like $h(m)(n)$.
 
-Before we check the compatibilities with the ring actions, [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules#Other maps between bimodules\|recall]] how the abelian group $\operatorname{Hom}_T(N,P)$ was given the structure of an $(R,S$)-bimodule: the left $R$-action arose from the left $R$-action on $P$, while the right $S$-action arose from the left $S$-action on $N$. In terms of elements, if $f:N\to P$ is morphism of right $T$-modules, then for each $r\in R$ we defined the map $r\cdot f$ by
+Before we check the compatibilities with the ring actions, [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodule morphisms#More than just hom-sets\|recall]] how the abelian group $\operatorname{Hom}_T(N,P)$ was given the structure of an $(R,S$)-bimodule: the left $R$-action arose from the left $R$-action on $P$, while the right $S$-action arose from the left $S$-action on $N$. In terms of elements, if $f:N\to P$ is morphism of right $T$-modules, then for each $r\in R$ we defined the map $r\cdot f$ by
 $$(r\cdot f)(n)=r\cdot f(n),$$
 while for each $s\in S$ we defined $f\cdot s$ by
 $$(f\cdot s)(n)=f(sn).$$
