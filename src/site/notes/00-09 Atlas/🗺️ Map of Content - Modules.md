@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-modules/","updated":"2024-10-09T14:57:39-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-modules/","updated":"2024-10-18T08:40:24-07:00"}
 ---
 
 # Basic structures
@@ -33,7 +33,6 @@
 # Tensor product
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products I - Extending scalars\|Tensor Products I - Extending scalars]]
-[[Examples of extending scalars\|Examples of extending scalars]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|Tensor Products II - Tensor products of bimodules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product\|Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|Tensor Products IV - The Adjoint Property]]

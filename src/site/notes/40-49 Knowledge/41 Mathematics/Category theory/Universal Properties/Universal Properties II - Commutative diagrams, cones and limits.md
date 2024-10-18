@@ -155,4 +155,4 @@ When this limit exists, the limit object is usually called the **product** of $c
 ---
 ## Suggested next note
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]

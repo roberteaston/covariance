@@ -18,7 +18,7 @@ One can verify that $D^C$ does indeed satisfy the axioms of a category.
 ---
 # Examples
 
-The main examples most people stumble across are probably [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]] and presheaves (in algebraic geometry), but for now we will satisfy ourselves with some much simpler examples.
+The main examples most people stumble across are probably [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]] and presheaves (in algebraic geometry), but for now we will satisfy ourselves with some much simpler examples.
 
 ## Functors from the categories $\textbf{0}$ and $\textbf{1}$
 
@@ -42,4 +42,4 @@ This functor category is useful when studying pullbacks and pushforwards.
 
 ## Suggested next note
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]

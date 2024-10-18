@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/the-hom-out-functor-and-projective-modules/","tags":["module_theory"],"updated":"2024-03-06T13:54:55-08:00"}
 ---
 
-In light of [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]], for any fixed object $r$ in a category $C$, understanding the object $r$ is equivalent to understanding the functor $\operatorname{Hom}_C(r,-):C\to \textbf{Set}$.
+In light of [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]], for any fixed object $r$ in a category $C$, understanding the object $r$ is equivalent to understanding the functor $\operatorname{Hom}_C(r,-):C\to \textbf{Set}$.
 
 In the context of modules, this means that for any fixed $R$-module $D$ it is worthwhile to study the functor $\operatorname{Hom}_R(D,-)$. We have seen that for every $R$-module $N$ the set $\operatorname{Hom}_R(D,N)$ has a natural structure of an abelian group, so it makes sense to view $\operatorname{Hom}_R(D,N)$ as a functor from the category of $R$-modules to the category of abelian groups. We shall informally call this the "hom functor" of $D$, or more specifically the "hom-out functor" of $D$ (to contrast it with the "hom-in" functor $\operatorname{Hom}_R(-,D)$).
 

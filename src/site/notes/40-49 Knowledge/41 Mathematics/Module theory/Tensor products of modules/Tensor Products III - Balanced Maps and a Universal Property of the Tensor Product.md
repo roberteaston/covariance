@@ -56,7 +56,7 @@ Let's try the inverse direction. Suppose $g:M\times N\to P$ is an $S$-balanced b
 
 ## Categorical interpretation
 
-For each $(R,T)$-bimodule $P$, let $F(P)$ denote the set of bilinear, $S$-balanced $(R,T)$-set maps $g:U_1(M)\times U_2(N)\to U_3(P)$, where the $U_i$ are the appropriate forgetful functors to $\textbf{Set}$. One can check that $F$ is the object function of a functor $F:(R,T)\textbf{-Bimod}\to \textbf{Set}$. The universal property above can then be viewed as a natural isomorphism $\operatorname{Hom}_{(R,T)}(M\otimes_S N,-)\simeq F$. In view of [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Yoneda's Lemma\|Yoneda's Lemma]], this characterizes the bimodule $M\otimes_S N$ uniquely up to unique isomorphism.
+For each $(R,T)$-bimodule $P$, let $F(P)$ denote the set of bilinear, $S$-balanced $(R,T)$-set maps $g:U_1(M)\times U_2(N)\to U_3(P)$, where the $U_i$ are the appropriate forgetful functors to $\textbf{Set}$. One can check that $F$ is the object function of a functor $F:(R,T)\textbf{-Bimod}\to \textbf{Set}$. The universal property above can then be viewed as a natural isomorphism $\operatorname{Hom}_{(R,T)}(M\otimes_S N,-)\simeq F$. In view of [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]], this characterizes the bimodule $M\otimes_S N$ uniquely up to unique isomorphism.
 
 # Additional properties of the tensor product
 
