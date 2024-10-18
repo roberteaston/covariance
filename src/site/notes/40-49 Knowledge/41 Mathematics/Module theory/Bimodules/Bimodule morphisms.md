@@ -1,16 +1,24 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodule-morphisms/","tags":["#module_theory"],"updated":"2024-10-11T09:55:21-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodule-morphisms/","tags":["#module_theory"],"updated":"2024-10-17T19:41:19-07:00"}
 ---
 
 # Definition
 
+If you had to guess the definition of a bimodule morphism, you'd guess correctly:
+
 >[!note] Definition of bimodule morphism
 >If $M$ and $N$ are $(R,S)$-bimodules, then a set map $f:M\to N$ is a **bimodule morphism** if it is both a left $R$-module morphism and a right $S$-module morphism.
 
-Short and sweet.
+This is cheating slightly, of course. We should really say that a bimodule morphism $f:M\to N$ consists of the data of a set map $f:U(M)\to U(N)$ such that the following conditions hold:
+- $\phi(m_1+m_2)=\phi(m_1)+\phi(m_2)$, for all $m_1, m_2\in M$
+- $\phi(rm)=r\phi(m)$, for all $r\in R$ and $m\in M$
+- $\phi(ms)=\phi(m)s$, for all $s\in S$ and $m\in M$
+
+In any case, we can now talk about the *category* of $(R,S)$-bimodules. What should we denote this category? It's not completely agreed upon. Some people denote it $(R,S)\textbf{-Bimod}$. Others denote is $R\textbf{-Bimod-}S$, or even $R\textbf{-Mod-}S$. Choose your favorite, make sure it's clear, and stick with it.
+
+# More than just hom-sets
 
 As with $R$-modules, for any pair of $(R,S)$-bimodules $M$ and $N$, the set of bimodule morphisms between them has the structure of an abelian group (using the addition in $N$).
-# Other maps between bimodules
 
 There's a lot more to the story about bimodule morphisms, though. First suppose $M$ is an $(R,S)$-bimodule and $N$ is an $(R,S')$-bimodule. If we forget the right-actions and consider the left $R$-modules $M$ and $N$, we can consider the set of left $R$-module morphisms, $\operatorname{Hom}_R(M,N)$. This set actually has the structure of an $(S,S')$-bimodule, as follows.
 
@@ -28,6 +36,9 @@ In summary:
 >For each $(R,S)$-bimodule $M$ and $(R, S')$-bimodule $N$, the set of $\operatorname{Hom}_R(M,N)$ of left $R$-module morphisms between $M$ and $N$ (viewed as left $R$-modules) has the structure of an $(S,S')$-bimodule.
 >
 >Similarly, for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\operatorname{Hom}_S(M,N)$ of right $S$-module morphisms between $M$ and $N$ (viewed as right $S$-modules) has the structure of an $(R',R)$-bimodule.
+
+> [!question] A more careful approach?
+> We should really be careful here and use forgetful functors to move $M$ and $N$ into the category of left $R$-modules. Can you fill in the details?
 
 # Triples of bimodules and hom-sets
 

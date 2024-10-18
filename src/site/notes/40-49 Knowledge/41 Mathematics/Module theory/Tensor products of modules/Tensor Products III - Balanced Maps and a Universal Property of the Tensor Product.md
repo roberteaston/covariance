@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2024-10-15T10:28:33-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2024-10-17T19:53:47-07:00"}
 ---
 
 # Balanced maps
 
-Before we state the universal property of our tensor product construction, we first need to talk about a new class of map between bimodules.
+Before we state a universal property of our tensor product construction, we first need to talk about a new class of map between bimodules.
 
 We begin with a slight generalization of the notion of a bimodule, to simply a set $X$ endowed with a left $R$-action and right $S$-action for some rings $R$ and $S$, in a compatible way. In other words, we have set maps $R\times X\to X$ and $X\times S\to X$ such that $r\cdot (x\cdot s) = (r\cdot x)\cdot s$. Note that there are no "distributive" rules since the set $X$ is not assumed to have any binary operations. Also note that any $(R,S)$-bimodule $M$ can also be regarded as an $(R,S)$-set by simply forgetting the addtive operation in $M$.
 

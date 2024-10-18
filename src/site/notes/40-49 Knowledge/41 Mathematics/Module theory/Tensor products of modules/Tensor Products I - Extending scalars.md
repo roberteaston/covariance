@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2024-10-17T15:46:16-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2024-10-17T19:21:45-07:00"}
 ---
 
-# Extension of scalars?
+# Extension of scalars
 
 Suppose $N$ is an $S$-module and $R\subseteq S$ is a subring. By restricting the action of $S$ on $N$ to an action of $R$ on $N$, we can view $N$ as an $R$-module. You can verify this gives $N$ the structure of an $R$-module and in fact is the object function of a forgetful functor $S\textbf{-Mod}\to R\textbf{-Mod}$. Historically, this process was called the **restriction of scalars** from $S$ to $R$.
 
@@ -86,7 +86,7 @@ Why is this true? First observe that by the [[40-49 Knowledge/41 Mathematics/Mod
 
 This implies that $\ker(\eta_M)\subseteq \ker(f)$ as submodules of $M$, so by the [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules#^a050bb\|Isomorphism Theorems for Modules]] we have that $N/\ker(f)$ is a quotient of $N/\ker(\eta_M)$ (by the submodule $\ker(f)/\ker(\eta_M)$, specifically).
 
-# A general property of this tensor construction
+---
 
 Here is a general little property of our construction:
 
