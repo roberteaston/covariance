@@ -15,10 +15,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                       |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-21\|2024-10-21]] | <ul><li>Yoneda's lemma</li></ul>                                                     |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-18\|2024-10-18]] | <ul><li>Tensor products</li><li>Bimodules</li><li>Adjoints</li><li>Univers</li></ul> |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-17\|2024-10-17]] | <ul><li>Tensor products</li><li>Bimodules</li></ul>                                  |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-15\|2024-10-15]] | <ul><li>Tensor products</li><li>Extending scalars</li></ul>                          |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-14\|2024-10-14]] | <ul><li>Extending scalars</li><li>Tensor products</li></ul>                          |
 
 { .block-language-dataview}
 
