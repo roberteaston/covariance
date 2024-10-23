@@ -6,6 +6,7 @@ Below you can find the complete list of daily class summaries, beginning with th
 
 | Class Date                                                                               | Topics Covered                                                                                                          |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-22\|2024-10-22]] | <ul><li>Yoneda's lemma</li><li>Universal properties</li></ul>                                                           |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-21\|2024-10-21]] | <ul><li>Yoneda's lemma</li></ul>                                                                                        |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-18\|2024-10-18]] | <ul><li>Tensor products</li><li>Bimodules</li><li>Adjoints</li><li>Univers</li></ul>                                    |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-17\|2024-10-17]] | <ul><li>Tensor products</li><li>Bimodules</li></ul>                                                                     |
