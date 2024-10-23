@@ -301,6 +301,12 @@ Show that for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\ope
 > 
 > thus $r'\cdot (f_1+f_2)=r'\cdot f_1+r'\cdot f_2$.
 > 
+> Lastly, we should verify that $r'_1\cdot (r'_2\cdot f)=(r'_1r'_2)\cdot f$ for all $r'_1, r'_2\in R'$. To see this is true, observe that for every $m\in M$ we have
+> 
+> $(r'_1\cdot (r'_2\cdot f))(m)=r'_1\cdot ((r'_2\cdot f)(m)) = r'_1\cdot (r'_2\cdot f(m))=(r'_1r'_2)\cdot f(m) = (r'_1r'_2\cdot f)(m),$
+> 
+> where the second-to-last equality holds by the fact that we have a left $R'$-action on $N$.
+> 
 > ## The right $R$-module structure
 > 
 > We define the right $R$-module structure on $\operatorname{Hom}_S(M,N)$ using the left $R$-action on $M$, namely by defining $f\cdot r$ as the function given by $(f\cdot r)(m)=f(rm)$. We now repeat the same analysis as above to verify this is a well-defined right $R$-action on $\operatorname{Hom}_S(M,N)$.
@@ -329,6 +335,12 @@ Show that for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\ope
 > 
 > thus $(f_1+f_2)\cdot r = f_1\cdot r+f_2\cdot r$.
 > 
+> Finally, we should verify that $(f\cdot r_1)\cdot r_2 = f\cdot (r_1r_2)$ for all $r_1, r_2\in r$. To see this, observe that for every $m\in M$ we have
+> 
+> $((f\cdot r_1)\cdot r_2)(m)=(f\cdot r_1)(r_2m)=f(r_1(r_2m))=f((r_1r_2)m)=(f\cdot (r_1r_2))(m),$
+> 
+> where the second-to-last equality holds by the fact that we have a left $R$-action on $M$.
+> 
 > ## The bimodule condition
 > 
 > The last property we need to verify is that our two actions on $\operatorname{Hom}_S(M,N)$ are compatible. To that end, suppose $r'\in R$, $r\in R$, and $f\in \operatorname{Hom}_S(M,N)$. For every $m\in M$ we have
@@ -342,6 +354,8 @@ Show that for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\ope
 > Thus, we do indeed have $r'\cdot (f\cdot r)=(r'\cdot f)\cdot r$.
 > 
 > We've at last established $\operatorname{Hom}_S(M,N)$ does indeed have the structure of an $(R',R)$-bimodule.
+
+
 
 </div></div>
 
