@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/illustrative-examples/","tags":["module_theory"],"updated":"2024-10-22T11:26:04-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/illustrative-examples/","tags":["module_theory"],"updated":"2024-07-22T05:59:40-07:00"}
 ---
 
 ## Illustrative examples
