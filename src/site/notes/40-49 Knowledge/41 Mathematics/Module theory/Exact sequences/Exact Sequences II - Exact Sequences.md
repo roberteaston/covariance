@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-ii-exact-sequences/","tags":["module_theory"],"updated":"2024-10-28T12:30:34-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-ii-exact-sequences/","tags":["module_theory"],"updated":"2024-10-28T12:42:29-07:00"}
 ---
 
 The idea of a relationship between a pair of morphisms through a common object (in this case, a module $M$) leads more generally to the notion of an *exact sequence*.
@@ -97,7 +97,18 @@ A natural generalization of the notion of an exact sequence is that of a *chain 
 >
 >is called a **chain complex** if for every $n$ one has $\operatorname{im}(f_n)\subseteq \ker(f_{n+1})$; equivalently, if $f_{n+1}\circ f_n=0$ for every $n$.
 
-There is also a dual notion of a **chain complex**, but we will not worry about that distinction here. 
+Why generalize from exact sequences to chain complexes? Functors! Given any sequence of morphisms, say in the category of $R$-modules
+
+$$\cdots \xrightarrow{f_{n-2}} X_{n-1}\xrightarrow{f_{n-1}} X_n\xrightarrow{f_n} X_{n+1}\xrightarrow{f_{n+1}}\cdots$$
+
+and a functor $F$ (from that category to another, say to the category $\textbf{Ab}$ of abelian groups), functoriality guarantees we have a chain of morphisms
+
+$$\cdots \xrightarrow{F(f_{n-2})} F(X_{n-1})\xrightarrow{F(f_{n-1})} F(X_n)\xrightarrow{F(f_n)} F(X_{n+1})\xrightarrow{F(f_{n+1})}\cdots$$
+We will soon see that if the original sequence of morphisms is exact, the resulting sequence often will not be. That failure of exactness will actually be something we study in more detail.
+
+However, we will see that if the original sequence is a chain complex (which includes the case of an exact sequence), then the resulting sequence will at least still be a chain complex. So chain complexes seem like the right type of object to consider to make things categorical.
+
+In fact, if we define morphisms of chain complexes, then we could consider an actual [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|category of chain complexes]] ...
 
 ---
 

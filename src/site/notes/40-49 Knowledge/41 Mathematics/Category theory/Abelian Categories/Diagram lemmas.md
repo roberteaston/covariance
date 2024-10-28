@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2024-09-23T13:56:00-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2024-10-28T13:01:25-07:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]] (and the various mural maps) to quickly prove many of the named "diagram lemmas" one encounters in homological algebra (and elsewhere). This is just a sampling.
@@ -15,6 +15,8 @@ We can use the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categori
 >2. $\operatorname{im}(f)=\eta^{-1}(\operatorname{im}(g))$
 >   
 >In particular, if $f$ is a monomorphism then so is $g$; and if $g$ is an epimorphism then so is $f$.
+{ #8cd8d2}
+
 
 By the given assumptions, we can extend the given diagram to a double complex below, in which all columns are exact and the middle two rows are exact:
 <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsMTgsWzAsMiwiQSJdLFsxLDIsIkIiXSxbMiwyLCJDIl0sWzMsMiwiRCJdLFswLDMsIkEnIl0sWzEsMywiQiciXSxbMiwzLCJDJyJdLFszLDMsIkQnIl0sWzEsMSwiXFxrZXIoZikiXSxbMiwxLCJcXGtlcihnKSJdLFsxLDAsIjAiXSxbMiwwLCIwIl0sWzMsMSwiMCJdLFsxLDQsIkInL1xcb3BlcmF0b3JuYW1le2ltfShmKSJdLFsyLDQsIkMnL1xcb3BlcmF0b3JuYW1le2ltfShnKSJdLFsxLDUsIjAiXSxbMiw1LCIwIl0sWzAsNCwiMCJdLFswLDFdLFsxLDIsIlxceGkiXSxbMiwzXSxbNCw1XSxbNSw2LCJcXGV0YSJdLFs2LDddLFswLDQsIlxcdGF1Il0sWzEsNSwiZiJdLFsyLDYsImciXSxbMyw3LCJcXG51Il0sWzEwLDhdLFs4LDFdLFsxMSw5XSxbOSwyXSxbNCwxN10sWzUsMTNdLFsxMywxNV0sWzYsMTRdLFsxNCwxNl0sWzgsOSwiXFx4aVxcbWlkX3tcXGtlcihmKX0iXSxbOSwxMl0sWzEyLDNdXQ==&embed" width="400" height="400" style="border-radius: 8px; border: none; display: block; margin: auto"></iframe>
@@ -34,6 +36,8 @@ The second statement is proven analogously.
 >Then:
 >1. If $f_2$ and $f_4$ are epimorphisms and $f_5$ is a monomorphism, then $f_3$ is an epimorphism.
 >2. If $f_2$ and $f_4$ are monomorphisms and $f_1$ is an epimorphism, then $f_3$ is a monomorphism.
+{ #71068d}
+
 
 Note that as an immediate corollary, if $f_2$ and $f_4$ are isomorphisms and $f_1$ is an epimorphism and $f_5$ is a monomorphism, then $f_3$ is an isomorphism. This statement is sometimes called the "weak five lemma." By contrast, the above statement is called the "sharp five lemma."
 
@@ -56,6 +60,8 @@ Here's a [famous](https://youtu.be/aXBNPjrvx-I?si=4g9oBsprnb1UN6Xg) result:
 >$$\ker(f)\to\ker(g)\to\ker(h)\xrightarrow{\delta}\operatorname{coker}(f)\to \operatorname{coker}(g)\to\operatorname{coker}(h).$$
 >
 >The morphism $\delta$ is called the **connecting morphism**.
+{ #179f58}
+
 
 To prove this lemma, complete the given diagram to a double complex:
 <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsMjQsWzIsMiwiWF8xIl0sWzMsMiwiWF8yIl0sWzQsMiwiWF8zIl0sWzUsMiwiMCJdLFsxLDMsIjAiXSxbMiwzLCJZXzEiXSxbMywzLCJZXzIiXSxbNCwzLCJZXzMiXSxbMiwxLCJcXGtlcihmKSJdLFszLDEsIlxca2VyKGcpIl0sWzQsMSwiXFxrZXIoaCkiXSxbMSwyLCJcXGtlcihsKSJdLFs1LDMsIlxcb3BlcmF0b3JuYW1le2Nva2VyfShyKSJdLFsyLDQsIlxcb3BlcmF0b3JuYW1le2Nva2VyfShmKSJdLFszLDQsIlxcb3BlcmF0b3JuYW1le2Nva2VyfShnKSJdLFs0LDQsIlxcb3BlcmF0b3JuYW1le2Nva2VyfShoKSJdLFsyLDAsIjAiXSxbMywwLCIwIl0sWzQsMCwiMCJdLFsyLDUsIjAiXSxbMyw1LCIwIl0sWzQsNSwiMCJdLFswLDIsIjAiXSxbNiwzLCIwIl0sWzAsNSwiZiJdLFsxLDYsImciXSxbMiw3LCJoIl0sWzAsMSwibCJdLFsxLDJdLFs0LDVdLFs1LDZdLFs2LDcsInIiXSxbMiwzXSxbMTEsMF0sWzEzLDE0XSxbMTEsNF0sWzgsMF0sWzUsMTNdLFs5LDFdLFs2LDE0XSxbOCw5XSxbOSwxMF0sWzEwLDJdLFs3LDE1XSxbMywxMl0sWzcsMTJdLFsxNCwxNV0sWzE2LDhdLFsxNyw5XSxbMTgsMTBdLFsxMywxOV0sWzE0LDIwXSxbMTUsMjFdLFsyMiwxMV0sWzEyLDIzXV0=&embed" width="600" height="400" style="border-radius: 8px; border: none; display: block; margin: auto"></iframe>

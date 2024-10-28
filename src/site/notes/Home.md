@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">Before functoriality, people lived in caves.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                                                                                          | Last Updated                |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-28\|2024-10-28]]                                                                                                      | 12:33 PM - October 28, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]                                                | 12:30 PM - October 28, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Finite abelian groups are neither injective nor projective\|Finite abelian groups are neither injective nor projective]] | 12:23 PM - October 28, 2024 |
+| Note                                                                                                                                                                       | Last Updated               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]   | 1:26 PM - October 28, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]] | 1:06 PM - October 28, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]                                                                    | 1:01 PM - October 28, 2024 |
 
 { .block-language-dataview}
 
@@ -93,6 +93,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences I - Illustrative Examples\|Exact Sequences I - Illustrative Examples]]                                                                                              |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]                                                                                                        |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]]                                                                            |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]                                                                              |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]]                                                                                                                       |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]                                                                                                                                               |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Generators for modules and submodules\|Generators for modules and submodules]]                                                                                             |
@@ -115,10 +116,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product\|Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product]] |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|Tensor Products IV - The Adjoint Property]]                                                                                   |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/The 2-category of bimodules\|The 2-category of bimodules]]                                                                                                                                |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/The Hom-in functor and injective modules\|The Hom-in functor and injective modules]]                                                                                                |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/The Hom-out functor and projective modules\|The Hom-out functor and projective modules]]                                                                                            |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]]                                                                                               |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/The tensor product functor and flat modules\|The tensor product functor and flat modules]]                                                                                          |
 > 
 { .block-language-dataview}
 

@@ -113,4 +113,4 @@ The statement about bases follows from our explicit isomorphism (involving tenso
 ## Suggested next notes
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]
-[[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/The tensor product functor and flat modules\|The tensor product functor and flat modules]]
+[[The tensor product functor and flat modules\|The tensor product functor and flat modules]]
