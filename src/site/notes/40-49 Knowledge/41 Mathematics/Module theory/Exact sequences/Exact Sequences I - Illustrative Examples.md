@@ -56,4 +56,4 @@ One could reasonably hope that most (maybe even all?) properties of $M$ are enco
 
 ## Suggested next note
 
-[[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Short and Long Exact Sequences\|Exact Sequences II - Short and Long Exact Sequences]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]

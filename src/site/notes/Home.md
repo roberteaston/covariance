@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">Before functoriality, people lived in caves.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                                                                         | Last Updated               |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Short and Long Exact Sequences\|Exact Sequences II - Short and Long Exact Sequences]] | 7:01 AM - October 28, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences I - Illustrative Examples\|Exact Sequences I - Illustrative Examples]]                     | 6:56 AM - October 28, 2024 |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-24\|2024-10-24]]                                                                                     | 2:06 PM - October 24, 2024 |
+| Note                                                                                                                                                                                          | Last Updated                |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-28\|2024-10-28]]                                                                                                      | 12:33 PM - October 28, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]                                                | 12:30 PM - October 28, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Finite abelian groups are neither injective nor projective\|Finite abelian groups are neither injective nor projective]] | 12:23 PM - October 28, 2024 |
 
 { .block-language-dataview}
 
@@ -91,7 +91,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]]                                                                                       |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]                                                                                                                           |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences I - Illustrative Examples\|Exact Sequences I - Illustrative Examples]]                                                                                              |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Short and Long Exact Sequences\|Exact Sequences II - Short and Long Exact Sequences]]                                                                          |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]                                                                                                        |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]]                                                                            |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]]                                                                                                                       |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]                                                                                                                                               |
