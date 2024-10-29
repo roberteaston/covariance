@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/midterm-exam-solutions/","updated":"2024-10-28T13:57:10-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/midterm-exam-solutions/","updated":"2024-10-28T19:22:57-07:00"}
 ---
 
 ## Problem 1
