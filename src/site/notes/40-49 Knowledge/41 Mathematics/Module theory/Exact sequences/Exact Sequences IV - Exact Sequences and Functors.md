@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2024-10-29T14:48:21-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2024-10-29T15:36:37-07:00"}
 ---
 
 We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
@@ -44,7 +44,7 @@ Now onto the real matter at hand, which is exploring how this functor interacts 
 
 Notice that the $0$ on the far right of the sequence is gone! We have lost the "right end" of our exact sequence. Because of the above property, we say that the functor $\operatorname{Hom}_R(M,-):R\textbf{-Mod}\to \textbf{Ab}$ is **left exact**.
 
-We should prove this result. (PROOF COMING SOON)
+We should prove this result. (PROOF COMING SOON. MAYBE?)
 
 > [!question] Follow-up questions
 > 1. Do there exist $R$-modules $M$ for which the functor $\operatorname{Hom}_R(M,-)$ is **exact**, i.e., sends short exact sequences to short exact sequences?
@@ -107,7 +107,7 @@ For every object $r$ in a category $C$, we can consider the "hom-in" functor tha
 
 We now analyze the properties of this functor, in parallel with those of the hom-out functor.
 
-## The hom-in functor and direct products, sums
+## The hom-in functor and direct products
 
  How does the hom-in functor interact with direct products? At first glance, it seems somewhat differently than the hom-out functor:
 
@@ -207,9 +207,11 @@ We leave it to the motivated reader to prove the following:
 
 # The tensor product functor and flat modules
 
-Suppose $D$ is an $(R,S)$-bimodule. We can then consider the two possible functors corresponding to tensoring with $D$, namely the left tensor product functor $D\otimes_S -$ and the right tensor product functor $-\otimes_R D$. The first can be used as a functor from the category of $(S,T)$-bimodules to the category of $(R,T)$-bimodules (for any ring $T$); the latter can be used as a functor from the category of $(T,R)$-bimodules to the category of $(T,S)$-bimodules (for any ring $T$). Both functors will have similar properties, so we'll focus on the former.
+Suppose $M$ is an $(R,S)$-bimodule. We can then consider the two possible functors corresponding to tensoring with $M$, namely the left tensor product functor $M\otimes_S -$ and the right tensor product functor $-\otimes_R M$. The first can be used as a functor from the category of $(S,T)$-bimodules to the category of $(R,T)$-bimodules (for any ring $T$); the latter can be used as a functor from the category of $(T,R)$-bimodules to the category of $(T,S)$-bimodules (for any ring $T$). Both functors will have similar properties, so we'll focus on the former.
 
-## The tensor product and direct sums
+## The (left) tensor product functor and direct sums
+
+We have [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|already seen]] that the functor $M\otimes_S -$ is a left adjoint and hence commutes with colimits; e.g., commutes with direct sums:
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-the-adjoint-property/#690b7a" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -225,22 +227,43 @@ $M\otimes_S \left(\bigoplus_{i\in I} N_i\right)\simeq \bigoplus_{i\in I} \left(M
 
 ## The tensor product and exact sequences
 
->[!summary] The tensor product functor is right exact
->Let $D$ be an $(R,S)$-bimodule, and suppose we have a short exact sequence of $(R,T)$-bimodules
->$$0\to L\xrightarrow{f} M\xrightarrow{g} N\to 0.$$
->Then the corresponding sequence of $(R,T)$-bimodules
->$$D\otimes_S L\xrightarrow{1_D\otimes f} D\otimes_S M\xrightarrow{1_D\otimes g} D\otimes_S N \to 0$$
+> [!summary] The tensor product functor is right exact
+> Let $M$ be an $(R,S)$-bimodule,. Then for each short exact sequence of $(S,T)$-bimodules
+> 
+> $$0\to J\xrightarrow{f} K\xrightarrow{g} L\to 0,$$
+> 
+> the corresponding sequence of $(R,T)$-bimodules
+> 
+> $$M\otimes_S J\xrightarrow{1_M\otimes f} M\otimes_S K\xrightarrow{1_M\otimes g} M\otimes_S L \to 0$$
 >is exact.
 
-Notice that the $0$ on the far left of the sequence is gone! We have lost the "left end" of our exact sequence. Because of the above property, we say that the functor $D\otimes_S -$ is **right exact**.
+Notice that the $0$ on the far left of the sequence is gone! We have lost the "left end" of our exact sequence. Because of the above property, we say that the functor $M\otimes_S -$ is **right exact**.
 
-Is it ever the case that the functor $D\otimes_S -$ is **exact**, in other words sends short exact sequences to short exact sequences?
+We should prove the above fact. (COMING SOON?)
 
->[!note] Definition of a flat module
->An $S$-module $D$ is **flat** if for every short exact sequence of $S$-modules
->$$0\to L\xrightarrow{f} M\xrightarrow{g} N\to 0$$
->the corresponding sequence of abelian groups is also exact:
->$$0\to D\otimes_S L\xrightarrow{1_D\otimes f} D\otimes_S M\xrightarrow{1_D\otimes g} D\otimes_S N \to 0$$
+As with the previous two functors, we ask the following:
+
+> [!question] Follow-up questions
+> 1. Do there exists $(R,S)$-bimodules $M$ for which the functor $M\otimes_S -$ is exact?
+> 2. For a given short exact sequence $0\to J\xrightarrow{f} K\xrightarrow{g} L\to 0$, is there a way to "continue to left" the exact sequence $M\otimes_S J\xrightarrow{1_M\otimes f} M\otimes_S K\xrightarrow{1_M\otimes g} M\otimes_S L \to 0$?
+
+Once more, we defer investigating the second question and stick to the first.
+## Flat modules
+
+> [!note] Definition of a flat module
+> An $(R,S)$-bimodule $D$ is **flat** if for every short exact sequence of $(S,T)$-bimodules
+> 
+> $$0\to J\xrightarrow{f} K\xrightarrow{g} L\to 0$$
+> 
+> the corresponding sequence of $(T,R)$-bimodules is also exact:
+> 
+> $$0\to D\otimes_S J\xrightarrow{1_D\otimes f} D\otimes_S K\xrightarrow{1_D\otimes g} D\otimes_S L \to 0$$
+
+As a fun exercise, try repeating the analyses we made for the hom functors here, to see what it means for an $(R,S)$-bimodule to be flat.
+
+## Facts about flat modules
+
+Here is a nice fact about flat modules, at least when working with $R$-modules, i.e., $(R,\textbf{Z})$-bimodules:
 
 >[!summary] Projective modules are flat
 > Every projective $R$-module is also flat.
@@ -260,6 +283,9 @@ In particular, free modules are flat.
 
 ---
 
-## Suggested next note
+## Suggested next notes
 
-(coming soon)
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories\|Ab-categories]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|Chain complexes]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Noetherian modules\|Noetherian modules]]

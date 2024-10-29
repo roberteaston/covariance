@@ -43,9 +43,7 @@
 [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences I - Illustrative Examples\|Exact Sequences I - Illustrative Examples]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]]
-[[The Hom-in functor and injective modules\|The Hom-in functor and injective modules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]
-[[The tensor product functor and flat modules\|The tensor product functor and flat modules]]
 
 ---
 # Modules over a PID

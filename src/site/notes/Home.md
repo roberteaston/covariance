@@ -4,15 +4,15 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
+<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
 </div></div></span></p>
 
 # Recently updated notes
 
 | Note                                                                                                                                                                       | Last Updated               |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]   | 2:48 PM - October 29, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]   | 3:36 PM - October 29, 2024 |
 | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]] | 1:34 PM - October 29, 2024 |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-28\|2024-10-28]]                                                                                   | 1:09 PM - October 29, 2024 |
 
