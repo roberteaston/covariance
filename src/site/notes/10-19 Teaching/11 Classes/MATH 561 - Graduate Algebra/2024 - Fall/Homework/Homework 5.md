@@ -49,9 +49,16 @@ Prove:
 
 
 Let $R$ be a commutative ring (with unity) and let $M_1$ and $M_2$ be two $R$-modules. Prove that $M_1\oplus M_2$ is:
-1. injective if and only if both $M_1$ and $M_2$ are both injective
-2. projective if and only if both $M_1$ and $M_2$ are projective
+1. projective if and only if both $M_1$ and $M_2$ are projective
+2. injective if and only if both $M_1$ and $M_2$ are both injective
 3. flat if and only if both $M_1$ and $M_2$ are flat
+
+> [!info]- Hints
+> - You'll likely want to exploit the isomorphism $M_1\oplus M_2\simeq M_1\times M_2$
+> - Also recall that tensor product commutes with direct sum
+> - You might also want to note that for a pair of morphisms $\phi:N_1\to P_1$ and $\psi:N_2\to P_2$, there is an isomorphism $\ker(\phi\oplus \psi)\simeq \ker(\phi)\oplus \ker(\psi)$
+
+
 
 </div></div>
 
@@ -69,6 +76,17 @@ Let $R$ be a commutative ring (with unity) and let $M_1$ and $M_2$ be two $R$-mo
 Let $A$ be a nonzero finite abelian group. Prove that:
 1. $A$ is not projective
 2. $A$ is not injective
+
+> [!info]- Hints
+> - If you want to be sneaky, you can use [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors#^8dd436\|this]] characterization of projective modules and [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors#^fd1cd5\|this]] characterization of injective modules over a PID.
+> - If you would prefer a direct approach, consider the following strategy:
+> 	- Note that a direct summand of a projective/injective module is also projective/injective
+> 	- By the Fundamental Theorem of Finite Abelian Groups, $A$ has a direct summand of the form $\textbf{Z}_{p^k}$ for some prime $p$ and positive integer $k$
+> 	- By considering the short exact sequence below, you can show $\textbf{Z}_{p^k}$ is neither injective nor surjective:
+> 	  
+> 	  $0\to p^k\textbf{Z}_{p^{2k}}\to \textbf{Z}_{p^{2k}}\to \textbf{Z}_{p^k}\to 0$
+
+
 
 </div></div>
 

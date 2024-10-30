@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/midterm-exam-solutions/","updated":"2024-10-28T19:22:57-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/midterm-exam-solutions/","updated":"2024-10-30T14:19:48-07:00"}
 ---
 
 ## Problem 1
@@ -41,7 +41,9 @@
 > 
 > hence $\psi_{s+s'}=\psi_s+\psi_{s'}$. It is also an $R$-module morphism, since if $s=\displaystyle \sum_{i=1}^n r_ix_i$ then $r\cdot s =r\cdot \displaystyle \sum_{i=1}^n r_ix_i=\sum_{i=1}^n (rr_i)x_i$ and so for all $i$ we have
 > 
-> $$\psi_{r\cdot s}(x_i)=rr_i=r\cdot \psi_{s}(x_i),$$hence $\psi_{r\cdot s}=r\cdot \psi_s$. Thus, $\psi$ is indeed an $R$-module morphism.
+> $$\psi_{r\cdot s}(x_i)=rr_i=r\cdot \psi_{s}(x_i),$$
+> 
+> hence $\psi_{r\cdot s}=r\cdot \psi_s$. Thus, $\psi$ is indeed an $R$-module morphism.
 > 
 > Finally, observe that $\phi$ and $\psi$ are mutual inverses. For each $f\in\operatorname{Hom}_R(F(X),R),$ let $s=\displaystyle \sum_{i=1}^n f(x_i)x_i$. Then
 > 

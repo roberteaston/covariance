@@ -63,8 +63,14 @@ In this new notation, our construction of $S\otimes_R M$ has forced the relation
 
 ## The $S$-module structure on $S\otimes_R M$
 
-We have constructed the abelian group $S\otimes_R M$ to have an obvious $S$-action:$$\displaystyle s\left(\sum s_i\otimes m_i\right) := \sum ss_i\otimes m$$
-As with any action (or function) defined on a quotient group by a formula using a choice of coset representative, we should check that this action is well defined. In other words, we should really verify that for each $s\in S$ the map $f_s:F(S\times M)\to S\otimes_R F$ defined by $$\displaystyle f_s\left(\sum (s_i, m_i)\right) := \sum (ss_i,m_i)$$
+We have constructed the abelian group $S\otimes_R M$ to have an obvious $S$-action:
+
+$$\displaystyle s\left(\sum s_i\otimes m_i\right) := \sum ss_i\otimes m$$
+
+As with any action (or function) defined on a quotient group by a formula using a choice of coset representative, we should check that this action is well defined. In other words, we should really verify that for each $s\in S$ the map $f_s:F(S\times M)\to S\otimes_R F$ defined by
+
+$$\displaystyle f_s\left(\sum (s_i, m_i)\right) := \sum (ss_i,m_i)$$
+
 is a morphism of abelian groups with $H\leq \ker(f)$. We'll leave the details for now and instead move on to various properties of the $S$-module $S\otimes_R M$ we have created.
 
 # Properties of our construction

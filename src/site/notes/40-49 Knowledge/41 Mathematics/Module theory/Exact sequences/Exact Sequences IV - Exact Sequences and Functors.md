@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2024-10-29T19:52:37-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2024-10-30T14:12:50-07:00"}
 ---
 
 We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
@@ -80,6 +80,8 @@ Here are some facts about projective modules. I might include proofs of these at
 
 > [!summary] Characterization of projective modules
 > An $R$-module $P$ is projective if and only if it is a direct summand of a free $R$-module.
+{ #8dd436}
+
 
 One immediate consequence of the above fact is that the direct sum of two projective modules is again projective.
 
@@ -190,6 +192,8 @@ In the special case of modules over a principal ideal domain, there is an altern
 
 > [!summary] Characterization of injective modules over a PID
 > Suppose $R$ is a PID. In that case, an $R$-module $I$ is injective if and only if $rI=I$ for every nonzero $r\in R$.
+{ #fd1cd5}
+
 
 In particular, an abelian group is injective if and only if it's divisible. Also, when $R$ is a PID we can use the above fact to prove that any quotient of an injective $R$-module is injective.
 
