@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2024-10-11T06:53:24-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2024-10-30T15:39:56-07:00"}
 ---
 
 # Motivation
@@ -16,6 +16,7 @@ Let's try following this idea for modules, but this time filling in all of the d
 Let $R$ be a fixed ring and  $U:R\textbf{-Mod}\to \textbf{Set}$ be the forgetful functor from $R$-modules to sets. We will show there is a functor $F:\textbf{Set}\to R\textbf{-Mod}$ that associates to each set $X$ a "minimal" $R$-module $F(X)$ with a "free" property as described above. Specifically, to every $R$-module morphism $F(A)\to M$ there will correspond a unique set map $A\to U(M)$, and conversely. In other words, for every $R$-module $M$ and set $X$ there will be a natural bijection of sets
 
 $$\phi_{X,M}:\operatorname{Hom}_R(F(X), M)\xrightarrow{\sim}\operatorname{Hom}_{\textbf{Set}}(X, U(M)).$$
+
 Put more simply still, our functor $F$ will be a left adjoint to the forgetful functor $U$.
 
 Before we construct the functor $F$, let's take a minute to explain what it means for $\phi_{X,M}$ to be natural in $X$ and $M$. Naturality "in $M$" will mean that for every $R$-module morphism $f:M\to N$ we have a commutative diagram
@@ -39,9 +40,12 @@ Finally, we let $R$ act on the left of $F(X)$ by left multiplication of the coef
 
 In summary:
 
->[!tldr] The construction/definition of free modules
->Given a set $X$, the **free $R$-module on $X$** is the set $$F(X)=\left\{\sum_{x\in X}r_x x\mid r_x\in R,\, r_x=0_R\text{ for all but finitely many }x\right\}.$$
->The group operation in $F(X)$ is addition of coefficients, and the $R$-action is by left multiplication of coefficients.
+> [!tldr] The construction/definition of free modules
+> Given a set $X$, the **free $R$-module on $X$** is the set
+> 
+> $$F(X)=\left\{\sum_{x\in X}r_x x\mid r_x\in R,\, r_x=0_R\text{ for all but finitely many }x\right\}.$$
+> 
+> The group operation in $F(X)$ is addition of coefficients, and the $R$-action is by left multiplication of coefficients.
 
 One more observation (to be elaborated upon later): there is a "copy"^[More precisely, there is an injective set map from $X$ to the underlying set of elements of $F(X)$, i.e., there is a set map $X\to U(F(X))$. This is the unit of the [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|adjunction]].] of the set $X$ inside of the free module $F(X)$, obtained by identifying each element $x_0 \in X$ with the $R$-linear combination that has coefficient $1_R$ for $x_0$, and coefficient $0_R$ for all other $x\in X$. These specific linear combinations are the analogue in module theory of the standard basis vectors in linear algebra.
 
