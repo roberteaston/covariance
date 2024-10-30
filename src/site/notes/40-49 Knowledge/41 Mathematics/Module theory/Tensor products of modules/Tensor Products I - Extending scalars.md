@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2024-10-17T19:21:45-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2024-10-30T14:20:35-07:00"}
 ---
 
 # Extension of scalars

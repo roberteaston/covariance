@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" rel="noopener nofollow" class="external-link" href="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" target="_blank">Peter Freyd</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
 | Note                                                                                                                                                                                          | Last Updated               |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products I - Extending scalars\|Tensor Products I - Extending scalars]]                                   | 2:20 PM - October 30, 2024 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Midterm Exam Solutions\|Midterm Exam Solutions]]                                                                       | 2:19 PM - October 30, 2024 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Finite abelian groups are neither injective nor projective\|Finite abelian groups are neither injective nor projective]] | 2:17 PM - October 30, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]                      | 2:12 PM - October 30, 2024 |
 
 { .block-language-dataview}
 
