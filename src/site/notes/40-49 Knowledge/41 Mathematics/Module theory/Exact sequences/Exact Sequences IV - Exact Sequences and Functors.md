@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2024-10-29T15:36:37-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2024-10-29T19:52:37-07:00"}
 ---
 
 We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
@@ -207,7 +207,10 @@ We leave it to the motivated reader to prove the following:
 
 # The tensor product functor and flat modules
 
-Suppose $M$ is an $(R,S)$-bimodule. We can then consider the two possible functors corresponding to tensoring with $M$, namely the left tensor product functor $M\otimes_S -$ and the right tensor product functor $-\otimes_R M$. The first can be used as a functor from the category of $(S,T)$-bimodules to the category of $(R,T)$-bimodules (for any ring $T$); the latter can be used as a functor from the category of $(T,R)$-bimodules to the category of $(T,S)$-bimodules (for any ring $T$). Both functors will have similar properties, so we'll focus on the former.
+Suppose $M$ is an $(R,S)$-bimodule. For any ring $T$ and $(S,T)$-bimodule we can form the $(R,T)$-bimodule $M\otimes_S N$. Similarly, for any $(T,R)$-bimodule we can form the $(T,S)$-bimodule $N\otimes_R M$. In other words, for every ring $T$ we can consider the two possible functors corresponding to tensoring with $M$, namely the left tensor product functor $M\otimes_S -$ and the right tensor product functor $-\otimes_R M$. Both functors will have similar properties, so we'll focus on the former.
+
+> [!note] Unfortunate notation
+> It's a bit unfortunate that the notation $M\otimes_S -$ is ambiguous, as it doesn't specify the domain category for the functor. We really should write $M\otimes_S -:(S,T)\textbf{-Bimod}\to (R,T)\textbf{-Bimod}$, or update the tensor notation to give some reference to the ring $T$.
 
 ## The (left) tensor product functor and direct sums
 
@@ -228,7 +231,7 @@ $M\otimes_S \left(\bigoplus_{i\in I} N_i\right)\simeq \bigoplus_{i\in I} \left(M
 ## The tensor product and exact sequences
 
 > [!summary] The tensor product functor is right exact
-> Let $M$ be an $(R,S)$-bimodule,. Then for each short exact sequence of $(S,T)$-bimodules
+> Let $M$ be an $(R,S)$-bimodule. Then for each short exact sequence of $(S,T)$-bimodules
 > 
 > $$0\to J\xrightarrow{f} K\xrightarrow{g} L\to 0,$$
 > 
@@ -244,14 +247,14 @@ We should prove the above fact. (COMING SOON?)
 As with the previous two functors, we ask the following:
 
 > [!question] Follow-up questions
-> 1. Do there exists $(R,S)$-bimodules $M$ for which the functor $M\otimes_S -$ is exact?
+> 1. Do there exist $(R,S)$-bimodules $M$ for which the functor $M\otimes_S -$ is exact?
 > 2. For a given short exact sequence $0\to J\xrightarrow{f} K\xrightarrow{g} L\to 0$, is there a way to "continue to left" the exact sequence $M\otimes_S J\xrightarrow{1_M\otimes f} M\otimes_S K\xrightarrow{1_M\otimes g} M\otimes_S L \to 0$?
 
 Once more, we defer investigating the second question and stick to the first.
 ## Flat modules
 
 > [!note] Definition of a flat module
-> An $(R,S)$-bimodule $D$ is **flat** if for every short exact sequence of $(S,T)$-bimodules
+> An $(R,S)$-bimodule $D$ is **flat**^[Perhaps we should say *flat over $T$*?] if for every short exact sequence of $(S,T)$-bimodules
 > 
 > $$0\to J\xrightarrow{f} K\xrightarrow{g} L\to 0$$
 > 

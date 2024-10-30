@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-modules/","updated":"2024-10-18T08:40:24-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-modules/","updated":"2024-10-29T15:36:43-07:00"}
 ---
 
 # Basic structures
