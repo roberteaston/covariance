@@ -13,12 +13,12 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the four most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Daily class summaries\|here]].
 
-| Class Date                                                                               | Topics Covered                                                |
-| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-29-10\|2024-29-10]] | <ul><li>Exact sequences</li><li>Chain complexes</li></ul>     |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-28\|2024-10-28]] | <ul><li>Exact sequences</li><li>Chain complexes</li></ul>     |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-24\|2024-10-24]] | <ul><li>Exam review</li></ul>                                 |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-22\|2024-10-22]] | <ul><li>Yoneda's lemma</li><li>Universal properties</li></ul> |
+| Class Date                                                                               | Topics Covered                                               |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-31\|2024-10-31]] | <ul><li>Exact sequences</li><li>Projective modules</li></ul> |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-29-10\|2024-29-10]] | <ul><li>Exact sequences</li><li>Chain complexes</li></ul>    |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-28\|2024-10-28]] | <ul><li>Exact sequences</li><li>Chain complexes</li></ul>    |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-24\|2024-10-24]] | <ul><li>Exam review</li></ul>                                |
 
 { .block-language-dataview}
 

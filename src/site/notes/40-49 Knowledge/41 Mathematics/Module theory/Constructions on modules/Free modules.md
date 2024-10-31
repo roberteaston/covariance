@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2024-10-30T15:39:56-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2024-10-31T06:41:38-07:00"}
 ---
 
 # Motivation
