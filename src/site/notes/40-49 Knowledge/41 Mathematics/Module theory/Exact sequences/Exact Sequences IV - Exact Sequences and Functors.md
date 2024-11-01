@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2024-10-31T14:56:54-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2024-11-01T08:15:21-07:00"}
 ---
 
 We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
@@ -46,7 +46,7 @@ Notice that the $0$ on the far right of the sequence is gone! We have lost the "
 
 Let's prove the above result. To show exactness at $\operatorname{Hom}_R(M,J)$, we need to prove $f\circ -$ is an injective morphism of abelian groups. To that end, take any $\phi\in \ker(f\circ -)$; in other words, take any group morphism $\phi:M\to J$ such that $f\circ \phi:M\to K$ is the zero map. Then for all $m\in M$ we have $(f\circ \phi)(m) = 0_K$, hence $f(\phi(m))=0_K$. Since $f$ is injective, it follows that $\phi(m)=0_J$. As this was true for every $m\in M$, this proves $\phi$ is the zero map.
 
-We next prove exactness at $\operatorname{Hom}_R(M, K)$. We first note that since the original sequence is exact it is also a chain complex, and so $g\circ f  = 0$. It immediately follows that $(g\circ -)\circ (f\circ -) = (g\circ f)\circ - = 0 \circ - = 0$. In other words, our new sequence is also a chain complex. In particular, $\operatorname{im}(f\circ -)\subseteq \ker(g\circ -).
+We next prove exactness at $\operatorname{Hom}_R(M, K)$. We first note that since the original sequence is exact it is also a chain complex, and so $g\circ f  = 0$. It immediately follows that $(g\circ -)\circ (f\circ -) = (g\circ f)\circ - = 0 \circ - = 0$. In other words, our new sequence is also a chain complex. In particular, $\operatorname{im}(f\circ -)\subseteq \ker(g\circ -).$
 
 It therefore only remains to prove the reverse containment, namely that $ker(g\circ -)\subseteq \operatorname{im}(f\circ -)$. To that end, suppose $\psi\in \ker(g\circ -)$, i.e., we have a group morphism $\psi:M\to K$ such that $g\circ \psi: M\to L$ is the zero map. To define a map $\phi:M\to J$, take any $m\in M$. Then $g(\psi(m))= (g\circ \psi)(m) = 0(m) = 0$, so $\psi(m\)in \ker(g)$. Since $\ker(g)=\operatorname{im}(f)$, there exists some $j\in J$ with $f(j)=\psi(m)$. Define $\phi:M\to J$ by $\phi(m)=j$. Assuming this actually defines a group morphism, observe that $\phi$ has been constructed specifically so that $\psi = f\circ \phi$; indeed, for every $m\in M$ we have $\psi(m) = f(j) = f(\phi(m))$.
 
