@@ -256,7 +256,7 @@ $M\otimes_S \left(\bigoplus_{i\in I} N_i\right)\simeq \bigoplus_{i\in I} \left(M
 
 Notice that the $0$ on the far left of the sequence is gone! We have lost the "left end" of our exact sequence. Because of the above property, we say that the functor $M\otimes_S -$ is **right exact**.
 
-We should prove the above fact. (COMING SOON?)
+We should prove the above fact. For now, check out page 399 in Dummit & Foote.
 
 As with the previous two functors, we ask the following:
 
