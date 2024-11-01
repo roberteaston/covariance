@@ -4,11 +4,26 @@
 
 # Meeting notes
 
-```dataview
-TABLE without id file.link as "Meeting Date"
-FROM "50-59 Logs/52 Research meetings"
-SORT date DESC
-```
+| Meeting Date                                                                                            |
+| ------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-27\|REU Meeting - 2024-08-27]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-23\|REU Meeting - 2024-08-23]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-20\|REU Meeting - 2024-08-20]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-13\|REU Meeting - 2024-08-13]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-09\|REU Meeting - 2024-08-09]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-06\|REU Meeting - 2024-08-06]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-02\|REU Meeting - 2024-08-02]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-30\|REU Meeting - 2024-07-30]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-26\|REU Meeting - 2024-07-26]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-23\|REU Meeting - 2024-07-23]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-19\|REU Meeting - 2024-07-19]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-16\|REU Meeting - 2024-07-16]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-12\|REU Meeting - 2024-07-12]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-09\|REU Meeting - 2024-07-09]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-05\|REU Meeting - 2024-07-05]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-02\|REU Meeting - 2024-07-02]] |
+
+{ .block-language-dataview}
 
 ---
 
