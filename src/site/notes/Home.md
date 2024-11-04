@@ -10,11 +10,11 @@
 
 # Recently updated notes
 
-| Note                                                                                                                      | Last Updated                |
-| ------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 3:37 PM - November 01, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]                               | 3:33 PM - November 01, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]                                     | 3:33 PM - November 01, 2024 |
+| Note                                                                                                                                                                          | Last Updated                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                                                                       | 6:55 AM - November 04, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Tensor product of projective modules is projective\|Tensor product of projective modules is projective]] | 3:16 PM - November 02, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 6\|Homework 6]]                                                                      | 2:53 PM - November 02, 2024 |
 
 { .block-language-dataview}
 
@@ -26,10 +26,10 @@
 >Not to be confused with the general concept of *algebra* (abstract or otherwise), an [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras#^32e02b\|algebra]] is an algebraic structure similar to a [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules#^ac6884\|module]], only with two internal binary operations.
 > | Note                                                                                                                      | Last Updated                |
 > | ------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 3:13 PM - November 01, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 6:55 AM - November 04, 2024 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]                                 | 3:32 PM - November 01, 2024 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]                               | 3:33 PM - November 01, 2024 |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 3:37 PM - November 01, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 2:13 PM - November 02, 2024 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]                                     | 3:33 PM - November 01, 2024 |
 > 
 { .block-language-dataview}

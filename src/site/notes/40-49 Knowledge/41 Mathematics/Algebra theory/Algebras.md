@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/algebras/","tags":["algebra_theory"],"updated":"2024-11-01T15:13:05-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/algebras/","tags":["algebra_theory"],"updated":"2024-11-04T06:55:06-08:00"}
 ---
 
 We've seen how the notion of a ring acting on an abelian group leads to the structure of a [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|module]]. Can a ring act on another ring? Or, to phrase the question a bit differently, if a ring $R$ acts on a module $M$, is it possible for $M$ to have a second operation that's both compatible with the given $R$-action and makes $M$ into a ring? These two questions lead to the following two equivalent definitions of a structure known as an *algebra*.
@@ -26,12 +26,11 @@ $$f(r+r')=(r+r')\star 1_A = r\star 1_A+r'\star 1_A = f(r)+f(r').$$
 Finally, observe that
 
 $$\begin{align*}
-f(rr')&=f(r'r)\quad \text{(because $R$ is commutative)}\\
-&=(r'r)\star 1_A\\
-&= r'\star (r\star 1_A)\quad \text{(by the properties of the $R$-action on the module $A$)}\\
-&=r'\star f(r)\\
-&= r'\star (f(r)\cdot 1_A)\\
-&= f(r)\cdot (r'\star 1_A)\quad \text{(by compatibility of the $R$-action with the product in $A$)}\\
+f(rr')&=(rr')\star 1_A\\
+&= r\star (r'\star 1_A)\quad \text{(by the properties of the $R$-action on the module $A$)}\\
+&=r\star f(r')\\
+&= r\star (1_A\cdot f(r'))\\
+&= (r'\star 1_A)\cdot f(r')\quad \text{(by compatibility of the $R$-action with the product in $A$)}\\
 &=f(r)\cdot f(r')
 .\end{align*}$$
 

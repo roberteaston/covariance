@@ -101,7 +101,7 @@ Let $A$ be a nonzero finite abelian group. Prove that:
 
 
 
-Suppose $R$ is a commutative ring (with unity). Prove that:
+Suppose $R$ is a commutative ring. Prove that:
 1. the tensor product of two free $R$-modules is free
 2. the tensor product of two projective $R$-modules is projective
 
