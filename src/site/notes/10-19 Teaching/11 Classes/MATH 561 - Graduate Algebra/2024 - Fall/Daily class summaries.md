@@ -6,6 +6,7 @@ Below you can find the complete list of daily class summaries, beginning with th
 
 | Class Date                                                                               | Topics Covered                                                                                                          |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-04\|2024-11-04]] | <ul><li>Algebras</li></ul>                                                                                              |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-01\|2024-11-01]] | <ul><li>Injective modules</li><li>Flat modules</li></ul>                                                                |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-10-31\|2024-10-31]] | <ul><li>Exact sequences</li><li>Projective modules</li></ul>                                                            |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-10/2024-29-10\|2024-29-10]] | <ul><li>Exact sequences</li><li>Chain complexes</li></ul>                                                               |
