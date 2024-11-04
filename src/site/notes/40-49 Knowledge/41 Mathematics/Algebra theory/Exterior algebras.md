@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2024-11-01T15:32:49-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2024-11-04T13:56:40-08:00"}
 ---
 
 # Motivation
@@ -30,7 +30,10 @@ $$\bigwedge^{k} (M)=\mathcal{T}^k(M)/\mathcal{A}^k(M).$$
 
 This $R$-module is called the **$k^{\text{th}}$ exterior power** of $M$. Note that since $\mathcal{A}(M)$ is generated (as an ideal) by degree 2 homogenous elements, we have $\mathcal{A}^0(M)=\mathcal{A}^1 (M) = 0$ and hence have $\bigwedge^0(M)=R$ and $\bigwedge^1(M)=M$.
 
-## The alternating property
+> [!note] Notational note
+> Anecdotally, it seems common to drop the parentheses when dealing with the exterior algebra, and instead write simply $\bigwedge M$ and $\bigwedge^k M$. Dummit & Foote does *not* do this, however, so I have stuck with the parentheses here. (It also matches our notation for the tensor and symmetric algebras.)
+
+# The alternating property
 
 The multiplication in $\bigwedge (M)$ is given by
 
@@ -38,7 +41,7 @@ $$(m_1\wedge \cdots \wedge m_i)\wedge (m_1'\wedge \cdots \wedge m_j')=m_1\wedge 
 
 This is called the **wedge** (or **exterior**) **product**.
 
-This multiplication is alternating in the following sense. By construction, we have $m_1\wedge \cdots \wedge m_k = 0$ in $\bigwedge^k (M)$ whenever $m_i=m_{i+1}$ for any $i$. We claim that we then have anticommutativity for simple wedges; i.e., for every $m, m'\in M$ we have
+This multiplication is alternating in the following sense. By construction, we have $m_1\wedge \cdots \wedge m_k = 0$ in $\bigwedge^k (M)$ whenever $m_i=m_{i+1}$ for any $i$. We claim that we then have anti-commutativity for simple wedges; i.e., for every $m, m'\in M$ we have
 
 $$m\wedge m'=-(m'\wedge m).$$
 
@@ -53,7 +56,7 @@ $$(m\wedge m)+(m\wedge m')+(m'\wedge m)+(m'\wedge m')=0.$$
 The first and last wedges are zero by construction. The claim thus follows.
 
 > [!warning] Warning
-> This anticommutativity does *not* extend to arbitrary products. For example,
+> This anti-commutativity does *not* extend to arbitrary products. For example,
 > 
 > $$\begin{align*} m\wedge (n_1\wedge n_2)&=(m\wedge n_1)\wedge n_2\\ &=-(n_1\wedge m)\wedge n_2\\ &= - n_1\wedge (m\wedge n_2)\\&= n_1\wedge (n_2\wedge m)\\ &=(n_1\wedge n_2)\wedge m.\end{align*}$$
 > 
@@ -64,9 +67,17 @@ The first and last wedges are zero by construction. The claim thus follows.
 As with the tensor algebra and symmetric algebra functors, there is a functor from the category of $R$-modules to the category of those $R$-algebras $A$ with the property $a^2=0$ for all $a\in A$.
 
 > [!summary] A universal property of the symmetric algebra
-> Let $U:C\to R\textbf{-Mod}$ be the usual forgetful functor and let $(R\textbf{-Alg})_0$ be the category of $R$-algebras $A$ with the property that $a^2=0_A$ for every $a\in A$. Then there is a functor $\bigwedge:R\textbf{-Mod}\to (R\textbf{-Alg})_0$ and a natural bijection
+> Let $(R\textbf{-Alg})_0$ be the category of $R$-algebras $A$ with the property that $a^2=0_A$ for every $a\in A$, and let $U:(R\textbf{-Alg})_0\to R\textbf{-Mod}$ be the forgetful functor. Then there is a functor $\bigwedge:R\textbf{-Mod}\to (R\textbf{-Alg})_0$ and a natural bijection
 > 
 > $$\tau_{M,A}:\operatorname{Hom}_{(R\textbf{-Alg})_0}\left(\bigwedge (M),A\right)\xrightarrow{\sim} \operatorname{Hom}_{R\textbf{-Mod}}(M,U(A)).$$
+> 
+> In other words, the functor $\bigwedge$ is a left adjoint of the forgetful functor $U$.
+
+One last time, as with the tensor algebra and symmetric algebra functors, we can now deduce many properties of $\bigwedge (M)$:
+- It is an $R$-algebra (in which $a^2=0$ for all $a\in \bigwedge (M)$) that we can associate to the $R$-module $M$;
+- The construction is functorial, so that if $f:M\to N$ is an $R$-module morphism then there is a corresponding $R$-algebra morphism $\bigwedge (f):\bigwedge (M)\to \bigwedge (N)$;
+- The identity $R$-algebra morphism $\bigwedge (M)\to \bigwedge (M)$ corresponds to an $R$-module morphism $M\to U(\bigwedge (M))$. Classically, this is viewed as an inclusion $M\hookrightarrow \bigwedge (M)$. (This is a component of the unit of the adjunction.)
+- Since $\bigwedge$ is a left adjoint it commutes with all colimits; in particular, it commutes with coproducts (which again are called direct sums in these categories).
 
 # Examples
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-and-alternating-tensors/","tags":["algebra_theory"],"updated":"2024-11-02T14:13:49-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-and-alternating-tensors/","tags":["algebra_theory"],"updated":"2024-11-04T13:58:33-08:00"}
 ---
 
 # An action of the symmetric group on $\mathcal{T}^k(M)$
@@ -17,7 +17,7 @@ For example,
 $$(1,\,3,\,2)\cdot (m_1\otimes m_2\otimes m_3) = m_2\otimes m_3\otimes m_1.$$
 
 >[!note] Definition of symmetric and alternating tensors
->Suppose $R$ is a commutative ring (with unity) and $M$ is an $R$-module. An element $z\in \mathcal{T}^k(M)$ is called:
+>Suppose $R$ is a commutative ring and $M$ is an $R$-module. An element $z\in \mathcal{T}^k(M)$ is called:
 >- a **symmetric** $k$-tensor if $\sigma z=z$ for all $\sigma \in S_k$
 >- an **alternating** $k$-tensor if $\sigma z=\operatorname{sign}(\sigma)z$ for all $\sigma\in S_k$.
 
@@ -53,7 +53,7 @@ $$\operatorname{Alt}(z)=k!\cdot z.$$
 From these observations, it is not too difficult to prove the following:
 
 >[!summary] Proposition
->Suppose $R$ is a commutative ring (with unity) and $M$ is an $R$-module. If $k!$ is a unit in $R$, then there is an $R$-module isomorphism between $\mathcal{S}^k(M)$ (respectively, $\bigwedge^k (M)$) and the submodule of $\mathcal{T}^k(M)$ consisting of all symmetric $k$-tensors (respectively, alternating $k$-tensors).
+>Suppose $R$ is a commutative ring and $M$ is an $R$-module. If $k!$ is a unit in $R$, then there is an $R$-module isomorphism between $\mathcal{S}^k(M)$ (respectively, $\bigwedge^k (M)$) and the submodule of $\mathcal{T}^k(M)$ consisting of all symmetric $k$-tensors (respectively, alternating $k$-tensors).
 { #931c11}
 
 
