@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
 | Note                                                                                                                      | Last Updated                |
 | ------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 1:58 PM - November 04, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]                                 | 1:56 PM - November 04, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]                               | 1:45 PM - November 04, 2024 |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-05\|2024-11-05]]                                  | 2:16 PM - November 05, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 6:59 AM - November 05, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 6:59 AM - November 05, 2024 |
 
 { .block-language-dataview}
 
@@ -26,10 +26,10 @@
 >Not to be confused with the general concept of *algebra* (abstract or otherwise), an [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras#^32e02b\|algebra]] is an algebraic structure similar to a [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules#^ac6884\|module]], only with two internal binary operations.
 > | Note                                                                                                                      | Last Updated                |
 > | ------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 1:31 PM - November 04, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 6:59 AM - November 05, 2024 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]                                 | 1:56 PM - November 04, 2024 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]                               | 1:45 PM - November 04, 2024 |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 1:58 PM - November 04, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 6:59 AM - November 05, 2024 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]                                     | 1:45 PM - November 04, 2024 |
 > 
 { .block-language-dataview}
