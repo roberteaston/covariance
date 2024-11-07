@@ -78,6 +78,8 @@ At some point we should verify that this construction satisfies the claimed univ
    $$\{v_{i_1}\otimes v_{i_2}\otimes \cdots \otimes v_{i_k}\mid v_{i_j}\in \mathcal{B}\}.$$
    
    (When $k=0$, the basis is simply $\{1\}$.) In particular, $\mathcal{T}^k(V)$ is an $F$-vector space of dimension $n^k$.
+{ #e91163}
+
 
 ---
 
