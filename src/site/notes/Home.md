@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
+<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                      | Last Updated                |
-| ------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-05\|2024-11-05]]                                  | 2:16 PM - November 05, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 6:59 AM - November 05, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 6:59 AM - November 05, 2024 |
+| Note                                                                                        | Last Updated                |
+| ------------------------------------------------------------------------------------------- | --------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]   | 6:56 AM - November 07, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]] | 6:52 AM - November 07, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]       | 6:50 AM - November 07, 2024 |
 
 { .block-language-dataview}
 
@@ -27,10 +27,10 @@
 > | Note                                                                                                                      | Last Updated                |
 > | ------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 6:59 AM - November 05, 2024 |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]                                 | 1:56 PM - November 04, 2024 |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]                               | 1:45 PM - November 04, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]                                 | 6:56 AM - November 07, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]                               | 6:52 AM - November 07, 2024 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 6:59 AM - November 05, 2024 |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]                                     | 1:45 PM - November 04, 2024 |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]                                     | 6:50 AM - November 07, 2024 |
 > 
 { .block-language-dataview}
 

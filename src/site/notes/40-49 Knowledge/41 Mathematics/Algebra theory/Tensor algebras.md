@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/tensor-algebras/","tags":["algebra_theory"],"updated":"2024-11-04T13:45:14-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/tensor-algebras/","tags":["algebra_theory"],"updated":"2024-11-07T06:50:58-08:00"}
 ---
 
 # Motivation
@@ -25,7 +25,7 @@ Even without having seen the construction yet, such a property gives us a way to
 - It is an $R$-algebra that we can associate to the $R$-module $M$;
 - The construction is functorial, so that if $f:M\to N$ is an $R$-module morphism then there is a corresponding $R$-algebra morphism $\mathcal{T}(f):\mathcal{T}(M)\to \mathcal{T}(N)$;
 - $R$-algebra morphisms $\mathcal{T}(M)\to A$ are in natural bijection with $R$-module morphisms $M\to U(A)$.
-- The identity $R$-algebra morphism $\mathcal{T}(M)\to \mathcal{T}(M)$ corresponds to an $R$-module morphism $M\to U(\mathcal{T(M)})$. Classically, this is viewed as an inclusion $M\hookrightarrow \mathcal{T}(M)$. (This is really a component of the unit of the adjunction.)
+- The identity $R$-algebra morphism $\mathcal{T}(M)\to \mathcal{T}(M)$ corresponds to an $R$-module morphism $M\to U(\mathcal{T(M)})$. Classically, this is viewed as an inclusion $M\hookrightarrow \mathcal{T}(M)$ onto the degree 1 summand. (This is really a component of the unit of the adjunction.)
 - Since $\mathcal{T}$ is a left adjoint it commutes with all colimits; in particular, it commutes with coproducts (which in these categories are called direct sums). In other words $\mathcal{T}(\bigoplus_{x\in X} M_x)\simeq \bigoplus_{x\in X}\mathcal{T}(M_x)$.
 # The construction
 

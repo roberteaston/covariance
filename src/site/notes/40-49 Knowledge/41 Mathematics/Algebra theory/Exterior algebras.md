@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2024-11-04T13:56:40-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2024-11-07T06:56:34-08:00"}
 ---
 
 # Motivation
@@ -76,7 +76,7 @@ As with the tensor algebra and symmetric algebra functors, there is a functor fr
 One last time, as with the tensor algebra and symmetric algebra functors, we can now deduce many properties of $\bigwedge (M)$:
 - It is an $R$-algebra (in which $a^2=0$ for all $a\in \bigwedge (M)$) that we can associate to the $R$-module $M$;
 - The construction is functorial, so that if $f:M\to N$ is an $R$-module morphism then there is a corresponding $R$-algebra morphism $\bigwedge (f):\bigwedge (M)\to \bigwedge (N)$;
-- The identity $R$-algebra morphism $\bigwedge (M)\to \bigwedge (M)$ corresponds to an $R$-module morphism $M\to U(\bigwedge (M))$. Classically, this is viewed as an inclusion $M\hookrightarrow \bigwedge (M)$. (This is a component of the unit of the adjunction.)
+- The identity $R$-algebra morphism $\bigwedge (M)\to \bigwedge (M)$ corresponds to an $R$-module morphism $M\to U(\bigwedge (M))$. Classically, this is viewed as an inclusion $M\hookrightarrow \bigwedge (M)$ onto the degree 1 component. (This is a component of the unit of the adjunction.)
 - Since $\bigwedge$ is a left adjoint it commutes with all colimits; in particular, it commutes with coproducts (which again are called direct sums in these categories).
 
 # Examples
@@ -97,7 +97,7 @@ One last time, as with the tensor algebra and symmetric algebra functors, we can
    
    When $k=n$, the $F$-vector space $\bigwedge^n (V)$ is one-dimensional with basis vector $v_1\wedge v_2\wedge \cdots \wedge v_n$ and
    
-   $$\bigwedge^n(\phi)(v_1\wedge \cdots \wedge v_n)=\phi(v_1)\wedge \cdots \phi(v_n) = D(\phi)\cdot (v_1\wedge \cdots v_n)$$
+   $$\bigwedge^n(\phi)(v_1\wedge \cdots \wedge v_n)=\phi(v_1)\wedge \cdots  \wedge\phi(v_n) = D(\phi)\cdot (v_1\wedge \cdots v_n)$$
    
    for some scalar $D(\phi)\in F$. One can verify that this function $D$ satisfies the three axioms for a determinant function and hence $D(\phi)=\det(\phi)$.
 

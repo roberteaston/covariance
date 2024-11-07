@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-algebras/","tags":["algebra_theory"],"updated":"2024-11-04T13:45:43-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-algebras/","tags":["algebra_theory"],"updated":"2024-11-07T06:52:37-08:00"}
 ---
 
 # Motivation
@@ -25,7 +25,7 @@ As with any object satisfying a universal property, we can now deduce many prope
 - It is a commutative $R$-algebra we can associate to the $R$-module $M$;
 - The construction is functorial, so that if $f:M\to N$ is an $R$-module morphism then there is a corresponding $R$-algebra morphism $\mathcal{S}(f):\mathcal{S}(M)\to \mathcal{S}(N)$;
 - There is a natural bijection between $R$-algebra morphisms to commutative $R$-algebras $\mathcal{S}(M)\to A$ and $R$-module morphisms $M\to U(A)$.
-- The identity $R$-algebra morphism $\mathcal{S}(M)\to \mathcal{S}(M)$ corresponds to an $R$-module morphism $M\to U(\mathcal{S}(M))$. Classically, this is viewed as an inclusion $M\hookrightarrow \mathcal{S}(M)$. (This is a component of the unit of the adjunction.)
+- The identity $R$-algebra morphism $\mathcal{S}(M)\to \mathcal{S}(M)$ corresponds to an $R$-module morphism $M\to U(\mathcal{S}(M))$. Classically, this is viewed as an inclusion $M\hookrightarrow \mathcal{S}(M)$ onto the degree 1 component. (This is a component of the unit of the adjunction.)
 - Since $\mathcal{S}$ is a left adjoint it commutes with all colimits; in particular, it commutes with coproducts (which again are called direct sums in these categories).
 # The construction
 
