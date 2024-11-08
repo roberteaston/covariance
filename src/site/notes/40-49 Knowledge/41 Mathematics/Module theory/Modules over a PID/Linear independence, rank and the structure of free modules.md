@@ -1,0 +1,139 @@
+---
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/linear-independence-rank-and-the-structure-of-free-modules/","tags":["module_theory"],"updated":"2024-11-08T09:52:45-08:00"}
+---
+
+# Linear dependence in modules
+
+The [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Modules over a PID - The Fundamental Theorem\|fundamental structure theorem for modules over a PID]] is a direct sum decomposition of each module into a free part and a torsion part. To understand both parts, it helps to look more closely at the ideas of linear (in)dependence and rank.
+
+Let's start with linear dependence, which is exactly as you might guess.
+
+> [!note] Definition of linear dependence
+> Let $M$ be a left $R$-module. A set of elements $\{m_1,\ldots , m_k\}\subseteq M$ is **$R$-linearly dependent** if there exist $r_1,\ldots, r_k\in R$ (not all zero) such that
+> 
+> $$r_1m_1+\cdots +r_km_k=0_M.$$
+
+This matches the usual definition of linear dependence in vector spaces. Moreover, if we think of vector spaces as the model example of free modules, then we also have the usual result about dependence:
+
+> [!summary] Rank bounds the number of linearly independent elements
+> Let $R$ be an integral domain and $M$ be a free $R$-module of finite rank $n$. Then any set of more than $n$ elements in $M$ is $R$-linearly dependent.
+{ #19df8e}
+
+
+Let's prove this result. The assumption that $R$ is an integral domain will allow us to embed $M$ into an $F$-vector space, at which point the result will quickly follow.
+
+In detail, let $S\subseteq M$ be any subset of more than $n$ elements and let $F=\operatorname{Frac}(R)$ be the field of fractions of $R$. We have an $R$-module isomorphism $\displaystyle M\simeq \bigoplus_{i=1}^n R\simeq R^n$ and also an injective $R$-module morphism $R\hookrightarrow F$ (since $R$ is an integral domain), so we also have an injective $R$-module morphism $\displaystyle M\hookrightarrow \bigoplus_{i=1}^n F\simeq F^n$. Then (the image of ) $S$ is a set of more than $n$ elements in the $n$-dimensional $F$-vector space $F^n$ and hence must be $F$-linearly dependent. For any nontrivial $F$-linear dependence relation among the elements in $S$, clearing denominators yields a nontrivial $R$-linear dependence relation among the elements in $S$. Thus, the set $S$ is $R$-linearly dependent.
+
+# Rank of a module
+
+Now that we have a notion of linear dependence, we can define a notion of **rank**:
+
+> [!note] Definition of rank of a module
+> Let $R$ be an integral domain and $M$ be an $R$-module. The **rank** of $M$ is the maximum^[If we're being pedantic, we should probably use something like a supremum, to allow for modules of infinite rank.] number of $R$-linearly independent elements in $M$.
+{ #bef251}
+
+
+When $M$ is a free $R$-module, this notion of rank agrees with our previous notion; i.e., if $M\simeq F(\{x_1, \ldots, x_n\})$ then $M$ has rank $n$. When $R=F$ is a field, this notion of rank matches the dimension of an $F$-module $M$ as a vector space.
+
+For a general integral domain, however, an $R$-module of rank $n$ need not have a "basis." Even if $M$ is torsion free, it still might not be a free $R$-module. For example, you can show that when a ring $R$ is considered as an $R$-module, an ideal $I\subseteq R$ is a free $R$-module exactly when it is principal. So for example, in the ring ${\bf Z}[x]$ the ideal $I=(2,x)$ is not principal and hence not a free ${\bf Z}[x]$-module. The ring ${\bf Z}[x]$ is an integral domain, though, so $I$ is torsion free.
+
+# The structure of free modules over a PID
+
+Before we can determine the general structure of modules over a PID, we must first understand the structure of free modules over a PID. More specifically, we would like to know understand the submodules of a free module and how bases for submodules relate to bases for the module.
+
+> [!summary] The structure of free modules over a PID
+> Let $R$ be a principal ideal domain and $M$ be a free $R$-module of finite rank $k$. For every submodule $N$ of $M$:
+> 1. $N$ is free of rank $l\leq k$; and
+> 2. there exists a basis $\{m_1,\ldots, m_k\}$ for $M$ and nonzero elements $a_1,\ldots, a_l\in R$ such that $\{a_1m_1,\ldots, a_lm_l\}$ is a basis for $N$ and^[This should be read as divisibility relations; i.e., $a_1$ divides $a_2$, and $a_2$ divides $a_3$, etc.]
+>    
+>    $$a_1\mid a_2\mid \cdots \mid a_l.$$
+{ #6b70c5}
+
+
+Let's walk through the proof of this one. If $N$ is the trivial submodule then its rank is 0 and its basis is the empty set, so there's nothing to prove. Now suppose $N$ is nontrivial. We'll break this long proof until manageable subsections.
+
+## The general idea
+
+The general idea of the proof is to create a direct sum decomposition $M=(m_1)\oplus \cdots \oplus (m_k)$ that also induces a direct sum decomposition $N=(a_1m_1)\oplus \cdots \oplus (a_lm_l)$ with the prescribed properties. One of those properties (the divisibility condition on the $a_i$) tells us that $a_1$ should be the "smallest" element among the $a_i$; i.e., correspond to the largest ideal $(a_1)\subseteq R$ among the ideals $(a_i)\subseteq R$. So that's where we begin: by looking for a projection from $M\to R$ for which the image of $N$ is the largest possible ideal of $R$ (obtainable from $N$).
+
+We begin by fixing a temporary basis $\{m_1',\ldots, m_k'\}$ for $M$. This is equivalent to fixing an $R$-module isomorphism $M\simeq F(\{x_1,\ldots, x_k\})\simeq R\oplus\cdots\oplus R\simeq R^k$. This also allows us to define the $R$-module projection morphisms $\pi_i:M\to R$. Using these projections, each element $m\in M$ can be written uniquely as
+
+$$m=\sum_{i=1}^k \pi_i(m)m_i'.$$
+
+We will use this later in the proof.
+
+## Finding the element $a_1$
+
+Note that for every $R$-module morphism $\phi:M\to R$ the image $\phi(N)$ of $N$ is a submodule of $R$, i.e., an ideal of $R$. Since $R$ is a PID this ideal is principal, say $\phi(N)=(a_{\phi})$ for some $a_{\phi}\in R$. Now consider the collection $S$ of all such principal ideals in $R$ that are also nontrivial:
+
+$$S=\{(a_{\phi})\mid \phi\in\operatorname{Hom}_R(M,R),\, a_{\phi}\neq 0\}.$$
+
+We first note that this collection is nonempty:  since $N$ is not the trivial submodule, for at least one of the projection morphisms $\pi_i:M\to R$ the image $\pi_i(N)$ must be nontrivial, otherwise we would have for all $n\in N$
+
+$$n=\sum_{i=1}^k \pi_i(n)m_i' = \sum_{i=1}^k 0_R m_i' = 0.$$
+
+
+Since $R$ is [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Noetherian modules#^6e597a\|Noetherian]] the collection $S$ has at least one maximal element. In other words there is an $R$-module morphism $\nu:M\to R$ so that the principal ideal $\nu(N)=(a_{\nu})$ is not properly contained in any other element of $S$.^[This does not mean $(a_{\nu})$ is maximal among all ideals of $R$.] Let $a_1=a_{\nu}$ and $n_1\in N$ be any element with $\nu(n_1)=a_1$. Note that $a_1\neq 0$ by the definition of $S$.
+
+## Constructing the element $m_1$
+
+Our next goal is to construct an element $m_1\in M$ so that $\nu(m_1)=1_R$. Intuitively, we already have $\nu(n_1)=a_1$ and so it would be nice to simply take $m_1=a_1^{-1}n_1$. We would then have $\nu(m_1)=\nu(a_1^{-1}n_1)=a_1^{-1}\nu(n_1)=a_1^{-1}a_1=1_R$. However, there is no guarantee that the element $a_1\in R$ is actually invertible. We only know that it is nonzero and that $R$ is a PID (and not necessarily a field). So we need to be a little bit tricky.
+
+We first show $a_1$ divides $\phi(n_1)$ for every $R$-module morphism $\phi:M\to R$. To see this, fix some $R$-module morphism $\phi:M\to R$ and let $I=(a_1, \phi(n_1))$ be the ideal generated by $a_1$ and $\phi(n_1)$. Since $R$ is a PID this ideal is principal, so $I=(d)$ for some $d\in R$. We can then write $d=r_1a_1+r_2\phi(n_1)$ for some $r_1, r_2\in R$. But now consider the $R$-module morphism $\psi:M\to R$ defined by $\psi=r_1\nu+r_2\phi$. By construction we have $\psi(n_1)=r_1\nu(n_1)+r_2\phi(n_1)=r_1a_1+r_2\phi(n_1)=d$, so that $d\in \psi(N)$ and hence $(d)\subseteq \psi(N)$. But we also have $(a_1)\subseteq (d)\subseteq \psi(N)$ so by the maximality of $(a_1)$ we must have equality: $(a_1)=(d)=\psi(N)$. This prove $(a_1)=(d)$ and hence $\phi(n)\in (a_1)$; i.e., $a_1$ divides $\phi(n_1)$.
+
+We now apply the above property to the projection morphism $\pi_i:M\to R$, and so we see that $a_1$ divides $\pi_i(n)$ for each $i=1,\ldots, k$. Write $\pi_i(n_1)=a_1b_i$ for some $b_i\in R$ and define
+
+$$m_1=\sum_{i=1}^k b_im_i'.$$
+
+By construction we have
+
+$$a_1m_1 =\sum_{i=1}^k a_1b_im_i'=\sum_{i=1}^k \pi_i(n_1)m_i'=n_1.$$
+
+We therefore have that $a_1 = \nu(n_1) = \nu(a_1m_1)=a_1\nu(m_1)$ and hence (since $a_1$ is nonzero and $R$ is an integral domain)
+$$\nu(m_1)=1_R.$$
+## Verifying $m_1$ can be part of a basis for $M$
+
+We will now verify that $m_1$ can be taken as one element in a basis for $M$ and that $a_1m_1$ can be taken as one element in a basis for $N$. First, let $m\in M$ be an arbitrary element and write
+
+$$m=\nu(m)m_1+(m-\nu(m)m_1).$$
+
+Note that
+
+$$\nu(m-\nu(m)m_1)=\nu(m)-\nu(m)\nu(m_1)=\nu(m)-\nu(m)\cdot 1_R = 0_R$$
+
+and so $m-\nu(m)m_1$ is in the kernel of $\nu:M\to R$. This shows that we at least have $M=(m_1)+\ker(\nu)$. To see that this is a direct sum decomposition, suppose $rm_1\in\ker(\nu)$ for some $r\in R$. Then
+
+$$0_R = \nu(rm_1)=r\nu(m_1)=r\cdot 1_R = r.$$
+
+Thus, we do indeed have $(m_1)\cap \ker(\nu)=(0)$ and hence we have a direct sum decomposition $M=(m_1)\bigoplus \ker(\nu)$. This implies that $m_1$ can indeed be taken as one element in a basis for $M$.
+
+## Verifying $a_1m_1$ can be part of a basis for $N$
+
+Observe that for every $n'\in N$ the element $\nu(n')$ is divisible by $a_1$ (since $a_1$ generates the ideal $\nu(N)$). So given any $n'\in N$ we can write $\nu(n')=ba_1$ for some $b\in R$. Then we can write
+
+$$\begin{align*} n'&=\nu(n')m_1+(n-\nu(n')m_1)\\ &= ba_1m_1+(n'-ba_1m_1).\end{align*}$$
+
+By the same computation as above, the second term in the above sum is an element of $N$ that is in the kernel of $\nu$:
+
+$$\nu(n'-ba_1m_1)=\nu(n')-ba_1\nu(m_1)=ba_1-ba_1\cdot 1_R=ba_1-ba_1=0_R.$$
+
+We therefore have $N=(a_1m_1)+(N\cap \ker(\nu))$, and once again the trivial intersection between those two submodules proves this is a direct sum decomposition, $N=(a_1m_1)\oplus (N\cap \ker(\nu))$. This implies $a_1m_1$ can indeed be taken as one element in a basis for $N$.
+
+## Proving $N$ is free of rank no more than $k$
+
+We now prove $N$ is free of rank $l\leq k$, by induction on $l$. (Recall that the rank of $N$ is [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules#^bef251\|defined]] as the maximum number of linearly independent elements in $N$.)
+
+If $l=0$, then for every $n\in N$ the set $\{n\}$ is $R$-linearly dependent; i.e., $rn=0_N$ for some nonzero $r\in R$. But $N$ is a submodule of the free $R$-module $M$, which is torsion free, so we must have $n=0$. This implies $N=(0)$ is the trivial submodule, a contradiction to our running assumption that $N$ is nontrivial.
+
+Now assume that the rank of $N$ is $l>0$ and that all submodules of $M$ of rank less than $l$ are free. In our direct sum decomposition $N=(a_1m_1)\bigoplus (N\cap \ker(\nu))$, the submodule $N\cap\ker(\nu)$ has rank $l-1$ and hence by our induction hypothesis is free. By the direct sum decomposition, adjoining $a_1m_1$ to any basis for $N\cap \ker(\nu)$ gives a basis for $N$, so $N$ is also free (of rank $l$).
+
+## Proving property (2) of the proposition
+
+Finally, we prove property (2) of the proposition by induction on the rank $k$ of $M$. Applying property (1) to the submodule $\ker(\nu)$ shows that this submodule is free, and because of the direct sum decomposition $M=(m_1)\oplus \ker(\nu)$ and the fact that $M$ is of rank $k$, the submodule $\ker(\nu)$ is of rank $k-1$. By our induction hypothesis applied to $M'=\ker(\nu)$ with the submodule $N'=\ker(\nu)\cap  N$, we see that there is a basis $\{m_2,\ldots, m_k\}$ for $\ker(\nu)$ and elements $a_2,\ldots, a_l\in R$ such that $\{a_2m_2,\ldots, a_lm_l\}$ is a basis for $\ker(\nu)\cap N$ and $a_2\mid a_3\mid \cdots \mid a_l$. The direct sum decompositions $M=(m_1)\oplus \ker(\nu)$ and $N=(a_1m_1)\oplus (\ker(\nu)\cap N)$ then imply that $\{m_1,m_2,\ldots , m_k\}$ is a basis for $M$ and $\{a_1m_1,a_2m_2,\ldots, a_lm_l\}$ is a basis for $N$.
+
+The only property left to verify, then, is that $a_1$ divides $a_2$. To prove this, use the fact that $\{m_1,\ldots, m_k\}$ is a basis for the free $R$-module $M$ to define an $R$-module morphism $\phi:M\to R$ with $\phi(m_1)=\phi(m_2)=1_R$ and $\phi(m_i)=0_R$ for $i>2$. Then for this morphism $\phi$ we have $\phi(a_1m_1)=a_1$ and so $(a_1)\subseteq \phi(N)$. By the maximality of $(a_1)$ in the family $S$ it follows that $(a_1)=\phi(N)$. Since $a_2=\phi(a_2m_2)\in \phi(N)$ we then have $a_2\in (a_1)$; i.e., $a_1$ divides $a_2$.
+
+---
+## Suggested next note
+
+[[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Modules over a PID - The Fundamental Theorem\|Modules over a PID - The Fundamental Theorem]]
