@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-and-alternating-tensors/","tags":["algebra_theory"],"updated":"2024-11-05T06:59:11-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-and-alternating-tensors/","tags":["algebra_theory"],"updated":"2024-11-08T08:29:35-08:00"}
 ---
 
 # An action of the symmetric group on $\mathcal{T}^k(M)$
@@ -23,16 +23,14 @@ $$(1,\,3,\,2)\cdot (m_1\otimes m_2\otimes m_3) = m_2\otimes m_3\otimes m_1.$$
 
 For example, the elements $m\otimes m$ and $m_1\otimes m_2+m_2\otimes m_1$ are symmetric 2-tensors, while the element $m_1\otimes m_2-m_2\otimes m_1$ is an alternating 2-tensor. The 2-tensor $m_1\otimes m_2$ is neither symmetric nor alternating.
 
-The collection of symmetric $k$-tensors forms a submodule of $\mathcal{T}^k(M)$, as does the collection of alternating $k$-tensors. These submodules are denoted $\mathcal{C}^k(M)$ and $\mathcal{A}^k(M)$, respectively.
+The collection of symmetric $k$-tensors forms a submodule of $\mathcal{T}^k(M)$, as does the collection of alternating $k$-tensors. These submodules are denoted ... nothing. At least as far as I can tell, Dummit & Foote doesn't use any notation for them.
 
-# Connection with the symmetric and exterior algebras
-
-One can prove that the submodules $\mathcal{C}^k(M)$ and $\mathcal{A}^k(M)$ are stable under this action of $S_k$, hence there is an induced action on the quotient modules $\mathcal{S}^k(M)$ and $\bigwedge^k (M)$. Moreover, we have:
+One can prove that these submodules are stable under this action of $S_k$, hence there is an induced action on the quotient modules $\mathcal{S}^k(M)$ and $\bigwedge^k (M)$. Moreover, we have:
 - $\sigma w = w$ for every $w\in \mathcal{S}^k(M)$
 - $\sigma w = \operatorname{sign}(\sigma)w$ for every $w\in \bigwedge^k(M)$
 
 These actions seem identical to that of $S_k$ on the submodules of $\mathcal{T}^k(M)$ consisting of the symmetric and alternating tensors, respectively. Let's investigate this a bit further.
-## Symmetrization and skew-symmetrization
+# Symmetrization and skew-symmetrization
 
 For any $k$-tensor $z\in\mathcal{T}^k(M)$, define
 
@@ -56,6 +54,8 @@ From these observations, it is not too difficult to prove the following:
 >Suppose $R$ is a commutative ring and $M$ is an $R$-module. If $k!$ is a unit in $R$, then there is an $R$-module isomorphism between $\mathcal{S}^k(M)$ (respectively, $\bigwedge^k (M)$) and the submodule of $\mathcal{T}^k(M)$ consisting of all symmetric $k$-tensors (respectively, alternating $k$-tensors).
 { #931c11}
 
+
+As an upshot, so long as $k!$ is a unit in $R$, we can write $\operatorname{Sym}(\mathcal{T}^k(M))$ and $\operatorname{Alt}(\mathcal{T}^k(M))$ for the submodules of symmetric and alternating $k$-tensors, respectively.
 
 ---
 
