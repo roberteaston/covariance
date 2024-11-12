@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/alternate-characterization-of-rank/","updated":"2024-07-11T13:56:08-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/alternate-characterization-of-rank/","updated":"2024-11-12T10:19:45-08:00"}
 ---
 
 Let $R$ be an integral domain and $M$ be a $R$-module.

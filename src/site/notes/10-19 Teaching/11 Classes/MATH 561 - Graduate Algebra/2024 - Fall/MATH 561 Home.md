@@ -15,10 +15,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                                                                               |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-12\|2024-11-12]] | <ul><li>Noetherian modules</li><li>Linear dependence</li><li>Rank</li></ul>                                                                  |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-08\|2024-11-08]] | <ul><li>Tensor algebras</li><li>Symmetric algebras</li><li>Exterior algebras</li><li>Symmetric tensors</li><li>Alternating tensors</li></ul> |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-07\|2024-11-07]] | <ul><li>Tensor algebras</li><li>Symmetric algebras</li><li>Exterior algebras</li></ul>                                                       |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-05\|2024-11-05]] | <ul><li>Algebras</li><li>Tensor algebras</li></ul>                                                                                           |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-04\|2024-11-04]] | <ul><li>Algebras</li></ul>                                                                                                                   |
 
 { .block-language-dataview}
 
