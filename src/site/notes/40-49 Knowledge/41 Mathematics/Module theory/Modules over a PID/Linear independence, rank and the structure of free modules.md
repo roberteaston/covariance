@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/linear-independence-rank-and-the-structure-of-free-modules/","tags":["module_theory"],"updated":"2024-11-08T09:52:45-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/linear-independence-rank-and-the-structure-of-free-modules/","tags":["module_theory"],"updated":"2024-11-12T10:08:18-08:00"}
 ---
 
 # Linear dependence in modules
