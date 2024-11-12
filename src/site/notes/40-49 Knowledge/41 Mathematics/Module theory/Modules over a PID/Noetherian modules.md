@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/noetherian-modules/","tags":["module_theory"],"updated":"2024-11-08T09:53:16-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/noetherian-modules/","tags":["module_theory"],"updated":"2024-11-12T06:49:36-08:00"}
 ---
 
 # A finiteness condition for modules
