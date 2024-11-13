@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/modules-over-a-pid-the-fundamental-theorem/","tags":["module_theory"],"updated":"2024-11-13T09:25:55-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/modules-over-a-pid-the-fundamental-theorem/","tags":["module_theory"],"updated":"2024-11-13T14:40:06-08:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules#^6b70c5\|structure theorem for free modules over a PID]] to prove a structure theorem for finitely generated modules over a PID.
@@ -9,15 +9,15 @@ We can use the [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID
 > Let $R$ be a PID and $M$ be a finitely generated $R$-module. Then:
 > 1. There is an $R$-module isomorphism
 >    
->    $$M\simeq R^n\oplus R/(a_1)\oplus R/(a_2)\oplus\cdots \oplus R/(a_m)$$
+>    $$M\simeq R^n\oplus R/\langle a_1\rangle\oplus R/\langle a_2\rangle\oplus\cdots \oplus R/\langle a_m\rangle$$
 >    
 >    for some integer $n\geq 0$ and nonzero elements $a_i\in R$ that are not units and satisfy $a_1\mid a_2\mid \cdots \mid a_m$;
 >   2. $M$ is torsion free if and only if $M$ is free; and
 >   3. In the direct sum decomposition in (1),
 >      
->      $$\operatorname{Tor}(M)\simeq R/(a_1)\oplus R/(a_2)\oplus\cdots \oplus R/(a_m).$$
+>      $$\operatorname{Tor}(M)\simeq R/\langle a_1\rangle\oplus R/\langle a_2\rangle\oplus\cdots \oplus R/\langle a_m\rangle.$$
 >      
->      In particular, $M$ is a torsion module if and only if $k=0$ (and in this case the annihilator of $M$ is the ideal $(a_m)$).
+>      In particular, $M$ is a torsion module if and only if $n=0$ (and in this case the annihilator of $M$ is the ideal $\langle a_m\rangle$).
 
 Let's proves this result. Let $A=\{m_1,\ldots, m_k\}$ be a set of generators for $M$ of minimal cardinality and let $\pi:F(A)\to M$ be the corresponding surjective $R$-module morphism, where $A=\{x_1,\ldots, x_k\}$. By the First Isomorphism Theorem for modules we then have $F(A)/\ker(\pi)\simeq M$. Using our [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules#^6b70c5\|structure theorem for free modules over a PID]] with the module $F(A)$ and submodule $\ker(\pi)$, there is a new basis $\{y_1,\ldots, y_k\}$ for $F(A)$ (hence $F(A)=(y_1)\oplus \cdots (y_k)$) and nonzero elements $a_1,\ldots, a_l\in R$ with $a_1\mid a_2\mid \cdots \mid a_l$ such that $\{a_1y_1,\ldots, a_ly_l\}$ is a basis for $\ker(\pi)$ (hence $\ker(\pi)=(a_1y_1)\oplus\cdots (a_ly_l)$).
 
