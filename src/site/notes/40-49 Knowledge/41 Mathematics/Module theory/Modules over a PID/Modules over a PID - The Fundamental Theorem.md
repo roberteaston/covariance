@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/modules-over-a-pid-the-fundamental-theorem/","tags":["module_theory"],"updated":"2024-11-08T09:51:43-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/modules-over-a-pid-the-fundamental-theorem/","tags":["module_theory"],"updated":"2024-11-13T09:25:55-08:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules#^6b70c5\|structure theorem for free modules over a PID]] to prove a structure theorem for finitely generated modules over a PID.

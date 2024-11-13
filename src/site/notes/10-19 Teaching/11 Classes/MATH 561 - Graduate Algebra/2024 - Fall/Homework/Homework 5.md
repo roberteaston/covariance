@@ -1,7 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-5/","updated":"2024-11-04T11:13:23-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-5/","updated":"2024-11-13T10:07:02-08:00"}
 ---
 
+*Updated on 11/13/2024*:
+- Corrected a mistake in the solution for Problem 4. The disjoint union should have been a Cartesian product.
 ## Problem 1
 
 
@@ -247,7 +249,7 @@ Suppose $R$ is a commutative ring. Prove that:
 > [!summary]- Solution
 > 1. Suppose $M$ and $N$ are free $R$-modules, say $M\simeq F(X)$ and $N\simeq F(Y)$ for some sets $X$ and $Y$. Recalling that $F(A)\simeq \bigoplus_{a\in A} R$ for any set $A$, and that tensor product commutes with direct sum, observe that
 >    
->    $\begin{align*} M\otimes_R N &\simeq  \left(\bigoplus_{x\in X}R\right)\otimes_R \left(\bigoplus_{y\in Y}R\right)\\ &\simeq \bigoplus_{x\in X} \left(R\otimes_R \left(\bigoplus_{y\in Y}R\right)\right)\\ &\simeq \bigoplus_{x\in X}\left(\bigoplus_{y\in Y}(R\otimes_R R)\right)\\ &\simeq \bigoplus_{x\in X, y\in Y} R\\ &\simeq \bigoplus_{z\in X\sqcup Y} R\\ &\simeq F(X\sqcup Y). \end{align*}$
+>    $\begin{align*} M\otimes_R N &\simeq  \left(\bigoplus_{x\in X}R\right)\otimes_R \left(\bigoplus_{y\in Y}R\right)\\ &\simeq \bigoplus_{x\in X} \left(R\otimes_R \left(\bigoplus_{y\in Y}R\right)\right)\\ &\simeq \bigoplus_{x\in X}\left(\bigoplus_{y\in Y}(R\otimes_R R)\right)\\ &\simeq \bigoplus_{(x,y)\in X\times Y} R\\ &\simeq \bigoplus_{z\in X\times Y} R\\ &\simeq F(X\times Y). \end{align*}$
 > 2. Suppose $M$ and $N$ are projective $R$-modules. By [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors#^8dd436\|this]] characterization of projective modules, there exist isomorphisms of the form $F(X)\simeq M\oplus M'$ and $F(Y)\simeq N\oplus N'$ for some sets $X, Y$ and modules $M', N'$. Then observe that
 >    
 >    $\begin{align*} F(X\sqcup Y) &\simeq F(X)\otimes_R F(Y) \\ &\simeq (M\oplus M')\otimes_R (N\oplus N') \\ &\simeq (M\otimes_R N)\oplus (M\otimes_R N')\oplus (M'\otimes_R N)\oplus (M'\otimes_R N').\end{align*}$
