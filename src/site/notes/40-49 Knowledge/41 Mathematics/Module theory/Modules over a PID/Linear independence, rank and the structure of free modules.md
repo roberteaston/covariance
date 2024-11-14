@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/linear-independence-rank-and-the-structure-of-free-modules/","tags":["module_theory"],"updated":"2024-11-13T14:35:16-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/linear-independence-rank-and-the-structure-of-free-modules/","tags":["module_theory"],"updated":"2024-11-14T07:00:53-08:00"}
 ---
 
 # Linear dependence in modules
@@ -66,11 +66,11 @@ Before we can determine the general structure of modules over a PID, we must fir
 { #6b70c5}
 
 
-Let's walk through the proof of this one. If $N$ is the trivial submodule then its rank is 0 and its basis is the empty set, so there's nothing to prove. Now suppose $N$ is nontrivial. We'll break this long proof until manageable subsections.
+Let's walk through the proof of this one. If $N$ is the trivial submodule then its rank is 0 and its basis is the empty set, so there's nothing to prove. Now suppose $N$ is nontrivial. We'll break this long proof into manageable subsections.
 
 ## The general idea
 
-The general idea of the proof is to create a direct sum decomposition $M=\langle m_1\rangle\oplus \cdots \oplus \langle m_k\rangle$ that also induces a direct sum decomposition $N=\langle a_1m_1\rangle\oplus \cdots \oplus \langle a_lm_l\rangle$ with the prescribed properties. One of those properties (the divisibility condition on the $a_i$) tells us that $a_1$ should be the "smallest" element among the $a_i$; i.e., correspond to the largest ideal $\langle a_1\rangle\subseteq R$ among the ideals $\langle a_i\rangle\subseteq R$. So that's where we begin: by looking for a projection from $M\to R$ for which the image of $N$ is the largest possible ideal of $R$ (obtainable from $N$).
+The general idea of the proof is to create a direct sum decomposition $M=\langle m_1\rangle\oplus \cdots \oplus \langle m_k\rangle$ that also induces a direct sum decomposition $N=\langle a_1m_1\rangle\oplus \cdots \oplus \langle a_lm_l\rangle$ with the prescribed properties. One of those properties (the divisibility condition on the $a_i$) tells us that $a_1$ should be the "smallest" element among the $a_i$; i.e., correspond to the largest ideal $\langle a_1\rangle\subseteq R$ among the ideals $\langle a_i\rangle\subseteq R$. So that's where we begin: by looking for a projection from $M\to R$ for which the image of $N$ is as large as possible.
 
 We begin by fixing a temporary basis $\{m_1',\ldots, m_k'\}$ for $M$. This is equivalent to fixing an $R$-module isomorphism $M\simeq F(\{x_1,\ldots, x_k\})\simeq R\oplus\cdots\oplus R\simeq R^k$. This also allows us to define the $R$-module projection morphisms $\pi_i:M\to R$. Using these projections, each element $m\in M$ can be written uniquely as
 
@@ -80,20 +80,20 @@ We will use this later in the proof.
 
 ## Finding the element $a_1$
 
-Note that for every $R$-module morphism $\phi:M\to R$ the image $\phi(N)$ of $N$ is a submodule of $R$, i.e., an ideal of $R$. Since $R$ is a PID this ideal is principal, say $\phi(N)=\langle a_{\phi}\rangle$ for some $a_{\phi}\in R$. Now consider the collection $S$ of all such principal ideals in $R$ that are also nontrivial:
+Note that for every $R$-module morphism $\phi:M\to R$ the image $\phi(N)$ of $N$ is a submodule of $R$, i.e., an ideal of $R$. Since $R$ is a PID this ideal is principal, say $\phi(N)=\langle a_{\phi}\rangle$ for some $a_{\phi}\in R$. Now consider the collection $\mathcal{S}$ of all such principal ideals in $R$ that are also nontrivial:
 
-$$S=\{\langle a_{\phi}\rangle\mid \phi\in\operatorname{Hom}_R(M,R),\, a_{\phi}\neq 0\}.$$
+$$\mathcal{S}=\{\langle a_{\phi}\rangle\mid \phi\in\operatorname{Hom}_R(M,R),\, a_{\phi}\neq 0\}.$$
 
 We first note that this collection is nonempty:  since $N$ is not the trivial submodule, for at least one of the projection morphisms $\pi_i:M\to R$ the image $\pi_i(N)$ must be nontrivial, otherwise we would have for all $n\in N$
 
 $$n=\sum_{i=1}^k \pi_i(n)m_i' = \sum_{i=1}^k 0_R m_i' = 0.$$
 
 
-Since $R$ is [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Noetherian modules#^6e597a\|Noetherian]] the collection $S$ has at least one maximal element. In other words there is an $R$-module morphism $\nu:M\to R$ so that the principal ideal $\nu(N)=\langle a_{\nu}\rangle$ is not properly contained in any other element of $S$.^[This does not mean $(a_{\nu})$ is maximal among all ideals of $R$.] Let $a_1=a_{\nu}$ and $n_1\in N$ be any element with $\nu(n_1)=a_1$. Note that $a_1\neq 0$ by the definition of $S$.
+Since $R$ is [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Noetherian modules#^6e597a\|Noetherian]] the collection $\mathcal{S}$ has at least one maximal element. In other words there is an $R$-module morphism $\nu:M\to R$ so that the principal ideal $\nu(N)=\langle a_{\nu}\rangle$ is not properly contained in any other element of $S$.^[This does not mean $(a_{\nu})$ is maximal among all ideals of $R$.] Let $a_1=a_{\nu}$ and $n_1\in N$ be any element with $\nu(n_1)=a_1$. Note that $a_1\neq 0$ by the definition of $S$.
 
 ## Constructing the element $m_1$
 
-Our next goal is to construct an element $m_1\in M$ so that $\nu(m_1)=1_R$. Intuitively, we already have $\nu(n_1)=a_1$ and so it would be nice to simply take $m_1=a_1^{-1}n_1$. We would then have $\nu(m_1)=\nu(a_1^{-1}n_1)=a_1^{-1}\nu(n_1)=a_1^{-1}a_1=1_R$. However, there is no guarantee that the element $a_1\in R$ is actually invertible. We only know that it is nonzero and that $R$ is a PID (and not necessarily a field). So we need to be a little bit tricky.
+Our next goal is to construct an element $m_1\in M$ so that $\nu(m_1)=1_R$. Intuitively, we already have $\nu(n_1)=a_1$ and so it would be nice to simply take $m_1=a_1^{-1}n_1$. We would then have $\nu(m_1)=\nu(a_1^{-1}n_1)=a_1^{-1}\nu(n_1)=a_1^{-1}a_1=1_R$. However, there is no guarantee that the element $a_1\in R$ is actually invertible. We only know that it is nonzero and that $R$ is a PID, but not necessarily a field. So we need to be a little bit tricky.
 
 We first show $a_1$ divides $\phi(n_1)$ for every $R$-module morphism $\phi:M\to R$. To see this, fix some $R$-module morphism $\phi:M\to R$ and let $I=\langle a_1, \phi(n_1)\rangle$ be the ideal generated by $a_1$ and $\phi(n_1)$. Since $R$ is a PID this ideal is principal, so $I=\langle d\rangle$ for some $d\in R$. We can then write $d=r_1a_1+r_2\phi(n_1)$ for some $r_1, r_2\in R$. But now consider the $R$-module morphism $\psi:M\to R$ defined by $\psi=r_1\nu+r_2\phi$. By construction we have $\psi(n_1)=r_1\nu(n_1)+r_2\phi(n_1)=r_1a_1+r_2\phi(n_1)=d$, so that $d\in \psi(N)$ and hence $\langle d\rangle\subseteq \psi(N)$. But we also have $\langle a_1\rangle\subseteq \langle d\rangle\subseteq \psi(N)$ so by the maximality of $\langle a_1\rangle$ we must have equality: $\langle a_1\rangle=\langle d\rangle=\psi(N)$. This prove $\langle a_1\rangle=\langle d\rangle$ and hence $\phi(n_1)\in \langle a_1\rangle$; i.e., $a_1$ divides $\phi(n_1)$.
 
@@ -137,7 +137,7 @@ We therefore have $N=\langle a_1m_1\rangle+(N\cap \ker(\nu))$, and once again th
 
 ## Proving $N$ is free of rank no more than $k$
 
-We now prove $N$ is free and of rank $l\leq k$, by induction on $l$. (Recall that the rank of $N$ is [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules#^bef251\|defined]] as the maximum number of linearly independent elements in $N$.)
+We now prove $N$ is free by induction on the rank of $N$. (Recall that the rank of $N$ is [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules#^bef251\|defined]] as the maximum number of linearly independent elements in $N$.)
 
 First suppose the rank of $N$ is 0. Then for every $n\in N$ the set $\{n\}$ is $R$-linearly dependent; i.e., $rn=0_N$ for some nonzero $r\in R$. But $N$ is a submodule of the free $R$-module $M$, which is torsion free, so we must have $n=0$. This implies $N=\{0\}$ is the trivial submodule, a contradiction to our running assumption that $N$ is nontrivial.
 
