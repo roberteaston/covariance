@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/noetherian-modules/","tags":["module_theory"],"updated":"2024-11-12T13:23:50-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/noetherian-modules/","tags":["module_theory"],"updated":"2024-11-14T15:32:57-08:00"}
 ---
 
 # A finiteness condition for modules
@@ -9,7 +9,9 @@ Many additional properties of modules arise if we assume some type of "finitenes
 > [!note] Definition of Noetherian module
 > A left $R$-module $M$ is **Noetherian** (or satisfies the **ascending chain condition on submodules**) if there are no infinite strictly increasing chains of submodules in $M$. In other words, every increasing chain of submodules
 > 
-> $$N_1\subseteq N_2\subseteq \cdots$$eventually stabilizes; i.e., there is some $k_0$ such that $N_k=N_{k_0}$ for every $k\geq k_0$.
+> $$N_1\subseteq N_2\subseteq \cdots$$
+> 
+> eventually stabilizes; i.e., there is some $k_0$ such that $N_k=N_{k_0}$ for every $k\geq k_0$.
 > 
 > A ring $R$ is **Noetherian** if it is Noetherian as a left module over itself; i.e., if there are no strictly increasing infinite chains of left ideals in $R$.
 
