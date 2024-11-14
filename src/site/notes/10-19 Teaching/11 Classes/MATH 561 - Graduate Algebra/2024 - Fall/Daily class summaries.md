@@ -6,6 +6,7 @@ Below you can find the complete list of daily class summaries, beginning with th
 
 | Class Date                                                                               | Topics Covered                                                                                                                               |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-14\|2024-11-14]] | <ul><li>Free modules over a PID</li></ul>                                                                                                    |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-12\|2024-11-12]] | <ul><li>Noetherian modules</li><li>Linear dependence</li><li>Rank</li></ul>                                                                  |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-08\|2024-11-08]] | <ul><li>Tensor algebras</li><li>Symmetric algebras</li><li>Exterior algebras</li><li>Symmetric tensors</li><li>Alternating tensors</li></ul> |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-07\|2024-11-07]] | <ul><li>Tensor algebras</li><li>Symmetric algebras</li><li>Exterior algebras</li></ul>                                                       |
