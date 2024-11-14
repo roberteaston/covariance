@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
-<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener nofollow">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
+<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                                                                                            | Last Updated                |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules\|Linear independence, rank and the structure of free modules]] | 7:00 AM - November 14, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Modules over a PID - The Fundamental Theorem\|Modules over a PID - The Fundamental Theorem]]                               | 6:50 AM - November 14, 2024 |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-12\|2024-11-12]]                                                                                                        | 2:28 PM - November 13, 2024 |
+| Note                                                                                                                                                                                            | Last Updated                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules\|Linear independence, rank and the structure of free modules]] | 10:11 AM - November 14, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Modules over a PID - The Fundamental Theorem\|Modules over a PID - The Fundamental Theorem]]                               | 6:50 AM - November 14, 2024  |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-12\|2024-11-12]]                                                                                                        | 2:28 PM - November 13, 2024  |
 
 { .block-language-dataview}
 

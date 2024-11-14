@@ -111,10 +111,12 @@ Let $R$ be an integral domain and $I\subseteq R$ be a non-principal ideal. Prove
 
 
 
-Let $R$ be a PID and $M$ be a torsion $R$-module. Suppose $pm=0$ for some nonzero $m\in M$ and prime element $p\in R$. Prove that $\operatorname{Ann}(M)\subseteq (p)$.
+Let $R$ be a PID and $M$ be a torsion $R$-module. Suppose $pm=0$ for some nonzero $m\in M$ and prime element $p\in R$. Prove that $\operatorname{Ann}(M)\subseteq \langle p\rangle$.
 
 >[!summary]- Hints
->The ideal $\operatorname{Ann}(M)\subseteq R$ is principal. Also, since $p\in R$ is prime and $R$ is a PID, for every element $a\in R$ we either have that $p$ divides $a$ (i.e., $a\in (p)$), or $a$ and $p$ are relatively prime (in which case we can write $ra+sp=1_R$ for some $r,s\in R$).
+>The ideal $\operatorname{Ann}(M)\subseteq R$ is principal. Also, since $p\in R$ is prime and $R$ is a PID, for every element $a\in R$ we either have that $p$ divides $a$ (i.e., $a\in \langle p\rangle$), or $a$ and $p$ are relatively prime (in which case we can write $ra+sp=1_R$ for some $r,s\in R$).
+
+
 
 </div></div>
 
