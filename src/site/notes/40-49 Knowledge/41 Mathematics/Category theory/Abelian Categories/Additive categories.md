@@ -1,8 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:11:02-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-11-15T09:58:43-08:00"}
 ---
 
-## Initial objects, terminal objects, and null objects
+As we [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories#^b61743\|noted]], an $Ab$-category is sometimes also called a *preadditive* category, suggesting that there is slightly more special type of category called an *additive* category.
+
+# Initial objects, terminal objects, and null objects
 
 >[!note] Definition of initial and terminal objects
 >In a fixed category $C$, and object $s$ is **initial** if for every object $c$ there exists a unique morphism $s\to c$.
@@ -152,7 +154,7 @@ In any case, it turns out that an adjunction between $C$ and $D$ can be given eq
 
 In any case, when they exist, initial and terminal objects are unique up to unique isomorphism. The same goes for null objects.
 
-### Examples of initial, terminal and null objects
+## Examples of initial, terminal and null objects
 
 - In $\textbf{Set}$, the empty set is an initial object and any singleton set is a terminal object. For each set $X$, the unique set map $\emptyset \to X$ is the empty map, while the unique set map $X\mapsto \{\ast\}$ is the map $x\mapsto \ast$. There is no null object.
 - In ${\bf Ab}$, the trivial group is a null object. For each abelian group $G$, the unique group morphism $\{0\}\to A$ is the map $0\mapsto 0_A$, while the unique group morphism $A\to \{0\}$ is the trivial map $a\mapsto 0$.
@@ -162,7 +164,7 @@ In any case, when they exist, initial and terminal objects are unique up to uniq
 - In $\textbf{Cat}$, the empty category ${\bf 0}$ is initial and the category ${\bf 1}$ is terminal.
 - A limit of a diagram $F$ is a terminal object in the category of cones to $F$. A colimit of $F$ is an initial object in the category of cones from $F$.
 
-### Zero morphisms
+## Zero morphisms
 
 If $C$ has a null object $z$, then for every pair of objects $a$ and $b$ in $C$ there is a unique morphism $a\to b$ that factors through the unique morphisms to and from $z$:
 $$a\to z \to b.$$
