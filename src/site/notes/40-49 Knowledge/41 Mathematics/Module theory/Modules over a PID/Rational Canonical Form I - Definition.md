@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-15T07:00:51-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-15T08:31:43-08:00"}
 ---
 
 # The structure of $F[x]$-modules
@@ -20,6 +20,8 @@ Note that the annihilator of $V$ (as a torsion $F[x]$-module) is the ideal $\lan
 
 > [!summary] The minimal polynomial of $T$
 > The minimal polynomial $m_T(x)$ of the linear endomorphism $T$ is $a_m(x)$, the largest invariant factor in the above decomposition.
+{ #429f7b}
+
 
 >[!warning] A warning about bases and generators
 >Suppose $\mathcal{B}=\{v_1,\ldots, v_k\}$ is a basis for $V$ as an $F$-vector space. Then the set $\mathcal{B}$ generates $V$ as an $F$-vector space, and so every $v\in V$ can be written as an $R$-linear combination of the vectors in $\mathcal{B}$. It follows that every $v\in V$ can also be written as an $F[x]$-linear combination of the vectors in $\mathcal{B}$; i.e., the same set $\mathcal{B}$ generates $V$ as an $F[x]$-module.
@@ -80,7 +82,7 @@ With all of this in mind, the isomorphism $\phi$ corresponds to a basis $\mathca
 
 $$\mathcal{M}(T;\mathcal{B})=\begin{bmatrix}-3 & 0 & 0 & 0 & 0 & 0 \\ 0 & 0 & -6 & 0 & 0 & 0 \\ 0 & 1 & -5 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 & 0 & -18\\0 & 0 & 0 & 1 & 0 & -21 \\ 0 & 0 & 0 & 0 & 1 & -8\end{bmatrix}.$$
 
-Also note that the $\mathbf{Q}$-vector space $V$ decomposes into a direct sum of three subspaces, namely $V_1=\operatorname{span}(v_1)$, $V_2=\operatorname{span}(v_2,v_3)$, and $V_3=\operatorname{span}(v_4,v_5,v_6)$. These three spaces are invariant under the action of the linear transformation $T.$  Indeed, we have
+Also note that the $\mathbf{Q}$-vector space $V$ decomposes into a direct sum of three subspaces, namely $V_1=\operatorname{span}\{v_1\}$, $V_2=\operatorname{span}\{v_2,v_3\}$, and $V_3=\operatorname{span}\{v_4,v_5,v_6\}$. These three spaces are invariant under the action of the linear transformation $T.$  Indeed, we have
 
 $$\begin{align*}T(v_1)&=-3v_1,\\T(v_2)&=v_3\quad\text{and}\quad T(v_3)=-6v_2-5v_3\\T(v_4)&= v_5\quad\text{and}\quad T(v_5)=v_6\quad\text{and}\quad T(v_6)=-18v_4-21v_5-8v_6.\end{align*}$$
 

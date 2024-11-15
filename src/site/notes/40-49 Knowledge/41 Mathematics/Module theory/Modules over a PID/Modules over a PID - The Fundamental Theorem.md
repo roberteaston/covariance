@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/modules-over-a-pid-the-fundamental-theorem/","tags":["module_theory"],"updated":"2024-11-15T06:52:57-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/modules-over-a-pid-the-fundamental-theorem/","tags":["module_theory"],"updated":"2024-11-15T08:55:17-08:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules#^6b70c5\|structure theorem for free modules over a PID]] to prove a structure theorem for finitely generated modules over a PID.
@@ -66,7 +66,7 @@ We can use the Chinese Remainder Theorem to decompose the cyclic modules in the 
 
 $$a=up_1^{\alpha_1}\cdots p_s^{\alpha_s}$$
 
-for some unit $u$ and distinct primes $p_i$, unique up to multiplication by units. Since the primes are distinct, for each pair $i\neq j$ the ideals $\langle p_i\rangle$ and $\langle p_j\rangle$ are comaximal; i.e., $\langle p_i\rangle+\langle p_j\rangle=R$. The intersection of the ideals $\langle p_1\rangle\cap \cdots \langle p_s\rangle$ is exactly $(a)$, so by the Chinese Remainder Theorem we have
+for some unit $u$ and distinct primes $p_i$, unique up to multiplication by units. Since the primes are distinct, for each pair $i\neq j$ the ideals $\langle p_i\rangle$ and $\langle p_j\rangle$ are comaximal; i.e., $\langle p_i\rangle+\langle p_j\rangle=R$. The intersection of the ideals $\langle p_1\rangle\cap \cdots \langle p_s\rangle$ is exactly $\langle a\rangle$, so by the Chinese Remainder Theorem we have
 
 $$R/\langle a\rangle\simeq R/\langle p_1^{\alpha_1}\rangle\oplus \cdots \oplus R/\langle p_s^{\alpha_s}\rangle.$$
 
