@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/modules-over-a-pid-the-fundamental-theorem/","tags":["module_theory"],"updated":"2024-11-14T15:31:02-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/modules-over-a-pid-the-fundamental-theorem/","tags":["module_theory"],"updated":"2024-11-15T06:52:57-08:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules#^6b70c5\|structure theorem for free modules over a PID]] to prove a structure theorem for finitely generated modules over a PID.
@@ -7,7 +7,7 @@ We can use the [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID
 
 > [!summary] Fundamental Theorem for Finitely Generated Modules over a PID (Invariant Factor Form)
 > Let $R$ be a PID and $M$ be a finitely generated $R$-module. Then:
-> 1. There is an$R$-module isomorphism
+> 1. There is an $R$-module isomorphism
 >    
 >    $$M\simeq R^n\oplus R/\langle a_1\rangle\oplus R/\langle a_2\rangle\oplus\cdots \oplus R/\langle a_m\rangle$$
 >    
@@ -33,7 +33,7 @@ Noting that these are all formal sums (which we've tried to indicate using the f
 
 $$M\simeq F(\{x_1,\ldots, x_k\})/\ker(\pi)=F(\{x_1, \ldots, x_k\})/\ker(\phi)\simeq R\langle a_1\rangle\oplus\cdots \oplus R/\langle a_l\rangle\oplus \underbrace{R\oplus\cdots \oplus R}_{k-l\text{ times}}.$$
 
-For any of the $a_i$ that are units we have $R/\langle a_i\langle=\{0\}$, so simply remove those terms from the direct sum. (Such $a_i$ would have to occur first in the list, since $a_i$ is a unit exactly when $\langle a_i\rangle=R$, and the divisibility condition on the $a_i$ is equivalent to the containment condition $\langle a_1\rangle\supseteq \langle a_2\rangle\supseteq \cdots \supseteq \langle a_l\rangle$.) Then upon letting $n=k-l$ and noting $\underbrace{R\oplus \cdots \oplus R}_{n\text{ times}}\simeq R^n$, we have proven (1).
+For any of the $a_i$ that are units we have $R/\langle a_i\rangle=\{0\}$, so simply remove those terms from the direct sum. (Such $a_i$ would have to occur first in the list, since $a_i$ is a unit exactly when $\langle a_i\rangle=R$, and the divisibility condition on the $a_i$ is equivalent to the containment condition $\langle a_1\rangle\supseteq \langle a_2\rangle\supseteq \cdots \supseteq \langle a_l\rangle$.) Then upon letting $n=k-l$ and noting $\underbrace{R\oplus \cdots \oplus R}_{n\text{ times}}\simeq R^n$, we have proven (1).
 
 Since $R/\langle a\rangle$ is a torsion $R$-module for any nonzero $a\in R$, property (1) immediately implies $M$ is torsion free exactly when $M\simeq R^n$. This proves (2).
 

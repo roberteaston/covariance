@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-14T15:32:46-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-15T07:00:51-08:00"}
 ---
 
 # The structure of $F[x]$-modules
@@ -12,11 +12,11 @@ where $T^k = T\circ\cdots \circ T$ is repeated composition.
 
 Since $V$ is finitely generated as an $F$-module, it is also finitely generated as an $F[x]$-module. The [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Modules over a PID - The Fundamental Theorem\|fundamental structure theorem for modules over a PID]] then provides a direct sum decomposition of $V$ as an $F[x]$-module. The free part of this decomposition must be trivial, since every nonzero free $F[x]$-module is infinite-dimensional as an $F$-vector space (since $F[x]$ is infinite-dimensional as an $F$-vector space). So, $V$ must be isomorphic to a direct sum of cyclic torsion $F[x]$-modules
 
-$$V\simeq F[x]/(a_1(x))\oplus \cdots \oplus F[x]/(a_m(x)),$$
+$$V\simeq F[x]/\langle a_1(x)\rangle\oplus \cdots \oplus F[x]/\langle a_m(x)\rangle,$$
 
 where $a_1(x),\ldots, a_m(x)\in F[x]$ are nonunits (i.e., nonconstant polynomials) and $a_1(x)\mid a_2(x)\mid \cdots \mid a_m(x)$. These invariant factors are unique up to unit (which are the constant polynomials); if we require them to be monic, then they are unique.
 
-Note that the annihilator of $V$ (as a torsion $F[x]$-module) is the ideal $(a_m(x))\subseteq F[x]$. Note that this means $a_m(x)\cdot v = 0_V$ for every $v\in V$. By the definition of our action, this means that the endomorphism $a_m(T)$ is identically zero on the entire vector space $V$. Since we've currently assuming $a_m(x)$ is monic, this is exactly the minimal polynomial of $T$.
+Note that the annihilator of $V$ (as a torsion $F[x]$-module) is the ideal $\langle a_m(x)\rangle\subseteq F[x]$. Note that this means $a_m(x)\cdot v = 0_V$ for every $v\in V$. By the definition of our action, this means that the endomorphism $a_m(T)$ is identically zero on the entire vector space $V$. Since we've currently assuming $a_m(x)$ is monic, this is exactly the minimal polynomial of $T$.
 
 > [!summary] The minimal polynomial of $T$
 > The minimal polynomial $m_T(x)$ of the linear endomorphism $T$ is $a_m(x)$, the largest invariant factor in the above decomposition.
@@ -28,7 +28,7 @@ Note that the annihilator of $V$ (as a torsion $F[x]$-module) is the ideal $(a_m
 
 # The rational canonical form
 
-Consider one of the direct summands $F[x]/(a(x))$, where $a(x)=b_0+b_1x+\cdots +b_{k-1}x^{k-1}+x^k$. As an $F$-vector space, a basis for $F[x]/(a(x))$ is the set $\{1,\overline{x},\ldots, \overline{x}^{k-1}\}$, where $\overline{x}=x+(a(x))$ is shorthand notation for the coset represented by $x$. Under this basis, the action of $x$ is simply:
+Consider one of the direct summands $F[x]/\langle a(x)\rangle$, where $a(x)=b_0+b_1x+\cdots +b_{k-1}x^{k-1}+x^k$. As an $F$-vector space, a basis for $F[x]/\langle a(x)\rangle$ is the set $\{1,\overline{x},\ldots, \overline{x}^{k-1}\}$, where $\overline{x}=x+\langle a(x)\rangle$ is shorthand notation for the coset represented by $x$. Under this basis, the action of $x$ is simply:
 
 $$\begin{align*} 1&\mapsto \overline{x}\\ \overline{x}&\mapsto \overline{x}^2\\ \overline{x}^2&\mapsto \overline{x}^3\\ &\vdots\\ \overline{x}^{k-2}&\mapsto \overline{x}^{k-1}\\ \overline{x}^{k-1}&\mapsto \overline{x}^k=-b_0-b_1\overline{x}-\cdots -b_{k-1}\overline{x}^{k-1}. \end{align*}$$
 
@@ -56,19 +56,19 @@ $$\begin{align*} a_1(x)&=3+x,\\ a_2(x)&=(3+x)(2+x)=6+5x+x^2,\\ a_3(x)&=(3+x)^2(2
 
 In other words, there is a $\textbf{Q}[x]$-module isomorphism
 
-$$\phi:V\xrightarrow{\sim}(\textbf{Q}[x]/(3+x))\oplus (\textbf{Q}[x]/(6+5x+x^2))\oplus (\textbf{Q}[x]/(18+21x+8x^2+x^3)).$$
+$$\phi:V\xrightarrow{\sim}(\textbf{Q}[x]/\langle 3+x\rangle)\oplus (\textbf{Q}[x]/\langle 6+5x+x^2\rangle)\oplus (\textbf{Q}[x]/\langle 18+21x+8x^2+x^3\rangle).$$
 
 This is an isomorphism of $\textbf{Q}[x]$-modules, where the action of $x$ on the left is via $T$ and the action of $x$ in each summand on the right is by multiplication by $\overline{x}$, the coset represented by $x$ in the given quotient ring.
 
-Let's look at each summand in turn. In the quotient $\textbf{Q}[x]/(3+x)$ we have $3+\overline{x}=0$. So, if we use the $\textbf{Q}$-basis $\mathcal{B}_1=\{1\}$ then the action of $x$ is given by $1\mapsto \overline{x}=-3$. The matrix for the action of $x$ on this summand is therefore the $1\times 1$ matrix
+Let's look at each summand in turn. In the quotient $\textbf{Q}[x]/\langle 3+x\rangle$ we have $3+\overline{x}=0$. So, if we use the $\textbf{Q}$-basis $\mathcal{B}_1=\{1\}$ then the action of $x$ is given by $1\mapsto \overline{x}=-3$. The matrix for the action of $x$ on this summand is therefore the $1\times 1$ matrix
 
 $$C_{a_1(x)}=\begin{bmatrix} -3\end{bmatrix}.$$
 
-In the summand $\textbf{Q}[x]/(6+5x+x^2)$ we have $6+5\overline{x}+\overline{x}^2=0$. So, if we use the $\textbf{Q}$-basis $\mathcal{B}_2=\{1,\overline{x}\}$ then the action of $x$ is given by $1\mapsto \overline{x}$ and $\overline{x}\mapsto \overline{x}^2=-6-5\overline{x}$. The matrix for the action of $x$ on this summand is therefore the $2\times 2$ matrix
+In the summand $\textbf{Q}[x]/\langle 6+5x+x^2\rangle$ we have $6+5\overline{x}+\overline{x}^2=0$. So, if we use the $\textbf{Q}$-basis $\mathcal{B}_2=\{1,\overline{x}\}$ then the action of $x$ is given by $1\mapsto \overline{x}$ and $\overline{x}\mapsto \overline{x}^2=-6-5\overline{x}$. The matrix for the action of $x$ on this summand is therefore the $2\times 2$ matrix
 
 $$C_{a_2(x)}=\begin{bmatrix} 0 & -6 \\ 1 & -5\end{bmatrix}.$$
 
-In the summand $\textbf{Q}[x]/(18+21x+8x^2+x^3)$ we have $18+21\overline{x}+8\overline{x}^2+\overline{x}^3=0$. So, if we use the basis $\mathcal{B}_3=\{1,\overline{x},\overline{x}^2\}$ then the action of $x$ is given by
+In the summand $\textbf{Q}[x]/\langle 18+21x+8x^2+x^3\rangle$ we have $18+21\overline{x}+8\overline{x}^2+\overline{x}^3=0$. So, if we use the basis $\mathcal{B}_3=\{1,\overline{x},\overline{x}^2\}$ then the action of $x$ is given by
 
 $$\begin{align*} 1&\mapsto \overline{x}\\\overline{x}&\mapsto \overline{x}^2\\\overline{x}^2&\mapsto \overline{x}^3=-18-21\overline{x}-8\overline{x}^2.\end{align*}$$
 
