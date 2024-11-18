@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-7/","updated":"2024-11-18T10:47:05-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-7/","updated":"2024-11-18T11:43:00-08:00"}
 ---
 
 ## Problem 1
