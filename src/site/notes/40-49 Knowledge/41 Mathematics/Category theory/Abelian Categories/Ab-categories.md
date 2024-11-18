@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/ab-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-11-15T09:56:46-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/ab-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-11-15T11:00:14-08:00"}
 ---
 
 # $Ab$-categories

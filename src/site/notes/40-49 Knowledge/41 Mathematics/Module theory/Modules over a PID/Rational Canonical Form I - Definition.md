@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-15T08:31:43-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-18T06:55:31-08:00"}
 ---
 
 # The structure of $F[x]$-modules
@@ -14,7 +14,7 @@ Since $V$ is finitely generated as an $F$-module, it is also finitely generated 
 
 $$V\simeq F[x]/\langle a_1(x)\rangle\oplus \cdots \oplus F[x]/\langle a_m(x)\rangle,$$
 
-where $a_1(x),\ldots, a_m(x)\in F[x]$ are nonunits (i.e., nonconstant polynomials) and $a_1(x)\mid a_2(x)\mid \cdots \mid a_m(x)$. These invariant factors are unique up to unit (which are the constant polynomials); if we require them to be monic, then they are unique.
+where $a_1(x),\ldots, a_m(x)\in F[x]$ are nonzero nonunits (i.e., nonconstant polynomials) and $a_1(x)\mid a_2(x)\mid \cdots \mid a_m(x)$. Recall that the $a_i(x)$ are called **invariant factors** of the $F[x]$-module. These invariant factors are unique up to unit (which are the constant polynomials); if we require them to be monic, then they are unique.
 
 Note that the annihilator of $V$ (as a torsion $F[x]$-module) is the ideal $\langle a_m(x)\rangle\subseteq F[x]$. Note that this means $a_m(x)\cdot v = 0_V$ for every $v\in V$. By the definition of our action, this means that the endomorphism $a_m(T)$ is identically zero on the entire vector space $V$. Since we've currently assuming $a_m(x)$ is monic, this is exactly the minimal polynomial of $T$.
 
@@ -46,7 +46,7 @@ If we repeat this process for every direct summand in the invariant factor decom
 $$\begin{bmatrix} C_{a_1(x)} & & & \\ & C_{a_2(x)} & & \\ & & \ddots & \\ & & & C_{a_m(x)}\end{bmatrix}$$
 
 > [!note] Definition of rational canonical form
-> A matrix is said to be in **rational canonical form** if it is the direct sum of companion matrices for nonconstant monic polynomials $a_1(x),\ldots, a_m(x)$ with $a_1(x)\mid a_2(x)\mid\cdots \mid a_m(x)$. These polynomials are called the invariant factors of the matrix.
+> A matrix is said to be in **rational canonical form** if it is the direct sum of companion matrices for nonconstant monic polynomials $a_1(x),\ldots, a_m(x)$ with $a_1(x)\mid a_2(x)\mid\cdots \mid a_m(x)$. These polynomials are called the **invariant factors** of the matrix.
 >
 > A **rational canonical form** for a linear endomorphism $T$ is a matrix representing $T$ that is in rational canonical form.
 

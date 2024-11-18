@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-ii-additional-properties/","tags":["module_theory"],"updated":"2024-11-15T08:47:55-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-ii-additional-properties/","tags":["module_theory"],"updated":"2024-11-18T06:58:23-08:00"}
 ---
 
 The following are some additional properties of rational canonical forms.
@@ -28,8 +28,8 @@ Fortunately, the answer is as simple as you might hope:
 
 > [!summary] Rational canonical form characterizes similarity
 > Suppose $S,T:V\to V$ are linear endomorphisms of a finite-dimensional $F$-vector space $V$. Then the following are equivalent:
-> 1. The $F[x]$-modules obtained from $V$ via $S$ and $T$ are isomorphic $F[x]$-modules;
-> 2. $S$ and $T$ are similar; i.e., there is a linear automorphism $C:V\to V$ such that $S=CTC^{-1}$; and
+> 1. The $F[x]$-modules obtained from $V$ via $S$ and $T$ are isomorphic $F[x]$-modules.
+> 2. $S$ and $T$ are similar; i.e., there is a linear automorphism $C:V\to V$ such that $S=CTC^{-1}$.
 > 3. $S$ and $T$ have the same rational canonical form.
 
 In the above propositions, the same statements hold if "linear transformations" is replaced with $n\times n$ matrices over $F$, where $n=\dim_F(V)$.
@@ -44,7 +44,7 @@ Indeed, you can. We've [[40-49 Knowledge/41 Mathematics/Module theory/Modules ov
 
 > [!summary] Characteristic polynomials and invariant factors
 > Let $A$ be an $n\times n$ matrix over a field $F$. Then:
-> 1. The characteristic polynomial of $A$ is the product of the invariant factors of $A$;
+> 1. The characteristic polynomial of $A$ is the product of the invariant factors of $A$.
 > 2. (**The Cayley-Hamilton Theorem**) The minimal polynomial of $A$ divides the characteristic polynomial of $A$.
 > 3. The characteristic polynomial of $A$ divides some power of the minimal polynomial of $A$.
 
