@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" rel="noopener nofollow" class="external-link" href="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" target="_blank">Peter Freyd</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener nofollow">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
+<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                     | Last Updated                 |
-| -------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 8\|Homework 8]] | 12:10 PM - November 18, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 7\|Homework 7]] | 11:43 AM - November 18, 2024 |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-18\|2024-11-18]]                 | 11:42 AM - November 18, 2024 |
+| Note                                                                                                                                                                          | Last Updated                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-19\|2024-11-19]]                                                                                      | 11:21 AM - November 19, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form II - Additional Properties\|Rational Canonical Form II - Additional Properties]] | 11:16 AM - November 19, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation\|Rational Canonical Form III - Computation]]                   | 10:18 AM - November 19, 2024 |
 
 { .block-language-dataview}
 

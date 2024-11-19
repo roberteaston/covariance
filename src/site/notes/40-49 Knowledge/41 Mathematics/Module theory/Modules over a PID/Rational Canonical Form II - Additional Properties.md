@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-ii-additional-properties/","tags":["module_theory"],"updated":"2024-11-18T06:58:23-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-ii-additional-properties/","tags":["module_theory"],"updated":"2024-11-19T11:16:20-08:00"}
 ---
 
 The following are some additional properties of rational canonical forms.
@@ -49,6 +49,9 @@ Indeed, you can. We've [[40-49 Knowledge/41 Mathematics/Module theory/Modules ov
 > 3. The characteristic polynomial of $A$ divides some power of the minimal polynomial of $A$.
 
 The first fact above should probably be the *definition* of the characteristic polynomial of $A$. In any case, the second and third facts both immediately follow from the divisibility condition $a_1(x)\mid a_2(x)\mid \cdots \mid a_m(x)$ and the fact that $a_m(x)$ is the minimal polynomial of $A$.
+
+> [!note] Minor note
+> In many textbooks, the characteristic polynomial of $A$ is defined as $p(x)=\det(A-xI_n)$ (or maybe $p(\lambda)=\det(A-\lambda I_n)$, if the focus is on eigenvalues). In our setup, however, the characteristic polynomial is taken to be $\det(xI_n-A)$, which is guaranteed to be monic. In general, the only difference is a possible minus sign, since $\det(A-xI_n)=(-1)^n \det(xI_n-A)$.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-iii-computation/","tags":["module_theory"],"updated":"2024-11-15T09:22:21-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-iii-computation/","tags":["module_theory"],"updated":"2024-11-19T10:18:57-08:00"}
 ---
 
 We have a wonderful result about [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form I - Definition#The rational canonical form\|rational canonical forms]], but how do we actually *compute* the rational canonical form of a given square matrix? Fortunately, there is a very straightforward algorithm. Given an $n\times n$ matrix, $A$, both its invariant factors and the change-of-basis matrix needed to put $A$ into rational canonical form can be obtained from the computation of something called the *Smith normal form* for $A$.
@@ -10,9 +10,10 @@ Suppose $A$ is an $n\times n$ matrix over a field $F$. Consider the $n\times n$ 
 1. Swap a pair of rows/columns.
 2. Add an $F[x]$-multiple of one row/column to another.
 3. Multiply a row/column by a unit in $F[x]$.
-We call these the **elementary row/column operations**. We will use these operations to transform $xI_n-A$ into a very particular form, in some ways analogous to the class reduced row-echelon form.
 
-We first quote (without proof) the following fact:
+We call these the **elementary row/column operations**. We will use these operations to transform $xI_n-A$ into a very particular form, in some ways analogous to the classic reduced row-echelon form.
+
+We first quote (without proof^[To see a proof, check out Exercises 16-19 in Section 12.1 and Exercises 21-25 in Section 12.2 of Dummit & Foote.]) the following fact.
 
 > [!summary] The Smith Normal Form
 > Let $A$ be an $n\times n$ matrix over a field $F$. Using the three elementary row and column operations above, the $n\times n$ matrix $xI_n-A$ can be put into the following diagonal form, called the **Smith normal form for $A$**:
@@ -23,9 +24,11 @@ We first quote (without proof) the following fact:
 >
 >The polynomials $a_1(x),\ldots, a_m(x)$ are the invariant factors of $A$.
 
-As a bonus, in computing the Smith normal form for $A$ it turns out that we can also deduce the change-of-basis matrix that will conjugate $A$ into rational canonical form. Although this will initially seem a bit strange, if we keep track of the *row* operations used to obtain the Smith normal form for $A$, then we can also write down a change-of-basis matrix such that $P^{-1}AP$ is the rational canonical form for $A$. See pages 480-482 in Dummit & Foote for the full details, but here is a short summary:
+As a bonus, in computing the Smith normal form for $A$ it turns out that we can also deduce the change-of-basis matrix that will conjugate $A$ into rational canonical form. Although this will initially seem a bit strange, if we keep track of the *row* operations used to obtain the Smith normal form for $A$, then we can also write down a change-of-basis matrix, $P$, such that $P^{-1}AP$ is the rational canonical form for $A$. See pages Dummit & Foote for the full details, but here is a short summary:
 
 Begin with the identity matrix $I_n=P'$, and then for each *row* operation used to diagonalize the matrix $xI_n-A$, change the matrix $P'$ by the following rules:
+{ #de5ec5}
+
 1. If rows $i$ and $j$ are swapped in the computation of the Smith normal form for $A$, then swap columns $i$ and $j$ in $P'$.
 2. If $R_i+p(x)R_j\mapsto R_i$ in the computation of the Smith normal form for $A$, then perform $C_j-p(A)C_i\mapsto C_j$ in $P'$. (Notice that the indices have switched!)
 3. If we multiply row $i$ by a unit $u$ in the computation of the Smith normal form for $A$, then multiply column $i$ by $u^{-1}$ in the computation of $P'$.
@@ -59,6 +62,7 @@ For quick reference, the operations used were (in order):
 - $R_2-7R_3\mapsto R_2$
 - $R_2\leftrightarrow R_3$
 - $C_2\leftrightarrow C_3$
+
 By our general theory, it follows that the invariant factors of $A$ are $a_1(x)=x-2$ and $a_2(x)=x^2-5x+6$. We can now conclude that the minimal polynomial of $A$ is $m_A(x)=x^2-5x+6=(x-2)(x-3)$, the characteristic polynomial of $A$ is $c_A(x)=(x-2)(x^2-5x+6)=(x-2)^2(x-3)$, and the rational canonical form of $A$ is
 $$R=\begin{bmatrix} 2 & 0 & 0 \\ 0 & 0 & -6 \\ 0 & 1 & 5\end{bmatrix}$$
 Moreover, if we keep track of the *row* operations used to diagonalize the matrix $xI_3-A$, we can also compute a change-of-basis matrix $P$ such that $P^{-1}AP$ is the rational canonical form matrix above. For a quick rundown on his this computation looks, first look at the *row* operations we used to compute the Smith normal form for $A$, and then write down the corresponding column operations as describe above. Starting from the identity matrix $I_3$, we perform the following column operations:
@@ -67,6 +71,7 @@ Moreover, if we keep track of the *row* operations used to diagonalize the matri
 - $C_1-(A-3I_3)C_2\mapsto C_1$
 - $C_3+7C_2\mapsto C_3$
 - $C_2\leftrightarrow C_3$
+
 This sequence of column operations will yield the matrix
 $$P'=\begin{bmatrix}0 & -7 & -1 \\ 0 & 7 & 1 \\ 0 & 1 & 0\end{bmatrix}$$
 The first nonzero column of $P'$ then gives $\deg(a_1(x))=1$ column of the matrix $P$, namely the column
@@ -88,6 +93,7 @@ Now observe that the invariant factors of $A$ are nonzero nonconstant monic poly
 1. $a_1(x)\mid a_2(x)\mid \cdots \mid a_m(x)$
 2. $a_m(x)=m_A(x)=(x-2)(x-3)$
 3. $a_1(x)a_2(x)\cdots a_m(x)=c_A(x)=(x-2)^2(x-3)$.
+
 There is only one such possible list, namely
 $$a_1(x)=x-2,\quad a_2(x)=(x-2)(x-3)$$
 We now know the invariant factors of $A$ and hence the rational canonical form of $A$.
@@ -105,12 +111,12 @@ On the other hand, diagonalizing the matrix $xI_4-A$ we eventually obtain
 $$\begin{bmatrix}1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & (x-1)^2 & 0 \\ 0 & 0 & 0 & (x-1)^2 \end{bmatrix}.$$
 Thus, the invariant factors of $A$ are $a_1(x)=(x-1)^2$ and $a_2(x)=(x-1)^2$. It now follows that the rational canonical form of $A$ is
 $$R=\begin{bmatrix}0 & -1 & 0 & 0 \\ 1 & 2 & 0 & 0 \\ 0 & 0 & 0 & -1 \\ 0 & 0 & 1 & 2\end{bmatrix}.$$
-Moreover, using the actual row and column operations used to diagonalize $xI_4-A$ allows us to compute a change-of-basis matrix. One first finds an auxiliary matrix $P'$ to be
+Moreover, using the actual row and column operations used to diagonalize $xI_4-A$ allows us to compute a change-of-basis matrix. One first finds an auxiliary matrix, $P'$, to be
 $$P'=\begin{bmatrix}0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 \end{bmatrix}$$
 
-From this, we can now compute a change-of-basis matrix $P$, ultimately finding one to be
+From this, we can now compute a change-of-basis matrix, $P$, ultimately finding one to be
 $$P=\begin{bmatrix}1 & 1 & 0 & 2 \\ 0 & 2 & 1 & -1 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1\end{bmatrix}$$
-See pages 485-486 of Dummit & Foote for the list of row and column operations used, and how they produce the matrix $P$, above.
+See pages 485-486 of Dummit & Foote for the list of row and column operations used, and how they produce the matrix, $P$, above.
 
 ---
 

@@ -15,10 +15,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                                                                           |
 | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-19\|2024-11-19]] | <ul><li>Rational canonical form</li><li>Smith normal form</li><li>Invariant factors</li></ul>                                            |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-18\|2024-11-18]] | <ul><li>Rational canonical form</li><li>Minimal polynomial</li><li>Invariant factors</li><li>Characteristic polynomial</li></ul>         |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-15\|2024-11-15]] | <ul><li>The Fundamental Theorem for Modules over a PID</li><li>Invariant factors</li><li>Elementary divisors</li><li>Free rank</li></ul> |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-14\|2024-11-14]] | <ul><li>Free modules over a PID</li></ul>                                                                                                |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-12\|2024-11-12]] | <ul><li>Noetherian modules</li><li>Linear dependence</li><li>Rank</li></ul>                                                              |
 
 { .block-language-dataview}
 
