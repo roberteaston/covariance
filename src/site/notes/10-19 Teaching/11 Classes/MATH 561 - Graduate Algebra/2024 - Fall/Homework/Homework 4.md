@@ -269,7 +269,7 @@ Show that for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\ope
 > 
 > It is compatible with the right $S$-action because $f$ and $g$ are compatible with the right $S$-action:
 > 
-> $\begin{align*} (f+g)(n)\cdot s &= (f(n)+g(n))\cdot s\\ &= f(n)\cdot s+ g(n)\cdot s\\ &= f(ns)+g(ns)\\ &= (f+g)(ns). \end{align*}$
+> $\begin{align*} (f+g)(m)\cdot s &= (f(m)+g(m))\cdot s\\ &= f(m)\cdot s+ g(m)\cdot s\\ &= f(ms)+g(ms)\\ &= (f+g)(ms). \end{align*}$
 > 
 > So we have a well-defined binary operation on $\operatorname{Hom}_S(M,N)$. It is evidently commutative and associative, since addition in $N$ is commutative and associative. The zero map from $M$ to $N$ is a right $S$-module morphism, and it plays the role of the additive identity under this operation. Additive inverses are given via additive inverses of outputs; i.e., $(-f)(n)=-f(n)$. It is straightforward to verify $-f$ is indeed another right $S$-module morphism; let's skip checking that, at least.
 > 

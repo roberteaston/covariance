@@ -1,9 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-5/","updated":"2024-11-13T10:07:02-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2024-fall/homework/homework-5/","updated":"2024-11-20T12:55:24-08:00"}
 ---
 
-*Updated on 11/13/2024*:
-- Corrected a mistake in the solution for Problem 4. The disjoint union should have been a Cartesian product.
 ## Problem 1
 
 
