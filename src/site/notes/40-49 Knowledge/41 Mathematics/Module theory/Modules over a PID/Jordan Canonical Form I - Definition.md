@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-15T09:31:32-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-20T14:30:01-08:00"}
 ---
 
 # The Jordan Canonical Form
@@ -21,6 +21,8 @@ We now choose a basis for each summand so that the corresponding matrix for $T$ 
 Recall that the action of $T$ on the summand corresponding to a quotient $F[x]/\langle (x-\lambda)^k\rangle$ is multiplication by $x$. Consider the elements
 
 $$1,\overline{x}-\lambda, \ldots , (\overline{x}-\lambda)^{k-2},(\overline{x}-\lambda)^{k-1}.$$
+
+(Note that here we are identifying $F$ with its image in the quotient ring, so we are writing $1$ instead of $\overline{1}$, and $\lambda$ instead of $\overline{\lambda}$ or $\lambda\cdot \overline{1}$, etc.)
 
 The matrix relating these elements to the standard $F$-basis $1,\overline{x},\ldots, \overline{x}^{k-2},\overline{x}^{k-1}$ is upper triangular with ones on the diagonal. In particular, that matrix has determinant $1$ and so is invertible, so it follows that the above list gives an $F$-basis for $F[x]/(x-\lambda)^k$. Noting that $x=\lambda+(x-\lambda)$ and $(\overline{x}-\lambda)^k=0$ in $F[x]/\langle (x-\lambda)^k\rangle$, observe that multiplication by $x$ acts as follows:
 
