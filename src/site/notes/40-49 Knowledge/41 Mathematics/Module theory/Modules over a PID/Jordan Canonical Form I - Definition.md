@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-20T14:30:01-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-21T06:52:16-08:00"}
 ---
 
 # The Jordan Canonical Form
@@ -26,7 +26,7 @@ $$1,\overline{x}-\lambda, \ldots , (\overline{x}-\lambda)^{k-2},(\overline{x}-\l
 
 The matrix relating these elements to the standard $F$-basis $1,\overline{x},\ldots, \overline{x}^{k-2},\overline{x}^{k-1}$ is upper triangular with ones on the diagonal. In particular, that matrix has determinant $1$ and so is invertible, so it follows that the above list gives an $F$-basis for $F[x]/(x-\lambda)^k$. Noting that $x=\lambda+(x-\lambda)$ and $(\overline{x}-\lambda)^k=0$ in $F[x]/\langle (x-\lambda)^k\rangle$, observe that multiplication by $x$ acts as follows:
 
-$$\begin{align*} 1&\mapsto \overline{x} = \lambda\cdot 1+1\cdot (\overline{x}-\lambda)\\ \overline{x}-\lambda&\mapsto \overline{x}^2-\lambda\overline{x}=\lambda\cdot (\overline{x}-\lambda)+1\cdot (\overline{x} \lambda)^2\\ &\vdots\\ (\overline{x}-\lambda)^{k-2}&\mapsto \lambda\cdot (\overline{x}-\lambda)^{k-2}+1\cdot (\overline{x}-\lambda)^{k-1}\\ (\overline{x}-\lambda)^{k-1}&\mapsto \lambda\cdot (\overline{x}-\lambda)^{k-1}. \end{align*}$$
+$$\begin{align*} 1&\mapsto \overline{x} = \lambda\cdot 1+1\cdot (\overline{x}-\lambda)\\ \overline{x}-\lambda&\mapsto \overline{x}^2-\lambda\overline{x}=\lambda\cdot (\overline{x}-\lambda)+1\cdot (\overline{x}- \lambda)^2\\ &\vdots\\ (\overline{x}-\lambda)^{k-2}&\mapsto \lambda\cdot (\overline{x}-\lambda)^{k-2}+1\cdot (\overline{x}-\lambda)^{k-1}\\ (\overline{x}-\lambda)^{k-1}&\mapsto \lambda\cdot (\overline{x}-\lambda)^{k-1}. \end{align*}$$
 
 In other words, with respect to the new basis $\mathcal{B}=\{(\overline{x}-\lambda)^{k-1},\ldots, \overline{x}-\lambda, 1\}$, the matrix for multiplication by $x$ is
 
@@ -35,7 +35,7 @@ $$\begin{bmatrix}\lambda & 1 & & & \\ & \lambda & \ddots & & \\ & & \ddots & 1 &
 > [!warning] Warning
 > Notice the order in which the new basis vectors have been listed. If we had listed them in the reverse order, then we would have written down the transpose of the above matrix, with $\lambda$ on the diagonal and ones just below.
 
-Does this choice to order our basis this way enrage me? Yes, it does. I would have been fine with our matrix being diagonal in "the other direction." The current choice seems forced to me, but alas, no one will budge on this. As such, we are forced to define:
+Does this choice to order our basis this way enrage me? Yes, it does. I would have been fine with our matrix being lower triangular with 1s below the diagonal. The current choice seems forced to me, but alas, no one will budge on this. As such, we are forced to define:
 
 > [!note] Definition of Jordan block
 > The $k\times k$ matrix with $\lambda$ along the main diagonal and $1$ just above the diagonal (as above) is called the **$k\times k$ elementary Jordan matrix with eigenvalue $\lambda$** (or the **Jordan block of size $k$ with eigenvalue $\lambda$**).
