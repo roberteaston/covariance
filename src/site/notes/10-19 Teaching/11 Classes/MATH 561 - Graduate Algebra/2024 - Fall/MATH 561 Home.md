@@ -13,12 +13,12 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the four most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Daily class summaries\|here]].
 
-| Class Date                                                                               | Topics Covered                                                                                                                           |
-| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-21\|2024-11-21]] | <ul><li>Rational canonical form</li><li>Invariant factors</li></ul>                                                                      |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-19\|2024-11-19]] | <ul><li>Rational canonical form</li><li>Smith normal form</li><li>Invariant factors</li></ul>                                            |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-18\|2024-11-18]] | <ul><li>Rational canonical form</li><li>Minimal polynomial</li><li>Invariant factors</li><li>Characteristic polynomial</li></ul>         |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-15\|2024-11-15]] | <ul><li>The Fundamental Theorem for Modules over a PID</li><li>Invariant factors</li><li>Elementary divisors</li><li>Free rank</li></ul> |
+| Class Date                                                                               | Topics Covered                                                                                                                   |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-22\|2024-11-22]] | <ul><li>Jordan canonical form</li><li>Elementary divisors</li></ul>                                                              |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-21\|2024-11-21]] | <ul><li>Rational canonical form</li><li>Invariant factors</li></ul>                                                              |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-19\|2024-11-19]] | <ul><li>Rational canonical form</li><li>Smith normal form</li><li>Invariant factors</li></ul>                                    |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-18\|2024-11-18]] | <ul><li>Rational canonical form</li><li>Minimal polynomial</li><li>Invariant factors</li><li>Characteristic polynomial</li></ul> |
 
 { .block-language-dataview}
 
@@ -28,7 +28,7 @@ Although the weekly assignments should be submitted digitally in Canvas, the ass
 
 | Assignment                                                                                               | Due Date           | Last Updated                 |
 | -------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 8\|Homework 8]] | November 24, 2024  | 12:10 PM - November 18, 2024 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 8\|Homework 8]] | November 24, 2024  | 8:33 AM - November 22, 2024  |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 7\|Homework 7]] | November 17, 2024  | 11:43 AM - November 18, 2024 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 6\|Homework 6]] | November 11, 2024  | 3:26 PM - November 11, 2024  |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 5\|Homework 5]] | November 03, 2024  | 12:55 PM - November 20, 2024 |
