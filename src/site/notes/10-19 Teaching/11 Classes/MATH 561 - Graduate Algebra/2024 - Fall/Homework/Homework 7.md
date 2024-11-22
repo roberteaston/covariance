@@ -31,7 +31,7 @@ Let $R$ be an integral domain and $M$ be a $R$-module.
 > [!summary]- Solution
 > 1. Let $A=\{x_1,\ldots, x_k\}$ be a fixed set with $n$ elements and define an $R$-module morphism $f:F(A)\to M$ by $x_i\mapsto m_i$. The image of $f$ is exactly the submodule $N$ and the kernel of $f$ is the set of all formal sums $r_1x_1+\cdots +r_kx_k$ such that $r_1m_1+\cdots r_km_k=0_M$. Since the set $\{m_1,\ldots, m_k\}$ is $R$-linearly independent, it follows that $\ker(f)=(0)$ and so by the First Isomorphism Theorem for modules $F(A)\simeq F(A)/\ker(f)\simeq \operatorname{im}(f)=N$. This proves $N\simeq F(A)\simeq R^k$.
 >    
->    We next prove $M/N$ is torsion. Take any coset $m+N$ in $M/N$. The set $T=\{m_1,\ldots, m_k,m\}$ strictly contains the set $S$, the latter of which is a maximal $R$-linearly independent subset of $M$, so the set $T$ must be $R$-linearly dependent. This implies there are some $r_i\in R$ (not all zero) such that
+>    We next prove $M/N$ is torsion. Take any element $m+N$ in $M/N$. The set $T=\{m_1,\ldots, m_k,m\}$ of $n+1$ elements must then be linearly dependent, so there are some $r_i\in R$ (not all zero) such that
 >    
 >    $r_1m_1+\cdots +r_km_k+r_{k+1}m=0_M.$
 >    
