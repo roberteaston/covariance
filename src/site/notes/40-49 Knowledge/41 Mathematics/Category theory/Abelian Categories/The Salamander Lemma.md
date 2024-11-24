@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/the-salamander-lemma/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:11:33-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/the-salamander-lemma/","tags":["category_theory/abelian_categories"],"updated":"2024-11-23T19:25:30-08:00"}
 ---
 
 For each piece of the double complex of the form
@@ -46,3 +46,9 @@ I'll include the proof of this at some point, but for now see [here](https://nca
 >![intramural_isos.png](/img/user/90-99%20Meta/91%20Images/Category%20theory/intramural_isos.png)
 
 (A proof will be added here eventually.)
+
+---
+
+## Suggested next note
+
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]

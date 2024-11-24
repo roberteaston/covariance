@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/double-complexes-and-mural-maps/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:11:21-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/double-complexes-and-mural-maps/","tags":["category_theory/abelian_categories"],"updated":"2024-11-23T19:25:18-08:00"}
 ---
 
 ## Double complexes
@@ -85,3 +85,9 @@ This notation makes it visually clear that in every double complex the extramura
 <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsOCxbMiwyLCJee1xcc3F1YXJlfVhfe20tMSxuKzF9Il0sWzIsMSwiWF57bSxuKzF9X3tcXHNxdWFyZX0iXSxbMywxLCJee1xcc3F1YXJlfVhfe20sbn0iXSxbMywwLCJYXnttKzEsbn1fe1xcc3F1YXJlfSJdLFs0LDAsIl57XFxzcXVhcmV9IFhfe20rMSxuLTF9Il0sWzEsMiwiWF57bS0xLG4rMn1fe1xcc3F1YXJlfSJdLFswLDEsIlhfe20tMSxuKzJ9XntcXHRleHR7aG9yfX0iXSxbNSwxLCJYX3ttKzEsbi0xfV57XFx0ZXh0e2hvcn19Il0sWzEsMF0sWzEsMl0sWzMsMl0sWzMsNF0sWzUsMF0sWzYsNV0sWzQsN11d&embed" width="600" height="250" style="border-radius: 8px; border: none; display: block; margin: auto"></iframe>
 
 At this first glance this might not look incredibly useful, since the morphisms can't be chained together. However, if there were additional assumptions that guaranteed the mural maps were isomorphisms, then the zig-zag mural maps *could* be chained together to produce a morphism from one homology object to another.
+
+---
+
+## Suggested next note
+
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]

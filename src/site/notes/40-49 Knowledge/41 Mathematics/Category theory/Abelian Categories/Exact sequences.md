@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/exact-sequences/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:11:27-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/exact-sequences/","tags":["category_theory/abelian_categories"],"updated":"2024-11-23T19:25:01-08:00"}
 ---
 
 ## Exact sequences
@@ -39,3 +39,9 @@ $$\ker(T(f))=T(\ker(f))\quad\text{and}\quad \operatorname{coker}(T(f))=T(\operat
 It also preserves images and coimages, and carries exact sequences to exact sequences.
 
 A functor is **left exact** when it preserves all finite limits; equivalently, when it is additive and preserves short left exact sequences. The dual notion is a functor that is **right exact**.
+
+---
+
+## Suggested next note
+
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Double complexes and mural maps\|Double complexes and mural maps]]

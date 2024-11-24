@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/chain-complexes/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:11:07-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/chain-complexes/","tags":["category_theory/abelian_categories"],"updated":"2024-11-23T19:24:47-08:00"}
 ---
 
 ## Definitions
@@ -73,3 +73,9 @@ This is how we obtain the morphism $H_n(f)$ in the above fact.
 >such that $d^n\circ d^{n-1}=0$ for all $n$.
 
 In terms of abstract category theory there is no reason to distinguish between chain complexes and cochain complexes, since the difference is entirely in the notation. Historically, however, the two developed separately and so were distinguished with different notation.
+
+---
+
+## Suggested next note
+
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences\|Exact sequences]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-chases-without-elements/","tags":["category_theory/abelian_categories"],"updated":"2024-07-21T20:11:12-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-chases-without-elements/","tags":["category_theory/abelian_categories"],"updated":"2024-11-23T19:26:03-08:00"}
 ---
 
 
@@ -17,3 +17,6 @@ Each object $a$ has a zero member (the equivalence class of the zero arrow $0\to
 >4. $h:r\to s$ is the zero arrow if and only if, for all $x\in_m r$, $hx\equiv 0$;
 >5. A sequence $a\xrightarrow{f} b\xrightarrow{g} c$ is exact at $b$ if and only if $gf=0$ and to every $y\in_m b$ with $gy\equiv 0$ there exists $x\in_m a$ with $fx\equiv y$;
 >6. (Subtraction) Given $g:b\to c$ and $x,y\in_m b$ with $gx\equiv gy$, there is a member $z\in_m b$ with $gz\equiv 0$; moreover, any $f:b\to d$ with $fx\equiv 0$ has $fy\equiv fz$ and any $h:b\to a$ with $hy\equiv 0$ has $hx\equiv -hz$.
+
+
+(UNDER CONSTRUCTION)

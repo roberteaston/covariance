@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener nofollow">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                                            | Last Updated                 |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Homework/Homework 8\|Homework 8]]                                        | 10:17 AM - November 22, 2024 |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-22\|2024-11-22]]                                                        | 8:44 AM - November 22, 2024  |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Rational and Jordan canonical forms\|Rational and Jordan canonical forms]] | 8:32 AM - November 22, 2024  |
+| Note                                                                                                                                      | Last Updated                |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|Abelian categories]]                           | 7:30 PM - November 23, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram chases without elements\|Diagram chases without elements]] | 7:26 PM - November 23, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]                                   | 7:25 PM - November 23, 2024 |
 
 { .block-language-dataview}
 

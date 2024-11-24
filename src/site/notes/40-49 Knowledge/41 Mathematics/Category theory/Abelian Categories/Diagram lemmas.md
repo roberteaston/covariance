@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2024-10-28T13:01:25-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2024-11-23T19:25:47-08:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]] (and the various mural maps) to quickly prove many of the named "diagram lemmas" one encounters in homological algebra (and elsewhere). This is just a sampling.
@@ -76,3 +76,8 @@ We thus have $\ker(g)^{\text{hor}}\simeq \ker(g)_{\square}\simeq 0_{\square}\sim
 As for the connecting morphism $\delta:\ker(h)\to \operatorname{coker}(f)$, this is the same as giving an isomorphism from $\operatorname{coker}(\ker(g)\to \ker(h))\simeq\ker(h)^{\text{hor}}$  to $\ker(\operatorname{coker}(f)\to \operatorname{coker}(g))\simeq \operatorname{coker}(f)^{\text{hor}}$. This is, in turn, given by the intramural isomorphisms $\ker(h)^{\text{hor}}\simeq \ker(h)_{\square}$ and $\operatorname{coker}(f)^{\text{hor}}\simeq ^{\square}\operatorname{coker}(f)$ and the zig-zag of extramural isomorphisms below:
 <iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsNixbMSwxLCJYXzJ7fV97XFxzcXVhcmV9Il0sWzEsMiwiXntcXHNxdWFyZX1ZXzIiXSxbMiwxLCJee1xcc3F1YXJlfVhfMyJdLFsyLDAsIlxca2VyKGgpX3tcXHNxdWFyZX0iXSxbMCwyLCJZXzF7fV97XFxzcXVhcmV9Il0sWzAsMywiXFxvcGVyYXRvcm5hbWV7Y29rZXJ9KGYpXntcXHNxdWFyZX0iXSxbMywyXSxbMCwyXSxbMCwxXSxbNCwxXSxbNCw1XV0=&embed" width="300" height="300" style="border-radius: 8px; border: none; display: block; margin: auto"></iframe>
 
+---
+
+## Suggested next note
+
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram chases without elements\|Diagram chases without elements]]
