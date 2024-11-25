@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2024-11-23T19:25:47-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2024-11-25T14:50:17-08:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]] (and the various mural maps) to quickly prove many of the named "diagram lemmas" one encounters in homological algebra (and elsewhere). This is just a sampling.
 
----
+# The Four Lemma
 
 >[!summary] The Four Lemma
 >Consider a commutative diagram in $C$ of the form below, where the rows are exact, $\tau$ is an epimorphism, and $\nu$ is a monomorphism:
@@ -27,7 +27,7 @@ Then the long zig-zag of extramural isomorphisms shows that this is isomorphic t
 
 The second statement is proven analogously.
 
----
+# The Five Lemma
 
 >[!summary] The Five Lemma
 >Consider a commutative diagram in $C$ of the form below, with exact rows:
@@ -48,7 +48,7 @@ The Four Lemma applies, since the rows are exact, $f_2$ is a monomorphism, and $
 
 The analogous argument proves the second statement.
 
----
+# The Snake Lemma
 
 Here's a [famous](https://youtu.be/aXBNPjrvx-I?si=4g9oBsprnb1UN6Xg) result:
 
