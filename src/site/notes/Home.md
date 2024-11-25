@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
+<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                                      | Last Updated                |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|Abelian categories]]                           | 7:30 PM - November 23, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram chases without elements\|Diagram chases without elements]] | 7:26 PM - November 23, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]                                   | 7:25 PM - November 23, 2024 |
+| Note                                                                                                                                            | Last Updated                 |
+| ----------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Double complexes and mural maps\|Double complexes and mural maps]]       | 10:40 AM - November 25, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|Chain complexes]]                                       | 10:29 AM - November 25, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences and chain homology\|Exact sequences and chain homology]] | 10:27 AM - November 25, 2024 |
 
 { .block-language-dataview}
 
@@ -53,7 +53,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram chases without elements\|Diagram chases without elements]]                                                                     |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]                                                                                                       |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Double complexes and mural maps\|Double complexes and mural maps]]                                                                     |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences\|Exact sequences]]                                                                                                     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences and chain homology\|Exact sequences and chain homology]]                                                               |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|Examples of adjoints]]                                                                                                     |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functor categories\|Functor categories]]                                                                                                 |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]                                                                                                                     |

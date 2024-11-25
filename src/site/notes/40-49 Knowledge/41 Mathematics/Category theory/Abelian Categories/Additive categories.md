@@ -1,19 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-11-23T19:23:02-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-11-25T09:04:24-08:00"}
 ---
 
 As we [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories#^b61743\|noted]], an $\textbf{Ab}$-category is sometimes also called a **preadditive** category, suggesting that there is something called an *additive* category. Indeed:
 
 > [!note] Definition of an additive category
 > An **additive category** is an $\textbf{Ab}$-category which has a null object and a [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories#^205a18\|biproduct]] for each pair of objects.
+{ #8369c0}
 
-If you're familiar with null objects, feel free to move along to the next note. If you would like a primer, keep reading.
+
+If you're familiar with null objects, feel free to move along to the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|next note]]. If you would like a primer, keep reading.
 
 # Null objects
 
 Recall that in a fixed category $C$, a object $s$ is **initial** if for every object $c$ there exists a unique morphism $s\to c$. Dually, an object $t$ is **terminal** if for every object $c$ there exists a unique morphism $c\to t$. An object that is both initial and terminal is called a **null object** (or a **zero object**).
 
-As usual, there are various equivalent interpretations of these properties.
+As usual, there are various equivalent interpretations of these properties:
 
 - In terms of universal properties, if we let $F:C\to\textbf{Set}$ be the functor that assigns to every object $c$ the singleton set $F(c)=\{1\}$, and to every morphism $f:c\to c'$ the identity set map $F(f):\{1\}\to \{1\}$, then an initial object $s$ is characterized by a natural bijection
   
@@ -39,7 +41,7 @@ If $C\to \textbf{1}$ is the unique functor to the category with one object, then
 
 In any case, when they exist, initial and terminal objects are unique up to unique isomorphism. The same goes for null objects.
 
-## Examples of initial, terminal and null objects
+## Examples
 
 - In $\textbf{Set}$, the empty set is an initial object and any singleton set is a terminal object. For each set $X$, the unique set map $\emptyset \to X$ is the empty map, while the unique set map $X\mapsto \{\ast\}$ is the map $x\mapsto \ast$. There is no null object.
 - In ${\bf Ab}$, the trivial group is a null object. For each abelian group $G$, the unique group morphism $\{0\}\to A$ is the map $0\mapsto 0_A$, while the unique group morphism $A\to \{0\}$ is the trivial map $a\mapsto 0$.

@@ -62,7 +62,7 @@
 ## Chain complexes
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|Chain complexes]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences\|Exact sequences]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences and chain homology\|Exact sequences and chain homology]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Double complexes and mural maps\|Double complexes and mural maps]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]
