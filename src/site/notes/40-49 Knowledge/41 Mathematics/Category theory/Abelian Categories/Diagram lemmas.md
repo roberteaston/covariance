@@ -1,20 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2024-11-25T14:50:17-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2024-11-26T11:01:48-08:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]] (and the various mural maps) to quickly prove many of the named "diagram lemmas" one encounters in homological algebra (and elsewhere). This is just a sampling.
 
 # The Four Lemma
 
->[!summary] The Four Lemma
->Consider a commutative diagram in $C$ of the form below, where the rows are exact, $\tau$ is an epimorphism, and $\nu$ is a monomorphism:
+> [!summary] The Four Lemma
+> Consider a commutative diagram (in some abelian category) of the form below, where the rows are exact, $\tau$ is an epimorphism, and $\nu$ is a monomorphism:
 ><iframe class="quiver-embed" src="https://q.uiver.app/#q=WzAsOCxbMCwwLCJBIl0sWzEsMCwiQiJdLFsyLDAsIkMiXSxbMywwLCJEIl0sWzAsMSwiQSciXSxbMSwxLCJCJyJdLFsyLDEsIkMnIl0sWzMsMSwiRCciXSxbMCwxXSxbMSwyLCJcXHhpIl0sWzIsM10sWzQsNV0sWzUsNiwiXFxldGEiXSxbNiw3XSxbMCw0LCJcXHRhdSJdLFsxLDUsImYiXSxbMiw2LCJnIl0sWzMsNywiXFxudSJdXQ==&embed" width="400" height="200" style="border-radius: 8px; border: none; display: block; margin: auto"></iframe>
 >
->Then:
->1. $\xi(\ker(f))=\ker(g)$
->2. $\operatorname{im}(f)=\eta^{-1}(\operatorname{im}(g))$
+> Then:
+> 1. $\xi(\ker(f))=\ker(g)$
+> 2. $\operatorname{im}(f)=\eta^{-1}(\operatorname{im}(g))$
 >   
->In particular, if $f$ is a monomorphism then so is $g$; and if $g$ is an epimorphism then so is $f$.
+> In particular, if $f$ is a monomorphism then so is $g$, and if $g$ is an epimorphism then so is $f$.
 { #8cd8d2}
 
 
