@@ -51,6 +51,8 @@ Similarly, by the commutativity of the bottom-right square both $\operatorname{i
 > The **donor** at $X$ is the quotient object
 > 
 > $$X_{\square}=\ker(\partial_{\text{out}}^{\text{diag}})/(\operatorname{im}(\partial_{\text{in}}^{\text{hor}})+\operatorname{im}(\partial_{\text{in}}^{\text{vert}})).$$
+{ #f322ef}
+
 
 These four quotient objects (the two homology objects and these two new objects) are closely related:
 
