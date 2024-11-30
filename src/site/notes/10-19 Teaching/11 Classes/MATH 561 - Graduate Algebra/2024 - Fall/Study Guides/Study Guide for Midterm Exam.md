@@ -126,13 +126,13 @@ Prove that $\tau$ is a natural bijection if and only if it is a natural isomorph
 
 
 
-Suppose $C$ is a category that has pullbacks and a terminal object.
+Suppose $C$ is a category that has pullbacks and a terminal object, $t$.
 1. Prove that $C$ has all (binary) products.
 2. Prove that $C$ has all equalizers.
 
->[!summary]- Hints
->1. If $t$ is the terminal object of $C$, show that for every pair of objects $a,b$ in $C$ the pullback $a\times_t b$ satisfies the universal property of the product $a\times b$.
->2. Show that the equalizer of a pair of arrows $f,g:a\to b$ may be constructed as the pullback of $a\xrightarrow{(1_a,f)} a\times b\xleftarrow{(1_a,g)} a$.
+> [!summary]- Hints
+> 1. Show that for every pair of objects $a,b$ in $C$, the pullback $a\times_t b$ satisfies the universal property of the product $a\times b$.
+> 2. Show that the equalizer of a pair of arrows $f,g:a\to b$ may be constructed as the pullback of $a\xrightarrow{(1_a,f)} a\times b\xleftarrow{(1_a,g)} a$.
 
 </div></div>
 

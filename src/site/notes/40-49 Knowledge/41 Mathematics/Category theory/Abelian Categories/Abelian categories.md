@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-11-25T09:21:14-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-11-30T15:19:38-08:00"}
 ---
 
 Just as an additive category is a preadditive category with with [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Additive categories#^8369c0\|two additional properties]], an **abelian** category is an additive category with yet another two additional properties. Let's state the definition up front and then fill in the details:
@@ -56,7 +56,7 @@ If we dualize the notion of kernel we obtain the notion of cokernel:
 
 ## Example in $\textbf{Ab}$
 
-In $\textbf{Ab}$, the cokernel of $f:A\to B$ is the projection $u:B\to B/f(A)$.
+In $\textbf{Ab}$, a cokernel of $f:A\to B$ is the projection $\pi:B\to B/\operatorname{im}(f)$.
 
 ---
 
