@@ -13,12 +13,12 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the four most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Daily class summaries\|here]].
 
-| Class Date                                                                               | Topics Covered                                                                                                                   |
-| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------- |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-22\|2024-11-22]] | <ul><li>Jordan canonical form</li><li>Elementary divisors</li></ul>                                                              |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-21\|2024-11-21]] | <ul><li>Rational canonical form</li><li>Invariant factors</li></ul>                                                              |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-19\|2024-11-19]] | <ul><li>Rational canonical form</li><li>Smith normal form</li><li>Invariant factors</li></ul>                                    |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-18\|2024-11-18]] | <ul><li>Rational canonical form</li><li>Minimal polynomial</li><li>Invariant factors</li><li>Characteristic polynomial</li></ul> |
+| Class Date                                                                               | Topics Covered                                                                                                     |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-12/2024-12-02\|2024-12-02]] | <ul><li>Preadditive categories</li><li>Additive categories</li><li>Abelian categories</li><li>Biproducts</li></ul> |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-22\|2024-11-22]] | <ul><li>Jordan canonical form</li><li>Elementary divisors</li></ul>                                                |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-21\|2024-11-21]] | <ul><li>Rational canonical form</li><li>Invariant factors</li></ul>                                                |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-19\|2024-11-19]] | <ul><li>Rational canonical form</li><li>Smith normal form</li><li>Invariant factors</li></ul>                      |
 
 { .block-language-dataview}
 

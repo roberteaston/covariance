@@ -6,6 +6,7 @@ Below you can find the complete list of daily class summaries, beginning with th
 
 | Class Date                                                                               | Topics Covered                                                                                                                               |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-12/2024-12-02\|2024-12-02]] | <ul><li>Preadditive categories</li><li>Additive categories</li><li>Abelian categories</li><li>Biproducts</li></ul>                           |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-22\|2024-11-22]] | <ul><li>Jordan canonical form</li><li>Elementary divisors</li></ul>                                                                          |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-21\|2024-11-21]] | <ul><li>Rational canonical form</li><li>Invariant factors</li></ul>                                                                          |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-19\|2024-11-19]] | <ul><li>Rational canonical form</li><li>Smith normal form</li><li>Invariant factors</li></ul>                                                |
