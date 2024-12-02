@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/special-morphisms/","tags":["category_theory"],"updated":"2024-11-25T10:24:13-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/special-morphisms/","tags":["category_theory"],"updated":"2024-12-02T10:10:36-08:00"}
 ---
 
 # Monomorphisms

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/primes-and-annihilators/","updated":"2024-11-14T15:11:24-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/primes-and-annihilators/","updated":"2024-12-02T06:57:10-08:00"}
 ---
 
 Let $R$ be a PID and $M$ be a torsion $R$-module. Suppose $pm=0$ for some nonzero $m\in M$ and prime element $p\in R$. Prove that $\operatorname{Ann}(M)\subseteq \langle p\rangle$.

@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties III - Yoneda's Lemma</a></div></div><div class="callout-content">
-<p dir="auto">Every man is like the company he is wont to keep.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
+<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                                         | Last Updated                |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Study Guides/Study Guide for Final Exam\|Study Guide for Final Exam]] | 3:30 PM - November 30, 2024 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/An intramural isomorphism\|An intramural isomorphism]]                  | 3:27 PM - November 30, 2024 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|Abelian categories]]                              | 3:19 PM - November 30, 2024 |
+| Note                                                                                                                    | Last Updated                 |
+| ----------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms\|Special morphisms]]             | 10:10 AM - December 02, 2024 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories\|Ab-categories]]                   | 6:58 AM - December 02, 2024  |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Primes and annihilators\|Primes and annihilators]] | 6:57 AM - December 02, 2024  |
 
 { .block-language-dataview}
 
