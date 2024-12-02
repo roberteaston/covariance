@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-11-30T15:19:38-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-12-02T11:52:10-08:00"}
 ---
 
 Just as an additive category is a preadditive category with with [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Additive categories#^8369c0\|two additional properties]], an **abelian** category is an additive category with yet another two additional properties. Let's state the definition up front and then fill in the details:
@@ -13,9 +13,11 @@ We will define kernels and cokernels below, but for now we note that the existen
 
 The second condition is strong. It implies that any morphism $f$ that is both monomorphism and epimorphism is an isomorphism.
 
+(We should probably prove the previous two claims at some point.)
+
 ## Examples of abelian categories
 
-The categories $\textbf{Ab}$, $R\textbf{-Mod}$, and many others are abelian, with the usual kernels and cokernels.
+The categories $\textbf{Ab}$ and $R\textbf{-Mod}$ (and many others) are abelian, with the usual kernels and cokernels.
 
 If $A$ is an abelian category, then so is any functor category $A^{\mathcal{J}}$. See [[Maclane - Categories for the Working Mathematician.pdf|page 199 in Mac Lane]] for the short proof.
 
@@ -38,11 +40,11 @@ Since $k:s\to a$ is an equalizer, the morphism $k$ is a monomorphism (i.e., left
 
 ## Example in $\textbf{Grp}$
 
-In $\textbf{Grp}$, the kernel of a group morphism $\phi:G\to H$ is the inclusion $k:\ker(\phi)\to G$, where $\ker(\phi)=\{g\in G\mid \phi(g)=e_H\}$ is the usual kernel.
+In $\textbf{Grp}$, a kernel of a group morphism $\phi:G\to H$ is the inclusion $k:\ker(\phi)\to G$, where $\ker(\phi)=\{g\in G\mid \phi(g)=e_H\}$ is the usual kernel.
 
 ## Example in $\textbf{Ab}$-categories
 
-In any $\textbf{Ab}$-category, $A$, all equalizers are kernels. This is because the hom-set $\operatorname{Hom}_A(b,c)$ is an abelian group, and so for arrows $f,g:b\to c$ and $h:a\to b$ we have $fh=gh$ exactly when $(f-g)h=0$. The arrow $h$ can therefore be described either as the equalizer of $f$ and $g$, or as the kernel of $f-g$. This is why we usually deal with kernels (and not equalizers) in $R\textbf{-Mod}$, $\textbf{Ab}$, etc.
+In any $\textbf{Ab}$-category, $A$, all equalizers are kernels. This is because the hom-set $\operatorname{Hom}_A(b,c)$ is an abelian group, and so for arrows $f,g:b\to c$ and $h:a\to b$ we have $fh=gh$ exactly when $(f-g)h=0$. The arrow $h$ can therefore be described either as an equalizer of $f$ and $g$, or as a kernel of $f-g$. This is why we usually deal with kernels (and not equalizers) in $R\textbf{-Mod}$, $\textbf{Ab}$, etc.
 
 ---
 
