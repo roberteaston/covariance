@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-11-25T09:04:24-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-12-03T06:51:56-08:00"}
 ---
 
 As we [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories#^b61743\|noted]], an $\textbf{Ab}$-category is sometimes also called a **preadditive** category, suggesting that there is something called an *additive* category. Indeed:
@@ -60,6 +60,8 @@ $$a\to z \to b.$$
 This morphism is called the **zero morphism** between $a$ and $b$ and is denoted $0:a\to b$. Any composite with a zero morphism is another zero morphism.
 
 In ${\bf Ab}$, the zero morphism $A\to B$ between two abelian groups is the trivial map $a\mapsto 0_B$. More generally, when $C$ is an additive category the zero morphism $a:\to b$ is the additive identity of the abelian group $\operatorname{Hom}_C(a,b)$. In ${\bf Grp}$, the zero morphism $G\to H$ between two groups is the trivial map $g\mapsto e_H$.
+
+One can show (are you the one?) that in an additive category, each zero morphism $0:a\to b$ is (as hoped!) the additive identity of the abelian group $\operatorname{Hom}_A(a,b)$.
 
 ---
 ## Suggested next note

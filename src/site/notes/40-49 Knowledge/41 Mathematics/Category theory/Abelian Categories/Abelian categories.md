@@ -1,19 +1,20 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-12-02T11:52:10-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-12-03T06:55:02-08:00"}
 ---
 
 Just as an additive category is a preadditive category with with [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Additive categories#^8369c0\|two additional properties]], an **abelian** category is an additive category with yet another two additional properties. Let's state the definition up front and then fill in the details:
 
 >[!note] Definition of an abelian category
->An **abelian category** is an additive category, $A$, satisfying the following conditions:
->1. Every morphism in $A$ has a kernel and a cokernel.
+>An **abelian category** is an additive category satisfying the following conditions:
+>1. Every morphism has a kernel and a cokernel.
 >2. Every monomorphism is a kernel and every epimorphism is a cokernel.
 
-We will define kernels and cokernels below, but for now we note that the existence of kernels (and binary products) implies $A$ has all finite limits, while the existence of cokernels (and binary coproducts) implies the existence of all finite colimits.
+We will define kernels and cokernels below, but for now we note the following facts:
 
-The second condition is strong. It implies that any morphism $f$ that is both monomorphism and epimorphism is an isomorphism.
+-  The existence of kernels (and binary products) implies $A$ has all finite limits, while the existence of cokernels (and binary coproducts) implies the existence of all finite colimits.
+- The second condition is strong. It implies that any morphism $f$ that is both monomorphism and epimorphism is an isomorphism.
 
-(We should probably prove the previous two claims at some point.)
+(We should probably prove these two facts at some point.)
 
 ## Examples of abelian categories
 
@@ -44,7 +45,7 @@ In $\textbf{Grp}$, a kernel of a group morphism $\phi:G\to H$ is the inclusion $
 
 ## Example in $\textbf{Ab}$-categories
 
-In any $\textbf{Ab}$-category, $A$, all equalizers are kernels. This is because the hom-set $\operatorname{Hom}_A(b,c)$ is an abelian group, and so for arrows $f,g:b\to c$ and $h:a\to b$ we have $fh=gh$ exactly when $(f-g)h=0$. The arrow $h$ can therefore be described either as an equalizer of $f$ and $g$, or as a kernel of $f-g$. This is why we usually deal with kernels (and not equalizers) in $R\textbf{-Mod}$, $\textbf{Ab}$, etc.
+In any $\textbf{Ab}$-category, all equalizers are kernels. This is because the hom-sets are abelian group, so for arrows $f,g:b\to c$ and $h:a\to b$ we have $fh=gh$ exactly when $(f-g)h=0$. The arrow $h$ can therefore be described either as an equalizer of $f$ and $g$, or as a kernel of $f-g$. This is why we usually deal with kernels (and not equalizers) in $R\textbf{-Mod}$, $\textbf{Ab}$, etc.
 
 ---
 
