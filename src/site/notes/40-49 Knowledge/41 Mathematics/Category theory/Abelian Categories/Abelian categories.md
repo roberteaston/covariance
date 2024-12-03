@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-12-03T06:55:02-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-12-03T15:40:28-08:00"}
 ---
 
 Just as an additive category is a preadditive category with with [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Additive categories#^8369c0\|two additional properties]], an **abelian** category is an additive category with yet another two additional properties. Let's state the definition up front and then fill in the details:
@@ -45,7 +45,7 @@ In $\textbf{Grp}$, a kernel of a group morphism $\phi:G\to H$ is the inclusion $
 
 ## Example in $\textbf{Ab}$-categories
 
-In any $\textbf{Ab}$-category, all equalizers are kernels. This is because the hom-sets are abelian group, so for arrows $f,g:b\to c$ and $h:a\to b$ we have $fh=gh$ exactly when $(f-g)h=0$. The arrow $h$ can therefore be described either as an equalizer of $f$ and $g$, or as a kernel of $f-g$. This is why we usually deal with kernels (and not equalizers) in $R\textbf{-Mod}$, $\textbf{Ab}$, etc.
+In any preadditive category, all equalizers are kernels. This is because the hom-sets are abelian group, so for arrows $f,g:b\to c$ and $h:a\to b$ we have $fh=gh$ exactly when $(f-g)h=0$. The arrow $h$ can therefore be described either as an equalizer of $f$ and $g$, or as a kernel of $f-g$. This is why we usually deal with kernels (and not equalizers) in $R\textbf{-Mod}$, $\textbf{Ab}$, etc.
 
 ---
 

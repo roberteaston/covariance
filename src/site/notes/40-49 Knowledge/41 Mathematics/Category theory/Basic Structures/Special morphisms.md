@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/special-morphisms/","tags":["category_theory"],"updated":"2024-12-02T10:10:36-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/special-morphisms/","tags":["category_theory"],"updated":"2024-12-03T15:34:26-08:00"}
 ---
 
 # Monomorphisms
@@ -9,11 +9,11 @@
 { #676200}
 
 
-Equivalently, a morphism $f:X\to Y$ is a monomorphism if and only if the induced map $f\circ -:\operatorname{Hom}_C(Z,X)\to \operatorname{Hom}_C(Z,Y)$ is injective for every object $Z$ in $C$. This is equivalent to the natural transformation $Hf: \operatorname{Hom}_C(-,X)\Rightarrow \operatorname{Hom}_C(-,Y)$ being a monomorphism in the functor category ${\bf Set}^C$.
+Equivalently, a morphism $f:X\to Y$ is a monomorphism if and only if the induced set map $f\circ -:\operatorname{Hom}_C(Z,X)\to \operatorname{Hom}_C(Z,Y)$ is injective for every object $Z$ in $C$. This is equivalent to the natural transformation $Hf: \operatorname{Hom}_C(-,X)\Rightarrow \operatorname{Hom}_C(-,Y)$ being a monomorphism in the functor category ${\bf Set}^C$.
 
 ## Examples
 
-In a concrete category, every morphism whose underlying set map is injective is an epimorphism. In most concrete categories (but not all) the converse is also true. For example, in the category ${\bf Div}$ of divisible abelian groups there are non-injective monomorphisms. Such examples seem rare, however.
+In a concrete category, every morphism whose underlying set map is injective is a monomorphism. In most concrete categories (but not all) the converse is also true. For example, in the category ${\bf Div}$ of divisible abelian groups there are non-injective monomorphisms. Such examples seem rare, however.
 ## Properties of monomorphisms
 
 - Every isomorphism is a monomorphism. In fact, any morphism with a left-sided inverse is a monomorphism.

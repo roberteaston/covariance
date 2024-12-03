@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-12-03T06:51:56-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-12-03T15:39:53-08:00"}
 ---
 
-As we [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories#^b61743\|noted]], an $\textbf{Ab}$-category is sometimes also called a **preadditive** category, suggesting that there is something called an *additive* category. Indeed:
+As we [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Preadditive categories#^b61743\|noted]], a preadditive category is sometimes also called a **preadditive** category, suggesting that there is something called an *additive* category. Indeed:
 
 > [!note] Definition of an additive category
-> An **additive category** is an $\textbf{Ab}$-category which has a null object and a [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Ab-categories#^205a18\|biproduct]] for each pair of objects.
+> An **additive category** is a preadditive category which has a null object and a [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Preadditive categories#^205a18\|biproduct]] for each pair of objects.
 { #8369c0}
 
 
