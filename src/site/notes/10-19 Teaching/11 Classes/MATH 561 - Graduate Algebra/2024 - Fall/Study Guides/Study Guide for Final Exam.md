@@ -193,7 +193,7 @@ Determine all similarity classes of $2\times 2$ matrices over $\textbf{Q}$ of or
 
 
 
-Let $C$ be a category and $f,g:X\to Y$ be parallel morphisms in $C$ for which an equalizer $\operatorname{Eq}(f,g)\xrightarrow{e} X$ exists. Prove that the equalizing morphism $e$ is a [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms#Monomorphisms\|monomorphism]] in $C$.
+Suppose $C$ is a category and $f,g:a\to b$ are parallel morphisms in $C$ for which an equalizer $\operatorname{Eq}(f,g)\xrightarrow{e} a$ exists. Prove that the arrow $e$ is a [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms#Monomorphisms\|monomorphism]] in $C$.
 
 </div></div>
 

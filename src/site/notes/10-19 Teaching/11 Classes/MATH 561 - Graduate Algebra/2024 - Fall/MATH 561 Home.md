@@ -15,10 +15,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                                                                                                    |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-12/2024-12-05\|2024-12-05]] | <ul><li>Double complexes</li><li>Homology</li><li>Mural maps</li><li>Salamander Lemma</li></ul>                                                                   |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-12/2024-12-03\|2024-12-03]] | <ul><li>Kernels</li><li>Cokernels</li><li>Monomorphisms</li><li>Epimorphisms</li><li>Chain complexes</li><li>Abelian categories</li><li>Exact sequences</li></ul> |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-12/2024-12-02\|2024-12-02]] | <ul><li>Preadditive categories</li><li>Additive categories</li><li>Abelian categories</li><li>Biproducts</li></ul>                                                |
 | [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-22\|2024-11-22]] | <ul><li>Jordan canonical form</li><li>Elementary divisors</li></ul>                                                                                               |
-| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-21\|2024-11-21]] | <ul><li>Rational canonical form</li><li>Invariant factors</li></ul>                                                                                               |
 
 { .block-language-dataview}
 
