@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/the-salamander-lemma/","tags":["category_theory/abelian_categories"],"updated":"2024-12-06T11:28:14-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/the-salamander-lemma/","tags":["category_theory/abelian_categories"],"updated":"2024-12-06T12:55:43-08:00"}
 ---
 
 
