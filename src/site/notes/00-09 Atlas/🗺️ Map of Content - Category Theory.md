@@ -1,13 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-category-theory/","updated":"2024-10-18T09:54:04-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-category-theory/","updated":"2024-12-06T12:59:34-08:00"}
 ---
 
 # Basic structures
-
->[!quote] Serge Lang
->In the forties and fifties (mostly in the works of Cartan, Eilenberg, MacLane, and Steenrod), it was realized that there was a systematic way of developing certain relations of linear algebra, depending only on fairly general constructions which were mostly arrow-theoretic, and were affectionately called abstract nonsense by Steenrod.
->
->*My source:* [[Riehl - Category Theory in Context.pdf#page=10|Riehl]]
 
 >[!quote] Mac Lane
 >..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."

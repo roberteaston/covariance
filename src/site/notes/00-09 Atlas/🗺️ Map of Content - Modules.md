@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-modules/","updated":"2024-10-29T15:36:43-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-modules/","updated":"2024-12-06T13:01:37-08:00"}
 ---
 
 # Basic structures
@@ -55,3 +55,4 @@
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form II - Additional Properties\|Rational Canonical Form II - Additional Properties]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation\|Rational Canonical Form III - Computation]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Jordan Canonical Form I - Definition\|Jordan Canonical Form I - Definition]]
+[[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Jordan Canonical Form II - Computation\|Jordan Canonical Form II - Computation]]
