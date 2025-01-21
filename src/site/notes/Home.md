@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
-<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Person | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" data-href="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" href="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" class="internal-link" target="_blank" rel="noopener nofollow">Groups</a></div></div><div class="callout-content">
+<p dir="auto">Nice quote.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                | Last Updated                 |
-| ------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]] | 2:43 PM - December 07, 2024  |
-| [[00-09 Atlas/🗺️ Map of Content - Modules\|🗺️ Map of Content - Modules]]                                       | 1:01 PM - December 06, 2024  |
-| [[00-09 Atlas/🗺️ Map of Content - Category Theory\|🗺️ Map of Content - Category Theory]]                       | 12:59 PM - December 06, 2024 |
+| Note                                                                                                                                         | Last Updated                |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Spectral sequences\|Spectral sequences]]                              | 12:37 PM - January 21, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|Modules]]                                          | 2:48 PM - January 06, 2025  |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Study Guides/Study Guide for Final Exam\|Study Guide for Final Exam]] | 8:22 AM - December 13, 2024 |
 
 { .block-language-dataview}
 
@@ -60,6 +60,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Preadditive categories\|Preadditive categories]]                                                                                       |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints\|Properties of adjoints]]                                                                                                 |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms\|Special morphisms]]                                                                                                   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Spectral sequences\|Spectral sequences]]                                                                                               |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]                                                                                           |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal arrows and elements\|Universal arrows and elements]]                                                                       |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                                           |
