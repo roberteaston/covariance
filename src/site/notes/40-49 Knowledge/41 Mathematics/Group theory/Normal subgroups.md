@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/group-theory/normal-subgroups/","tags":["group_theory"],"updated":"2024-03-20T07:28:53-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/group-theory/normal-subgroups/","tags":["group_theory"],"updated":"2025-01-30T11:31:37-08:00"}
 ---
 
 # Equivalent definitions

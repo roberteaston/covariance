@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Person | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" data-href="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" href="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" class="internal-link" target="_blank" rel="noopener nofollow">Groups</a></div></div><div class="callout-content">
-<p dir="auto">Nice quote.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                                         | Last Updated                |
-| -------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Spectral sequences\|Spectral sequences]]                              | 12:37 PM - January 21, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|Modules]]                                          | 2:48 PM - January 06, 2025  |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2024 - Fall/Study Guides/Study Guide for Final Exam\|Study Guide for Final Exam]] | 8:22 AM - December 13, 2024 |
+| Note                                                                                                               | Last Updated              |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Product of two subgroups\|Product of two subgroups]] | 11:37 AM - March 10, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Preimage of a subgroup\|Preimage of a subgroup]]     | 11:37 AM - March 10, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Winter 2025\|Winter 2025]]                                      | 11:36 AM - March 10, 2025 |
 
 { .block-language-dataview}
 
@@ -77,9 +77,11 @@
 { .block-language-dataview}
 
 >[!summary]- Group theory
-> | Topic                                                                                 |
-> | ------------------------------------------------------------------------------------- |
-> | [[40-49 Knowledge/41 Mathematics/Group theory/Normal subgroups\|Normal subgroups]] |
+> | Topic                                                                                                              |
+> | ------------------------------------------------------------------------------------------------------------------ |
+> | [[40-49 Knowledge/41 Mathematics/Group theory/Normal subgroups\|Normal subgroups]]                              |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Preimage of a subgroup\|Preimage of a subgroup]]     |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Product of two subgroups\|Product of two subgroups]] |
 > 
 { .block-language-dataview}
 
@@ -122,11 +124,13 @@
 { .block-language-dataview}
 
 >[!summary]- Ring theory
-> | Topic                                                                                                            |
-> | ---------------------------------------------------------------------------------------------------------------- |
-> | [[40-49 Knowledge/41 Mathematics/Ring theory/Chinese Remainder Theorem\|Chinese Remainder Theorem]]           |
-> | [[40-49 Knowledge/41 Mathematics/Ring theory/Graded rings\|Graded rings]]                                     |
-> | [[40-49 Knowledge/41 Mathematics/Ring theory/Principal ideal domains (PIDs)\|Principal ideal domains (PIDs)]] |
+> | Topic                                                                                                                   |
+> | ----------------------------------------------------------------------------------------------------------------------- |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Boolean algebras\|Boolean algebras]]                       |
+> | [[40-49 Knowledge/41 Mathematics/Ring theory/Chinese Remainder Theorem\|Chinese Remainder Theorem]]                  |
+> | [[40-49 Knowledge/41 Mathematics/Ring theory/Graded rings\|Graded rings]]                                            |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Group of units of a product\|Group of units of a product]] |
+> | [[40-49 Knowledge/41 Mathematics/Ring theory/Principal ideal domains (PIDs)\|Principal ideal domains (PIDs)]]        |
 > 
 { .block-language-dataview}
 

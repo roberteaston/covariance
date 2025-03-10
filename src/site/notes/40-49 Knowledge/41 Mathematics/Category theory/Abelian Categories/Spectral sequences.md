@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/spectral-sequences/","tags":["category_theory/abelian_categories"],"updated":"2025-01-21T12:37:35-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/spectral-sequences/","tags":["category_theory/abelian_categories"],"updated":"2025-01-23T06:48:58-08:00"}
 ---
 
 > [!warning] Caution
