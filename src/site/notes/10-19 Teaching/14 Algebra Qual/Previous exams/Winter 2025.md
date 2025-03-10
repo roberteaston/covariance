@@ -53,11 +53,7 @@ A **Boolean algebra** is a ring $A$ with $1$ satisfying $x^2=x$ for all $x\in A$
 
 Let ${\bf Z}_n$ be the ring of integers $\pmod{n}$. There is a ring homomorphism
 
-$ \begin{align*}
-        {\bf Z}_{28}&\to {\bf Z}_4\times {\bf Z}_7\\
-        [m]_{28}&\mapsto ([m]_4,[m]_7)
-    \end{align*}
-$
+$\begin{align*} {\bf Z}_{28}&\to {\bf Z}_4\times {\bf Z}_7\\ [m]_{28}&\mapsto ([m]_4,[m]_7)\end{align*}$
 
 This is an isomorphism by the Chinese Remainder Theorem. Let ${\bf Z}_n^{\times}$ be the group of units of ${\bf Z}_n$. Prove that ${\bf Z}_{28}^{\times}$ is isomorphic to ${\bf Z}_4^{\times}\times {\bf Z}_7^{\times}$.
 
