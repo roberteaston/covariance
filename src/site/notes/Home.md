@@ -12,9 +12,9 @@
 
 | Note                                                                                                                                     | Last Updated             |
 | ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/2024-06\|2024-06]]                                                                    | 3:27 PM - March 13, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Property of the order of an element\|Property of the order of an element]] | 3:23 PM - March 13, 2025 |
 | [[10-19 Teaching/14 Algebra Qual/Problem bank/Linear algebra/Orthogonal projection onto a plane\|Orthogonal projection onto a plane]] | 2:37 PM - March 13, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Property of the order of an element\|Property of the order of an element]] | 2:36 PM - March 13, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Computations in symmetric groups\|Computations in symmetric groups]]       | 2:36 PM - March 13, 2025 |
 
 { .block-language-dataview}
 
