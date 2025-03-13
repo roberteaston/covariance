@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/ring-theory/group-of-units-of-a-product/","tags":["ring_theory"],"updated":"2025-03-10T11:37:15-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/ring-theory/group-of-units-of-a-product/","tags":["ring_theory"],"updated":"2025-03-10T11:43:09-07:00"}
 ---
 
 Let ${\bf Z}_n$ be the ring of integers $\pmod{n}$. There is a ring homomorphism

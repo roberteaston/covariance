@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/winter-2025/","updated":"2025-03-10T11:36:11-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/winter-2025/","updated":"2025-03-13T13:56:44-07:00"}
 ---
 
 ## Problem 1
@@ -73,3 +73,10 @@ Let $T:{\bf R}^3\to {\bf R}^3$ be the orthogonal projection onto the plane $z=x+
 2. Is $T$ diagonalizable? Justify your answer.
 
 </div></div>
+
+
+---
+
+For the historical record, he's a digital copy of the actual exam:
+
+![[2025 - Winter.pdf]]
