@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
-<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                                     | Last Updated             |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Property of the order of an element\|Property of the order of an element]] | 3:14 PM - March 14, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/2024-06\|2024-06]]                                                                    | 3:39 PM - March 13, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Linear algebra/Orthogonal projection onto a plane\|Orthogonal projection onto a plane]] | 2:37 PM - March 13, 2025 |
+| Note                                                                                                               | Last Updated             |
+| ------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Preimage of a subgroup\|Preimage of a subgroup]]     | 3:28 PM - March 14, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Product of two subgroups\|Product of two subgroups]] | 3:28 PM - March 14, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Linear algebra/Projection onto a plane\|Projection onto a plane]] | 3:27 PM - March 14, 2025 |
 
 { .block-language-dataview}
 
