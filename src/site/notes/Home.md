@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Person | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" data-href="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" href="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" class="internal-link" target="_blank" rel="noopener nofollow">Groups</a></div></div><div class="callout-content">
-<p dir="auto">Nice quote.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
+<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                                              | Last Updated             |
-| --------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/2024-01\|2024-01]]                                                             | 3:36 PM - March 15, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Image of an evaluation morphism\|Image of an evaluation morphism]]   | 3:35 PM - March 15, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Existence of an identity element\|Existence of an identity element]] | 3:33 PM - March 15, 2025 |
+| Note                                                                                                                                                     | Last Updated             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Linear algebra/Eigenvectors and linear independence\|Eigenvectors and linear independence]]             | 3:47 PM - March 15, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/2023-09\|2023-09]]                                                                                    | 3:47 PM - March 15, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Existence of an identity element in a group\|Existence of an identity element in a group]] | 3:46 PM - March 15, 2025 |
 
 { .block-language-dataview}
 
@@ -82,7 +82,9 @@
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A condition for a group to be abelian\|A condition for a group to be abelian]]             |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Another condition for a group to be abelian\|Another condition for a group to be abelian]] |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Computations in symmetric groups\|Computations in symmetric groups]]                       |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Computations with inner automorphisms\|Computations with inner automorphisms]]             |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Computing an automorphism group\|Computing an automorphism group]]                         |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Existence of an identity element in a group\|Existence of an identity element in a group]] |
 > | [[40-49 Knowledge/41 Mathematics/Group theory/Normal subgroups\|Normal subgroups]]                                                                    |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Normality and the operation cosets\|Normality and the operation cosets]]                   |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Preimage of a subgroup\|Preimage of a subgroup]]                                           |
@@ -130,18 +132,20 @@
 { .block-language-dataview}
 
 >[!summary]- Ring theory
-> | Topic                                                                                                                                   |
-> | --------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Boolean algebras\|Boolean algebras]]                                       |
-> | [[40-49 Knowledge/41 Mathematics/Ring theory/Chinese Remainder Theorem\|Chinese Remainder Theorem]]                                  |
-> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Existence of an identity element\|Existence of an identity element]]       |
-> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Existence of certain ring morphisms\|Existence of certain ring morphisms]] |
-> | [[40-49 Knowledge/41 Mathematics/Ring theory/Graded rings\|Graded rings]]                                                            |
-> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Group of units of a product\|Group of units of a product]]                 |
-> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Image of an evaluation morphism\|Image of an evaluation morphism]]         |
-> | [[40-49 Knowledge/41 Mathematics/Ring theory/Principal ideal domains (PIDs)\|Principal ideal domains (PIDs)]]                        |
-> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Proving an ideal is prime\|Proving an ideal is prime]]                     |
-> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Quotienting out nilpotent elements\|Quotienting out nilpotent elements]]   |
+> | Topic                                                                                                                                                               |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Boolean algebras\|Boolean algebras]]                                                                   |
+> | [[40-49 Knowledge/41 Mathematics/Ring theory/Chinese Remainder Theorem\|Chinese Remainder Theorem]]                                                              |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Existence of an identity element in a finite ring\|Existence of an identity element in a finite ring]] |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Existence of certain ring morphisms\|Existence of certain ring morphisms]]                             |
+> | [[40-49 Knowledge/41 Mathematics/Ring theory/Graded rings\|Graded rings]]                                                                                        |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Group of units of a product\|Group of units of a product]]                                             |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Image of an evaluation morphism\|Image of an evaluation morphism]]                                     |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Morphism from the Gaussian integers\|Morphism from the Gaussian integers]]                             |
+> | [[40-49 Knowledge/41 Mathematics/Ring theory/Principal ideal domains (PIDs)\|Principal ideal domains (PIDs)]]                                                    |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Proving an ideal is prime\|Proving an ideal is prime]]                                                 |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Quotienting out nilpotent elements\|Quotienting out nilpotent elements]]                               |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Quotients and direct products\|Quotients and direct products]]                                         |
 > 
 { .block-language-dataview}
 
