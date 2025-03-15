@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/ring-theory/quotienting-out-nilpotent-elements/","tags":["ring_theory"],"updated":"2025-03-13T14:34:10-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/ring-theory/quotienting-out-nilpotent-elements/","tags":["ring_theory"],"updated":"2025-03-15T15:26:23-07:00"}
 ---
 
 Let $R$ be a commutative ring with $1$, and $N$ the ideal
