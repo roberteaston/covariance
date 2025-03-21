@@ -4,17 +4,17 @@
 
 # Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Person | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" data-href="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" href="40-49 Knowledge/41 Mathematics/Group theory/Basic definitions and examples/Groups.md" class="internal-link" target="_blank" rel="noopener nofollow">Groups</a></div></div><div class="callout-content">
+<p dir="auto">Nice quote.</p>
 </div></div></span></p>
 
 # Recently updated notes
 
-| Note                                                                                                          | Last Updated              |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2016-03\|Algebra Qual 2016-03]]               | 11:25 AM - March 19, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/An evaluation morphism\|An evaluation morphism]] | 11:24 AM - March 19, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Nilpotent elements\|Nilpotent elements]]         | 11:23 AM - March 19, 2025 |
+| Note                                                                                                                                                               | Last Updated             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2014-03\|Algebra Qual 2014-03]]                                                                    | 8:42 AM - March 21, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Linear algebra/A property of surjective linear transformations\|A property of surjective linear transformations]] | 8:41 AM - March 21, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Linear algebra/Reflection across a plane\|Reflection across a plane]]                                             | 8:40 AM - March 21, 2025 |
 
 { .block-language-dataview}
 
@@ -79,13 +79,17 @@
 >[!summary]- Group theory
 > | Topic                                                                                                                                                                                                            |
 > | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A condition for a group to be abelian\|A condition for a group to be abelian]]                                                                     |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A condition to be non-cyclic\|A condition to be non-cyclic]]                                                                                       |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A condition under which a group must be abelian\|A condition under which a group must be abelian]]                                                 |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A condition under which a group must be abelian (2)\|A condition under which a group must be abelian (2)]]                                         |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A dihedral group that is not an internal direct product\|A dihedral group that is not an internal direct product]]                                 |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A group isomorphic to a subgroup of a direct product of quotient groups\|A group isomorphic to a subgroup of a direct product of quotient groups]] |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A group isomorphic to an internal direct product\|A group isomorphic to an internal direct product]]                                               |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A group of upper-triangular matrices\|A group of upper-triangular matrices]]                                                                       |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A group with a trivial automorphism group\|A group with a trivial automorphism group]]                                                             |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A group with a trivial automorphism group (2)\|A group with a trivial automorphism group (2)]]                                                     |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/A property of the order of an element\|A property of the order of an element]]                                                                     |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/An automorphism of a group of odd order\|An automorphism of a group of odd order]]                                                                 |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Another condition for a group to be abelian\|Another condition for a group to be abelian]]                                                         |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Automorphisms of a finite cyclic group\|Automorphisms of a finite cyclic group]]                                                                   |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Closely related subgroups of a finite group\|Closely related subgroups of a finite group]]                                                         |
@@ -93,7 +97,9 @@
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Computations in symmetric groups\|Computations in symmetric groups]]                                                                               |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Computations with inner automorphisms\|Computations with inner automorphisms]]                                                                     |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Computing an automorphism group\|Computing an automorphism group]]                                                                                 |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Counting morphisms between specified groups\|Counting morphisms between specified groups]]                                                         |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Directly proving the existence of an element of a desired order\|Directly proving the existence of an element of a desired order]]                 |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Elements of finite order\|Elements of finite order]]                                                                                               |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Elements of order 2\|Elements of order 2]]                                                                                                         |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Existence of a normal subgroup of finite index\|Existence of a normal subgroup of finite index]]                                                   |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Existence of an identity element in a group\|Existence of an identity element in a group]]                                                         |
@@ -113,6 +119,7 @@
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Normality and the operation on cosets\|Normality and the operation on cosets]]                                                                     |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Normality and the operation on cosets (defunct)\|Normality and the operation on cosets (defunct)]]                                                 |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Normalizer of a subgroup\|Normalizer of a subgroup]]                                                                                               |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Normalizers and centralizers\|Normalizers and centralizers]]                                                                                       |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Order of a power of an element\|Order of a power of an element]]                                                                                   |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Order of an element in a finite group\|Order of an element in a finite group]]                                                                     |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Order of elements in a symmetric group\|Order of elements in a symmetric group]]                                                                   |
@@ -123,6 +130,7 @@
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Projection onto a quotient\|Projection onto a quotient]]                                                                                           |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Properties of the center of a group\|Properties of the center of a group]]                                                                         |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Property of the order of an element\|Property of the order of an element]]                                                                         |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Proving Lagrange's Theorem\|Proving Lagrange's Theorem]]                                                                                           |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Stabilizer of a coset\|Stabilizer of a coset]]                                                                                                     |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/Subgroups of a group of even order\|Subgroups of a group of even order]]                                                                           |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Group theory/The cyclic group of order 2020\|The cyclic group of order 2020]]                                                                                   |
@@ -175,6 +183,7 @@
 > | Topic                                                                                                                                                                             |
 > | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/A maximal ideal in a function ring\|A maximal ideal in a function ring]]                                             |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/A non-PID\|A non-PID]]                                                                                               |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/A ring in which all prime ideals are maximal\|A ring in which all prime ideals are maximal]]                         |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/An evaluation morphism\|An evaluation morphism]]                                                                     |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/An isomorphism of rings\|An isomorphism of rings]]                                                                   |
@@ -184,17 +193,20 @@
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Characteristic of a ring\|Characteristic of a ring]]                                                                 |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Characteristic of a ring (2)\|Characteristic of a ring (2)]]                                                         |
 > | [[40-49 Knowledge/41 Mathematics/Ring theory/Chinese Remainder Theorem\|Chinese Remainder Theorem]]                                                                            |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Constructing a field extension\|Constructing a field extension]]                                                     |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Constructing the field with eight elements\|Constructing the field with eight elements]]                             |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Dimension of a PID\|Dimension of a PID]]                                                                             |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Euclidean domains are PIDs\|Euclidean domains are PIDs]]                                                             |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Evaluation at i\|Evaluation at i]]                                                                                   |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Existence of an identity element in a finite ring\|Existence of an identity element in a finite ring]]               |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Existence of certain ring morphisms\|Existence of certain ring morphisms]]                                           |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Generator for a field extension\|Generator for a field extension]]                                                   |
 > | [[40-49 Knowledge/41 Mathematics/Ring theory/Graded rings\|Graded rings]]                                                                                                      |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Group of units of a product\|Group of units of a product]]                                                           |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Ideals in a polynomial ring\|Ideals in a polynomial ring]]                                                           |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Ideals in a polynomial ring (2)\|Ideals in a polynomial ring (2)]]                                                   |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Idempotent elements in a ring\|Idempotent elements in a ring]]                                                       |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Idempotent elements in a ring (2)\|Idempotent elements in a ring (2)]]                                               |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Image of an evaluation morphism\|Image of an evaluation morphism]]                                                   |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Image of the identity element under a ring morphism\|Image of the identity element under a ring morphism]]           |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Maximal ideals in a PID\|Maximal ideals in a PID]]                                                                   |
@@ -207,6 +219,7 @@
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Prime and irreducible elements in a commutative ring\|Prime and irreducible elements in a commutative ring]]         |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Prime ideals and quotient rings\|Prime ideals and quotient rings]]                                                   |
 > | [[40-49 Knowledge/41 Mathematics/Ring theory/Principal ideal domains (PIDs)\|Principal ideal domains (PIDs)]]                                                                  |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Properties of Boolean rings\|Properties of Boolean rings]]                                                           |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Properties of the annihilator\|Properties of the annihilator]]                                                       |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Proving an ideal is prime\|Proving an ideal is prime]]                                                               |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Quotienting out nilpotent elements\|Quotienting out nilpotent elements]]                                             |
@@ -214,7 +227,9 @@
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/The field with eight elements\|The field with eight elements]]                                                       |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/The field with nine elements\|The field with nine elements]]                                                         |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/The kernel of an evaluation morphism\|The kernel of an evaluation morphism]]                                         |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/The nilradical of a ring\|The nilradical of a ring]]                                                                 |
 > | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/The structure of the integers as both a group and a ring\|The structure of the integers as both a group and a ring]] |
+> | [[10-19 Teaching/14 Algebra Qual/Problem bank/Ring theory/Using the Chinese Remainder Theorem\|Using the Chinese Remainder Theorem]]                                           |
 > 
 { .block-language-dataview}
 

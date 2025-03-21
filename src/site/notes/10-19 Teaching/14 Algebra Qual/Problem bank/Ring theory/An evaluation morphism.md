@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/ring-theory/an-evaluation-morphism/","tags":["ring_theory"],"updated":"2025-03-19T11:24:42-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/ring-theory/an-evaluation-morphism/","tags":["ring_theory"],"updated":"2025-03-20T09:03:32-07:00"}
 ---
 
 Let $z\in {\bf C}$ be a complex number and let $\epsilon_z:{\bf R}[x]\to {\bf C}$ be the evaluation homomorphism given by $\epsilon_z(p)=p(z)$ for each $p\in {\bf R}[x]$.
