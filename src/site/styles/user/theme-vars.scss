@@ -1,10 +1,10 @@
 @font-face {
-    font-family: 'FormaDJR';
-    src:    url('/styles/user/fonts/formaDJR/FormaDJRText-Regular.eot');
-    src:    url('/styles/user/fonts/formaDJR/FormaDJRText-Regular.eot?#iefix') format('embedded-opentype'),
-            url('/styles/user/fonts/formaDJR/FormaDJRText-Regular.woff') format('woff'),
-            url('/styles/user/fonts/formaDJR/FormaDJRText-Regular.woff2') format('woff2'),
-            url('/styles/user/fonts/formaDJR/FormaDJRText-Regular.ttf') format('truetype'),
+    font-family: 'Optima';
+    src:    url('/styles/user/fonts/optima/Optima.eot');
+    src:    url('/styles/user/fonts/optima/Optima.eot?#iefix') format('embedded-opentype'),
+            url('/styles/user/fonts/optima/Optima.woff') format('woff'),
+            url('/styles/user/fonts/optima/Optima.woff2') format('woff2'),
+            url('/styles/user/fonts/optima/Optima.ttf') format('truetype'),
     font-weight: normal;
     font-style: normal;
   }
@@ -25,7 +25,7 @@ body {
     --font-monospace: var(--font-monospace-override), var(--font-monospace-theme), var(--font-monospace-default);
     --font-text-size: 16px;
     --font-mermaid: var(--font-text);
-    --font-header: 'FormaDJR', 'EB Garamond', 'Garamond', 'Times New Roman', Times, serif;
+    --font-header: 'Optima', 'EB Garamond', 'Garamond', 'Times New Roman', Times, serif;
     /* Headings */
     --heading-formatting: var(--text-faint);
     --h1-font: var(--font-header);
