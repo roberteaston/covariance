@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/categories/","tags":["category_theory","quotes"],"updated":"2024-10-03T19:49:26-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/categories/","tags":["category_theory","quotes"],"updated":"2025-03-27T06:13:44-07:00"}
 ---
 
 # Motivation

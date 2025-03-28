@@ -1,57 +1,53 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2025-03-21T09:28:16-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2025-03-28T10:22:46-07:00"}
 ---
 
 You can find the official syllabus for the qualifying exam [here](https://math.calpoly.edu/course-exam-requirements). For quick reference, that information is also recreated below. This local version also has the advantage that (eventually) terms can be linked directly to relevant notes.
 
----
-
-# Topics covered
+## Topics covered
 
 The examination covers basic properties of fundamental algebraic structures. The following is a (not necessarily exhaustive) list of topics from which questions are drawn.
-## Linear algebra
+### Linear algebra
 
-### Vector spaces
+#### Vector spaces
 
 subspaces, bases, dimension, direct sums
-### Linear transformations and matrices
+#### Linear transformations and matrices
 
 invertibility, matrix representation of a linear transformation, determinants, similarity, eigenvalues and eigenvectors, diagonalization
 
-## Group theory
+### Group theory
 
-### Groups
+#### Groups
 
 basic properties of groups, subgroups, Lagrange’s Theorem, direct products, normal subgroups, quotient groups, cyclic groups, permutation groups, simple groups (definition of; simplicity of $A_n$ for $n\geq 5$), Cayley’s Theorem, Fundamental Theorem of Finite Abelian Groups
-### Homomorphisms
+#### Homomorphisms
 
 kernel, image, isomorphisms, isomorphism theorems, automorphisms
 
-## Ring theory
+### Ring theory
 
-### Rings
+#### Rings
 
 basic properties of rings, subrings, ideals, quotient rings, ring homomorphisms, isomorphism theorems, direct sums
-### Integral domains and polynomial rings
+#### Integral domains and polynomial rings
 
 PID’s, irreducible, prime, units, associates, UFD’s, Euclidean domains, division algorithm, criteria for irreduciblity
-### Fields
+#### Fields
 
 characteristic, construction via quotient rings, fields as vector spaces, polynomial ring over a field
 
----
-
-# References
+## References
 
 The material is found in a large number of texts, and is approached in a rather uniform fashion. Some texts that have been recently used are:
 
-## Linear algebra
+### Linear algebra
 
 - Axler, [*Linear Algebra Done Right*](https://linear.axler.net/)
 - Friedberg, Insel and Spence, [*Linear Algebra*](https://www.pearson.com/en-us/subject-catalog/p/linear-algebra/P200000006185/9780137515424)
 - Lang, [*Linear Algebra*](https://link.springer.com/book/10.1007/978-1-4757-1949-9)
 
-## Group and ring theory
+### Group and ring theory
 
 - M. Artin, [*Algebra*](https://www.pearson.com/en-us/subject-catalog/p/algebra-classic-version/P200000006078/9780137980994)
 - Dummitt and Foote, *[Abstract Algebra*](https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471433347)
