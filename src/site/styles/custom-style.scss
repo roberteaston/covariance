@@ -10,7 +10,7 @@
   }
 
 @font-face {
-    font-family: 'Input Sans';
+    font-family: 'InputSans';
     src:    url('/styles/user/fonts/inputsans/InputSans-Regular.eot');
     src:    url('/styles/user/fonts/inputsans/InputSans-Regular?#iefix') format('embedded-opentype'),
             url('/styles/user/fonts/inputsans/InputSans-Regular.woff') format('woff'),
@@ -21,7 +21,7 @@
   }
 
 @font-face {
-    font-family: 'Manifold Extended';
+    font-family: 'Manifold Extd CF';
     src:    url('/styles/user/fonts/manifoldextended/ManifoldExtdCF-Regular.eot');
     src:    url('/styles/user/fonts/manifoldextended/ManifoldExtdCF-Regular?#iefix') format('embedded-opentype'),
             url('/styles/user/fonts/manifoldextended/ManifoldExtdCF-Regular.woff') format('woff'),
@@ -82,7 +82,7 @@ body.theme-light {
   --font-text-override: 'Forma DJR Text';
   --font-text-theme: "Times New Roman", Times, serif;
   --font-text: var(--font-text-override), var(--font-text-theme), var(--font-interface);
-  --font-monospace-override: 'Input Sans';
+  --font-monospace-override: 'InputSans';
   --font-monospace-theme: 'Xanh Mono', 'Courier New', Courier, monospace;
   --font-monospace: var(--font-monospace-override), var(--font-monospace-theme), var(--font-monospace-default);
   --font-text-size: 16px;
@@ -90,8 +90,8 @@ body.theme-light {
   --font-header: 'Optima', 'EB Garamond', 'Garamond', 'Times New Roman', Times, serif;
         /* Headings */
   --heading-formatting: var(--text-faint);
-  --h1-font: 'Manifold Extended';
-  --h2-font: 'Manifold Extended';
+  --h1-font: 'Manifold Extd CF';
+  --h2-font: 'Manifold Extd CF';
   --h3-font: var(--font-header);
   --h4-font: var(--font-header);
   --h5-font: var(--font-header);
