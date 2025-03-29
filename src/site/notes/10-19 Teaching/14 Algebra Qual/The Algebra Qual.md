@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/the-algebra-qual/","updated":"2025-03-28T12:05:47-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/the-algebra-qual/","updated":"2025-03-28T15:35:08-07:00"}
 ---
 
-Welcome to the unofficial home for all things related to the Qualifying Exam in Algebra (aka "The Algebra Qual") at California Polytechnic State University, San Luis Obispso. The Algebra Qual consists of five problems covering three main subfields of abstract algebra, namely:
+Welcome to the unofficial home for all things related to the Qualifying Exam in Algebra (aka "The Algebra Qual") at California Polytechnic State University, San Luis Obispo. The Algebra Qual consists of five problems covering three main subfields of abstract algebra, namely:
 - linear algebra
 - group theory
 - ring theory
+
 See the [[10-19 Teaching/14 Algebra Qual/Exam syllabus\|exam syllabus]] for a detailed breakdown of the topics covered within each of the above subfields.
 
 Each problem is graded for correctness and clarity of presentation, and is worth at most five points. A passing score is 15 points (out of 25).
@@ -40,9 +41,7 @@ I don't know exactly when this exam officially came into existence, but the earl
 
 If you would like to see these old exams, the official repository is available [here](https://math.calpoly.edu/degree-ms/sample-exams). Recent exams have also been recreated [[10-19 Teaching/14 Algebra Qual/Past exams\|here]].
 
----
-
-#### Related pages
+## Related pages
 
 [[10-19 Teaching/14 Algebra Qual/Exam syllabus\|Exam syllabus]]
 [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]

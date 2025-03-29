@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-linear-algebra/","updated":"2025-03-28T11:48:38-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-linear-algebra/","updated":"2025-03-28T15:32:25-07:00"}
 ---
 
 
@@ -377,16 +377,3 @@ A real $n\times n$ matrix $A$ is called **skew-symmetric** if $A^{\top}=-A$. Let
 > ```
 
 </div></div>
-
-
----
-
-#### Related pages
-
-[[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|Home for the Algebra Qual]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in linear algebra\|Template problems in linear algebra]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in group theory\|Template problems in group theory]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in ring theory\|Pool problems in ring theory]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in ring theory\|Template problems in ring theory]]
-[[10-19 Teaching/14 Algebra Qual/Exam syllabus\|Exam syllabus]]

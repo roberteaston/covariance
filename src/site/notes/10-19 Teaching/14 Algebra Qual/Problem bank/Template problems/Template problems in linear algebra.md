@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/template-problems-in-linear-algebra/","updated":"2025-03-28T11:49:07-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/template-problems-in-linear-algebra/","updated":"2025-03-28T15:31:45-07:00"}
 ---
 
 
@@ -609,16 +609,3 @@ Let $a,b\in {\bf R}$ and $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation
 > ```
 
 </div></div>
-
-
----
-
-#### Related pages
-
-[[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|Home for the Algebra Qual]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in linear algebra\|Pool problems in linear algebra]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in group theory\|Template problems in group theory]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in ring theory\|Pool problems in ring theory]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in ring theory\|Template problems in ring theory]]
-[[10-19 Teaching/14 Algebra Qual/Exam syllabus\|Exam syllabus]]

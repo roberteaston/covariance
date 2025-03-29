@@ -1,6 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/template-problems-in-group-theory/","updated":"2025-03-28T11:49:17-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/template-problems-in-group-theory/","updated":"2025-03-28T15:31:56-07:00"}
 ---
+
+## Template problems in group theory
 
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/a-condition-under-which-a-group-must-be-abelian/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
@@ -258,16 +260,3 @@ Let $G$ denote the set of invertible $2\times 2$ matrices with values in a field
 > ```
 
 </div></div>
-
-
----
-
-#### Related pages
-
-[[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|Home for the Algebra Qual]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in linear algebra\|Pool problems in linear algebra]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in linear algebra\|Template problems in linear algebra]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in ring theory\|Pool problems in ring theory]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in ring theory\|Template problems in ring theory]]
-[[10-19 Teaching/14 Algebra Qual/Exam syllabus\|Exam syllabus]]
