@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2025-03-29T14:29:42-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2025-03-29T14:40:52-07:00"}
 ---
 
 You can find the official syllabus for the qualifying exam [here](https://math.calpoly.edu/course-exam-requirements). For quick reference, that information is also recreated below. This local version also has the advantage that (eventually) terms can be linked directly to relevant notes.
@@ -72,6 +72,7 @@ The examination covers basic properties of fundamental algebraic structures. The
 - fields as vector spaces, polynomial ring over a field
 
 ## References
+---
 
 The material is found in a large number of texts, and is approached in a rather uniform fashion. Some texts that have been recently used are:
 
@@ -89,3 +90,9 @@ The material is found in a large number of texts, and is approached in a rather 
 - Gallian, [*Contemporary Abstract Algebra*](https://www.routledge.com/Contemporary-Abstract-Algebra/Gallian/p/book/9781032778914)
 - Herstein, [*Abstract Algebra*](https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471368793)
 
+## Related pages
+---
+
+[[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|Home for the Algebra Qual]]
+[[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]
+[[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]
