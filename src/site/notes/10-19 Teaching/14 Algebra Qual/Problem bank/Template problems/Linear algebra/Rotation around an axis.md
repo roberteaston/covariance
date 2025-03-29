@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/rotation-around-an-axis/","tags":["linear_algebra"],"updated":"2025-03-17T09:45:39-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/rotation-around-an-axis/","tags":["linear_algebra"],"updated":"2025-03-29T15:07:26-07:00"}
 ---
 
 Let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation that rotates counterclockwise around the $z$-axis by $\frac{2\pi}{3}$.
@@ -17,5 +17,5 @@ Let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation that rotates counter
 > 	\item Write the matrix for $T$ with respect to the basis $\left\{\begin{bmatrix} \frac{\sqrt{3}}{2} \\ -\frac{1}{2} \\ 0 \end{bmatrix},\begin{bmatrix} 0 \\ 1 \\ 0\end{bmatrix},\begin{bmatrix} 0 \\ 0 \\ 1\end{bmatrix}\right\}$.
 > 	\item Determine all (complex) eigenvalues of $T$.
 > 	\item Is $T$ diagonalizable over ${\bf C}$? Justify your answer.
-\end{enumerate}
+> \end{enumerate}
 > ```

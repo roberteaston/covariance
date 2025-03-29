@@ -51,7 +51,7 @@ Let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation that rotates counter
 > 	\item Write the matrix for $T$ with respect to the basis $\left\{\begin{bmatrix} \frac{\sqrt{3}}{2} \\ -\frac{1}{2} \\ 0 \end{bmatrix},\begin{bmatrix} 0 \\ 1 \\ 0\end{bmatrix},\begin{bmatrix} 0 \\ 0 \\ 1\end{bmatrix}\right\}$.
 > 	\item Determine all (complex) eigenvalues of $T$.
 > 	\item Is $T$ diagonalizable over ${\bf C}$? Justify your answer.
-\end{enumerate}
+> \end{enumerate}
 > ```
 
 </div></div>

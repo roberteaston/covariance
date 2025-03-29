@@ -4,17 +4,17 @@
 
 ## Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 
-| Note                                                                     | Last Updated             |
-| ------------------------------------------------------------------------ | ------------------------ |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]         | 2:42 PM - March 29, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|The Algebra Qual]] | 2:41 PM - March 29, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Syllabus\|Syllabus]]                 | 2:40 PM - March 29, 2025 |
+| Note                                                                                                                                          | Last Updated             |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Linear algebra/Rotation around an axis\|Rotation around an axis]]          | 3:07 PM - March 29, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in ring theory\|Template problems in ring theory]]       | 3:01 PM - March 29, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in linear algebra\|Template problems in linear algebra]] | 3:01 PM - March 29, 2025 |
 
 { .block-language-dataview}
 
