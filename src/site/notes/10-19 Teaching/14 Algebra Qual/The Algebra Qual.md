@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/the-algebra-qual/","updated":"2025-03-28T15:35:08-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/the-algebra-qual/","updated":"2025-03-29T10:42:57-07:00"}
 ---
 
 Welcome to the unofficial home for all things related to the Qualifying Exam in Algebra (aka "The Algebra Qual") at California Polytechnic State University, San Luis Obispo. The Algebra Qual consists of five problems covering three main subfields of abstract algebra, namely:
@@ -13,11 +13,12 @@ Each problem is graded for correctness and clarity of presentation, and is worth
 
 ## Problem bank
 
-Beginning with the September 2025 exam, all problems will be drawn from a public "problem bank." This bank contains two types of problems: **template problems** and **pool problems**.
+Beginning with the September 2025 exam, all problems will be drawn from a public problem bank. This bank contains two types of problems: **template problems** and **pool problems**.
 
 **Template problems** are generally computational with easily adjustable specifics. These types of problems are especially prevalent in linear algebra. Examples include problems such as:
 - analyzing a geometrically-given linear transformation for specific properties such as eigenvalues or diagonalizability; e.g., see [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Linear algebra/Projection onto a plane\|March 2025 (Problem 5)]] or [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Linear algebra/Orthogonal projection and scaling\|Spring 2019 (Problem 1)]]
 - counting the number of morphisms between two specific group; e.g., see [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Group theory/Finding all morphisms between two groups\|Spring 2017 (Problem 4)]] or [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Group theory/Counting morphisms between specified groups\|Fall 2015 (Problem 1)]]
+
 Template problems are available at the links below:
 - [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in linear algebra\|Template problems in linear algebra]]
 - [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in group theory\|Template problems in group theory]]

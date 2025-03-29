@@ -10,11 +10,11 @@
 
 ## Recently updated notes
 
-| Note                                                                                                                          | Last Updated             |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|The Algebra Qual]]                                                      | 3:35 PM - March 28, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]                                                              | 3:34 PM - March 28, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]] | 3:32 PM - March 28, 2025 |
+| Note                                                                                                                          | Last Updated              |
+| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]                                                              | 10:45 AM - March 29, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|The Algebra Qual]]                                                      | 10:42 AM - March 29, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]] | 3:32 PM - March 28, 2025  |
 
 { .block-language-dataview}
 
