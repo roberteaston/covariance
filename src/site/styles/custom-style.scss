@@ -10,7 +10,7 @@
   }
 
 @font-face {
-    font-family: 'InputSans';
+    font-family: 'Input Sans';
     src:    url('/styles/user/fonts/inputsans/InputSans-Regular.eot');
     src:    url('/styles/user/fonts/inputsans/InputSans-Regular?#iefix') format('embedded-opentype'),
             url('/styles/user/fonts/inputsans/InputSans-Regular.woff') format('woff'),
@@ -21,12 +21,13 @@
   }
 
 @font-face {
-    font-family: 'ManifoldExtended';
-    src:    url('/styles/user/fonts/manifoldextended/ManifoldExtendedCFRegular.eot');
-    src:    url('/styles/user/fonts/manifoldextended/ManifoldExtendedCFRegular?#iefix') format('embedded-opentype'),
-            url('/styles/user/fonts/manifoldextended/ManifoldExtendedCFRegular.woff') format('woff'),
-            url('/styles/user/fonts/manifoldextended/ManifoldExtendedCFRegular.woff2') format('woff2'),
-            url('/styles/user/fonts/manifoldextended/ManifoldExtendedCFRegular.ttf') format('truetype');
+    font-family: 'Manifold Extended';
+    src:    url('/styles/user/fonts/manifoldextended/ManifoldExtdCF-Regular.eot');
+    src:    url('/styles/user/fonts/manifoldextended/ManifoldExtdCF-Regular?#iefix') format('embedded-opentype'),
+            url('/styles/user/fonts/manifoldextended/ManifoldExtdCF-Regular.woff') format('woff'),
+            url('/styles/user/fonts/manifoldextended/ManifoldExtdCF-Regular.woff2') format('woff2'),
+            url('/styles/user/fonts/manifoldextended/ManifoldExtdCF-Regular.ttf') format('truetype');
+            url('ManifoldExtdCF-Regular.svg#ManifoldExtdCF-Regular') format('svg');
     font-weight: normal;
     font-style: normal;
   }
@@ -43,7 +44,7 @@
   }
 
 @font-face {
-    font-family: 'Scriptorama';
+    font-family: 'Scriptorama Tradeshow JF';
     src:    url('/styles/user/fonts/scriptorama/ScriptoramaTradeshowJF.eot');
     src:    url('/styles/user/fonts/scriptorama/ScriptoramaTradeshowJF.eot?#iefix') format('embedded-opentype'),
             url('/styles/user/fonts/scriptorama/ScriptoramaTradeshowJF.woff') format('woff'),
@@ -81,7 +82,7 @@ body.theme-light {
   --font-text-override: 'Forma DJR Text';
   --font-text-theme: "Times New Roman", Times, serif;
   --font-text: var(--font-text-override), var(--font-text-theme), var(--font-interface);
-  --font-monospace-override: '??';
+  --font-monospace-override: 'Input Sans';
   --font-monospace-theme: 'Xanh Mono', 'Courier New', Courier, monospace;
   --font-monospace: var(--font-monospace-override), var(--font-monospace-theme), var(--font-monospace-default);
   --font-text-size: 16px;
@@ -89,8 +90,8 @@ body.theme-light {
   --font-header: 'Optima', 'EB Garamond', 'Garamond', 'Times New Roman', Times, serif;
         /* Headings */
   --heading-formatting: var(--text-faint);
-  --h1-font: var(--font-header);
-  --h2-font: var(--font-header);
+  --h1-font: 'Manifold Extended';
+  --h2-font: 'Manifold Extended';
   --h3-font: var(--font-header);
   --h4-font: var(--font-header);
   --h5-font: var(--font-header);
