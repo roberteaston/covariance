@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-category-theory/","updated":"2024-12-06T12:59:34-08:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-category-theory/","updated":"2025-03-29T15:23:45-07:00"}
 ---
 
-# Basic structures
+## Basic structures
+---
 
 >[!quote] Mac Lane
 >..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."
@@ -15,8 +16,8 @@
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functor categories\|Functor categories]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms\|Special morphisms]]
 
+## Universal properties
 ---
-# Universal properties
 
 >[!quote] Serge Lang
 >In the forties and fifties (mostly in the works of Cartan, Eilenberg, MacLane, and Steenrod), it was realized that there was a systematic way of developing certain relations of linear algebra, depending only on fairly general constructions which were mostly arrow-theoretic, and were affectionately called abstract nonsense by Steenrod.
@@ -28,8 +29,8 @@
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal arrows and elements\|Universal arrows and elements]]
 
+## Adjoints
 ---
-# Adjoints
 
 >[!quote] Mac Lane
 >... good general theory does not search for the maximum generality, but for the right generality.
@@ -40,21 +41,21 @@
 [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|Examples of adjoints]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints\|Properties of adjoints]]
 
+## Abelian categories
 ---
-# Abelian categories
 
 >[!quote] Mac Lane
 >... the subject languished until ... the discovery by Grothendieck that categories of sheaves (of abelian groups) over a topological space were abelian categories but not categories of modules, and that homological algebra in these categories was needed for a complete treatment of sheaf cohomology. With this impetus, abelian categories joined the establishment.
 >
 >*My source:* [[Maclane - Categories for the Working Mathematician.pdf#page=217|Mac Lane]]
 
-## Basic structures
+### Basic structures
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Preadditive categories\|Preadditive categories]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Additive categories\|Additive categories]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|Abelian categories]]
 
-## Chain complexes
+### Chain complexes
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|Chain complexes]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences and chain homology\|Exact sequences and chain homology]]

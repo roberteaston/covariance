@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2025-03-29T14:40:52-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2025-03-29T15:20:55-07:00"}
 ---
 
 You can find the official syllabus for the qualifying exam [here](https://math.calpoly.edu/course-exam-requirements). For quick reference, that information is also recreated below. This local version also has the advantage that (eventually) terms can be linked directly to relevant notes.
@@ -85,7 +85,7 @@ The material is found in a large number of texts, and is approached in a rather 
 ### Group and ring theory
 
 - M. Artin, [*Algebra*](https://www.pearson.com/en-us/subject-catalog/p/algebra-classic-version/P200000006078/9780137980994)
-- Dummitt and Foote, *[Abstract Algebra*](https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471433347)
+- Dummitt and Foote, [*Abstract Algebra*](https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471433347)
 - Fraleigh and Brand, [*A First Course in Abstract Algebra*](https://www.pearson.com/en-us/subject-catalog/p/first-course-in-abstract-algebra-a/P200000006181/9780135859759)
 - Gallian, [*Contemporary Abstract Algebra*](https://www.routledge.com/Contemporary-Abstract-Algebra/Gallian/p/book/9781032778914)
 - Herstein, [*Abstract Algebra*](https://www.wiley.com/en-us/Abstract+Algebra%2C+3rd+Edition-p-9780471368793)

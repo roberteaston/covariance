@@ -60,7 +60,7 @@ Although it might seem odd that we've chosen to write the bigrading this one, it
 
 We sometimes call $E_r^{\bullet,\bullet}$ the **$r^{\text{th}}$-page** of the spectral sequence. Also, the above type of spectral sequence is sometimes called a spectral sequence with **upward orientation**, since the arrows in $E_0^{\bullet,\bullet}$ point upward. There is an analogous definition of a spectral sequence with **rightward orientation**, which we'll see in examples below.
 
-![spectral_sequence.png|500](/img/user/00-09%20Meta/06%20Attachments/spectral_sequence.png)
+![spectral_sequence.png|500](/img/user/90-99%20Meta/95%20Attachments/spectral_sequence.png)
 
 Notice that for any fixed coordinate $(p,q)$, for $r$ large enough the differentials into and out of $E_r^{p,q}$ become trivial. (In fact, we just need $r>\max\{p,q+1\}$). Once this happens, we say the spectral sequence has **stabilized** in that coordinate and denote that final object (vector space) by $E_{\infty}^{p,q}$.
 
@@ -75,7 +75,7 @@ Notice that for any fixed coordinate $(p,q)$, for $r$ large enough the different
 
 Suppose we start with a double complex $C^{\bullet,\bullet}$ that has "horizontal" and "vertical" differentials:
 
-![double_complex.png|300](/img/user/00-09%20Meta/06%20Attachments/double_complex.png)
+![double_complex.png|300](/img/user/90-99%20Meta/95%20Attachments/double_complex.png)
 
 Let's assume for simplicity that the sequares anti-commute, i.e., that $d_{\text{ver}}d_{\text{hor}}+d_{\text{hor}}d_{\text{vert}}=0$. (If they commute, we can always replace $d^{p,q}_{\text{vert}}$ with $(-1)^pd^{p,q}_{\text{vert}}$, say). The **total complex** associated to this double complex is the complex $C^{\bullet}$, where
 
@@ -91,25 +91,25 @@ There are two obvious filtrations we can put on $C^{\bullet}$, and these lead to
 
 Suppose we begin with the commutative diagram below, in which the rows are exact:
 
-![snake1.png|300](/img/user/00-09%20Meta/06%20Attachments/snake1.png)
+![snake1.png|300](/img/user/90-99%20Meta/95%20Attachments/snake1.png)
 
 Extend this to first-quadrant double complex by putting 0s in every other position and trivial maps where needed.
 
 Using the horizontal arrows produces a spectral sequence with rightward orientation. The pages $E_0^{\bullet,\bullet}$ and $E_1^{\bullet,\bullet}$ are show below. (The assumption on exactness in the rows of the original diagram implies that the cohomology at every position in this diagram vanishes. So, the page $E_1^{\bullet,\bullet}$ would be completely trivial.)
 
-![snake2.png|300](/img/user/00-09%20Meta/06%20Attachments/snake2.png)
+![snake2.png|300](/img/user/90-99%20Meta/95%20Attachments/snake2.png)
 
 We can say that the spectral sequence **collapsed** at $r=1$, and we can deduce that $E_{\infty}^{p,q}=0$ for every $p,q\geq 0$. Assuming the theorem which tells us this spectral sequence converges to $H^{\bullet}$, this forces $H^{\bullet}=0$.
 
 On the other hand, using the vertical arrows in the original double complex produces a spectral sequence with upward orientation. The first three pages of the spectral sequence now look as follows:
 
-![snake3.png|500](/img/user/00-09%20Meta/06%20Attachments/snake3.png)
+![snake3.png|500](/img/user/90-99%20Meta/95%20Attachments/snake3.png)
 
 The terms highlighted in pink have stabilized at this point, as they do not (nor ever will) have nontrivial differentials mapping to/from them. The terms in blue will stabilize on the next page.
 
 Now, this spectral sequence also converges to $H^{\bullet}$, which we earlier concluded was completely trivial. This implies that our second spectral sequence must also have $E_{\infty}^{p,q}=0$ for all $p,q\geq 0$. In particular, the entries marked in pink above must all vanish, and the entries marked in blue must be isomorphic (via $d_2$). Together, these imply that we an exact sequence
 
-![snake4.png|400](/img/user/00-09%20Meta/06%20Attachments/snake4.png)
+![snake4.png|400](/img/user/90-99%20Meta/95%20Attachments/snake4.png)
 
 where the connecting morphism is $i\circ d_2\circ \pi$ (where $i$ is the appropriate inclusion of a kernel and $\pi$ is the appropriate projection onto a cokernel). This is exactly the conclusion of the Snake Lemma.
 
@@ -120,13 +120,13 @@ Suppose we begin with the commutative diagram below, where the rows are exact an
 
 Let's repeat the same strategy from the previous example. Beginning with the rightward orientation leads to a spectral sequence with the following first three pages:
 
-![five1.png|400](/img/user/00-09%20Meta/06%20Attachments/five1.png)
+![five1.png|400](/img/user/90-99%20Meta/95%20Attachments/five1.png)
 
 Notice that this spectral sequence has collapsed at $r=2$, and that we can now conclude $H^2=0$ and $H^3=0$, where $H^{\bullet}$ is the cohomology of the double complex.
 
 If we now instead consider the upward orientation, we find a spectral sequence that converges at $r=2$:
 
-![five2.png|400](/img/user/00-09%20Meta/06%20Attachments/five2.png)
+![five2.png|400](/img/user/90-99%20Meta/95%20Attachments/five2.png)
 
 Since we earlier concluded $H^2=0$, the above spectral sequence tells us we must have $\ker(\gamma)=0$; since we also concluded $H^3=0$, the above spectral sequence also tells us we must have $\operatorname{coker}(\gamma)=0$. Together these imply $\gamma$ must be an isomorphism.
 

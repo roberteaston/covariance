@@ -50,7 +50,7 @@ The proof of this lemma is a good [[10-19 Teaching/11 Classes/MATH 561 - Graduat
 
 If you're wondering if there's a "Long Five Lemma", the answer is yes. There are actually many named "diagram lemmas", such as the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas#^8cd8d2\|Four Lemma]], the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas#^71068d\|Five Lemma]], and the famous [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas#^179f58\|Snake Lemma]]. All of these diagrams (and many, many more) are corollaries of perhaps the greatest lemma of abstract nonsense: [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]].
 
-![Salamander with arrows.png](/img/user/00-09%20Meta/06%20Attachments/Salamander%20with%20arrows.png)
+![Salamander with arrows.png](/img/user/90-99%20Meta/95%20Attachments/Salamander%20with%20arrows.png)
 
 
 ---
