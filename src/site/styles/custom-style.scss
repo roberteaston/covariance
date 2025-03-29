@@ -11,3 +11,10 @@ body {
     //   color: black;
     //  }
 }
+
+body.theme-light {
+  --text-accent: #004d61;
+  --text-accent-hover: #006f8b;
+  --interactive-accent: #004d61;
+  --h1-color: var(--interactive-accent);
+}
