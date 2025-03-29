@@ -80,7 +80,7 @@ body.theme-light {
   --font-interface-theme: "Times New Roman", Times, serif;
   --font-interface: var(--font-interface-override), var(--font-interface-theme), var(--default-font, '??'), var(--font-default);
   --font-text-override: 'Forma DJR Text';
-  --font-text-theme: "Times New Roman", Times, serif;
+  --font-text-theme: 'Forma DJR Text', Times, serif;
   --font-text: var(--font-text-override), var(--font-text-theme), var(--font-interface);
   --font-monospace-override: 'InputSans';
   --font-monospace-theme: 'Xanh Mono', 'Courier New', Courier, monospace;
@@ -96,7 +96,7 @@ body.theme-light {
   --h4-font: var(--font-header);
   --h5-font: var(--font-header);
   --h6-font: var(--font-header);
-  --h1-size: 32px;
+  --h1-size: 150%;
   --h2-size: 140%;
   --h3-size: 130%;
   --h4-size: 120%;
