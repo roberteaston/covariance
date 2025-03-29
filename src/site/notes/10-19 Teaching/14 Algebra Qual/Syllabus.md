@@ -1,41 +1,75 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2025-03-28T10:22:46-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2025-03-29T14:29:42-07:00"}
 ---
 
 You can find the official syllabus for the qualifying exam [here](https://math.calpoly.edu/course-exam-requirements). For quick reference, that information is also recreated below. This local version also has the advantage that (eventually) terms can be linked directly to relevant notes.
 
 ## Topics covered
+---
 
 The examination covers basic properties of fundamental algebraic structures. The following is a (not necessarily exhaustive) list of topics from which questions are drawn.
 ### Linear algebra
+**Vector spaces**
+- subspaces
+- bases
+- dimension
+- direct sums
 
-#### Vector spaces
-
-subspaces, bases, dimension, direct sums
-#### Linear transformations and matrices
-
-invertibility, matrix representation of a linear transformation, determinants, similarity, eigenvalues and eigenvectors, diagonalization
+**Linear transformations and matrices**
+- matrix representation of a linear transformation
+- invertibility
+- similarity
+- determinants
+- eigenvalues and eigenvectors
+- diagonalization
 
 ### Group theory
+**Groups**
+- basic properties of groups
+- subgroups
+- cosets
+- Lagrange’s Theorem
+- normal subgroups
+- quotient groups
+- cyclic groups
+- permutation groups
+- simple groups (definition of; simplicity of $A_n$ for $n\geq 5$)
+- Cayley’s Theorem
+- direct products
+- Fundamental Theorem of Finite Abelian Groups
 
-#### Groups
-
-basic properties of groups, subgroups, Lagrange’s Theorem, direct products, normal subgroups, quotient groups, cyclic groups, permutation groups, simple groups (definition of; simplicity of $A_n$ for $n\geq 5$), Cayley’s Theorem, Fundamental Theorem of Finite Abelian Groups
-#### Homomorphisms
-
-kernel, image, isomorphisms, isomorphism theorems, automorphisms
+**Homomorphisms**
+- kernel
+- image
+- isomorphisms
+- isomorphism theorems
+- automorphisms
 
 ### Ring theory
+**Rings**
+- basic properties of rings
+- subrings
+- ideals
+- quotient rings
+- ring homomorphisms
+- isomorphism theorems
+- direct sums
 
-#### Rings
+**Integral domains and polynomial rings**
+- units
+- associates
+- Principal Ideal Domains (PIDs)
+- Euclidean domains
+- Unique Factorization Domains (UFDs)
+- irreducible
+- prime
+- division algorithm
+- criteria for irreduciblity
 
-basic properties of rings, subrings, ideals, quotient rings, ring homomorphisms, isomorphism theorems, direct sums
-#### Integral domains and polynomial rings
-
-PID’s, irreducible, prime, units, associates, UFD’s, Euclidean domains, division algorithm, criteria for irreduciblity
-#### Fields
-
-characteristic, construction via quotient rings, fields as vector spaces, polynomial ring over a field
+**Fields**
+- characteristic
+- construction via quotient rings
+- fields as vector spaces, polynomial ring over a field
 
 ## References
 

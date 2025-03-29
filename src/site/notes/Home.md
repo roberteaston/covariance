@@ -4,17 +4,17 @@
 
 ## Welcome to Covariance
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener nofollow">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
+<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 
-| Note                                                                                                                          | Last Updated              |
-| ----------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]                                                              | 10:45 AM - March 29, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|The Algebra Qual]]                                                      | 10:42 AM - March 29, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]] | 3:32 PM - March 28, 2025  |
+| Note                                                                     | Last Updated              |
+| ------------------------------------------------------------------------ | ------------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Syllabus\|Syllabus]]                 | 2:29 PM - March 29, 2025  |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]         | 1:44 PM - March 29, 2025  |
+| [[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|The Algebra Qual]] | 10:42 AM - March 29, 2025 |
 
 { .block-language-dataview}
 
