@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2024-12-06T11:40:19-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:34:59-07:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]] (and the various mural maps) to quickly prove many of the named "diagram lemmas" one encounters in homological algebra (and elsewhere). This is just a sampling.
 
-# The Four Lemma
+## The Four Lemma
+---
 
 > [!summary] The Four Lemma
 > Consider a commutative diagram (in some abelian category) of the form below, where the rows are exact, $\tau$ is an epimorphism and $\nu$ is a monomorphism:
@@ -33,7 +34,8 @@ Then the long zig-zag of extramural isomorphisms (highlighted in blue) shows tha
 
 The second statement is proven analogously.
 
-# The Five Lemma
+## The Five Lemma
+---
 
 > [!summary] The Five Lemma
 > Consider a commutative diagram in $C$ of the form below, with exact rows:
@@ -56,7 +58,8 @@ The Four Lemma applies, since the rows are exact, $f_2$ is a monomorphism, and $
 
 An analogous argument proves the second statement.
 
-# The Snake Lemma
+## The Snake Lemma
+---
 
 Here's a [famous](https://youtu.be/aXBNPjrvx-I?si=4g9oBsprnb1UN6Xg) result:
 
@@ -83,8 +86,7 @@ We first prove exactness at $\ker(g)$, which means proving $\ker(g)^{\text{hor}}
 
 As for the connecting morphism $\delta:\ker(h)\to \operatorname{coker}(f)$, this is the same as giving an isomorphism from $\operatorname{coker}(\ker(g)\to \ker(h))\simeq\ker(h)^{\text{hor}}$  to $\ker(\operatorname{coker}(f)\to \operatorname{coker}(g))\simeq \operatorname{coker}(f)^{\text{hor}}$. This is, in turn, given by the intramural isomorphisms $\ker(h)^{\text{hor}}\simeq \ker(h)_{\square}$ and $\operatorname{coker}(f)^{\text{hor}}\simeq ^{\square}\operatorname{coker}(f)$ and a zig-zag of extramural isomorphisms (highlighted in green) from $\ker(h)_{\square}$ to $^{\square}\operatorname{coker}(f)$.
 
----
-
 ## Suggested next note
+---
 
 You've reached the end of the road. For now.

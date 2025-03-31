@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/preadditive-categories/","tags":["category_theory/abelian_categories"],"updated":"2024-12-03T15:39:31-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/preadditive-categories/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:36:28-07:00"}
 ---
 
 > [!quote] [Wikipedia](https://en.wikipedia.org/wiki/Preadditive_category)
 > "...a particularly perverse category theorist might define a ring as a preadditive category with exactly one object (in the same way that a monoid can be viewed as a category with only one object ...)"
 
-# $\textbf{Ab}$-categories
+## $\textbf{Ab}$-categories
+---
 
 There are many familiar categories in which the hom-sets have additional structure:
 - In the category $\textbf{Vec}_F$ of vector spaces over a field $F$, each hom-set $\operatorname{Hom}_{\textbf{Vec}_F}(V,W)$ has a (natural) structure of an $F$-vector space. Addition is defined by addition of outputs; i.e., $(S+T)(v)=S(v)+T(v)$ for every $v\in V$. The additive identity is the zero map.
@@ -28,7 +29,7 @@ Note that because the composition of morphisms is bilinear, it can also be writt
 
 $$\operatorname{Hom}_A(b,c)\otimes_{\bf Z}\operatorname{Hom}_A(a,b)\to \operatorname{Hom}_A(a,c)$$
 
-## An alternative definition: enriched categories
+### An alternative definition: enriched categories
 
 Although the definition above is fairly straightforward, I'm not a huge fan of it. To me, it seems rather "extrinsic" to conventional category theory. What I mean by that is the definition requires structure beyond the usual reference to categories, functors and natural transformations. Is there a more "intrinsic" definition? Maybe, although that depends on what counts as "intrinsic."
 
@@ -49,7 +50,8 @@ These data are required to satisfy the usual associative and unit laws for compo
 
 Because of this definition, a preadditive category is sometimes called a category **enriched over $\textbf{Ab}$**. As the name suggests, this leads to a more general concept of **enriched categories**. For now, we'll leave that tantalizing idea for future exploration. 
 
-# Additive functors
+## Additive functors
+---
 
 If we are dealing with preadditive categories, we will probably want to restrict our functors to those that respect addition of morphisms:
 
@@ -57,7 +59,8 @@ If we are dealing with preadditive categories, we will probably want to restrict
 > If $A$ and $B$ are preadditive categories, a functor $T:A\to B$ is said to be **additive** when every function $T:\operatorname{Hom}_A(a,a')\to \operatorname{Hom}_B(T(a),T(a'))$ is a group morphism; i.e., when $T(f+f')=T(f)+T(f')$ for all parallel morphisms $f,f'$.
 
 When talking about functors between preadditive categories, we will always assume we mean additive functors.
-# Biproducts
+## Biproducts
+---
 
 Our main example categories, namely $\textbf{Ab}$ and $R\textbf{-Mod}$, have additional properties beyond the group structure on the hom-sets. One of those properties is that products and coproducts always exist for every pair of objects, and they're always isomorphic. In other words, the product functor $\times$ and coproduct functor $\sqcup$ are naturally isomorphic. Because of this, there is usually some confusion as to which type of product to use, and you often see textbooks using coproduct (usually called the direct sum and denoted $A\oplus B$) as if it's a product; e.g., by referring to projection maps $\pi_1:A\oplus B\to A$ and $\pi_2:A\oplus B\to B$.
 
@@ -97,7 +100,7 @@ $$(f_1\oplus f_2)i_k = i_k'f_k$$
 
 In other words, the identification of the product functor $a\times b$ with the coproduct functor $a\sqcup b$ is a natural isomorphism.
 
-## Generalizing biproducts
+### Generalizing biproducts
 
 We can iterate this process. Given $a_1, \ldots, a_n\in A$ we can form a product $\bigoplus_j a_j$ characterized (up to isomorphism) by the diagram
 $$a_j\xrightarrow{i_j}\bigoplus_j a_j\xrightarrow{p_k}a_k$$
@@ -109,8 +112,7 @@ Moreover, for given objects $a_i, c_j\in A$ with $1\leq i\leq n$ and $1\leq j\le
 $$\operatorname{Hom}_A\left(\bigoplus_k c_k,\bigoplus_j a_j\right)\simeq \bigoplus_{j,k}\operatorname{Hom}_C(c_k,a_j)$$
 This implies that each morphism $f:\bigoplus_k c_k\to \bigoplus_j a_j$ is determined by the $n\times m$ matrix of its **components** $f_{kj}:p_jfi_k:c_k\to a_j$. Composition of morphisms is then given by the usual matrix product of the matrices of components.
 
----
-
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Additive categories\|Additive categories]]

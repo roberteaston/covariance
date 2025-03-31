@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/properties-of-adjoints/","tags":["category_theory"],"updated":"2024-10-09T10:24:30-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/properties-of-adjoints/","tags":["category_theory"],"updated":"2025-03-31T12:39:37-07:00"}
 ---
 
 We list the following two properties of adjoints without proof.
@@ -17,7 +17,7 @@ We list the following two properties of adjoints without proof.
 
 
 In short, left adjoints preserve colimits (that exist) and right adjoints preserve limits (that exist).
-## Examples of adjoints preserving (co)limits
+### Examples of adjoints preserving (co)limits
 
 The free $R$-module functor $F:\textbf{Set}\to R\textbf{-Mod}$ is left adjoint to the forgetful functor $U:R\textbf{-Mod}\to \textbf{Set}$, so it commutes with colimits. In particular, it commutes with coproducts, which in the category $\textbf{Set}$ is disjoint union and in the category $R\textbf{-Mod}$ is direct sum. Thus, for any family of sets $\{S_i\mid i\in I\}$ we have an isomorphism
 
@@ -34,6 +34,7 @@ The hom functor $\operatorname{Hom}_{\textbf{Ab}}(U(R),-):\textbf{Ab}\to R\textb
 $$\operatorname{Hom}_{\textbf{Ab}}\left(U(R),\prod_{i\in I}G_i\right)\simeq \prod_{i\in I}\operatorname{Hom}_{\textbf{Ab}}(U(R),G_i). $$
 
 ## Suggested next notes
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]

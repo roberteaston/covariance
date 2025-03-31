@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2024-10-09T05:43:50-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2025-03-31T12:38:36-07:00"}
 ---
 
 > [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=117|Saunders Mac Lane]]
 > ...good general theory does not search for the maximum generality, but for the right generality.
 
-# Motivation
+## Motivation
+---
 
 Have you ever wondered what's so "free" about free groups? Or why the free abelian group on a set $X$ is not the same as the free group on the set $X$? Have you ever wondered what some constructions (such as these "free" constructions) commute with certain constructions (like forming direct sums) but not others (like forming direct products)?
 
@@ -29,17 +30,17 @@ And now we have two different sets of maps we can consider. We can consider the 
 
 For a random pair of functors $F$ and $G$, we have no reason to expect any nice relationship between these sets of arrows. As in the visual example above, there might be more arrows on one side of this picture than the other. So let's consider some special cases.
 
-## Special Case 1: Isomorphisms of categories
+### Special Case 1: Isomorphisms of categories
 
 Let's first consider the case in which $F$ and $G$ are mutual inverses. In other words, suppose $GF = I_C$ and $FG = I_D$. In this case we say both $F$ and $G$ are **isomorphisms** and the categories $C$ and $D$ are isomorphic.
 
 Is this case interesting? Not really. An isomorphism of categories means a bijection on both objects and arrows. For all intents and purposes, the categories $C$ and $D$ are identical. Are question about arrows between $c$ and $d$ is then just a question about arrows between two objects in the same category.
-## Special Case 2: Equivalences of categories
+### Special Case 2: Equivalences of categories
 
 With [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|natural transformations]] at our disposal, it makes sense to relax the requirement that the compositions $GF$ and $FG$ exactly equal the respective identity functors, and replace it with the weaker condition that the compositions are *naturally isomorphic* to the respective identity functors. In other words, let's assume there are natural isomorphisms $GF\simeq I_C$ and $FG\simeq I_D$. This means that for every $c\in C$ we have an natural isomorphism $c\xrightarrow{\sim} GF(c)$ in $C$, and similarly for every $d\in D$ a natural isomorphism $FG(d)\xrightarrow{\sim}d$ in $D$. In this case, the functors $F$ and $G$ are said to be **naturally isomorphic** and the categories $C$ and $D$ are said to be **equivalent**.
 
 When people talk about equivalent categories, this is what they mean. For our purposes, though, this is still too strong of a condition on our functors. Equivalent categories are "basically" the same, and we want to allow for functors between categories that are "very different."
-## Special Case 3: Adjunction of categories
+### Special Case 3: Adjunction of categories
 
 Suppose we stick to our original idea, and ask for pairs of functors $F, G$ for which arrows $F(c)\to d$  in $D$ are in natural bijection with arrows $c\to G(d)$ in $C$:
 
@@ -47,8 +48,8 @@ Suppose we stick to our original idea, and ask for pairs of functors $F, G$ for 
 
 Inverse functors and isomorphic functors certainly satisfy this condition, but potentially many other pairs of functors, too. Following this thread leads to the notion of an **adjunction** of categories.
 
+## Adjunction of categories
 ---
-# Adjunction of categories
 
 There a several equivalent definitions, but we'll give the one that most resembles the situations we've seen:
 
@@ -65,7 +66,7 @@ There a several equivalent definitions, but we'll give the one that most resembl
 
 We should immediately note that the adjunction requires all three pieces of information: the functor $F$, the functor $G$, and the natural bijections in $\tau$ between the hom-sets (shown above). In particular, the natural bijections in $\tau$ are not implicit in the functors $F$ and $G$.
 
-## The naturality condition
+### The naturality condition
 
 The statement that $\tau_{c,d}$ is natural has a formal meaning. Let's first consider "naturality in $c$." Suppose $f:c\to c'$ is an arrow in $C$. The functor $F$ then yields an arrow $F(f):F(c)\to F(c')$ in $D$. For each arrow $g:F(c')\to d$ in $D$, pre-composition with $F(f)$ yields and arrow $g\circ F(f):F(c)\to d$ in $D$. Similarly, for each arrow $h:c'\to G(d))$, pre-composition with $f$ yields an arrow $h\circ f:c\to G(d)$ in $D$. Naturality in $c$ is then the requirement that the diagram below commutes:
 
@@ -80,11 +81,11 @@ In short, the bijections in $\tau$ should be compatible with arrow composition.
 > [!note] Aside
 > The description of an adjunction can be rephrased in an equivalent way in which $\tau$ becomes a bona fide natural isomorphism between two functors.
 
----
 
 We will see a *plethora* of examples (below), but first a few additional notes are in order.
 
-# Units and counits
+## Units and counits
+---
 
 There is a lot of additional information that can be extracted from an adjunction, and some of that information is equivalent to the adjunction itself. Here we list some of that data.
 
@@ -113,8 +114,7 @@ What should you take away from these triangles? Not much. Only that these identi
 
 In any case, it turns out that an adjunction between $C$ and $D$ can be given equivalently by the data of the two functors $F$ and $G$, together with the unit $\eta:I_C\rightarrow GF$ and the counit $\varepsilon FG\rightarrow I_D$ (satisfying those triangle identities). See page 82 in Mac Lane for details.
 
----
-
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|Examples of adjoints]]

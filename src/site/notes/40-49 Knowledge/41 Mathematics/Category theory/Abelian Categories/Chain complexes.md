@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/chain-complexes/","tags":["category_theory/abelian_categories"],"updated":"2024-11-25T10:29:06-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/chain-complexes/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:34:32-07:00"}
 ---
 
-# Definitions
+## Definitions
+---
 
 > [!note] Definition of chain complex
 > Let $A$ be an additive category. A *chain complex* in $A$ is a sequence of morphisms
@@ -34,8 +35,7 @@ At some point this note will be updated with a proof of this result. For future 
 
 Now that we know $\operatorname{Ch}(A)$ is an abelian category, it makes sense to think about chain complexes in $\operatorname{Ch}(A)$. These are the classical *double chain complexes* in $A$, usually just called [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Double complexes and mural maps#Double complexes\|double complexes]]. These will be critical to the various [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|diagram lemmas]] one encounters when studying chain complexes.
 
----
-## Unfortunately common terminology
+### Unfortunately common terminology
 
 Due to the historical roots of the concept, there are a variety of unusual terms frequently used when dealing with chain complexes.
 - The morphisms $\partial_n$ are often called **differentials** or **boundary maps**.
@@ -46,7 +46,8 @@ Due to the historical roots of the concept, there are a variety of unusual terms
 > [!warning]
 > One can argue that for an abstract abelian category these names are inappropriate, in so much as they are evocative of certain geometric features that have no context or interpretation in an abstract abelian category. As such, I tend to avoid their use.
 
-# Cochain complexes
+## Cochain complexes
+---
 
 You'll often hear about *co*chain complexes and *co*homology. On the one hand, these are pretty much exactly what you would expect:
 
@@ -59,8 +60,7 @@ You'll often hear about *co*chain complexes and *co*homology. On the one hand, t
 
 In terms of abstract category theory there is no reason to distinguish between chain complexes and cochain complexes, since the difference is entirely in the notation. Historically, however, the two developed separately and so were distinguished with different notation.
 
----
-
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences and chain homology\|Exact sequences and chain homology]]

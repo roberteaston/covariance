@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-18T06:55:31-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-i-definition/","tags":["module_theory"],"updated":"2025-03-31T13:02:04-07:00"}
 ---
 
-# The structure of $F[x]$-modules
+## The structure of $F[x]$-modules
+---
 
 Suppose $F$ is a field and $V$ is a finite-dimensional $F$-vector space. Let $T:V\to V$ be a fixed linear endomorphism. We can then consider $V$ as an $F[x]$-module, with the action of $x$ on $V$ given by the linear endomorphism $T$. In other words, for any vector $v\in V$ we have $x\cdot v =T(v)$. The general polynomial $p(x)=a_0+a_1x+\cdots +a_nx^n\in F[x]$ then acts by
 
@@ -28,7 +29,8 @@ Note that the annihilator of $V$ (as a torsion $F[x]$-module) is the ideal $\lan
 >
 >However, the set $\mathcal{B}$ is not $F[x]$-linearly independent. In fact, as an $F[x]$-module the space $V$ is torsion and so there are no nonempty $F[x]$-linearly independent sets in $V$! Consequently, as an $F[x]$-module the space $V$ doesn't have a basis.
 
-# The rational canonical form
+## The rational canonical form
+---
 
 Consider one of the direct summands $F[x]/\langle a(x)\rangle$, where $a(x)=b_0+b_1x+\cdots +b_{k-1}x^{k-1}+x^k$. As an $F$-vector space, a basis for $F[x]/\langle a(x)\rangle$ is the set $\{1,\overline{x},\ldots, \overline{x}^{k-1}\}$, where $\overline{x}=x+\langle a(x)\rangle$ is shorthand notation for the coset represented by $x$. Under this basis, the action of $x$ is simply:
 
@@ -50,7 +52,7 @@ $$\begin{bmatrix} C_{a_1(x)} & & & \\ & C_{a_2(x)} & & \\ & & \ddots & \\ & & & 
 >
 > A **rational canonical form** for a linear endomorphism $T$ is a matrix representing $T$ that is in rational canonical form.
 
-## Example
+### Example
 
 Suppose $V$ is a finite-dimensional $\textbf{Q}$-vector space and $T:V\to V$ is a $\textbf{Q}$-linear transformation. Then $V$ can be given the structure of a ${\bf Q}[x]$-module by letting $x$ act via $T$. Suppose the invariant factors of $V$ as a $\textbf{Q}[x]$-module are
 
@@ -86,8 +88,8 @@ Also note that the $\mathbf{Q}$-vector space $V$ decomposes into a direct sum of
 
 $$\begin{align*}T(v_1)&=-3v_1,\\T(v_2)&=v_3\quad\text{and}\quad T(v_3)=-6v_2-5v_3\\T(v_4)&= v_5\quad\text{and}\quad T(v_5)=v_6\quad\text{and}\quad T(v_6)=-18v_4-21v_5-8v_6.\end{align*}$$
 
----
 
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form II - Additional Properties\|Rational Canonical Form II - Additional Properties]]

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2024-10-30T14:20:35-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2025-03-31T13:03:43-07:00"}
 ---
 
-# Extension of scalars
+## Extension of scalars
+---
 
 Suppose $N$ is an $S$-module and $R\subseteq S$ is a subring. By restricting the action of $S$ on $N$ to an action of $R$ on $N$, we can view $N$ as an $R$-module. You can verify this gives $N$ the structure of an $R$-module and in fact is the object function of a forgetful functor $S\textbf{-Mod}\to R\textbf{-Mod}$. Historically, this process was called the **restriction of scalars** from $S$ to $R$.
 
@@ -14,7 +15,7 @@ In light of the above process, one might ask the following:
 Categorically speaking, we're asking for a functor $R\textbf{-Mod}\to S\textbf{-Mod}$ that "nicely complements" the forgetful functor above, where "nicely complements" is momentarily ambiguous and ill defined.
 
 Taking our question at its most naive hope (to put an $S$-action directly on $M$), the answer is sadly a negative.
-## Frustrating example
+### Frustrating example
 
 Consider the ring ${\bf Z}$ when viewed as a ${\bf Z}$-module (i.e., an abelian group). Even though ${\bf Z}$ is a subring of ${\bf Q}$, we cannot extend the ${\bf Z}$-module structure on ${\bf Z}$ to a ${\bf Q}$-module structure. Why not? Suppose we would, and consider the action of $\frac{1}{2}$ on the integer $1$. There would need to be an integer $z$ such that $\frac{1}{2}\star 1 = z$. Since our ${\bf Q}$-action is supposed to extend our ${\bf Z}$-action, it would follow that $2z=1$ in ${\bf Z}$, where here $2z$ denotes the usual^[In fact, the only possible ${\bf Z}$-action!] ${\bf Z}$-action, i.e., $2z=z+z$. Since there is no integer $z$ such that $z+z=1$, we reach a contradiction.
 
@@ -24,11 +25,12 @@ If we can't expect to extend the $R$-action on $M$ to an $S$-action on $M$, what
 
 Sadly this is also not always possible.
 
-## Second frustrating example
+### Second frustrating example
 
 Suppose $M$ is the ${\bf Z}$-module ${\bf Z}_2$, $N$ is a $\mathbf{Q}$-module, and $f:M\to U(N)$ is a ${\bf Z}$-module morphism, where $U:\textbf{Q-Mod}\to \textbf{Z-Mod}$ is the forgetful functor.  Then $N$ is a ${\bf Q}$-vector space, so every nonzero element in $N$ has infinite additive order. Since both elements in $M$ have finite order, this implies their images in $N$ must be zero. In other words, every ${\bf Z}$-module morphism from $M$ to $U(N)$ must be the zero map, and so there cannot be any embeddings of $M$ into a ${\bf Q}$-module.
 
-# Category theory insight
+## Category theory insight
+---
 
 In light of the second example, let's widen our scope further and instead consider *all* $R$-module morphisms $f:M\to U(N)$, where $N$ is an $S$-module. Can we find a "best possible" $S$-module through which all $R$-module morphisms from $M$ factor? Based on our work with [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|free modules]], it sounds reasonable to consider the existence of a functor $T:R\textbf{-Mod}\to S\textbf{-Mod}$ that is left adjoint to $U$; i.e., for which there are natural bijections
 
@@ -38,7 +40,8 @@ This looks very similar to our universal property of the [[40-49 Knowledge/41 Ma
 
 Before we move on to the actual construction, it's worthwhile to consider the choice we've made above, which is that we're specifically looking for a functor $T:R\textbf{-Mod}\to S\textbf{-Mod}$ that is left adjoint to the forgetful functor $U$ (the so-called "restriction of scalars" functor). What about a functor that is right adjoint to $U$? It turns out such a functor also exists, and it is sometimes called the **co-extension of scalars**.
 
-# The construction of $T(M)$
+## The construction of $T(M)$
+---
 { #9374ca}
 
 
@@ -61,7 +64,7 @@ In this new notation, our construction of $S\otimes_R M$ has forced the relation
 - $(s_1+s_2)\otimes m = s_1\otimes m+s_2\otimes m$, for all $s_1, s_2\in S$, $m\in M$
 - $sr\otimes m = s\otimes rm$, for all $r\in R, s\in S, m\in M$
 
-## The $S$-module structure on $S\otimes_R M$
+### The $S$-module structure on $S\otimes_R M$
 
 We have constructed the abelian group $S\otimes_R M$ to have an obvious $S$-action:
 
@@ -73,7 +76,8 @@ $$\displaystyle f_s\left(\sum (s_i, m_i)\right) := \sum (ss_i,m_i)$$
 
 is a morphism of abelian groups with $H\leq \ker(f)$. We'll leave the details for now and instead move on to various properties of the $S$-module $S\otimes_R M$ we have created.
 
-# Properties of our construction
+## Properties of our construction
+---
 
 There is a (natural) $R$-module morphism $\eta_M:M\to U(S\otimes_R M)$ defined by $m\mapsto 1_S\otimes m$, where $U$ is the forgetful functor from $S\textbf{-Mod}$ to $R\textbf{-Mod}$. (These morphisms are exactly the components of the unit map $\eta:I_{R\textbf{-Mod}}\to UT$, where $T=S\otimes_R -$ is our tensor product functor.) Since our tensor product involved taking a quotient group, it should not be expected that this morphism is injective. However, the module we created does possess the desired universal property, in that there are natural bijections
 
@@ -103,8 +107,9 @@ The proof is very short. Simply observe that
 $$1_R\otimes 0_m = 1_R\otimes (0_m+0_m) = 1_R\otimes 0_m+1_R\otimes 0_m.$$
 The result then follows by additive cancellation in the $S$-module $S\otimes_R M$.
 
-# Examples
-## Trivial extensions
+## Examples
+---
+### Trivial extensions
 { #ab595d}
 
 
@@ -112,19 +117,19 @@ Suppose $M$ is an $R$-module. Considering the "trivial" extension $R\subseteq R$
 
 For example, for every abelian group $A$ we have a (unique) isomorphism ${\bf Z}\otimes_{\bf Z} A \simeq A$ of abelian groups. Similarly, if $V$ is any $F$-vector space then $F\otimes_F V$ is isomorphic to $V$ as an $F$-vector space.
 
-## Field extensions
+### Field extensions
 
 Suppose $F\subseteq E$ are fields. We can view $E$ as an $F$-vector space (by remembering the $F$-scaling but forgetting the result of the internal multiplication in $E$), and then we can attempt to "extend scalars" to recover this lost information, by forming the $E$-vector space $E\otimes_F E$.
 
 If this looks weird, it's because we're hiding a forgetful functor, namely the forgetful functor $U:\textbf{Vec}_E\to \textbf{Vec}_F$. With this is mind, we're really comparing $E\otimes_F U(E)$ with $E$. This will, in general, not recover the original field $E$; instead, we will see (once we learn that tensor product commutes with direct sum) that $E\otimes_F U(E)\simeq E^n$, where $n$ is the dimension of $E$ as an $F$-vector space.
 
-## Extending ${\bf Z}$-actions to ${\bf Q}$-actions for finite abelian groups
+### Extending ${\bf Z}$-actions to ${\bf Q}$-actions for finite abelian groups
 
 Suppose $A$ is a *finite* abelian group, i.e., a finite ${\bf Z}$-module. We claim that the ${\bf Q}$-module ${\bf Q}\otimes_{\bf Z} A$ is always trivial. To see this, let $n=|A|$ and suppose first we have a simple tensor $q\otimes a$ in ${\bf Q}\otimes_{\bf Z} A$. Then observe that
 $$q\otimes a =\frac{qn}{n}\otimes a = \left(\frac{q}{n}\cdot n\right)\otimes a=\frac{q}{n}\otimes na = \frac{q}{n}\otimes 0_A = 0.$$
 By linearity it follows that every element of ${\bf Q}\otimes_{\bf Z} A$ is 0, and hence ${\bf Q}\otimes_{\bf Z} A = 0$.
 
-## Extending scalars for free modules
+### Extending scalars for free modules
 
 We will see shortly that the tensor product construction commutes with coproducts, a consequence of which will be that the tensor product of a direct sum is (isomorphic to) the direct sum of the tensor products. In the case of free modules, this yields a nice result.
 
@@ -133,9 +138,8 @@ We will see shortly that the tensor product construction commutes with coproduct
 
 For example, we have ${\bf Q}\otimes_{\bf Z}{\bf Z}^n\simeq {\bf Q}^n$ and ${\bf C}\otimes_{\bf R}{\bf R}^n\simeq {\bf C}^n$. As another class of special case, if $F\subseteq E$ is a field extension and $V$ is an $F$-vector space of dimension $n$, then $V\simeq F^n$ as $F$-vector spaces and $E\otimes_F V\simeq E^n$ as $E$-vector spaces.
 
----
-
 ## Suggested next notes
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules\|Bimodules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|Tensor Products II - Tensor products of bimodules]]

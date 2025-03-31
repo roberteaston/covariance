@@ -1,12 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/exact-sequences-and-chain-homology/","tags":["category_theory/abelian_categories"],"updated":"2024-12-03T10:13:31-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/exact-sequences-and-chain-homology/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:35:59-07:00"}
 ---
 
 For each abelian category, $A$, we have defined another abelian category, $\operatorname{Ch}(A)$, whose objects are the chain complexes in $A$ and morphisms are the chain maps between such complexes. We also defined homology of such complexes, claiming it measures how close a complex is to being "exact" at each term.
 
 In the category of $R$-modules, we have seen [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|exact sequences]] defined in terms of kernels and images. We've seen  how to define [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories#Kernels and Cokernels\|kernels]] in an arbitrary abelian category. Can we also define images? Yep.
 
-# Images of morphisms
+## Images of morphisms
+---
 
 We first need the following fact, which we should probably prove at some point:
 
@@ -22,7 +23,8 @@ $$m=\operatorname{im}(f),\quad e=\operatorname{coim}(f).$$
 > [!warning] Technical note
 > The image and coimage are only unique *up to isomorphism*, so the image of $f$ is really a subobject of $b$, while the coimage is a quotient object of $a$.
 
-# Exact sequences
+## Exact sequences
+---
 
 With images and coimages defined, we can talk about exact sequences:
 
@@ -44,7 +46,8 @@ Here the symbol $\equiv$ indicates equivalence as subobjects (which are isomorph
 >
 >Equivalently, $f=\ker(g)$ and $g=\operatorname{coker}(f)$.
 
-# Exact functors
+## Exact functors
+---
 
 > [!note] Definition of exact functor
 > A functor $T:A\to B$ between abelian categories is **exact** when it preserves all finite limits and colimits.
@@ -57,7 +60,8 @@ It also preserves images and coimages, and carries exact sequences to exact sequ
 
 A functor is **left exact** when it preserves all finite limits; equivalently, when it is additive and preserves short left exact sequences. The dual notion is a functor that is **right exact**.
 
-# Chain homology
+## Chain homology
+---
 
 Suppose $X_{\bullet}$ is a chain complex in an abelian category, $A$. Since $\partial_n\circ \partial_{n-1}=0$ for all $n$, there are monomorphisms
 
@@ -101,8 +105,7 @@ This is how we obtain the morphism $H_n(f)$ in the above fact.
 > Despite all of the names of the various objects and maps, every map above is essentially either $f_n$, or projection onto a quotient. For example, the homology morphism $H_n(f)$ maps each coset $x+\operatorname{im}(\partial_{n+1}^X)$ to the coset $f_n(x)+\operatorname{im}(\partial_{n+1}^Y)$. The above diagrams are just a formal way of verifying this map is a well-defined morphism. (They also outline a strategy to produce such morphisms even in categories in which the objects are not sets.)
 
 
----
-
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Double complexes and mural maps\|Double complexes and mural maps]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-iii-yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2024-10-21T20:59:03-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-iii-yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2025-03-31T12:50:43-07:00"}
 ---
 
 > [!quote] Euripides
@@ -11,7 +11,8 @@ At a metaphorical level, an arrow $f:c\to c'$ in a category $C$ can be thought o
 
 But how does one formalize this idea?
 
-# The original inspiration: universal properties
+## The original inspiration: universal properties
+---
 
 First revisit our pantheon of [[Universal Properties IV - Revisiting Examples\|objects with universal properties]]. Looking over these examples, a clear pattern emerges. In each case was have an object $c$ in a category $C$ that is characterized by a "universal property," which can be expressed in the form of a bijection
 $$\tau_d:\operatorname{Hom}_C(c,d)\xrightarrow{\sim}F(d)$$
@@ -21,11 +22,12 @@ that is "natural in $d$", where  $F:C\to \textbf{Set}$ is some functor.^[To be f
 
 This is exactly the diagram for a [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|natural transformation]] $\tau:\operatorname{Hom}_C(c,-)\Rightarrow F$. The fact that all of the component functions $\tau_d$ are set bijections implies that $\tau$ is actually a natural isomorphism.
 
-# Examples
+## Examples
+---
 
 For illustration, we recall some specific examples of universal properties.
 
-## Coequalizers of set maps
+### Coequalizers of set maps
 
 Suppose $X$ and $Y$ are sets. Their disjoint union $X\sqcup Y$ is the set characterized by the universal property that set maps $f:X\sqcup Y\to Z$ are in natural bijection with pairs of set maps $g:X\to Z$, $h:Y\to Z$. To put this into the above context, let $F:\textbf{Set}\to \textbf{Set}$ be the functor that assigns:
 - to each set $Z$ the set $F(Z)$ consisting of all pairs of set maps $g:X\to Z$, $h:Y\to Z$; and
@@ -36,7 +38,7 @@ $$\tau_Z:\operatorname{Hom}_{\textbf{Set}}(X\sqcup Y,Z)\xrightarrow{\sim} F(Z)$$
 
 In other words, there is a natural isomorphism $\tau:\operatorname{Hom}_{\textbf{Set}}(X\sqcup Y,-)\xRightarrow{\sim}F$.
 
-## Quotients by normal subgroups
+### Quotients by normal subgroups
 
 Let $N$ be a normal subgroup of a group $G$. The quotient group $G/N$, together with its projection morphism $\pi:G\to G/N$ defined by $g\mapsto g+N$, satisfies a universal property. Let $F:\textbf{Grp}\to\textbf{Set}$ be the functor that assigns to each group $H$ the set of group morphisms $f:G\to H$ such that $N\leq \ker(f)$. Then there is a natural bijection
 
@@ -46,7 +48,7 @@ Under this bijection, each group morphism $g:G/N\to H$ is sent to the group morp
 
 In other words, there is a natural isomorphism $\tau:\operatorname{Hom}_{\textbf{Grp}}(G/N,-)\xRightarrow{\sim} F$.
 
-## Direct sums of abelian groups
+### Direct sums of abelian groups
 
 If $A$ and $B$ are abelian groups, their direct sum is the abelian group $A\oplus B$. As a set, it consists of all pairs of formal sums $a+b$ with $a\in A$ and $b\in B$. The operation is defined "component-wise": $(a+b)+(a'+b')=(a+a')+(b+b')$. (Although not common, one could reasonably argue that a different notation should be used for the formal sum symbol, such as $a\oplus b$.) One can verify that $A\oplus B$ is an abelian group, and that it comes equipped with two injective group morphisms $i_1:A\to A\oplus B$ and $i_2:B\to A\oplus B$. Moreover, there is a natural bijection between group morphisms from $A\oplus B$ and pairs of groups morphisms $A\to C$, $B\to C$:
 
@@ -56,7 +58,7 @@ where $F(C)=\{(g_1,g_2)\mid g_1\in\operatorname{Hom}_{\textbf{Ab}}(A,C),\, g_2\i
 
 In other words, there is a natural isomorphism $\tau:\operatorname{Hom}_{\textbf{Ab}}(A\oplus B,-)\xRightarrow{\sim} F$.
 
-## Free $R$-modules
+### Free $R$-modules
 
 Let $R$ be a ring and $U:R\textbf{-Mod}\to \textbf{Set}$ be the usual forgetful functor. The [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|free module]] construction takes each set $A$ and produces an $R$-module $F(A)$. The function which sends each $a\in A$ to the same element $a\in F(A)$ regarded as a formal $R$-linear sum of elements of $A$ is an arrow $j:A\to U(F(A))$. For any other $R$-module $M$, each function $f:A\to U(M)$ can be extended uniquely to a module morphism $h:F(A)\to M$ with $f=U(h)\circ j$.
 
@@ -66,7 +68,7 @@ $$\tau_N:\operatorname{Hom}_R(F(A),M)\xrightarrow{\sim} G(M).$$
 
 In other words, there is a natural isomorphism $\tau:\operatorname{Hom}_R(F(A),-)\xRightarrow{\sim} G$.
 
-## The tensor product construction
+### The tensor product construction
 
 Suppose $R$ is a commutative ring and $M$ and $N$ are left $R$-modules. By taking the standard $R$-module structure (i.e., $(R,R)$-bimodule structure) on $M$ and the canonical $(R,{\bf Z})$-bimodule structure on $N$, we can form the tensor product $M\otimes_R N$. The result is an $(R,{\bf Z})$-bimodule, i.e., a left $R$-module. There is a natural bijection between $R$-module morphisms $M\otimes_S N\to P$ and certain set maps:
 
@@ -76,7 +78,8 @@ where $F(P)$ is the collection of bilinear, $R$-balanced $(R,\textbf{Z})$-set ma
 
 In other words, there is a natural isomorphism $\tau:\operatorname{Hom}_{(R,T)}(M\otimes_S N,-)\xRightarrow{\sim} F$.
 
-# From objects to (hom) functors
+## From objects to (hom) functors
+---
 
 We first notice that in every universal property, we are always characterizing morphisms from an object (or dually, to an object) in terms of a "natural" bijection with some other info. To make this functorial, consider the following:
 
@@ -99,7 +102,8 @@ while
 $$(H_c(f_2)\circ H_c(f_1))(g)=f_2\circ (f_1\circ g).$$
 By the associativity of composition in $C$ these two are equal.
 
-# From the category $C$ to a functor category
+## From the category $C$ to a functor category
+---
 
 For each object $c\in C$ we have defined a functor $H_c:C\to \textbf{Set}$, which is an object of the [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functor categories\|functor category]] $\textbf{Set}^C.$ Have we actually defined a functor $H:C\to \textbf{Set}^C$? To answer that, we need to specify what $H$ should do to arrows.
 
@@ -129,7 +133,8 @@ Note that the naturality of our supposedly natural transformation follows from t
 
 Starting from the top-left, suppose $h\in H_c(d_1)$, i.e., we have an arrow $h:c\to d_1$. Going over and down yields the arrow $g\circ (h\circ f):c'\to d_2$, while going down and then over yields the arrow $(g\circ h)\circ f:c'\to d_2$. By associativity of arrow composition in $C$, these two arrows are equal.
 
-# Yoneda's Lemma
+## Yoneda's Lemma
+---
 
 If we hadn't been inspired by the myriad constructions objects with universal properties, this wouldn't seem like a great way to understand objects in a given category $C$. Arbitrary functors $F:C\to \textbf{Set}$ can presumably be very complicated and difficult to comprehend, and so the category $\textbf{Set}^C$ of all such functors is huge and mysterious, at least in comparison with the original category $C$. It would seem impossible that useful knowledge about an object $c\in C$ could be gained from studying the corresponding functor $H_c\in \textbf{Set}^C$.
 
@@ -159,7 +164,8 @@ To show $y_{c,F}$ is surjective, take any element $x\in F(c)$ and for every $d\i
 
 Let's check this diagram is commutative. Take an element $f$ in the top left, i.e., an arrow $f:c\to d_1$. By our definition of $\tau$, when we go across the top map we obtain the element $F(f)(x)$, and when we then go down the right map we get the element $F(g)(F(f)(x))$, i.e., $(F(g)\circ F(f))(x)$. On the other hand, if we first go down the left map, we obtain the element $g\circ f$, and if we then go across the bottom map we obtain the element $F(g\circ f)(x)$. Since $F$ is a functor, we always have $F(g\circ f)=F(g)\circ F(f)$, and hence $(F(g)\circ F(f))(x)=F(g\circ f)(x)$. Our diagram is indeed commutative! Thus $\tau:H_c\Rightarrow F$ really is a natural transformation, and by construction $y_{c,F}(\tau)=\tau_c(1_c)=F(1_c)(x) = x$.
 
-# We haven't lost anything
+## We haven't lost anything
+---
 
 You might still worry that for two objects $c,c'\in C$, there are way more arrows between their images $H_c$ and $H_{c'}$ in the gigantic functor category $\textbf{Set}^C$ than there are between $c$ and $c'$ in the original category $C$.^[In other words, we might be worried the functor $H$ is not full.] We could also be worried that certain arrows $f_1, f_2:c\to c'$ in $C$ become identified when we consider their images in $H_c(f_1)$ and $H_c(f_2)$ in the functor category.^[In other words, we might be worried the functor $H$ is not faithful.] Fortunately, life is good. By taking $F=H_{c'}$ in Yoneda's Lemma, we immediately obtain the following corollary:
 
@@ -168,7 +174,8 @@ You might still worry that for two objects $c,c'\in C$, there are way more arrow
 
 Note that this corollary does indeed follow by taking $F=H_{c'}$ in Yoneda's Lemma, since we have a bijection from the set of natural transformations $\tau:H_c\Rightarrow H_{c'}$ to the set $H_{c'}(c)=\operatorname{Hom}_C(c',c)$, given by sending each natural transformation $\tau$ to $\tau_c(1_c)$, the latter of which is exactly an arrow $f:c'\to c$. Moreover, as we saw above, the naturality condition of $\tau$ guarantees that every set map $\tau_d:H_c(d)\to H_{c'}(d)$ is completely determined by $f$ and is given exactly by $f\circ -$.
 
-# The Yoneda embedding
+## The Yoneda embedding
+---
 
 
 (UNDER CONSTRUCTION)

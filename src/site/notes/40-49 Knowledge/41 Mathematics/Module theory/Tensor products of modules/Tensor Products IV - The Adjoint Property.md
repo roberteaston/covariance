@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-the-adjoint-property/","tags":["module_theory"],"updated":"2024-10-18T08:28:02-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-the-adjoint-property/","tags":["module_theory"],"updated":"2025-03-31T13:05:05-07:00"}
 ---
 
 You might be wondering if there is a way to avoid inventing these new objects (the $(R,T)$-sets) together with the extremely specific notion of balanced bilinear maps between such objects. The answer is yes, through the following result:
@@ -63,7 +63,8 @@ It now follows from the original universal property of the tensor product that t
 $$\eta_P:\operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P))\to\operatorname{Hom}_{(R,T)}(M\otimes_S N,P).$$
 From our explicit constructions one can verify that the set maps $\tau_P$ and $\eta_P$ are mutual inverses, and hence both are bijections.
 
-# An immediate consequence
+## An immediate consequence
+---
 
  Now that we know the tensor product functor $M\otimes_S -$ is a [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product#^4dc916\|left adjoint]], we also know it [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints#^6063ae\|commutes with all colimits]], such as direct sums.
 
@@ -75,7 +76,7 @@ $$M\otimes_S \left(\bigoplus_{i\in I} N_i\right)\simeq \bigoplus_{i\in I} \left(
 
 The analogous result is true with the positions of the tensor product and direct sum exchanged, i.e., right-tensoring distributes across direct sums. Because of this, we say that **tensor product commutes with direct sums**. As finite direct products are isomorphic to the corresponding direct sums, this also implies that **tensor product commutes with finite direct products**.
 
-## Extending scalars on free modules
+### Extending scalars on free modules
 
 A special case of the above property is that "extending scalars" commutes with the free module construction. More precisely:
 
@@ -94,7 +95,7 @@ S\otimes_R R^n&\simeq S\otimes_R \left(R\oplus \cdots \oplus R\right)\\
 &\simeq S^n
 \end{align*}$$
 
-## Tensor products of free modules
+### Tensor products of free modules
 
 Another consequence of the above property is that the tensor product of two free $R$-modules is again a free $R$-module. More precisely:
 
@@ -107,10 +108,8 @@ Another consequence of the above property is that the tensor product of two free
 
 The statement about bases follows from our explicit isomorphism (involving tensor products of direct sums) above.
 
-
----
-
 ## Suggested next notes
+---
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]
 [[The tensor product functor and flat modules\|The tensor product functor and flat modules]]

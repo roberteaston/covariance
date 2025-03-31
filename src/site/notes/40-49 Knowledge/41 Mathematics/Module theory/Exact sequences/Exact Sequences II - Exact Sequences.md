@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-ii-exact-sequences/","tags":["module_theory"],"updated":"2024-10-28T12:42:29-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-ii-exact-sequences/","tags":["module_theory"],"updated":"2025-03-31T12:58:15-07:00"}
 ---
 
 The idea of a relationship between a pair of morphisms through a common object (in this case, a module $M$) leads more generally to the notion of an *exact sequence*.
@@ -17,7 +17,7 @@ The idea of a relationship between a pair of morphisms through a common object (
 
 Note that we have been purposefully vague about the category in which we are working, as this definition is meant to apply in any category for which one has kernels and images. For now, it's safe to assume we're working with either $R$-modules or $(R,S)$-bimodules.
 
-## Example: Injections and surjections
+### Example: Injections and surjections
 
 In a category of modules, a sequence of morphisms
 
@@ -50,7 +50,7 @@ In light of the previous definitions, a sequence of morphisms of the above form 
 - $g:Y\to Z$ is surjective; and
 - $\ker(g)=\operatorname{im}(f)$.
 
-## Example: Submodule and quotient modules
+### Example: Submodule and quotient modules
 
 For each submodule $N$ of an $R$-module $M$, we have a short exact sequence
 
@@ -62,21 +62,21 @@ $$0\to 2{\bf Z}\to {\bf Z}\to {\bf Z}_2\to 0.$$
 
 
 
-## Example: Direct sum of two modules
+### Example: Direct sum of two modules
 
 For each pair of $R$-modules $M_1$ and $M_2$, we have a short exact sequence of $R$-modules
 
 $$0\to M_1\xrightarrow{j_1} M_1\oplus M_2\xrightarrow{\pi_2} M_2\to 0.$$
 
 
-## Example: Forming short exact sequences from morphisms
+### Example: Forming short exact sequences from morphisms
 
 Suppose we have a morphism $f:X\to Y$. We can then form the short exact sequence
 
 $$0\to \ker(f)\to X\to \operatorname{im}(f)\to 0.$$
 
 
-## Example: Forming short exact sequences from short, exact sequences
+### Example: Forming short exact sequences from short, exact sequences
 
 Suppose we have a sequence
 
@@ -86,7 +86,8 @@ that is exact at $Y$; i.e., $\ker(g)=\operatorname{im}(f)$. We can then form the
 
 $$0\to \operatorname{im}(f)\to Y\to Y/\ker(g)\to 0.$$
 
-# Chain complexes
+## Chain complexes
+---
 
 A natural generalization of the notion of an exact sequence is that of a *chain complex*.
 
@@ -110,8 +111,7 @@ However, we will see that if the original sequence is a chain complex (which inc
 
 In fact, if we define morphisms of chain complexes, then we could consider an actual [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|category of chain complexes]] ...
 
----
-
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]]

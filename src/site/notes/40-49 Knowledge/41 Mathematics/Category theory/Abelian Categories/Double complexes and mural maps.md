@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/double-complexes-and-mural-maps/","tags":["category_theory/abelian_categories"],"updated":"2024-12-10T13:01:26-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/double-complexes-and-mural-maps/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:35:32-07:00"}
 ---
 
-# Double complexes
+## Double complexes
+---
 
 Suppose $A$ is an abelian category. We have noted that the category, $\operatorname{Ch}(A)$, of chain complexes in $A$ is also an abelian category, and so it makes sense to consider complexes in $\operatorname{Ch}(A)$.
 
@@ -16,7 +17,8 @@ Suppose $A$ is an abelian category. We have noted that the category, $\operatorn
 This is a situation in which it will be very tempting to write simply $\partial^{\text{hor}}$ and $\partial^{\text{vert}}$ when there is no worry of confusion.
 
 
-# Mural maps
+## Mural maps
+---
 
 Suppose we focus on one object in a double complex, say $X_{m,n}$ in the above notation. Looking at the four commutative squares that share $X_{m,n}$ as a vertex we see six objects that have maps to/from the object $X_{m,n}$:
 
@@ -84,7 +86,8 @@ Before moving on, we note that these mural maps are closely related to induced m
 > The analogous statement is true for each vertical morphism.
 
 
-# Diagram chasing
+## Diagram chasing
+---
 
 It will soon be useful to employ a new notation for the induced extramural maps. For a horizontal morphism $\partial^{\text{hor}}:X\to X'$, we will notate the induced extramural map as
 
@@ -104,8 +107,7 @@ At the very ends of any such diagonal, we can use the intramural maps to relate 
 
 At this first glance this might not look incredibly useful, since the morphisms can't be chained together. However, if there were additional assumptions that guaranteed the some/all mural maps were isomorphisms, then the zig-zag of mural maps *could* be chained together to produce a morphism from one homology object to another.
 
----
-
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]

@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/modules-over-a-pid-the-fundamental-theorem/","tags":["module_theory"],"updated":"2024-11-15T09:01:59-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/modules-over-a-pid-the-fundamental-theorem/","tags":["module_theory"],"updated":"2025-03-31T13:01:29-07:00"}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules#^6b70c5\|structure theorem for free modules over a PID]] to prove a structure theorem for finitely generated modules over a PID.
-# The Fundamental Theorem: Invariant Factor Form
+## The Fundamental Theorem: Invariant Factor Form
+---
 
 > [!summary] Fundamental Theorem for Finitely Generated Modules over a PID (Invariant Factor Form)
 > Let $R$ be a PID and $M$ be a finitely generated $R$-module. Then:
@@ -39,7 +40,8 @@ Since $R/\langle a\rangle$ is a torsion $R$-module for any nonzero $a\in R$, pro
 
 Finally, the annihilator of $R/\langle a\rangle$ is the ideal $\langle a\rangle$, so property (3) immediately follows.
 
-# Free rank and invariant factors
+## Free rank and invariant factors
+---
 
 One can check the decomposition
 
@@ -60,7 +62,8 @@ with $b_1\mid b_2\mid\cdots \mid b_{m'}$, then $n'=n$, $m'=m$ and $\langle b_i\r
 
 Note that the invariant factors are only defined up to multiplication by units.
 
-# The Fundamental Theorem: Elementary Divisor Form
+## The Fundamental Theorem: Elementary Divisor Form
+---
 
 We can use the Chinese Remainder Theorem to decompose the cyclic modules in the invariant factor decomposition so that the new cyclic modules have annihilators that are as simple as possible. To do this, first note that since $R$ is a PID it's also a UFD. So for each nonzero element $a\in R$ we can write
 
@@ -92,7 +95,8 @@ Note that the primes are no longer distinct, since different cyclic factors $R/\
 
 Note that the elementary divisors are only defined up to multiplication by units.
 
-# The Primary Decomposition Theorem
+## The Primary Decomposition Theorem
+---
 
 In the elementary divisor form decomposition of an $R$-module $M$, we can group together all of the cyclic summands with the same prime $p$. What we obtain is the submodule $N$ of $M$ consisting of all elements of $M$ that are annihilated by some power of the prime $p$. This idea leads to the following:
 
@@ -109,8 +113,7 @@ In the elementary divisor form decomposition of an $R$-module $M$, we can group 
 
 In the above decomposition, the submodule $N_i$ is called the **$p_i$-primary component** of $M$.
 
----
-
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form I - Definition\|Rational Canonical Form I - Definition]]

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2024-10-18T08:28:35-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2025-03-31T13:04:47-07:00"}
 ---
 
-# Balanced maps
+## Balanced maps
+---
 
 Before we state a second universal property of our tensor product construction, we first need to talk about a new class of map between bimodules.
 
@@ -26,7 +27,8 @@ With this new terminology in place, for any triple of bimodules $M$, $N$, $P$ as
 5. $f(ms,n)=f(m,sn)$ for all $s\in S$, $m\in M$, and $n\in N$
 
 Finally, we can state the universal property of our tensor product construction.
-# A universal property of tensor products
+## A universal property of tensor products
+---
 
 >[!summary] Universal property of the tensor product
 >Suppose $R$, $S$, and $T$ are rings (with unity), $M$ is an $(R,S)$-bimodule, and $N$ is an $(S,T)$-bimodule. Then there is a natural bijection for every $(R,T)$-bimodule $P$ between the set of $(R,T)$-bimodule morphisms $M\otimes_S N\to P$, with the set of $S$-balanced bilinear $(R,T)$-maps $M\times N\to P$.
@@ -54,16 +56,17 @@ Thus, the map $g$ is $S$-balanced. We've thus verified that our map $g:M\times N
 
 Let's try the inverse direction. Suppose $g:M\times N\to P$ is an $S$-balanced bilinear $(R,T)$-map. By the universal property of the free ${\bf Z}$-module $F(U(M)\times U(N))$, and since $U(M\times N)\simeq U(M)\times U(N)$, we immediately have a corresponding ${\bf Z}$-module morphism $\tilde{g}:F(U(M)\times U(N))\to P$, which is really nothing more than the phrase "extend linearly" applied to $g$. Moreover, the generators for the subgroup $H$ all lie in the kernel of $\tilde{g}$, since $g$ is an $S$-balanced bilinear $(R,T)$-map. It follows that $\tilde{g}$ factors through the quotient $F(U(M)\times U(N))/H=M\otimes_S N$, and this is our desired $(R,T)$-bimodule morphism $f:M\otimes_S N\to P$.
 
-## Categorical interpretation
+### Categorical interpretation
 
 For each $(R,T)$-bimodule $P$, let $F(P)$ denote the set of bilinear, $S$-balanced $(R,T)$-set maps $g:U_1(M)\times U_2(N)\to U_3(P)$, where the $U_i$ are the appropriate forgetful functors to $\textbf{Set}$. One can check that $F$ is the object function of a functor $F:(R,T)\textbf{-Bimod}\to \textbf{Set}$. The universal property above can then be viewed as a natural isomorphism $\operatorname{Hom}_{(R,T)}(M\otimes_S N,-)\simeq F$. In view of [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]], this characterizes the bimodule $M\otimes_S N$ uniquely up to unique isomorphism.
 
-# Additional properties of the tensor product
+## Additional properties of the tensor product
+---
 
 Our [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product#A universal property of tensor products\|universal property]] of the tensor product can be used to prove many properties, including many similar to basic properties of conventional multiplication, at least when commutative rings are involved. To that end, suppose $R$, $S$, and $T$ are commutative rings (with unity).
 
 (Proofs will be added at some point, but for now we will simply state (and allow ourselves to use) each property.)
-## Identity
+### Identity
 
 >[!summary] Proposition
 >Suppose $M$ is an $(R,S)$-bimodule. If we consider the ring $R$ with its usual $(R,R)$-bimodule structure, then there is a isomorphism of $(R,S)$-modules
@@ -72,7 +75,7 @@ Our [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Te
 >
 >given specifically on simple tensors by $r\otimes m \mapsto rm$.
 
-## Associativity
+### Associativity
 
 >[!summary] Proposition
 >Suppose $M$, $N$, and $P$ are $(R,S)$-, $(S, T)$-, and $(T, U)$-bimodules, respectively. Then there is an isomorphism of $(R,U)$-bimodules
@@ -81,7 +84,7 @@ Our [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Te
 >
 >given specifically on simple tensors by $(m\otimes n)\otimes p\mapsto m\otimes (n\otimes p)$.
 
-## Symmetry
+### Symmetry
 
 >[!summary] Proposition
 >Suppose $M$ and $N$ are $R$-modules and we give them the standard $(R,R)$-bimodule structure. Then there is an $R$-module isomorphism
@@ -90,7 +93,7 @@ Our [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Te
 >
 >given specifically on simple tensors by $m\otimes n\mapsto n\otimes m$.
 
-## Tensor product with a fraction field
+### Tensor product with a fraction field
 
 The following fact can be occasionally useful:
 
@@ -100,14 +103,15 @@ The following fact can be occasionally useful:
 >2. For any $D$-module $M$, the tensor product $Q\otimes_D M$ is zero if and only if $M$ is torsion.
 >3. For any $D$-module $M$, we have an isomorphism of $D$-modules $Q\otimes_D M\simeq Q\otimes_D (M/\operatorname{Tor}(M))$.
 
-# Tensor products of morphisms
+## Tensor products of morphisms
+---
 
 Suppose $\phi:M_1\to M_2$ is an $(R,S)$-bimodule morphism and $\psi:N_1\to N_2$ is an $(S,T)$-bimodule morphism. We can define a map $\phi\otimes \psi:M_1\otimes_S N_1\to M_2\otimes_S N_2$ by
 $$(\phi\otimes\psi)(m_1\otimes n_1)=\phi(m_1)\otimes \psi(n_1),$$
 and then extending linearly to all tensors. One can check that this is well defined and an $(R,T)$-bimodule morphism.
 
----
 
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|Tensor Products IV - The Adjoint Property]]

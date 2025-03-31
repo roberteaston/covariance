@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodule-morphisms/","tags":["#module_theory"],"updated":"2024-10-17T19:41:19-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodule-morphisms/","tags":["#module_theory"],"updated":"2025-03-31T12:53:12-07:00"}
 ---
 
-# Definition
+## Definition
+---
 
 If you had to guess the definition of a bimodule morphism, you'd guess correctly:
 
@@ -16,7 +17,8 @@ This is cheating slightly, of course. We should really say that a bimodule morph
 
 In any case, we can now talk about the *category* of $(R,S)$-bimodules. What should we denote this category? It's not completely agreed upon. Some people denote it $(R,S)\textbf{-Bimod}$. Others denote is $R\textbf{-Bimod-}S$, or even $R\textbf{-Mod-}S$. Choose your favorite, make sure it's clear, and stick with it.
 
-# More than just hom-sets
+## More than just hom-sets
+---
 
 As with $R$-modules, for any pair of $(R,S)$-bimodules $M$ and $N$, the set of bimodule morphisms between them has the structure of an abelian group (using the addition in $N$).
 
@@ -40,15 +42,16 @@ In summary:
 > [!question] A more careful approach?
 > We should really be careful here and use forgetful functors to move $M$ and $N$ into the category of left $R$-modules. Can you fill in the details?
 
-# Triples of bimodules and hom-sets
+## Triples of bimodules and hom-sets
+---
 
 Suppose $M$ is an $(R,S)$-bimodule, $N$ is an $(S, T)$-bimodule, and $P$ is an $(R,T)$-bimodule. By the above construction, the set $\operatorname{Hom}_T(N,P)$ has the structure of an $(R,S)$-bimodule. We can then consider the set of $(R,S)$-bimodule morphisms between $M$ and $\operatorname{Hom}_T(N,P)$. This is the set
 $$\operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P)).$$
 This set will play a critical role with the [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product\|tensor product]] construction on bimodules.
 
----
 
 ## Suggested next notes
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/The 2-category of bimodules\|The 2-category of bimodules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|Tensor Products II - Tensor products of bimodules]]

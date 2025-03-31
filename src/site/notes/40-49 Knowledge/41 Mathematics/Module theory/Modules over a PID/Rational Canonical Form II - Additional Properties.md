@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-ii-additional-properties/","tags":["module_theory"],"updated":"2024-11-19T11:16:20-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-ii-additional-properties/","tags":["module_theory"],"updated":"2025-03-31T13:02:24-07:00"}
 ---
 
 The following are some additional properties of rational canonical forms.
 
-# Existence and uniqueness of rational canonical forms
+## Existence and uniqueness of rational canonical forms
+---
 
 > [!summary] Rational canonical form for linear transformations
 > Let $V$ be a finite-dimensional vector space over a field $F$, and let $T:V\to V$ be a linear endomorphism. Then there is a basis $\mathcal{B}$ for $V$ such that the matrix $\mathcal{M}(T;\mathcal{B})$ for $T$ with respect to the basis $\mathcal{B}$ is in rational canonical form.
@@ -17,7 +18,8 @@ $$V\simeq F[x]/\langle a_1(x)\rangle\oplus \cdots \oplus F[x]/\langle a_m(x)\ran
 
 exactly corresponds to a choice of $F$-basis for $V$ for which the corresponding matrix for $T$ is in rational canonical form. (The uniqueness followed from insisting the invariant factors $a_i(x)$ be monic polynomials, and hence were no longer only unique "up to unit.")
 
-# Rational canonical form and matrix similarity
+## Rational canonical form and matrix similarity
+---
 
 For a given $F$-vector space $V$, each linear endomorphism $T:V\to V$ gives rise to an $F[x]$-module structure on $V$, and conversely. It seems reasonable, then, to ask the question:
 
@@ -36,7 +38,8 @@ In the above propositions, the same statements hold if "linear transformations" 
 
 At some point we should add a proof of the above result. For now, let's just accept it.
 
-# Invariant factors and minimal/characteristic polynomials
+## Invariant factors and minimal/characteristic polynomials
+---
 
 In light of the above results, it is reasonable to say that if you know the invariant factors of an $n\times n$ matrix, then you must know every possible property of that matrix. In particular, you should be able to deduce things like its minimal and characteristic polynomials.
 
@@ -53,8 +56,8 @@ The first fact above should probably be the *definition* of the characteristic p
 > [!note] Minor note
 > In many textbooks, the characteristic polynomial of $A$ is defined as $p(x)=\det(A-xI_n)$ (or maybe $p(\lambda)=\det(A-\lambda I_n)$, if the focus is on eigenvalues). In our setup, however, the characteristic polynomial is taken to be $\det(xI_n-A)$, which is guaranteed to be monic. In general, the only difference is a possible minus sign, since $\det(A-xI_n)=(-1)^n \det(xI_n-A)$.
 
----
 
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation\|Rational Canonical Form III - Computation]]

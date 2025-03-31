@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2024-11-01T14:53:32-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2025-03-31T12:59:31-07:00"}
 ---
 
 We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
@@ -7,13 +7,14 @@ We would now like to consider how functors (say, from the category $R\textbf{-Mo
 - the "hom-in" functor $\operatorname{Hom}_R(-,N)$
 - the tensor product functor $M\otimes_R -$
 
-# The hom-out functor and projective modules
+## The hom-out functor and projective modules
+---
 
 In light of [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Yoneda's Lemma]], for any fixed object $c$ in a category $C$, understanding the object $c$ is equivalent to understanding the functor $\operatorname{Hom}_C(c,-):C\to \textbf{Set}$. In the context of modules, this means that for any fixed $R$-module $M$ it is worthwhile to study the functor $\operatorname{Hom}_R(M,-)$. We have seen that for every $R$-module $N$ the set $\operatorname{Hom}_R(M,N)$ has a (natural) structure of an abelian group^[What we really want to say is that functor $\operatorname{Hom}_R(M-):R\textbf{-Mod}\to \textbf{Set}$  factors through the forgetful functor $U:\textbf{Ab}\to \textbf{Set}$], so it makes sense to view $\operatorname{Hom}_R(M,N)$ as a functor from the category of $R$-modules to the category of abelian groups. We shall informally call this  "hom-out functor" of $M$ (to contrast it with the "hom-in" functor $\operatorname{Hom}_R(-,M)$).
 
 Let's start with a warm-up property of this functor.
 
-## The hom-out functor and direct products
+### The hom-out functor and direct products
 
 As with any functor, we are naturally curious about how the functor interacts with the other constructions in our category. For example, we have the following result:
 
@@ -29,7 +30,7 @@ By the way, if you're wondering about the proof of the above property, here's so
 > [!question] How about direct sums?
 > Recall that for finite families of $R$-modules, the direct product and direct sum constructions are isomorphic. So in that case we can replace the direct products with direct sums. Because of this, we might sometimes say that "the hom-out functor commutes with *finite* direct sums." However, we are *not* claiming the functor commutes with infinite direct sums.
 
-## The hom-out functor and exact sequences
+### The hom-out functor and exact sequences
 
 Now onto the real matter at hand, which is exploring how this functor interacts with exact sequences. Well, there's partial good news:
 
@@ -59,7 +60,7 @@ We leave it to the interested reader to verify $\phi$ is indeed a group morphism
 
 
 We will answer the first question immediately, but delay addressing the second question (until we can talk about **derived functors**).
-## Projective modules
+### Projective modules
 
 Let's consider the possibility of modules $P$ for which the functor $\operatorname{Hom}_R(P,-)$ is not just left exact, but also right exact.
 
@@ -84,7 +85,7 @@ To say that the map $\operatorname{Hom}_R(P,K)\xrightarrow{g\circ-} \operatornam
 
 You might hear this phrased as "maps from projective modules lift across surjections" or "pull back along surjections."
 
-## Facts about projective modules
+### Facts about projective modules
 
 Here are some facts about projective modules. I might include proofs of these at some point, but for now let's just take them as a highlight reel about what is known.
 
@@ -106,20 +107,21 @@ Here's another nice fact:
 > [!summary] Tensor products of projective modules are projective
 > If $R$ is a commutative ring, then the tensor product of two projective $R$-modules is projective
 
-### Examples of non-projective modules
+#### Examples of non-projective modules
 
 It can help to also have some examples of modules that are not projective. We leave the details of the non-projectivity of these examples to the motivated reader:
 - Let $A$ be a nonzero finite abelian group. Then $A$ is not projective.
 - The abelian group ${\bf Q}$ is not projective.
 - The quotient group ${\bf Q}/{\bf Z}$ is not projective.
 
-# The hom-in functor and injective modules
+## The hom-in functor and injective modules
+---
 
 For every object $r$ in a category $C$, we can consider the "hom-in" functor that is dual to the [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|hom-out functor]], that is the functor $\operatorname{Hom}_C(-,r)$. In general this is a functor from $C^{\text{op}}$ to ${\bf Set}$, although just as with the hom-out functor in the case of $R$-modules we can consider it a functor with values in the category of abelian groups.
 
 We now analyze the properties of this functor, in parallel with those of the hom-out functor.
 
-## The hom-in functor and direct products
+### The hom-in functor and direct products
 
  How does the hom-in functor interact with direct products? At first glance, it seems somewhat differently than the hom-out functor:
 
@@ -137,7 +139,7 @@ Long story short: both hom functors commute with direct products, when properly 
 > [!question] How about direct products of $R$-modules?
 > Recall that for finite families the direct product and direct sum constructions are isomorphic, so in that case we can replace the direct sum with a direct product. Because of this, we might sometimes say that "the hom-in functor commutes with *finite* direct products." As noted above, however, this is not a great way to think about this.
 
-## The hom-in functor and exact sequences
+### The hom-in functor and exact sequences
 
 Repeating our analysis above, we see that the hom-in functor retains exactness on one side but not the other. The one thing to watch out here is for the contravariance, i.e., that the functor $\operatorname{Hom}_R(-,N)$ is from $(R\textbf{-Mod})^{\text{op}}$ to $\textbf{Ab}$. In particular, convince yourself that a short exact sequence in $(R\textbf{-Mod})^{\text{op}}$ denoted
 
@@ -170,7 +172,7 @@ In any case, we once again ask:
 
 Let's again delay answering the second question and instead focus on the first.
 
-## Injective modules
+### Injective modules
 
 > [!note] Definition of an injective module
 > An $R$-module $I$ is **injective** if for every short exact sequence in $(R\textbf{-Mod})^{\text{op}}$
@@ -190,7 +192,7 @@ To say that the map $\operatorname{Hom}_R(K,I)\xrightarrow{-\circ g} \operatorna
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 142.23519529544006 126.946207145805" width="200" height="126.946207145805" class="excalidraw-svg"><symbol id="image-00362d6be7ea2463c566645e832534344de8a21f"><image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IC0wLjQ2NGV4OyIgd2lkdGg9IjI0LjczIiBoZWlnaHQ9IjIwLjM0IiByb2xlPSJpbWciIGZvY3VzYWJsZT0iZmFsc2UiIHZpZXdCb3g9IjAgLTY5NCA2NTEgODk5Ij48ZGVmcz48cGF0aCBpZD0iTUpYLTEyLVRFWC1JLTFENzEzIiBkPSJNMTYxIDQ0MVEyMDIgNDQxIDIyNiA0MTdUMjUwIDM1OFEyNTAgMzM4IDIxOCAyNTJUMTg3IDEyN1ExOTAgODUgMjE0IDYxUTIzNSA0MyAyNTcgMzdRMjc1IDI5IDI4OCAyOUgyODlMMzcxIDM2MFE0NTUgNjkxIDQ1NiA2OTJRNDU5IDY5NCA0NzIgNjk0UTQ5MiA2OTQgNDkyIDY4N1E0OTIgNjc4IDQxMSAzNTZRMzI5IDI4IDMyOSAyN1QzMzUgMjZRNDIxIDI2IDQ5OCAxMTRUNTc2IDI3OFE1NzYgMzAyIDU2OCAzMTlUNTUwIDM0M1Q1MzIgMzYxVDUyNCAzODRRNTI0IDQwNSA1NDEgNDI0VDU4MyA0NDNRNjAyIDQ0MyA2MTggNDI1VDYzNCAzNjZRNjM0IDMzNyA2MjMgMjg4VDYwNSAyMjBRNTczIDEyNSA0OTIgNTdUMzI5IC0xMUgzMTlMMjk2IC0xMDRRMjcyIC0xOTggMjcyIC0xOTlRMjcwIC0yMDUgMjUyIC0yMDVIMjM5UTIzMyAtMTk5IDIzMyAtMTk3UTIzMyAtMTkyIDI1NiAtMTAyVDI3OSAtOVEyNzIgLTggMjY1IC04UTEwNiAxNCAxMDYgMTM5UTEwNiAxNzQgMTM5IDI2NFQxNzMgMzc5UTE3MyAzODAgMTczIDM4MVExNzMgMzkwIDE3MyAzOTNUMTY5IDQwMFQxNTggNDA0SDE1NFExMzEgNDA0IDExMiAzODVUODIgMzQ0VDY1IDMwMlQ1NyAyODBRNTUgMjc4IDQxIDI3OEgyN1EyMSAyODQgMjEgMjg3UTIxIDI5OSAzNCAzMzNUODIgNDA0VDE2MSA0NDFaIi8+PC9kZWZzPjxnIHN0cm9rZT0iY3VycmVudENvbG9yIiBmaWxsPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMCIgdHJhbnNmb3JtPSJzY2FsZSgxLC0xKSI+PGcgZGF0YS1tbWwtbm9kZT0ibWF0aCI+PGcgZGF0YS1tbWwtbm9kZT0ibWkiPjx1c2UgZGF0YS1jPSIxRDcxMyIgeGxpbms6aHJlZj0iI01KWC0xMi1URVgtSS0xRDcxMyIvPjwvZz48L2c+PC9nPjwvc3ZnPg==" preserveAspectRatio="none" width="100%" height="100%"/></symbol><symbol id="image-bb3f5eb50f3e6f50003f50f8e9e5b960b8da4144"><image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IC0wLjQ2NGV4OyIgd2lkdGg9IjIzLjQ4IiBoZWlnaHQ9IjIwLjM0IiByb2xlPSJpbWciIGZvY3VzYWJsZT0iZmFsc2UiIHZpZXdCb3g9IjAgLTY5NCA1OTYgODk5Ij48ZGVmcz48cGF0aCBpZD0iTUpYLTExLVRFWC1JLTFENzE5IiBkPSJNNDA5IDY4OFE0MTMgNjk0IDQyMSA2OTRINDI5SDQ0MlE0NDggNjg4IDQ0OCA2ODZRNDQ4IDY3OSA0MTggNTYzUTQxMSA1MzUgNDA0IDUwNFQzOTIgNDU4TDM4OCA0NDJRMzg4IDQ0MSAzOTcgNDQxVDQyOSA0MzVUNDc3IDQxOFE1MjEgMzk3IDU1MCAzNTdUNTc5IDI2MFQ1NDggMTUxVDQ3MSA2NVQzNzQgMTFUMjc5IC0xMEgyNzVMMjUxIC0xMDVRMjQ1IC0xMjggMjM4IC0xNjBRMjMwIC0xOTIgMjI3IC0xOThUMjE1IC0yMDVIMjA5UTE4OSAtMjA1IDE4OSAtMTk4UTE4OSAtMTkzIDIxMSAtMTAzTDIzNCAtMTFRMjM0IC0xMCAyMjYgLTEwUTIyMSAtMTAgMjA2IC04VDE2MSA2VDEwNyAzNlQ2MiA4OVQ0MyAxNzFRNDMgMjMxIDc2IDI4NFQxNTcgMzcwVDI1NCA0MjJUMzQyIDQ0MVEzNDcgNDQxIDM0OCA0NDVMMzc4IDU2N1E0MDkgNjg2IDQwOSA2ODhaTTEyMiAxNTBRMTIyIDExNiAxMzQgOTFUMTY3IDUzVDIwMyAzNVQyMzcgMjdIMjQ0TDMzNyA0MDRRMzMzIDQwNCAzMjYgNDAzVDI5NyAzOTVUMjU1IDM3OVQyMTEgMzUwVDE3MCAzMDRRMTUyIDI3NiAxMzcgMjM3UTEyMiAxOTEgMTIyIDE1MFpNNTAwIDI4MlE1MDAgMzIwIDQ4NCAzNDdUNDQ0IDM4NVQ0MDUgNDAwVDM4MSA0MDRIMzc4TDMzMiAyMTdMMjg0IDI5UTI4NCAyNyAyODUgMjdRMjkzIDI3IDMxNyAzM1QzNTcgNDdRNDAwIDY2IDQzMSAxMDBUNDc1IDE3MFQ0OTQgMjM0VDUwMCAyODJaIi8+PC9kZWZzPjxnIHN0cm9rZT0iY3VycmVudENvbG9yIiBmaWxsPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMCIgdHJhbnNmb3JtPSJzY2FsZSgxLC0xKSI+PGcgZGF0YS1tbWwtbm9kZT0ibWF0aCI+PGcgZGF0YS1tbWwtbm9kZT0ibWkiPjx1c2UgZGF0YS1jPSIxRDcxOSIgeGxpbms6aHJlZj0iI01KWC0xMS1URVgtSS0xRDcxOSIvPjwvZz48L2c+PC9nPjwvc3ZnPg==" preserveAspectRatio="none" width="100%" height="100%"/></symbol><symbol id="image-d2933b3f2eba0ca4a4f5d1816ab85bd1b8f77580"><image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IDA7IiB3aWR0aD0iMjEuNCIgaGVpZ2h0PSIxNS40NSIgcm9sZT0iaW1nIiBmb2N1c2FibGU9ImZhbHNlIiB2aWV3Qm94PSIwIC02ODMgNTA0IDY4MyI+PGRlZnM+PHBhdGggaWQ9Ik1KWC0xMC1URVgtSS0xRDQzQyIgZD0iTTQzIDFRMjYgMSAyNiAxMFEyNiAxMiAyOSAyNFEzNCA0MyAzOSA0NVE0MiA0NiA1NCA0Nkg2MFExMjAgNDYgMTM2IDUzUTEzNyA1MyAxMzggNTRRMTQzIDU2IDE0OSA3N1QxOTggMjczUTIxMCAzMTggMjE2IDM0NFEyODYgNjI0IDI4NiA2MjZRMjg0IDYzMCAyODQgNjMxUTI3NCA2MzcgMjEzIDYzN0gxOTNRMTg0IDY0MyAxODkgNjYyUTE5MyA2NzcgMTk1IDY4MFQyMDkgNjgzSDIxM1EyODUgNjgxIDM1OSA2ODFRNDgxIDY4MSA0ODcgNjgzSDQ5N1E1MDQgNjc2IDUwNCA2NzJUNTAxIDY1NVQ0OTQgNjM5UTQ5MSA2MzcgNDcxIDYzN1E0NDAgNjM3IDQwNyA2MzRRMzkzIDYzMSAzODggNjIzUTM4MSA2MDkgMzM3IDQzMlEzMjYgMzg1IDMxNSAzNDFRMjQ1IDY1IDI0NSA1OVEyNDUgNTIgMjU1IDUwVDMwNyA0NkgzMzlRMzQ1IDM4IDM0NSAzN1QzNDIgMTlRMzM4IDYgMzMyIDBIMzE2UTI3OSAyIDE3OSAyUTE0MyAyIDExMyAyVDY1IDJUNDMgMVoiLz48L2RlZnM+PGcgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIGZpbGw9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIwIiB0cmFuc2Zvcm09InNjYWxlKDEsLTEpIj48ZyBkYXRhLW1tbC1ub2RlPSJtYXRoIj48ZyBkYXRhLW1tbC1ub2RlPSJtaSI+PHVzZSBkYXRhLWM9IjFENDNDIiB4bGluazpocmVmPSIjTUpYLTEwLVRFWC1JLTFENDNDIi8+PC9nPjwvZz48L2c+PC9zdmc+" preserveAspectRatio="none" width="100%" height="100%"/></symbol><symbol id="image-c802f2e35bcb327f311e686474cff80fd68f48fe"><image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IC0wLjQ2NGV4OyIgd2lkdGg9IjIwLjc5IiBoZWlnaHQ9IjE0LjY0IiByb2xlPSJpbWciIGZvY3VzYWJsZT0iZmFsc2UiIHZpZXdCb3g9IjAgLTQ0MiA0NzcgNjQ3Ij48ZGVmcz48cGF0aCBpZD0iTUpYLTktVEVYLUktMUQ0NTQiIGQ9Ik0zMTEgNDNRMjk2IDMwIDI2NyAxNVQyMDYgMFExNDMgMCAxMDUgNDVUNjYgMTYwUTY2IDI2NSAxNDMgMzUzVDMxNCA0NDJRMzYxIDQ0MiA0MDEgMzk0TDQwNCAzOThRNDA2IDQwMSA0MDkgNDA0VDQxOCA0MTJUNDMxIDQxOVQ0NDcgNDIyUTQ2MSA0MjIgNDcwIDQxM1Q0ODAgMzk0UTQ4MCAzNzkgNDIzIDE1MlQzNjMgLTgwUTM0NSAtMTM0IDI4NiAtMTY5VDE1MSAtMjA1UTEwIC0yMDUgMTAgLTEzN1ExMCAtMTExIDI4IC05MVQ3NCAtNzFRODkgLTcxIDEwMiAtODBUMTE2IC0xMTFRMTE2IC0xMjEgMTE0IC0xMzBUMTA3IC0xNDRUOTkgLTE1NFQ5MiAtMTYyTDkwIC0xNjRIOTFRMTAxIC0xNjcgMTUxIC0xNjdRMTg5IC0xNjcgMjExIC0xNTVRMjM0IC0xNDQgMjU0IC0xMjJUMjgyIC03NVEyODggLTU2IDI5OCAtMTNRMzExIDM1IDMxMSA0M1pNMzg0IDMyOEwzODAgMzM5UTM3NyAzNTAgMzc1IDM1NFQzNjkgMzY4VDM1OSAzODJUMzQ2IDM5M1QzMjggNDAyVDMwNiA0MDVRMjYyIDQwNSAyMjEgMzUyUTE5MSAzMTMgMTcxIDIzM1QxNTEgMTE3UTE1MSAzOCAyMTMgMzhRMjY5IDM4IDMyMyAxMDhMMzMxIDExOEwzODQgMzI4WiIvPjwvZGVmcz48ZyBzdHJva2U9ImN1cnJlbnRDb2xvciIgZmlsbD0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjAiIHRyYW5zZm9ybT0ic2NhbGUoMSwtMSkiPjxnIGRhdGEtbW1sLW5vZGU9Im1hdGgiPjxnIGRhdGEtbW1sLW5vZGU9Im1pIj48dXNlIGRhdGEtYz0iMUQ0NTQiIHhsaW5rOmhyZWY9IiNNSlgtOS1URVgtSS0xRDQ1NCIvPjwvZz48L2c+PC9nPjwvc3ZnPg==" preserveAspectRatio="none" width="100%" height="100%"/></symbol><symbol id="image-a272047142bbeb767351c8a3161b5e8e22860691"><image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IDA7IiB3aWR0aD0iMjUuNDEiIGhlaWdodD0iMTUuNDUiIHJvbGU9ImltZyIgZm9jdXNhYmxlPSJmYWxzZSIgdmlld0JveD0iMCAtNjgzIDY4MSA2ODMiPjxkZWZzPjxwYXRoIGlkPSJNSlgtOC1URVgtSS0xRDQzRiIgZD0iTTIyOCA2MzdRMTk0IDYzNyAxOTIgNjQxUTE5MSA2NDMgMTkxIDY0OVExOTEgNjczIDIwMiA2ODJRMjA0IDY4MyAyMTcgNjgzUTI3MSA2ODAgMzQ0IDY4MFE0ODUgNjgwIDUwNiA2ODNINTE4UTUyNCA2NzcgNTI0IDY3NFQ1MjIgNjU2UTUxNyA2NDEgNTEzIDYzN0g0NzVRNDA2IDYzNiAzOTQgNjI4UTM4NyA2MjQgMzgwIDYwMFQzMTMgMzM2UTI5NyAyNzEgMjc5IDE5OFQyNTIgODhMMjQzIDUyUTI0MyA0OCAyNTIgNDhUMzExIDQ2SDMyOFEzNjAgNDYgMzc5IDQ3VDQyOCA1NFQ0NzggNzJUNTIyIDEwNlQ1NjQgMTYxUTU4MCAxOTEgNTk0IDIyOFQ2MTEgMjcwUTYxNiAyNzMgNjI4IDI3M0g2NDFRNjQ3IDI2NCA2NDcgMjYyVDYyNyAyMDNUNTgzIDgzVDU1NyA5UTU1NSA0IDU1MyAzVDUzNyAwVDQ5NCAtMVE0ODMgLTEgNDE4IC0xVDI5NCAwSDExNlEzMiAwIDMyIDEwUTMyIDE3IDM0IDI0UTM5IDQzIDQ0IDQ1UTQ4IDQ2IDU5IDQ2SDY1UTkyIDQ2IDEyNSA0OVExMzkgNTIgMTQ0IDYxUTE0NyA2NSAyMTYgMzM5VDI4NSA2MjhRMjg1IDYzNSAyMjggNjM3WiIvPjwvZGVmcz48ZyBzdHJva2U9ImN1cnJlbnRDb2xvciIgZmlsbD0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjAiIHRyYW5zZm9ybT0ic2NhbGUoMSwtMSkiPjxnIGRhdGEtbW1sLW5vZGU9Im1hdGgiPjxnIGRhdGEtbW1sLW5vZGU9Im1pIj48dXNlIGRhdGEtYz0iMUQ0M0YiIHhsaW5rOmhyZWY9IiNNSlgtOC1URVgtSS0xRDQzRiIvPjwvZz48L2c+PC9nPjwvc3ZnPg==" preserveAspectRatio="none" width="100%" height="100%"/></symbol><symbol id="image-1128c590758fc8df59b179f1bbc3bfc01497b089"><image href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IDA7IiB3aWR0aD0iMjAuMTEiIGhlaWdodD0iMTUuNDUiIHJvbGU9ImltZyIgZm9jdXNhYmxlPSJmYWxzZSIgdmlld0JveD0iMCAtNjgzIDg4OSA2ODMiPjxkZWZzPjxwYXRoIGlkPSJNSlgtNy1URVgtSS0xRDQzRSIgZD0iTTI4NSA2MjhRMjg1IDYzNSAyMjggNjM3UTIwNSA2MzcgMTk4IDYzOFQxOTEgNjQ3UTE5MSA2NDkgMTkzIDY2MVExOTkgNjgxIDIwMyA2ODJRMjA1IDY4MyAyMTQgNjgzSDIxOVEyNjAgNjgxIDM1NSA2ODFRMzg5IDY4MSA0MTggNjgxVDQ2MyA2ODJUNDgzIDY4MlE1MDAgNjgyIDUwMCA2NzRRNTAwIDY2OSA0OTcgNjYwUTQ5NiA2NTggNDk2IDY1NFQ0OTUgNjQ4VDQ5MyA2NDRUNDkwIDY0MVQ0ODYgNjM5VDQ3OSA2MzhUNDcwIDYzN1Q0NTYgNjM3UTQxNiA2MzYgNDA1IDYzNFQzODcgNjIzTDMwNiAzMDVRMzA3IDMwNSA0OTAgNDQ5VDY3OCA1OTdRNjkyIDYxMSA2OTIgNjIwUTY5MiA2MzUgNjY3IDYzN1E2NTEgNjM3IDY1MSA2NDhRNjUxIDY1MCA2NTQgNjYyVDY1OSA2NzdRNjYyIDY4MiA2NzYgNjgyUTY4MCA2ODIgNzExIDY4MVQ3OTEgNjgwUTgxNCA2ODAgODM5IDY4MVQ4NjkgNjgyUTg4OSA2ODIgODg5IDY3MlE4ODkgNjUwIDg4MSA2NDJRODc4IDYzNyA4NjIgNjM3UTc4NyA2MzIgNzI2IDU4NlE3MTAgNTc2IDY1NiA1MzRUNTU2IDQ1NUw1MDkgNDE4TDUxOCAzOTZRNTI3IDM3NCA1NDYgMzI5VDU4MSAyNDRRNjU2IDY3IDY2MSA2MVE2NjMgNTkgNjY2IDU3UTY4MCA0NyA3MTcgNDZINzM4UTc0NCAzOCA3NDQgMzdUNzQxIDE5UTczNyA2IDczMSAwSDcyMFE2ODAgMyA2MjUgM1E1MDMgMyA0ODggMEg0NzhRNDcyIDYgNDcyIDlUNDc0IDI3UTQ3OCA0MCA0ODAgNDNUNDkxIDQ2SDQ5NFE1NDQgNDYgNTQ0IDcxUTU0NCA3NSA1MTcgMTQxVDQ4NSAyMTZMNDI3IDM1NEwzNTkgMzAxTDI5MSAyNDhMMjY4IDE1NVEyNDUgNjMgMjQ1IDU4UTI0NSA1MSAyNTMgNDlUMzAzIDQ2SDMzNFEzNDAgMzcgMzQwIDM1UTM0MCAxOSAzMzMgNVEzMjggMCAzMTcgMFEzMTQgMCAyODAgMVQxODAgMlExMTggMiA4NSAyVDQ5IDFRMzEgMSAzMSAxMVEzMSAxMyAzNCAyNVEzOCA0MSA0MiA0M1Q2NSA0NlE5MiA0NiAxMjUgNDlRMTM5IDUyIDE0NCA2MVExNDcgNjUgMjE2IDMzOVQyODUgNjI4WiIvPjwvZGVmcz48ZyBzdHJva2U9ImN1cnJlbnRDb2xvciIgZmlsbD0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjAiIHRyYW5zZm9ybT0ic2NhbGUoMSwtMSkiPjxnIGRhdGEtbW1sLW5vZGU9Im1hdGgiPjxnIGRhdGEtbW1sLW5vZGU9Im1pIj48dXNlIGRhdGEtYz0iMUQ0M0UiIHhsaW5rOmhyZWY9IiNNSlgtNy1URVgtSS0xRDQzRSIvPjwvZz48L2c+PC9nPjwvc3ZnPg==" preserveAspectRatio="none" width="100%" height="100%"/></symbol>  <!-- svg-source:excalidraw -->    <defs>    <style class="style-fonts">/**/</style>      </defs>  <g transform="translate(118.23519529544006 19.46068997737092) rotate(0 7 5.5)"><use href="#image-1128c590758fc8df59b179f1bbc3bfc01497b089" width="14" height="11" opacity="1"/></g><g transform="translate(19.01219079746221 16.625788082621455) rotate(0 11.30098981934725 6.906160445156647)"><use href="#image-a272047142bbeb767351c8a3161b5e8e22860691" width="23" height="14" opacity="1"/></g><g stroke-linecap="round"><g transform="translate(50.88166288034529 24.37564479487213) rotate(0 29.678905914471187 0.09727322347524847)"><path d="M0 0 C9.89 0.03, 49.46 0.16, 59.36 0.19 M0 0 C9.89 0.03, 49.46 0.16, 59.36 0.19" stroke="#1e1e1e" stroke-width="1" fill="none"/></g><g transform="translate(50.88166288034529 24.37564479487213) rotate(0 29.678905914471187 0.09727322347524847)"><path d="M59.36 0.19 L45.74 6.49 L45.78 -6.19 L59.36 0.19" stroke="none" stroke-width="0" fill="#1e1e1e" fill-rule="evenodd"/><path d="M59.36 0.19 C56.57 1.48, 53.78 2.77, 45.74 6.49 M59.36 0.19 C55.43 2.01, 51.51 3.82, 45.74 6.49 M45.74 6.49 C45.76 2.16, 45.77 -2.17, 45.78 -6.19 M45.74 6.49 C45.76 2.06, 45.77 -2.37, 45.78 -6.19 M45.78 -6.19 C49.04 -4.66, 52.29 -3.13, 59.36 0.19 M45.78 -6.19 C50.03 -4.19, 54.27 -2.2, 59.36 0.19 M59.36 0.19 C59.36 0.19, 59.36 0.19, 59.36 0.19 M59.36 0.19 C59.36 0.19, 59.36 0.19, 59.36 0.19" stroke="#1e1e1e" stroke-width="1" fill="none"/></g></g><mask/><g transform="translate(64.62951356410491 10) rotate(0 7.5 5)"><use href="#image-c802f2e35bcb327f311e686474cff80fd68f48fe" width="15" height="10" opacity="1"/></g><g transform="translate(23.12235239649175 104.56611560063996) rotate(0 8.440971508067065 6.190045772582522)"><use href="#image-d2933b3f2eba0ca4a4f5d1816ab85bd1b8f77580" width="17" height="12" opacity="1"/></g><g stroke-linecap="round"><g transform="translate(30.625788082621455 37.63037329060103) rotate(0 0.5624641780626689 29.529369348289634)"><path d="M0 0 C0.19 9.84, 0.94 49.22, 1.12 59.06 M0 0 C0.19 9.84, 0.94 49.22, 1.12 59.06" stroke="#1e1e1e" stroke-width="1" fill="none"/></g><g transform="translate(30.625788082621455 37.63037329060103) rotate(0 0.5624641780626689 29.529369348289634)"><path d="M1.12 59.06 L-5.47 45.59 L7.2 45.35 L1.12 59.06" stroke="none" stroke-width="0" fill="#1e1e1e" fill-rule="evenodd"/><path d="M1.12 59.06 C-1.48 53.74, -4.08 48.42, -5.47 45.59 M1.12 59.06 C-0.74 55.26, -2.6 51.46, -5.47 45.59 M-5.47 45.59 C-2.92 45.54, -0.37 45.49, 7.2 45.35 M-5.47 45.59 C-2.73 45.54, 0.01 45.48, 7.2 45.35 M7.2 45.35 C5.47 49.25, 3.74 53.15, 1.12 59.06 M7.2 45.35 C5.37 49.49, 3.53 53.64, 1.12 59.06 M1.12 59.06 C1.12 59.06, 1.12 59.06, 1.12 59.06 M1.12 59.06 C1.12 59.06, 1.12 59.06, 1.12 59.06" stroke="#1e1e1e" stroke-width="1" fill="none"/></g></g><mask/><g transform="translate(10 51.12894041310739) rotate(0 8.5 7.5)"><use href="#image-bb3f5eb50f3e6f50003f50f8e9e5b960b8da4144" width="17" height="15" opacity="1"/></g><g stroke-linecap="round"><g transform="translate(120.55509764772006 37.75435357290252) rotate(0 -36.25 31.5)"><path d="M0 0 C-12.08 10.5, -60.42 52.5, -72.5 63" stroke="#1e1e1e" stroke-width="1.5" fill="none" stroke-dasharray="8 9"/></g><g transform="translate(120.55509764772006 37.75435357290252) rotate(0 -36.25 31.5)"><path d="M-72.5 63 L-66.4 49.3 L-58.08 58.87 L-72.5 63" stroke="none" stroke-width="0" fill="#1e1e1e" fill-rule="evenodd"/><path d="M-72.5 63 C-70.57 58.67, -68.64 54.33, -66.4 49.3 M-66.4 49.3 C-63.82 52.26, -61.24 55.23, -58.08 58.87 M-58.08 58.87 C-61.8 59.93, -65.53 61, -72.5 63 M-72.5 63 C-72.5 63, -72.5 63, -72.5 63" stroke="#1e1e1e" stroke-width="1.5" fill="none"/></g></g><mask/><g transform="translate(91.55509764772006 71.25435357290252) rotate(0 9 7.5)"><use href="#image-00362d6be7ea2463c566645e832534344de8a21f" width="18" height="15" opacity="1"/></g></svg>
 
 You might hear this phrased as "maps to injective modules lift across injections" or "push foward along injections."
-## Facts about injective modules
+### Facts about injective modules
 
 Although the notions of projective and injective modules are perfectly dual, somehow it "feels" harder for a module to be injective. At least, it seems that way to me in light of the following fact:
 
@@ -213,20 +215,21 @@ Here are some additional examples of injective modules:
 - The quotient group ${\bf Q}/{\bf Z}$ is injective.
 - The direct sum of two injective ${\bf Z}$-modules is injective; e.g., ${\bf Q}\oplus {\bf Q}/{\bf Z}$ is injective.
 
-### Examples of non-injective modules
+#### Examples of non-injective modules
 
 We leave it to the motivated reader to prove the following:
 - The abelian group ${\bf Z}$ is not injective.
 - Any nonzero finitely generated abelian group is not injective.
 
-# The tensor product functor and flat modules
+## The tensor product functor and flat modules
+---
 
 Suppose $M$ is an $(R,S)$-bimodule. For any ring $T$ and $(S,T)$-bimodule we can form the $(R,T)$-bimodule $M\otimes_S N$. Similarly, for any $(T,R)$-bimodule we can form the $(T,S)$-bimodule $N\otimes_R M$. In other words, for every ring $T$ we can consider the two possible functors corresponding to tensoring with $M$, namely the left tensor product functor $M\otimes_S -$ and the right tensor product functor $-\otimes_R M$. Both functors will have similar properties, so we'll focus on the former.
 
 > [!note] Unfortunate notation
 > It's a bit unfortunate that the notation $M\otimes_S -$ is ambiguous, as it doesn't specify the domain category for the functor. We really should write $M\otimes_S -:(S,T)\textbf{-Bimod}\to (R,T)\textbf{-Bimod}$, or update the tensor notation to give some reference to the ring $T$.
 
-## The (left) tensor product functor and direct sums
+### The (left) tensor product functor and direct sums
 
 We have [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|already seen]] that the functor $M\otimes_S -$ is a left adjoint and hence commutes with colimits; e.g., commutes with direct sums:
 
@@ -242,7 +245,7 @@ $M\otimes_S \left(\bigoplus_{i\in I} N_i\right)\simeq \bigoplus_{i\in I} \left(M
 </div></div>
 
 
-## The tensor product and exact sequences
+### The tensor product and exact sequences
 
 > [!summary] The tensor product functor is right exact
 > Let $M$ be an $(R,S)$-bimodule. Then for each short exact sequence of $(S,T)$-bimodules
@@ -265,7 +268,7 @@ As with the previous two functors, we ask the following:
 > 2. For a given short exact sequence $0\to J\xrightarrow{f} K\xrightarrow{g} L\to 0$, is there a way to "continue to left" the exact sequence $M\otimes_S J\xrightarrow{1_M\otimes f} M\otimes_S K\xrightarrow{1_M\otimes g} M\otimes_S L \to 0$?
 
 Once more, we defer investigating the second question and stick to the first.
-## Flat modules
+### Flat modules
 
 > [!note] Definition of a flat module
 > An $(R,S)$-bimodule $D$ is **flat**^[Perhaps we should say *flat over $T$*?] if for every short exact sequence of $(S,T)$-bimodules
@@ -278,7 +281,7 @@ Once more, we defer investigating the second question and stick to the first.
 
 As a fun exercise, try repeating the analyses we made for the hom functors here, to see what it means for an $(R,S)$-bimodule to be flat.
 
-## Facts about flat modules
+### Facts about flat modules
 
 Here is a nice fact about flat modules, at least when working with $R$-modules, i.e., $(R,\textbf{Z})$-bimodules:
 
@@ -287,20 +290,19 @@ Here is a nice fact about flat modules, at least when working with $R$-modules, 
 
 In particular, free modules are flat.
 
-### Examples of flat modules
+#### Examples of flat modules
 
 1. The abelian group ${\bf Z}$ is projective and hence also flat.
 2. The abelian group ${\bf Q}$ is flat.
 3. Any direct sum of flat modules is flat; e.g., the abelian group ${\bf Z}\oplus {\bf Q}$ is flat (but neither injective nor projective).
 
-### Examples of non-flat modules
+#### Examples of non-flat modules
 
 1. The abelian group ${\bf Z}_2$ is not flat.
 2. The quotient group ${\bf Q}/{\bf Z}$ is not flat (although it is injective).
 
----
-
 ## Suggested next notes
+---
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Preadditive categories\|Preadditive categories]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|Chain complexes]]

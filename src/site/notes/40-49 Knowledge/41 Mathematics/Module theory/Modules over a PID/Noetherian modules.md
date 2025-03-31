@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/noetherian-modules/","tags":["module_theory"],"updated":"2024-11-15T06:50:30-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/noetherian-modules/","tags":["module_theory"],"updated":"2025-03-31T13:01:45-07:00"}
 ---
 
-# A finiteness condition for modules
+## A finiteness condition for modules
+---
 
 Many additional properties of modules arise if we assume some type of "finiteness condition" on the module. One such condition is the following:
 
@@ -49,7 +50,7 @@ Before moving on, we need to:
 
 Long story short: being Noetherian is stronger than being finitely generated.
 
----
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules\|Linear independence, rank and the structure of free modules]]

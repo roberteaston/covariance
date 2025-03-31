@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/categories/","tags":["category_theory","quotes"],"updated":"2025-03-27T06:13:44-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/categories/","tags":["category_theory","quotes"],"updated":"2025-03-31T12:40:54-07:00"}
 ---
 
-# Motivation
+## Motivation
+---
 
 >[!quote] Serge Lang
 >In the forties and fifties (mostly in the works of Cartan, Eilenberg, MacLane, and Steenrod), it was realized that there was a systematic way of developing certain relations of linear algebra, depending only on fairly general constructions which were mostly arrow-theoretic, and were affectionately called abstract nonsense by Steenrod.
@@ -20,7 +21,8 @@ At the most intuitive level, a mathematical *category* simply consists of "stuff
 
 There is a second, less obvious benefit to studying category theory that I personally feel is even more profound. Thinking categorically can push us to embrace new, abstract ideas that we might initially find unintuitive, but which eventually provide incredible new insights. These insights and lessons are sprinkled throughout these notes. Keep your eyes peeled for them!
 
-# Formal definitions
+## Formal definitions
+---
 
 Any formal definition of *category* is admittedly a bit clunky, so remember the general idea: you have *objects*, and you have *arrows* between those objects.
 
@@ -38,7 +40,8 @@ Any formal definition of *category* is admittedly a bit clunky, so remember the 
 { #a3b777}
 
 
-# Visualization
+## Visualization
+---
 
 When we want to visualize categories it's useful to think of the objects as dots and the arrows as ... arrows. For example, we might visualize two objects $a$ and $b$ with some arrows between them as follows:
 
@@ -56,7 +59,8 @@ For one final simplification, it is common to simplify the visual presentation o
 
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 245.255859375 138.74404424085074" width="250" height="138.74404424085074" class="excalidraw-svg"><symbol id="image-8a79a09a598ca58b147cf0d303bbd576df367535"><image width="100%" height="100%" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IC0wLjAyNWV4OyIgd2lkdGg9IjIzLjAzIiBoZWlnaHQ9IjE1Ljk1IiByb2xlPSJpbWciIGZvY3VzYWJsZT0iZmFsc2UiIHZpZXdCb3g9IjAgLTY5NCA1NzYgNzA1Ij48ZGVmcz48cGF0aCBpZD0iTUpYLTQxLVRFWC1JLTIxMEUiIGQ9Ik0xMzcgNjgzUTEzOCA2ODMgMjA5IDY4OFQyODIgNjk0UTI5NCA2OTQgMjk0IDY4NVEyOTQgNjc0IDI1OCA1MzRRMjIwIDM4NiAyMjAgMzgzUTIyMCAzODEgMjI3IDM4OFEyODggNDQyIDM1NyA0NDJRNDExIDQ0MiA0NDQgNDE1VDQ3OCAzMzZRNDc4IDI4NSA0NDAgMTc4VDQwMiA1MFE0MDMgMzYgNDA3IDMxVDQyMiAyNlE0NTAgMjYgNDc0IDU2VDUxMyAxMzhRNTE2IDE0OSA1MTkgMTUxVDUzNSAxNTNRNTU1IDE1MyA1NTUgMTQ1UTU1NSAxNDQgNTUxIDEzMFE1MzUgNzEgNTAwIDMzUTQ2NiAtMTAgNDE5IC0xMEg0MTRRMzY3IC0xMCAzNDYgMTdUMzI1IDc0UTMyNSA5MCAzNjEgMTkyVDM5OCAzNDVRMzk4IDQwNCAzNTQgNDA0SDM0OVEyNjYgNDA0IDIwNSAzMDZMMTk4IDI5M0wxNjQgMTU4UTEzMiAyOCAxMjcgMTZRMTE0IC0xMSA4MyAtMTFRNjkgLTExIDU5IC0yVDQ4IDE2UTQ4IDMwIDEyMSAzMjBMMTk1IDYxNlExOTUgNjI5IDE4OCA2MzJUMTQ5IDYzN0gxMjhRMTIyIDY0MyAxMjIgNjQ1VDEyNCA2NjRRMTI5IDY4MyAxMzcgNjgzWiIvPjwvZGVmcz48ZyBzdHJva2U9ImN1cnJlbnRDb2xvciIgZmlsbD0iY3VycmVudENvbG9yIiBzdHJva2Utd2lkdGg9IjAiIHRyYW5zZm9ybT0ic2NhbGUoMSwtMSkiPjxnIGRhdGEtbW1sLW5vZGU9Im1hdGgiPjxnIGRhdGEtbW1sLW5vZGU9Im1pIj48dXNlIGRhdGEtYz0iMjEwRSIgeGxpbms6aHJlZj0iI01KWC00MS1URVgtSS0yMTBFIi8+PC9nPjwvZz48L2c+PC9zdmc+" preserveAspectRatio="none"/></symbol><symbol id="image-1e9e323c14e62b5dc6425ca84e6e247eecead680"><image width="100%" height="100%" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IC0wLjQ2NGV4OyIgd2lkdGg9IjIwLjc5IiBoZWlnaHQ9IjE0LjY0IiByb2xlPSJpbWciIGZvY3VzYWJsZT0iZmFsc2UiIHZpZXdCb3g9IjAgLTQ0MiA0NzcgNjQ3Ij48ZGVmcz48cGF0aCBpZD0iTUpYLTQwLVRFWC1JLTFENDU0IiBkPSJNMzExIDQzUTI5NiAzMCAyNjcgMTVUMjA2IDBRMTQzIDAgMTA1IDQ1VDY2IDE2MFE2NiAyNjUgMTQzIDM1M1QzMTQgNDQyUTM2MSA0NDIgNDAxIDM5NEw0MDQgMzk4UTQwNiA0MDEgNDA5IDQwNFQ0MTggNDEyVDQzMSA0MTlUNDQ3IDQyMlE0NjEgNDIyIDQ3MCA0MTNUNDgwIDM5NFE0ODAgMzc5IDQyMyAxNTJUMzYzIC04MFEzNDUgLTEzNCAyODYgLTE2OVQxNTEgLTIwNVExMCAtMjA1IDEwIC0xMzdRMTAgLTExMSAyOCAtOTFUNzQgLTcxUTg5IC03MSAxMDIgLTgwVDExNiAtMTExUTExNiAtMTIxIDExNCAtMTMwVDEwNyAtMTQ0VDk5IC0xNTRUOTIgLTE2Mkw5MCAtMTY0SDkxUTEwMSAtMTY3IDE1MSAtMTY3UTE4OSAtMTY3IDIxMSAtMTU1UTIzNCAtMTQ0IDI1NCAtMTIyVDI4MiAtNzVRMjg4IC01NiAyOTggLTEzUTMxMSAzNSAzMTEgNDNaTTM4NCAzMjhMMzgwIDMzOVEzNzcgMzUwIDM3NSAzNTRUMzY5IDM2OFQzNTkgMzgyVDM0NiAzOTNUMzI4IDQwMlQzMDYgNDA1UTI2MiA0MDUgMjIxIDM1MlExOTEgMzEzIDE3MSAyMzNUMTUxIDExN1ExNTEgMzggMjEzIDM4UTI2OSAzOCAzMjMgMTA4TDMzMSAxMThMMzg0IDMyOFoiLz48L2RlZnM+PGcgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIGZpbGw9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIwIiB0cmFuc2Zvcm09InNjYWxlKDEsLTEpIj48ZyBkYXRhLW1tbC1ub2RlPSJtYXRoIj48ZyBkYXRhLW1tbC1ub2RlPSJtaSI+PHVzZSBkYXRhLWM9IjFENDU0IiB4bGluazpocmVmPSIjTUpYLTQwLVRFWC1JLTFENDU0Ii8+PC9nPjwvZz48L2c+PC9zdmc+" preserveAspectRatio="none"/></symbol><symbol id="image-d84cac97b22f9f4e841ee708ab62ef2a11de1540"><image width="100%" height="100%" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IC0wLjQ2NGV4OyIgd2lkdGg9IjIyLjQ0IiBoZWlnaHQ9IjIwLjU5IiByb2xlPSJpbWciIGZvY3VzYWJsZT0iZmFsc2UiIHZpZXdCb3g9IjAgLTcwNSA1NTAgOTEwIj48ZGVmcz48cGF0aCBpZD0iTUpYLTM5LVRFWC1JLTFENDUzIiBkPSJNMTE4IC0xNjJRMTIwIC0xNjIgMTI0IC0xNjRUMTM1IC0xNjdUMTQ3IC0xNjhRMTYwIC0xNjggMTcxIC0xNTVUMTg3IC0xMjZRMTk3IC05OSAyMjEgMjdUMjY3IDI2N1QyODkgMzgyVjM4NUgyNDJRMTk1IDM4NSAxOTIgMzg3UTE4OCAzOTAgMTg4IDM5N0wxOTUgNDI1UTE5NyA0MzAgMjAzIDQzMFQyNTAgNDMxUTI5OCA0MzEgMjk4IDQzMlEyOTggNDM0IDMwNyA0ODJUMzE5IDU0MFEzNTYgNzA1IDQ2NSA3MDVRNTAyIDcwMyA1MjYgNjgzVDU1MCA2MzBRNTUwIDU5NCA1MjkgNTc4VDQ4NyA1NjFRNDQzIDU2MSA0NDMgNjAzUTQ0MyA2MjIgNDU0IDYzNlQ0NzggNjU3TDQ4NyA2NjJRNDcxIDY2OCA0NTcgNjY4UTQ0NSA2NjggNDM0IDY1OFQ0MTkgNjMwUTQxMiA2MDEgNDAzIDU1MlQzODcgNDY5VDM4MCA0MzNRMzgwIDQzMSA0MzUgNDMxUTQ4MCA0MzEgNDg3IDQzMFQ0OTggNDI0UTQ5OSA0MjAgNDk2IDQwN1Q0OTEgMzkxUTQ4OSAzODYgNDgyIDM4NlQ0MjggMzg1SDM3MkwzNDkgMjYzUTMwMSAxNSAyODIgLTQ3UTI1NSAtMTMyIDIxMiAtMTczUTE3NSAtMjA1IDEzOSAtMjA1UTEwNyAtMjA1IDgxIC0xODZUNTUgLTEzMlE1NSAtOTUgNzYgLTc4VDExOCAtNjFRMTYyIC02MSAxNjIgLTEwM1ExNjIgLTEyMiAxNTEgLTEzNlQxMjcgLTE1N0wxMTggLTE2MloiLz48L2RlZnM+PGcgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIGZpbGw9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIwIiB0cmFuc2Zvcm09InNjYWxlKDEsLTEpIj48ZyBkYXRhLW1tbC1ub2RlPSJtYXRoIj48ZyBkYXRhLW1tbC1ub2RlPSJtaSI+PHVzZSBkYXRhLWM9IjFENDUzIiB4bGluazpocmVmPSIjTUpYLTM5LVRFWC1JLTFENDUzIi8+PC9nPjwvZz48L2c+PC9zdmc+" preserveAspectRatio="none"/></symbol><symbol id="image-f96907d723b03ba1d61f39a0e49106135b485eb4"><image width="100%" height="100%" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IC0wLjAyNWV4OyIgd2lkdGg9IjE5LjcxIiBoZWlnaHQ9IjE1Ljk1IiByb2xlPSJpbWciIGZvY3VzYWJsZT0iZmFsc2UiIHZpZXdCb3g9IjAgLTY5NCA0MjkgNzA1Ij48ZGVmcz48cGF0aCBpZD0iTUpYLTM4LVRFWC1JLTFENDRGIiBkPSJNNzMgNjQ3UTczIDY1NyA3NyA2NzBUODkgNjgzUTkwIDY4MyAxNjEgNjg4VDIzNCA2OTRRMjQ2IDY5NCAyNDYgNjg1VDIxMiA1NDJRMjA0IDUwOCAxOTUgNDcyVDE4MCA0MThMMTc2IDM5OVExNzYgMzk2IDE4MiA0MDJRMjMxIDQ0MiAyODMgNDQyUTM0NSA0NDIgMzgzIDM5NlQ0MjIgMjgwUTQyMiAxNjkgMzQzIDc5VDE3MyAtMTFRMTIzIC0xMSA4MiAyN1Q0MCAxNTBWMTU5UTQwIDE4MCA0OCAyMTdUOTcgNDE0UTE0NyA2MTEgMTQ3IDYyM1QxMDkgNjM3UTEwNCA2MzcgMTAxIDYzN0g5NlE4NiA2MzcgODMgNjM3VDc2IDY0MFQ3MyA2NDdaTTMzNiAzMjVWMzMxUTMzNiA0MDUgMjc1IDQwNVEyNTggNDA1IDI0MCAzOTdUMjA3IDM3NlQxODEgMzUyVDE2MyAzMzBMMTU3IDMyMkwxMzYgMjM2UTExNCAxNTAgMTE0IDExNFExMTQgNjYgMTM4IDQyUTE1NCAyNiAxNzggMjZRMjExIDI2IDI0NSA1OFEyNzAgODEgMjg1IDExNFQzMTggMjE5UTMzNiAyOTEgMzM2IDMyNVoiLz48L2RlZnM+PGcgc3Ryb2tlPSJjdXJyZW50Q29sb3IiIGZpbGw9ImN1cnJlbnRDb2xvciIgc3Ryb2tlLXdpZHRoPSIwIiB0cmFuc2Zvcm09InNjYWxlKDEsLTEpIj48ZyBkYXRhLW1tbC1ub2RlPSJtYXRoIj48ZyBkYXRhLW1tbC1ub2RlPSJtaSI+PHVzZSBkYXRhLWM9IjFENDRGIiB4bGluazpocmVmPSIjTUpYLTM4LVRFWC1JLTFENDRGIi8+PC9nPjwvZz48L2c+PC9zdmc+" preserveAspectRatio="none"/></symbol><symbol id="image-4a94063bdefcd3354635df5a62668f39f9653d8f"><image width="100%" height="100%" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBzdHlsZT0idmVydGljYWwtYWxpZ246IC0wLjAyM2V4OyIgd2lkdGg9IjIxLjk3IiBoZWlnaHQ9IjEwLjIiIHJvbGU9ImltZyIgZm9jdXNhYmxlPSJmYWxzZSIgdmlld0JveD0iMCAtNDQxIDUyOSA0NTEiPjxkZWZzPjxwYXRoIGlkPSJNSlgtMzctVEVYLUktMUQ0NEUiIGQ9Ik0zMyAxNTdRMzMgMjU4IDEwOSAzNDlUMjgwIDQ0MVEzMzEgNDQxIDM3MCAzOTJRMzg2IDQyMiA0MTYgNDIyUTQyOSA0MjIgNDM5IDQxNFQ0NDkgMzk0UTQ0OSAzODEgNDEyIDIzNFQzNzQgNjhRMzc0IDQzIDM4MSAzNVQ0MDIgMjZRNDExIDI3IDQyMiAzNVE0NDMgNTUgNDYzIDEzMVE0NjkgMTUxIDQ3MyAxNTJRNDc1IDE1MyA0ODMgMTUzSDQ4N1E1MDYgMTUzIDUwNiAxNDRRNTA2IDEzOCA1MDEgMTE3VDQ4MSA2M1Q0NDkgMTNRNDM2IDAgNDE3IC04UTQwOSAtMTAgMzkzIC0xMFEzNTkgLTEwIDMzNiA1VDMwNiAzNkwzMDAgNTFRMjk5IDUyIDI5NiA1MFEyOTQgNDggMjkyIDQ2UTIzMyAtMTAgMTcyIC0xMFExMTcgLTEwIDc1IDMwVDMzIDE1N1pNMzUxIDMyOFEzNTEgMzM0IDM0NiAzNTBUMzIzIDM4NVQyNzcgNDA1UTI0MiA0MDUgMjEwIDM3NFQxNjAgMjkzUTEzMSAyMTQgMTE5IDEyOVExMTkgMTI2IDExOSAxMThUMTE4IDEwNlExMTggNjEgMTM2IDQ0VDE3OSAyNlEyMTcgMjYgMjU0IDU5VDI5OCAxMTBRMzAwIDExNCAzMjUgMjE3VDM1MSAzMjhaIi8+PC9kZWZzPjxnIHN0cm9rZT0iY3VycmVudENvbG9yIiBmaWxsPSJjdXJyZW50Q29sb3IiIHN0cm9rZS13aWR0aD0iMCIgdHJhbnNmb3JtPSJzY2FsZSgxLC0xKSI+PGcgZGF0YS1tbWwtbm9kZT0ibWF0aCI+PGcgZGF0YS1tbWwtbm9kZT0ibWkiPjx1c2UgZGF0YS1jPSIxRDQ0RSIgeGxpbms6aHJlZj0iI01KWC0zNy1URVgtSS0xRDQ0RSIvPjwvZz48L2c+PC9nPjwvc3ZnPg==" preserveAspectRatio="none"/></symbol>  <!-- svg-source:excalidraw -->    <defs>    <style class="style-fonts">/**/</style>      </defs>  <g stroke-linecap="round"><g transform="translate(22.050211205887564 64.52209102939298) rotate(0 99.29718748550032 -15.51953125)"><path d="M0 0 C17.83 -5.48, 73.87 -33.2, 106.97 -32.89 C140.07 -32.58, 183.32 -3.94, 198.59 1.85 M0 0 C17.83 -5.48, 73.87 -33.2, 106.97 -32.89 C140.07 -32.58, 183.32 -3.94, 198.59 1.85" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(22.050211205887564 64.52209102939298) rotate(0 99.29718748550032 -15.51953125)"><path d="M198.59 1.85 L183.6 1.52 L189.21 -9.85 L198.59 1.85" stroke="none" stroke-width="0" fill="#1e1e1e" fill-rule="evenodd"/><path d="M198.59 1.85 C195.31 1.78, 192.03 1.71, 183.6 1.52 M198.59 1.85 C194.23 1.76, 189.87 1.66, 183.6 1.52 M183.6 1.52 C185.69 -2.73, 187.79 -6.97, 189.21 -9.85 M183.6 1.52 C185.37 -2.07, 187.14 -5.66, 189.21 -9.85 M189.21 -9.85 C191.16 -7.41, 193.12 -4.97, 198.59 1.85 M189.21 -9.85 C192.47 -5.78, 195.73 -1.72, 198.59 1.85 M198.59 1.85 C198.59 1.85, 198.59 1.85, 198.59 1.85 M198.59 1.85 C198.59 1.85, 198.59 1.85, 198.59 1.85" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(28.47182432401391 89.15099727939298) rotate(0 94.99653717643714 11.259765625)"><path d="M0 0 C16.18 3.94, 65.41 23.85, 97.07 23.66 C128.74 23.47, 174.51 3, 189.99 -1.14 M0 0 C16.18 3.94, 65.41 23.85, 97.07 23.66 C128.74 23.47, 174.51 3, 189.99 -1.14" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(28.47182432401391 89.15099727939298) rotate(0 94.99653717643714 11.259765625)"><path d="M189.99 -1.14 L179.18 9.26 L175.08 -2.74 L189.99 -1.14" stroke="none" stroke-width="0" fill="#1e1e1e" fill-rule="evenodd"/><path d="M189.99 -1.14 C186.38 2.34, 182.76 5.81, 179.18 9.26 M189.99 -1.14 C186.84 1.89, 183.69 4.92, 179.18 9.26 M179.18 9.26 C178.09 6.09, 177.01 2.92, 175.08 -2.74 M179.18 9.26 C177.59 4.61, 176 -0.03, 175.08 -2.74 M175.08 -2.74 C179.27 -2.29, 183.47 -1.84, 189.99 -1.14 M175.08 -2.74 C179.87 -2.23, 184.66 -1.71, 189.99 -1.14 M189.99 -1.14 C189.99 -1.14, 189.99 -1.14, 189.99 -1.14 M189.99 -1.14 C189.99 -1.14, 189.99 -1.14, 189.99 -1.14" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/><g stroke-linecap="round"><g transform="translate(216.7773986768882 79.79943477939298) rotate(0 -92.623046875 -1.8292667873220978)"><path d="M0 0 C-30.87 -0.61, -154.37 -3.05, -185.25 -3.66 M0 0 C-30.87 -0.61, -154.37 -3.05, -185.25 -3.66" stroke="#1e1e1e" stroke-width="2" fill="none"/></g><g transform="translate(216.7773986768882 79.79943477939298) rotate(0 -92.623046875 -1.8292667873220978)"><path d="M-185.25 -3.66 L-171.53 -9.73 L-171.78 2.95 L-185.25 -3.66" stroke="none" stroke-width="0" fill="#1e1e1e" fill-rule="evenodd"/><path d="M-185.25 -3.66 C-180.81 -5.62, -176.38 -7.58, -171.53 -9.73 M-185.25 -3.66 C-181.39 -5.36, -177.54 -7.07, -171.53 -9.73 M-171.53 -9.73 C-171.59 -6.44, -171.66 -3.15, -171.78 2.95 M-171.53 -9.73 C-171.58 -6.95, -171.64 -4.16, -171.78 2.95 M-171.78 2.95 C-177.14 0.32, -182.5 -2.31, -185.25 -3.66 M-171.78 2.95 C-176.53 0.62, -181.28 -1.71, -185.25 -3.66 M-185.25 -3.66 C-185.25 -3.66, -185.25 -3.66, -185.25 -3.66 M-185.25 -3.66 C-185.25 -3.66, -185.25 -3.66, -185.25 -3.66" stroke="#1e1e1e" stroke-width="2" fill="none"/></g></g><mask/><g transform="translate(10 72.75390625) rotate(0 8 3.5)"><use href="#image-4a94063bdefcd3354635df5a62668f39f9653d8f" width="16" height="7" opacity="1"/></g><g transform="translate(221.255859375 73.98046875) rotate(0 7 5.5)"><use href="#image-f96907d723b03ba1d61f39a0e49106135b485eb4" width="14" height="11" opacity="1"/></g><g transform="translate(119.0234375 10) rotate(0 8 7.5)"><use href="#image-d84cac97b22f9f4e841ee708ab62ef2a11de1540" width="16" height="15" opacity="1"/></g><g transform="translate(117.37246808065805 118.25595575914923) rotate(0 7.150969419341941 5.244044240850755)"><use href="#image-1e9e323c14e62b5dc6425ca84e6e247eecead680" width="14" height="10" opacity="1"/></g><g transform="translate(116.27722624876469 61.66421624920065) rotate(0 8.246211251235323 5.335783750799322)"><use href="#image-8a79a09a598ca58b147cf0d303bbd576df367535" width="16" height="11" opacity="1"/></g></svg>
 More examples can be found [[Examples of categories\|here]].
-# Conventions
+## Conventions
+---
 
 The language and notation of category theory is not completely standardized, but here are some common conventions.
 
@@ -70,7 +74,8 @@ Given two objects $a$ and $b$ in a category $C$, the collection of arrows betwee
 
 Most ([[Examples of categories#^ef81b1\|but not all]]) categories are named after their objects. For example, the category with objects all groups and with arrows all group morphisms is called "the category of groups" and is usually denoted with some variation of $\mathbf{Group}$ or $\mathbf{Grp}$. More examples can be found [[Examples of categories#^9c9672\|here]].
 
-# Set-theoretic issues
+## Set-theoretic issues
+---
 
 > [!warning] Optional warning
 > At the most fundamental and rigorous level, there are some technical logical issues that need to be addressed. This section briefly addresses those concerns, but this is nothing something we will worry about elsewhere.
@@ -91,14 +96,14 @@ Will we worry about any of this? We will not. Instead, we will embrace the follo
 > The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.
 
 
-# Examples
+## Examples
+---
 
 Examples are abundant! We begin with some really basic categories before discussing the (more complicated) categories you've likely encountered before.
 
 A common convention with very "simple" categories is to simply sketch a visual representation of the category, with dots used to represent objects and arrows to represent ... arrows. It is also common convention not to draw the identity arrows, nor any arrows that are necessarily there by the composition assumption.
 
----
-## Some basic categories
+### Some basic categories
 
 The smallest possible category is the empty category, which has no objects or arrows. This category is usually denoted ${\bf 0}$. It is the initial object in the category of categories.
 
@@ -127,13 +132,11 @@ As one last basic example in this specific sequence of categories, the category 
 Note that arrow $1\to 3$ is equal to the composition of the arrows $1\to 2$ and $2\to 3$.
 
 
----
-## Preorders
+### Preorders
 
 A **preorder** is a category $P$ in which there is at most a single arrow between any two objects. We can then define a relation $\leq$ on the objects of $P$ by saying $p\leq p'$ if and only if there is an arrow $p\to p'$ in $P$. This relation is reflexive (identity arrows!) and transitive (composition of arrows). Each of the basic categories above (i.e., ${\bf 0}, {\bf 1}, {\bf 2}, {\bf 3},\ldots$) is a preorder.
 
----
-## Sets as categories
+### Sets as categories
 
 A category is **discrete** when every arrow is an identity arrow. In other words, it's basically just a set (of objects). For example, a discrete category with six objects might be visualized as below. As usual, the identity arrows are not shown.
 
@@ -143,8 +146,7 @@ On the other hand, for a given set $X$ there is also an associated category (som
 
 Note that both the discrete categories above, and categories such as $\mathbf{X}$, are different from the (large) category $\textbf{Set}$, which has as objects all sets and as arrows all set maps. The association to each set $X$ the corresponding category $\mathbf{X}$ is the object map of a [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|functor]] from the category $\textbf{Set}$ to the category $\textbf{Cat}$ of categories.
 
----
-## Groups as categories
+### Groups as categories
 
 For a given group $G$ one can associate a category $\mathbf{G}$, which has a single object $\star$ and exactly one arrow $g:\star\to\star$  for each element $g\in G$.  Moreover, the composition of arrows in the category $\textbf{G}$ corresponds to the group operation in $G$.
 
@@ -155,8 +157,7 @@ Note here that I have chosen to include the identity arrow, since it corresponds
 
 The association to each group $G$ the corresponding category $\mathbf{G}$ is the object map of a [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|functor]] from the category $\mathbf{Group}$ to the category $\mathbf{Cat}$.
 
----
-## Matrices over a fixed commutative ring
+### Matrices over a fixed commutative ring
 
 For each commutative ring $R$, the set of all matrices with entries in $R$ is the arrow set of a category $\mathbf{Matr}_R$. The objects of this category are the positive integers, and each $m\times n$ matrix $A$ corresponds to an arrow $A:n\to m$. Composition of arrows corresponds to matrix product.
 { #ef81b1}
@@ -170,14 +171,13 @@ Note that composition is written algebraically right-to-left ("inside out"), so 
 > [!note] A rare case
 > This is the rare case of a category named after its arrows!
 
-## Opposite categories
+### Opposite categories
 
 For each category $C$, its **opposite** is the category $C^{\text{op}}$ with the same objects as $C$ and with all arrows "reversed." In other words, for each arrow $f:c\to d$ in $C$ there is a corresponding arrow $f^{\text{op}}:d\to c$ in $C^{\text{op}}$ (and conversely).
 
 Why consider such a category? [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors#^70ab9e\|We'll see]].
 
----
-## Large categories
+### Large categories
 
 Most of the objects we encounter in math are the objects of some ([[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories#Set-theoretic issues\|large]]) categories. Below is a quick roundup of some with which you might already be familiar:
 
@@ -199,7 +199,7 @@ Most of the objects we encounter in math are the objects of some ([[40-49 Knowle
 { #9c9672}
 
 
----
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]

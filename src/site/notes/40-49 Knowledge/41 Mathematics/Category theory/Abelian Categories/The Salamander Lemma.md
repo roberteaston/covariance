@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/the-salamander-lemma/","tags":["category_theory/abelian_categories"],"updated":"2024-12-10T11:56:22-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/the-salamander-lemma/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:37:56-07:00"}
 ---
 
 
 At last we come to it: the greatest diagram lemma of all time.
 
-# The Salamander Lemma
+## The Salamander Lemma
+---
 
 For each piece of the double complex of the form
 
@@ -77,7 +78,8 @@ Conversely, take any $[a]\in A_{\square}$. Then the image of $[a]$ under the map
 > [!question] Does this proof seem terrible to you?
 > If you read through the above proof, you probably agree that it's terribly presented. I think this is a case in which "clever" notation is actually obscuring things and making "easy" proofs appear convoluted. Some day I will re-do this proof and attempt to make things more streamlined and clear.
 
-# Extramural isomorphisms
+## Extramural isomorphisms
+---
 
 Now let's see some corollaries of the Salamander Lemma. First let's focus on situations in which the mural maps are isomorphisms.
 
@@ -94,7 +96,8 @@ The above is an immediate corollary of the corollary of the Salamander Lemma. Fo
 
  $$A_{\square}\to 0\to B_{\square}\to ^{\square}C\to 0\to ^{\square}D.$$
 
-# Intramural isomorphisms
+## Intramural isomorphisms
+---
 
 As for the intramural maps, we have the following results. If it looks intimidating, note that it's covering four very similar situations, which we've described by which "edge" of the double-complex we're considering.
 
@@ -175,8 +178,7 @@ The following three analogous situations have similar proofs:
 
 Let's see how a multitude of famous "diagram lemmas" now all immediately follow.
 
----
-
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]

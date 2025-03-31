@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iii-morphisms-of-exact-sequences/","tags":["module_theory"],"updated":"2024-10-29T13:34:20-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iii-morphisms-of-exact-sequences/","tags":["module_theory"],"updated":"2025-03-31T12:58:26-07:00"}
 ---
 
 For a given module $M$, different choices of generators lead to different surjections from free $R$-modules.
@@ -33,7 +33,7 @@ There should be a way to compare these two resolutions, which means we need a wa
 
 As might be predicted, we can compose morphisms of chain complexes (by composing the vertical morphisms), and we can talk about isomorphisms of chain complexes (either as morphisms in which all of the vertical morphisms are isomorphisms, or equivalently as morphisms for which there exists an inverse morphism of chain complexes).
 
-## Properties of morphisms of exact sequences
+### Properties of morphisms of exact sequences
 
 The commutativity condition on morphisms of chain complexes has some surprising consequences, at least in the case of morphisms of exact sequences.
 
@@ -53,9 +53,9 @@ If you're wondering if there's a "Long Five Lemma", the answer is yes. There are
 ![Salamander with arrows.png](/img/user/90-99%20Meta/95%20Attachments/Salamander%20with%20arrows.png)
 
 
----
 
 ## Suggested next notes
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]

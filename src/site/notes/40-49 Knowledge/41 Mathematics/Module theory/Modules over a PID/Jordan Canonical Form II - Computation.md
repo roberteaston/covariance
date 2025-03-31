@@ -1,9 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-ii-computation/","tags":["module_theory"],"updated":"2024-11-15T09:42:57-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-ii-computation/","tags":["module_theory"],"updated":"2025-03-31T13:00:14-07:00"}
 ---
 
 We have an [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation#The Smith normal form\|algorithm]] for computing the rational canonical form of a matrix. How about computing the Jordan canonical form? Well, there's at least a straightforward way to convert the rational canonical form to the Jordan canonical form.
-# Computing the Jordan blocks
+## Computing the Jordan blocks
+---
 
 To compute the Jordan canonical form for an $n\times n$ matrix $A$, we first [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation#Computing the invariant factors\|compute the invariant factors]] $a_1(x),\ldots, a_m(x)$. For each invariant factor $a(x)$, we factor $a(x)$ completely into linear factors:
 
@@ -11,7 +12,8 @@ $$a(x)=(x-\lambda_1)^{\alpha_1}\cdots (x-\lambda_s)^{\alpha_s},$$
 
 where the $\lambda_i$ are the distinct roots. For this factor, the corresponding elementary divisors are $(x-\lambda_1)^{\alpha_1}, \ldots, (x-\lambda_s)^{\alpha_s}$. We can then write down the corresponding Jordan blocks $J_1,\ldots, J_s$. Doing this for every invariant factor allows us to write down the Jordan canonical form $J$ for $A$.
 
-# Computing the change-of-basis matrix
+## Computing the change-of-basis matrix
+---
 
 How about if we want to find a change-of-basis matrix $Q$ such that $Q^{-1}AQ=J$? We can compute that, as well. First note that if ${\bf v}\in V$ is the $F[x]$-module generator for the summand corresponding to $F[x]/\langle a(x)\rangle$, then the elements
 
@@ -31,9 +33,10 @@ Note that the basis vectors have been listed in this order so that the correspon
 
 We can use this to algorithmically compute a change-of-basis matrix $Q$.  We first compute an auxiliary matrix $P'$ [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation#Computing the change-of-basis matrix\|just as we did]] for the rational canonical form. The nonzero columns of $P'$ correspond to vectors that generate the invariant factor summands as $F[x]$-modules. We can thus follow the recipe describe above, where ${\bf v}$ takes the role of a nonzero column of $P'$. It's easiest to follow this through specific examples.
 
-# Examples
+## Examples
+---
 
-## Example 1
+### Example 1
 
 Let $A$ be the $3\times 3$ matrix
 
@@ -65,7 +68,7 @@ $$Q=\begin{bmatrix}-7 & -1 & -2 \\ 7 & 0 & 1 \\ 1 & 0 & 0 \end{bmatrix}$$
 
 One can verify $Q^{-1}AQ = J$.
 
-## Example 2
+### Example 2
 
 Consider the $4\times 4$ matrix
 
@@ -92,8 +95,8 @@ Thus, a change-of-basis matrix $Q$ is
 
 $$Q=\begin{bmatrix} 0 & 1 & 2 & 0 \\ 2 & 0 & -2 & 1 \\ 1 & 0 & 0 & 0 \\ 0 & 0 & 1 & 0\end{bmatrix}$$
 
----
 
 ## Suggested next notes
+---
 
 Consider looking into some [[00-09 Atlas/🗺️ Map of Content - Category Theory\|category theory]].

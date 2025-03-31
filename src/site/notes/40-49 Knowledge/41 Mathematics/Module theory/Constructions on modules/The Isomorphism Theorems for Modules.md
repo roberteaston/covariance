@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/the-isomorphism-theorems-for-modules/","tags":["module_theory"],"updated":"2024-10-03T19:50:50-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/the-isomorphism-theorems-for-modules/","tags":["module_theory"],"updated":"2025-03-31T12:57:33-07:00"}
 ---
 
 As we groups and rings, we have the standard four isomorphism theorems for modules, the first of which gets by far the most use:
@@ -40,8 +40,8 @@ We have therefore shown that every module morphism $f:M/A\to P$ with $B/A\subset
 { #a050bb}
 
 
----
 ## Suggested next notes
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]

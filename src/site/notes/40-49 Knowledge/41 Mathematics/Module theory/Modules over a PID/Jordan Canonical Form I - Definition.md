@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-i-definition/","tags":["module_theory"],"updated":"2024-11-21T06:53:22-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-i-definition/","tags":["module_theory"],"updated":"2025-03-31T12:59:50-07:00"}
 ---
 
-# The Jordan Canonical Form
+## The Jordan Canonical Form
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form I - Definition#The rational canonical form\|Recall]] that if $V$ is a vector space over a field $F$ and $T:V\to V$ is an $F$-linear transformation, then the [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Modules over a PID - The Fundamental Theorem#The Fundamental Theorem Invariant Factor Form\|fundamental theorem of finitely generated modules over a PID]] leads to an $F[x]$-module isomorphism
 
@@ -52,7 +53,8 @@ $$\begin{bmatrix} J_1 & & & \\ & J_2 & & \\ & & \ddots & \\ & & & J_t\end{bmatri
 
 By our results, a Jordan canonical form for a linear transformation $T$ always exists and is unique up to permutation of the blocks. (However, recall our standing assumption that the field $F$ contain all of the eigenvalues of $T$.)
 
-# Properties of the Jordan canonical form
+## Properties of the Jordan canonical form
+---
 
 Before seeing some examples, we list a few last properties (without proof). Can you prove them?
 
@@ -64,8 +66,8 @@ Before seeing some examples, we list a few last properties (without proof). Can 
 > [!summary] Eigenvalues and diagonal matrices
 > If $A$ is an $n\times n$ matric with entries from $F$ and $F$ contains all of the eigenvalues of $A$, then $A$ is similar to a diagonal matrix over $F$ if and only if the minimal polynomial of $A$ has no repeated roots.
 
----
 
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Jordan Canonical Form II - Computation\|Jordan Canonical Form II - Computation]]
