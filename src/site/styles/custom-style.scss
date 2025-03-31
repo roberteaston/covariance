@@ -110,3 +110,14 @@ body.theme-light {
   --h5-color: black;
   --h6-color: black;
 }
+
+.callout[data-callout="quote"] .callout-title .callout-title-inner {
+    font-family: 'Optima', sans-serif; /* Replace with your font */
+    font-size: 16pt;
+  }
+
+.callout[data-callout="quote"] .callout-content {
+    font-family: "Georgia", sans-serif; /* Replace with your font */
+    font-size: 14pt;
+    font-style: italic;
+  }
