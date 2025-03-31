@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebraic-geometry/examples-of-classical-conic-duality/","tags":["algebraic_geometry"],"updated":"2024-07-26T14:02:25-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebraic-geometry/examples-of-classical-conic-duality/","tags":["algebraic_geometry"],"updated":"2025-03-31T07:24:09-07:00"}
 ---
 
-# Example: The classic plane parabola
+## Example: The classic plane parabola
+---
 
 Let's work through how the classical duality map works for the classic plane parabola $C$, given by the equation $y=x^2$ in ${\bf R}^2$.
 
@@ -60,7 +61,8 @@ It is now straightforward to verify that the points $[0:1:0]$, $[2:-1:-1]$ and $
 
 
 ---
-# Example: The unit circle
+## Example: The unit circle
+---
 
 >[!summary] The unit circle
 >Repeat the same steps above with the unit circle in ${\bf R}^2$, defined by the equation $x^2+y^2=1$. (Choose a few of your favorite points on the unit circle.)

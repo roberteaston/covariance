@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/chinese-remainder-theorem/","tags":["ring_theory"],"updated":"2024-03-06T13:58:23-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/chinese-remainder-theorem/","tags":["ring_theory"],"updated":"2025-03-31T07:25:28-07:00"}
 ---
 
 >[!summary] The Chinese Remainder Theorem
@@ -12,6 +12,7 @@
 >   If $R$ is commutative, then we also have $I_1\cap \cdots \cap I_k = I_1\cdots I_k$. 
 
 ## Examples
+---
 
 ### Quotients of polynomial rings
 

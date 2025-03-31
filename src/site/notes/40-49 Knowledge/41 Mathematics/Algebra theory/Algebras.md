@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/algebras/","tags":["algebra_theory"],"updated":"2024-11-05T06:59:24-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/algebras/","tags":["algebra_theory"],"updated":"2025-03-31T07:21:50-07:00"}
 ---
 
 We've seen how the notion of a ring acting on an abelian group leads to the structure of a [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|module]]. Can a ring act on another ring? Or, to phrase the question a bit differently, if a ring $R$ acts on a module $M$, is it possible for $M$ to have a second operation that's both compatible with the given $R$-action and makes $M$ into a ring? These two questions lead to the following two equivalent definitions of a structure known as an *algebra*.
@@ -76,7 +76,8 @@ $$r\star (a_1a_2)=f(r)(a_1a_2)=(f(r)a_1)a_2=(r_1f(r))a_2=r_1(f(r)a_2)=r_1(r\star
 >
 >We will not worry about these slightly more general structures.
 
-# Examples
+## Examples
+---
 
 1. Every ring is a ${\bf Z}$-algebra. For each ring $A$, there is a unique ring morphism ${\bf Z}\to A$ and the image of that ring morphism is always contained in the center of $A$.
 2. If $A$ is a commutative ring, then $A$ is itself an $A$-algebra. More generally, if $A$ is a ring and $R\subseteq A$ is a subring of the center of $A$, then $A$ is an $R$-algebra.
@@ -90,7 +91,8 @@ $$r\star (a_1a_2)=f(r)(a_1a_2)=(f(r)a_1)a_2=(r_1f(r))a_2=r_1(f(r)a_2)=r_1(r\star
 
 Note that in the above examples we often said things like "Every ring $A$ is a $\textbf{Z}$-algebra ... ", which is somewhat incorrect. We should really be careful to specify the categories in which we are working, saying things like "There is a functor $F:\textbf{Ring}\to \textbf{Z-Alg}$ with object function sending each ring $A$ to the $\textbf{Z}$-algebra defined by the unique ring morphism $\textbf{Z}\to A$." Can you figure out how to make each example above formally correct?
 
-# Morphisms of algebras
+## Morphisms of algebras
+---
 
 As might be expected, morphisms of $R$-algebras should be maps that respect "the algebraic structures." From the ring-centric definition, that would mean:
 
@@ -117,13 +119,13 @@ The forgetful functor to rings is not **full** (i.e., surjective on hom sets): f
 
 The same is true for the forgetful functor to $R$-modules, for analogous reasons.
 
-# Category theoretic interpretation
+## Category theoretic interpretation
+---
 
 Much like a ring is a monoid object in the category of abelian groups, an $R$-algebra is a monoid object in the category of $R$-modules. Since I haven't (yet) typed up any notes on monoidal categories and monoid objects, I won't say any more here.
 
----
-
 ## Suggested next notes
+---
 
 [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]
 [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]

@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-algebras/","tags":["algebra_theory"],"updated":"2024-11-07T06:52:37-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-algebras/","tags":["algebra_theory"],"updated":"2025-03-31T07:23:00-07:00"}
 ---
 
-# Motivation
+## Motivation
+---
 
 The tensor algebra construction created, from each $R$-module $M$, a "minimal" $R$-algebra $\mathcal{T}(M)$. In other words, beginning from the additive operation in $M$ and the $R$-scaling on $M$, it created a structure that also had an internal multiplication (compatible with those structures). Our [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras#The desired universal property\|universal property]] formally encoded the "minimality" of the construction, in that all $R$-module morphisms from $M$ to $R$-algebras $A$ "lifted" to $R$-algebra morphisms from $\mathcal{T}(M).$ There were no additional properties imposed on $\mathcal{T}(M)$ other than those required to have an $R$-algebra. In particular, the $R$-algebra $\mathcal{T}(M)$ was not guaranteed to be commutative (and rarely ever is).
 
@@ -10,7 +11,8 @@ The tensor algebra construction created, from each $R$-module $M$, a "minimal" $
 > Can we modify our construction so that the $R$-algebra we obtain is also commutative?
 
 Yes. Let's do just that.
-# A desired universal property
+## A desired universal property
+---
 
 As with the tensor algebra functor, there is a functor from the category of $R$-modules to the category of commutative $R$-algebras. It is analogous to any free construction and the tensor algebra construction, in that it is left adjoint to a forgetful functor:
 
@@ -27,7 +29,8 @@ As with any object satisfying a universal property, we can now deduce many prope
 - There is a natural bijection between $R$-algebra morphisms to commutative $R$-algebras $\mathcal{S}(M)\to A$ and $R$-module morphisms $M\to U(A)$.
 - The identity $R$-algebra morphism $\mathcal{S}(M)\to \mathcal{S}(M)$ corresponds to an $R$-module morphism $M\to U(\mathcal{S}(M))$. Classically, this is viewed as an inclusion $M\hookrightarrow \mathcal{S}(M)$ onto the degree 1 component. (This is a component of the unit of the adjunction.)
 - Since $\mathcal{S}$ is a left adjoint it commutes with all colimits; in particular, it commutes with coproducts (which again are called direct sums in these categories).
-# The construction
+## The construction
+---
 
 We already have a construction that takes an $R$-module $M$ and creates an $R$-algebra $\mathcal{T}(M)$ with most of the properties we want. To obtain a commutative $R$-algebra, it's reasonable to consider a quotient of $\mathcal{T}(M)$ that forces a commutativity relation in the quotient ring.
 
@@ -51,7 +54,8 @@ Note that since $\mathcal{C}(M)$ is generated (as an ideal) by degree 2 homogeno
 >[!info] Optional notation
 >It is common to drop the tensor symbol between elements when working in $\mathcal{S}(M)$; e.g., to write simply $m_1m_2$ rather than $m_1\otimes m_2+\mathcal{C}(M)$ for the image in $\mathcal{S}(M)$ of the element $m_1\otimes m_2\in \mathcal{T}(M)$.
 
-# Example
+## Example
+---
 
 Let $V$ be an $n$-dimensional vector space over a field $F$. Then $\mathcal{S}(V)$ is isomorphic as a graded $F$-algebra to $F[x_1,\ldots, x_n]$. If $\mathcal{B}=\{v_1,\ldots, v_n\}$ is a basis for $V$ as an $F$-vector space, then a basis for $\mathcal{S}^k(V)$ is
 
@@ -59,9 +63,8 @@ $$\{v_1^{a_1} v_2^{a_2}\cdots v_n^{a_n}\mid a_i\geq 0,\; a_1+a_2+\cdots+a_n=k\}.
 
 In particular, the dimension of the $F$-vector space $\mathcal{S}^k(V)$ is $\binom{n+k-1}{n-1}$.
 
----
-
 ## Suggested next notes
+---
 
 [[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]
 [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]]

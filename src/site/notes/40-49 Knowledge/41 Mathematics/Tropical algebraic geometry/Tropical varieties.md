@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/tropical-algebraic-geometry/tropical-varieties/","tags":["tropical_geometry"],"updated":"2024-08-05T15:04:05-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/tropical-algebraic-geometry/tropical-varieties/","tags":["tropical_geometry"],"updated":"2025-03-31T07:27:49-07:00"}
 ---
 
 > [!warning] Under construction!
@@ -7,7 +7,8 @@
 
 
 
-# Tropical polynomials and regular tropical functions
+## Tropical polynomials and regular tropical functions
+---
 
 Each tropical polynomial $f({\bf x})\in {\bf T}[{\bf x}]$ also defines (by evaluation) a function $f:{\bf T}^n\to {\bf T}$, where here ${\bf x}$ is shorthand for the variable vector ${\bf x}=\langle x_1, x_2,\ldots , x_n\rangle$. For example, in real operations the tropical polynomial $f(x)=x^{\odot 2}\oplus (-2\odot x)\oplus 1$ induces the function $f:{\bf T}\to {\bf T}$ given by $f(x)=\max\{2x, -2+x, 1\}$. Unlike conventional polynomials defined over ${\bf R}$ or ${\bf C}$, however, distinct tropical polynomials can define identical functions.^[In view of this, it's probably best to think of evaluation as defining a map from the semiring of tropical polynomials to the semiring of "regular" tropical functions.] For example, the previous tropical polynomial and the tropical polynomial $g(x)=x^{\odot 2}\oplus 1$ define identical functions ${\bf T}\to {\bf T}$. Indeed, the graph of both is
 
@@ -16,14 +17,16 @@ Each tropical polynomial $f({\bf x})\in {\bf T}[{\bf x}]$ also defines (by evalu
 In other words, each define the function given piecewise by $x\mapsto 1$ for $x\leq \frac{1}{2}$, and $x\mapsto 2x$ for $x\geq \frac{1}{2}$.
 
  In any case, observe the function defined by a tropical polynomial is always a piecewise linear function. This is one instance of why tropical geometry is sometimes referred to as "piecewise linear" or "semi-linear" geometry. 
-# Bend loci
+## Bend loci
+---
 
 In classical algebraic geometry, the geometric objects are the zero sets of polynomials. For instance, the plane parabola defined by $y=x^2$ can also be viewed as the zero set of the polynomial $f(x,y)=x^2-y$. More generally, algebraic varieties are (usually) defined as zero sets of a collection (or ideal) of polynomials.
 
 In tropical geometry, however, we don't usually consider zero sets of tropical polynomials. This is for a variety of reasons. First, by "zero" it's not clear if we mean "the real number 0" or "the tropical number $0_{\bf T}$", the latter of which is $-\infty$. Regardless of which we choose, however, it turns out that tropical zero sets tend to be very simply or uninteresting. Slightly more interesting, however, are the **bend loci** (or **double-max loci**) of tropical polynomials. These are the regions where the graph of the tropical polynomial $f$ (considered now as a tropical function) "bends", i.e., transitions from one linear function to another. Alternatively, since tropical addition is real maximum, these are the points where the maximum among the terms is achieved by two (or more) of the terms.
 
 It might still seem strange why these bend loci are the focus of much of tropical geometry. The honest reason is the tropical algebraic geometry first arose through an idea of **tropicalization**, where classical algebraic varieties were "tropicalized" via a family of logarithmic maps. When this idea was first investigated, it was discovered that the images of classical algebraic varieties (at least curves in the complex plane) were exactly regions in the tropical plane (originally, simply the real plane) matching bend loci of tropical polynomials. Because of this, it seemed reasonable to consider these bend loci as the images of classical varieties, and hence worthy of study in their own right.
-# Congruence varieties
+## Congruence varieties
+---
 
 There is another type of geometric object one can reasonably study. Returning for the moment to the example of the classical plane parabola defined by $y=x^2$, we noted above that this parabola can be equivalently viewed as being defined by the equation $x^2-y=0$. Similarly, any subset defined by an equality of polynomials can be equivalently expressed as the zero locus of a single polynomial (simply by moving all the terms to one side of the equation).
 

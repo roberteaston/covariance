@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/group-theory/normal-subgroups/","tags":["group_theory"],"updated":"2025-01-30T11:31:37-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/group-theory/normal-subgroups/","tags":["group_theory"],"updated":"2025-03-31T07:25:12-07:00"}
 ---
 
-# Equivalent definitions
+## Equivalent definitions
+---
 
-# Existence of normal subgroups
+## Existence of normal subgroups
+---
 
 For any group $G$:
 - The center $\operatorname{Z}(G)$ is always normal in $G$; it is proper exactly when $G$ is nonabelian.

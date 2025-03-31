@@ -1,8 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-and-alternating-tensors/","tags":["algebra_theory"],"updated":"2024-11-08T08:29:35-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-and-alternating-tensors/","tags":["algebra_theory"],"updated":"2025-03-31T07:23:25-07:00"}
 ---
 
-# An action of the symmetric group on $\mathcal{T}^k(M)$
+## An action of the symmetric group on $\mathcal{T}^k(M)$
+---
 
 For any $R$-module $M$ there is a left action of the symmetric group $S_k$ on the $k$-fold direct product $M\times \cdots \times M$, given by permuting the factors:
 
@@ -30,7 +31,8 @@ One can prove that these submodules are stable under this action of $S_k$, hence
 - $\sigma w = \operatorname{sign}(\sigma)w$ for every $w\in \bigwedge^k(M)$
 
 These actions seem identical to that of $S_k$ on the submodules of $\mathcal{T}^k(M)$ consisting of the symmetric and alternating tensors, respectively. Let's investigate this a bit further.
-# Symmetrization and skew-symmetrization
+## Symmetrization and skew-symmetrization
+---
 
 For any $k$-tensor $z\in\mathcal{T}^k(M)$, define
 
@@ -57,8 +59,7 @@ From these observations, it is not too difficult to prove the following:
 
 As an upshot, so long as $k!$ is a unit in $R$, we can write $\operatorname{Sym}(\mathcal{T}^k(M))$ and $\operatorname{Alt}(\mathcal{T}^k(M))$ for the submodules of symmetric and alternating $k$-tensors, respectively.
 
----
-
 ## Suggested next note
+---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Noetherian modules\|Noetherian modules]]

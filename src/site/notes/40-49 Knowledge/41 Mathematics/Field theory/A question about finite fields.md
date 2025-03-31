@@ -1,10 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/field-theory/a-question-about-finite-fields/","tags":["field_theory"],"updated":"2024-07-11T07:14:54-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/field-theory/a-question-about-finite-fields/","tags":["field_theory"],"updated":"2025-03-31T07:24:50-07:00"}
 ---
 
-# Background
+## Background
+---
 
-## Cyclic groups
+### Cyclic groups
 
 For each positive integer $m$ let's write ${\bf Z}_m$ for the (commutative) ring ${\bf Z}/m{\bf Z}$. Here are some quick facts:
 - The ring ${\bf Z}_m$ is a field when $m$ is prime, but not even a domain when $m$ is composite.
@@ -24,7 +25,7 @@ We also have very precise information about the entire lattice of subgroups of a
 
 In other words, the subgroups of ${\bf Z}_m$ look exactly like ${\bf Z}_d$ for the divisors $d$ of $n$, and ${\bf Z}_d\leq {\bf Z}_e$ exactly when $d$ divides $e$.
 
-## Finite fields
+### Finite fields
 
 For each finite field $F$, we recall the following basic facts: 
 - The characteristic of $F$ is a positive prime integer $p$.
@@ -35,7 +36,7 @@ For each finite field $F$, we recall the following basic facts:
 
 Quick summary of the above facts: Every finite field $F$ has order $p^n$ for some prime $p$ and positive integer $n$, and up to isomorphism there is exactly one field of each such order.
 
-## The big result we need from field theory
+### The big result we need from field theory
 
 We need the following foundational result from field theory, which is sneakier to prove than it might seem:
 
@@ -47,9 +48,8 @@ We need the following foundational result from field theory, which is sneakier t
 
 So, if we're wondering about the subgroups of $F^{\times}$ for a finite field, we just need to understand the subgroups of the cyclic group ${\bf Z}_{p^n-1}$. Fortunately, the result above tells us the entire lattice structure for the subgroups of ${\bf Z}_{p^n-1}$: there is a unique subgroup $H$ of order $d$ for each divisor $d$ of $p^n-1$, and for two such subgroups $H, K\leq F^{\times}$ we have $H\leq K$ exactly when $|H|$ divides $|K|$.
 
+## The subgroup of $k^{\text{th}}$ powers of $F^{\times}$
 ---
-
-# The subgroup of $k^{\text{th}}$ powers of $F^{\times}$
 
 Now we wish to understand the subgroup $K\leq F^{\times}$ consisting of elements that are $k^{\text{th}}$ powers of elements in $F^{\times}$.  This subgroup is exactly the image of the group morphism $\phi:F^{\times}\to F^{\times}$ defined by $\phi(\alpha)=\alpha^k$. What is the size of this subgroup? One way to answer this question is to use the First Isomorphism Theorem for groups, which tells us that
 $$F^{\times}/\ker(\phi)\cong \operatorname{im}(\phi).$$
