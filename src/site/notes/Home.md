@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                     | Last Updated             |
-| ------------------------------------------------------------------------ | ------------------------ |
-| [[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|The Algebra Qual]] | 9:51 AM - April 02, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Syllabus\|Syllabus]]                 | 9:51 AM - April 02, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]         | 9:51 AM - April 02, 2025 |
+| Note                                                                                    | Last Updated             |
+| --------------------------------------------------------------------------------------- | ------------------------ |
+| [[00-09 Atlas/🗺️ Map of Content - Algebra Qual\|🗺️ Map of Content - Algebra Qual]] | 2:47 PM - April 02, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|The Algebra Qual]]                | 9:51 AM - April 02, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Syllabus\|Syllabus]]                                | 9:51 AM - April 02, 2025 |
 
 { .block-language-dataview}
 

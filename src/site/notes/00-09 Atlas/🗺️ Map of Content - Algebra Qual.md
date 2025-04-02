@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-algebra-qual/","updated":"2025-03-29T15:30:53-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-algebra-qual/","updated":"2025-04-02T14:47:20-07:00"}
 ---
 
-## Summary pages
+## Basic info
 ---
 
 [[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|Home for the Algebra Qual]]
 [[10-19 Teaching/14 Algebra Qual/Syllabus\|Exam syllabus]]
+[[10-19 Teaching/14 Algebra Qual/Notation Key\|Notation Key]]
 [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]
+
 ## The Problem bank
 ---
 
