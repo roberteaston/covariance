@@ -41,4 +41,5 @@ If you would like to see these old exams, the official repository is available [
 
 [[10-19 Teaching/14 Algebra Qual/Syllabus\|Exam syllabus]]
 [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]
+[[10-19 Teaching/14 Algebra Qual/Notation Key\|Notation Key]]
 [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]
