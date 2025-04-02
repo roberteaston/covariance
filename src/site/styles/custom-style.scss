@@ -111,6 +111,17 @@ body.theme-light {
   --h6-color: black;
 }
 
+.callout .callout-title .callout-title-inner {
+    font-family: 'Forma DJR Text', sans-serif; /* Replace with your font */
+    font-size: 16pt;
+  }
+
+.callout .callout-content {
+    font-family: "Forma DJR Text", sans-serif; /* Replace with your font */
+    font-size: 14pt;
+  }
+
+
 .callout[data-callout="quote"] .callout-title .callout-title-inner {
     font-family: 'Optima', sans-serif; /* Replace with your font */
     font-size: 16pt;
