@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-linear-algebra/","updated":"2025-03-29T15:01:23-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-linear-algebra/","updated":"2025-04-04T15:13:31-07:00"}
 ---
 
 
@@ -295,69 +295,6 @@ Let $V$ be a vector space with basis ${\bf v}_0,\ldots, {\bf v}_n$ and let $a_0,
 > [!info]- View $\LaTeX$ code
 > ```
 > Let $V$ be a vector space with basis ${\bf v}_0,\ldots, {\bf v}_n$ and let $a_0,\ldots, a_n$ be scalars. Define a linear transformation $T:V\to V$ by the rules $T({\bf v}_i)={\bf v}_{i+1}$ if $i<n$, and $T({\bf v}_n)=a_0{\bf v}_0+a_1{\bf v}_1+\cdots +a_n {\bf v}_n$. You don't have to prove this defines a linear transformation. Determine the matrix for $T$ with respect to the basis ${\bf v}_0,\ldots, {\bf v}_n$, and determine the characteristic polynomial of $T$.
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/numerical-range-of-a-linear-transformation/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Suppose $T$ is a linear transformation on a finite-dimensional complex inner-product space $V$. Let $I$ denote the identity transformation on $V$. The **numerical range** of $T$ is the subset of ${\bf C}$ defined by
-
-$\operatorname{W}(T)=\{\langle T(x),x\rangle \,|\, x\in V,\quad \|x\|=1\}.$
-
-1. Show that $\operatorname{W}(T+cI)=\operatorname{W}(T)+c$ for every $c\in {\bf C}$.
-2. Show that $\operatorname{W}(cT)=c\operatorname{W}(T)$ for every $c\in {\bf C}$.
-3. Show that the eigenvalues of $T$ are contained in $\operatorname{W}(T)$.
-4. Let $\mathcal{B}$ be an orthonormal basis for $V$. Show that the diagonal entries of $[T]_{\mathcal{B}}$ are contained in $\operatorname{W}(T)$.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> Suppose $T$ is a linear transformation on a finite-dimensional complex inner-product space $V$. Let $I$ denote the identity transformation on $V$. The {\bfseries numerical range} of $T$ is the subset of ${\bf C}$ defined by
-> \[
-> 	\operatorname{W}(T)=\{\langle T(x),x\rangle \,|\, x\in V,\quad \|x\|=1\}.
-> \]
-> 
-> \medskip
-> \begin{enumerate}[label=(\alph*)]
-> 	\item Show that $\operatorname{W}(T+cI)=\operatorname{W}(T)+c$ for every $c\in {\bf C}$.
-> 	\item Show that $\operatorname{W}(cT)=c\operatorname{W}(T)$ for every $c\in {\bf C}$.
-> 	\item Show that the eigenvalues of $T$ are contained in $\operatorname{W}(T)$.
-> 	\item Let $\mathcal{B}$ be an orthonormal basis for $V$. Show that the diagonal entries of $[T]_{\mathcal{B}}$ are contained in $\operatorname{W}(T)$.
-> \end{enumerate}
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/projections-and-adjoints/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Let $V$ be a vector space and $T:V\to V$ be a linear transformation.
-
-1. Prove that if $T$ is a projection (i.e., $T^2=T$), then $V$ can be decomposed into the internal direct sum $V=\operatorname{null}(T)\oplus \operatorname{range}(T)$.
-2. Suppose $V$ is an inner product space and $T^*$ is the adjoint of $T$ with respect to the inner product. Show that $\operatorname{null}(T^*)$ is the orthogonal complement of $\operatorname{range}(T)$.
-3. Suppose $V$ is an inner product space and $T$ is an orthogonal projection, i.e., a projection for which the null space and range are orthogonal. Show that $T$ is self adjoint.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> Let $V$ be a vector space and $T:V\to V$ be a linear transformation.
-> \begin{enumerate}[label=\alph*)]
-> 	\item Prove that if $T$ is a projection (i.e., $T^2=T$), then $V$ can be decomposed into the internal direct sum $V=\operatorname{null}(T)\oplus \operatorname{range}(T)$.
-> 	\item Suppose $V$ is an inner product space and $T^*$ is the adjoint of $T$ with respect to the inner product. Show that $\operatorname{null}(T^*)$ is the orthogonal complement of $\operatorname{range}(T)$.
-> 	\item Suppose $V$ is an inner product space and $T$ is an orthogonal projection, i.e., a projection for which the null space and range are orthogonal. Show that $T$ is self adjoint.
-> \end{enumerate}
 > ```
 
 </div></div>

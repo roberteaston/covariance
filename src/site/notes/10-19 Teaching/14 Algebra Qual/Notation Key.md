@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/notation-key/","updated":"2025-04-02T09:45:01-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/notation-key/","updated":"2025-04-04T14:58:54-07:00"}
 ---
 
 
@@ -41,3 +41,4 @@
 [[10-19 Teaching/14 Algebra Qual/Syllabus\|Exam Syllabus]]
 [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]
 [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]
+[[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]

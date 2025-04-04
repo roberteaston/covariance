@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/projections-and-adjoints/","tags":["linear_algebra"],"updated":"2025-03-19T11:04:09-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/projections-and-adjoints/","tags":["linear_algebra"],"updated":"2025-04-04T15:13:44-07:00"}
 ---
 
 Let $V$ be a vector space and $T:V\to V$ be a linear transformation.
@@ -17,3 +17,7 @@ Let $V$ be a vector space and $T:V\to V$ be a linear transformation.
 > 	\item Suppose $V$ is an inner product space and $T$ is an orthogonal projection, i.e., a projection for which the null space and range are orthogonal. Show that $T$ is self adjoint.
 > \end{enumerate}
 > ```
+
+> [!warning] Important note
+> Sometime after this exam was given, the [[10-19 Teaching/14 Algebra Qual/Syllabus\|exam syllabus]] was updated and the topic of general inner-product spaces was removed. As such, this problem does not appear in the problem bank.
+

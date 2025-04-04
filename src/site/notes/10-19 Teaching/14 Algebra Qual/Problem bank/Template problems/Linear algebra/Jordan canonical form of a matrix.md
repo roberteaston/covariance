@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/jordan-canonical-form-of-a-matrix/","tags":["linear_algebra"],"updated":"2025-03-19T11:13:25-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/jordan-canonical-form-of-a-matrix/","tags":["linear_algebra"],"updated":"2025-04-04T15:11:14-07:00"}
 ---
 
 Consider the following matrix:
@@ -24,3 +24,6 @@ $$A=\begin{bmatrix} 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 4 \\ 0 & 0 & 0
 > 	\item Determine a Jordan canonical form of $A$.
 > 	\end{enumerate}
 > ```
+
+> [!warning] Important note
+> Sometime after this exam was given, the [[10-19 Teaching/14 Algebra Qual/Syllabus\|exam syllabus]] was updated and the topic of Jordan canonical forms was removed. As such, this problem does not appear in the problem bank.

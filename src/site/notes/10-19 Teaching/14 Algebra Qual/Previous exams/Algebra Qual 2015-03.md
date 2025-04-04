@@ -141,4 +141,9 @@ $\operatorname{W}(T)=\{\langle T(x),x\rangle \,|\, x\in V,\quad \|x\|=1\}.$
 > \end{enumerate}
 > ```
 
+> [!warning] Important note
+> Sometime after this exam was given, the [[10-19 Teaching/14 Algebra Qual/Syllabus\|exam syllabus]] was updated and the topic of general inner-product spaces was removed. As such, this problem does not appear in the problem bank.
+
+
+
 </div></div>

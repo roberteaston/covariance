@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2025-04-02T09:51:29-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2025-04-04T14:59:37-07:00"}
 ---
 
 You can find the official syllabus for the qualifying exam [here](https://math.calpoly.edu/course-exam-requirements). For quick reference, that information is also recreated below. This local version also has the advantage that (eventually) terms can be linked directly to relevant notes.
@@ -97,3 +97,4 @@ The material is found in a large number of texts, and is approached in a rather 
 [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]
 [[10-19 Teaching/14 Algebra Qual/Notation Key\|Notation Key]]
 [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]
+[[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]

@@ -95,6 +95,9 @@ $A=\begin{bmatrix} 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 4 \\ 0 & 0 & 0 
 > 	\end{enumerate}
 > ```
 
+> [!warning] Important note
+> Sometime after this exam was given, the [[10-19 Teaching/14 Algebra Qual/Syllabus\|exam syllabus]] was updated and the topic of Jordan canonical forms was removed. As such, this problem does not appear in the problem bank.
+
 </div></div>
 
 ## Problem 5
@@ -120,5 +123,10 @@ Let $V$ be a vector space and $T:V\to V$ be a linear transformation.
 > 	\item Suppose $V$ is an inner product space and $T$ is an orthogonal projection, i.e., a projection for which the null space and range are orthogonal. Show that $T$ is self adjoint.
 > \end{enumerate}
 > ```
+
+> [!warning] Important note
+> Sometime after this exam was given, the [[10-19 Teaching/14 Algebra Qual/Syllabus\|exam syllabus]] was updated and the topic of general inner-product spaces was removed. As such, this problem does not appear in the problem bank.
+
+
 
 </div></div>

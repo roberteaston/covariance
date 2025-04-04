@@ -111,4 +111,7 @@ Let $A=\begin{bmatrix} -2 & 1 & -1 \\ 5 & -2 & 2 \\ 7 & -3 & 3\end{bmatrix}$.
 > \end{enumerate}
 > ```
 
+> [!warning] Important note
+> Sometime after this exam was given, the [[10-19 Teaching/14 Algebra Qual/Syllabus\|exam syllabus]] was updated and the topic of Jordan canonical forms was removed. As such, this problem does not appear in the problem bank.
+
 </div></div>
