@@ -77,7 +77,7 @@ Consider the additive group of integers ${\bf Z}$.
 
 Let $i\in {\bf C}$ be the usual root of unity, with $i^2=-1$, and let ${\bf Z}[i]=\{a+bi\mid a,b\in {\bf Z}\}$ be the ring of Gaussian integers.
 1. Prove that there exists a (nonzero) ring homomorphism ${\bf Z}[i]\to {\bf Z}_5$.
-2. Compute the kernel of your homomorphism explicitly, and state the conclusion given by the First Isomorphism Theorem. (*Hint:* The kernel requires two generators.)
+2. Compute the kernel of your homomorphism explicitly, and state the conclusion given by the First Isomorphism Theorem.
 
 > [!info]- View $\LaTeX$ code
 > ```

@@ -1,9 +1,9 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-04-05T15:09:48-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog-sync-conflict-20250405-150909-lhxx-5-sn/","updated":"2025-04-05T15:09:02-07:00"}
 ---
 
 **April 5, 2025**
-- Updated [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Ring theory/Morphism from the Gaussian integers (2)\|this problem]] to remove an incorrect hint. (Previously, the second part of the problem included a hint claiming that the kernel of the morphism required two generators. This is not true, given that ${\bf Z}[i]$ is a PID.)
+- Updated [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Ring theory/Morphism from the Gaussian integers (2)\|this problem]] to remove an incorrect hint. Previously, the second part of the problem claimed that the kernel of the morphism required two generators, contrary to the fact that $
 
 **April 4, 2025**
 - Added this changelog page
