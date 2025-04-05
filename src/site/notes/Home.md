@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                   | Last Updated             |
-| -------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]                                                                             | 3:09 PM - April 05, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Changelog.sync-conflict-20250405-150929-LHXX5SN\|Changelog.sync-conflict-20250405-150929-LHXX5SN]] | 3:09 PM - April 05, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Changelog.sync-conflict-20250405-150909-LHXX5SN\|Changelog.sync-conflict-20250405-150909-LHXX5SN]] | 3:09 PM - April 05, 2025 |
+| Note                                                                                                                                                              | Last Updated             |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]                                                                                                        | 3:11 PM - April 05, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Ring theory/Morphism from the Gaussian integers (2)\|Morphism from the Gaussian integers (2)]] | 3:07 PM - April 05, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/Projections and adjoints\|Projections and adjoints]]                                | 3:13 PM - April 04, 2025 |
 
 { .block-language-dataview}
 
