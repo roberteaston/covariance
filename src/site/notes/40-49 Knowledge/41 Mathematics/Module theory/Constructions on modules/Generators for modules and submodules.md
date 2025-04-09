@@ -38,7 +38,7 @@ Composing this new module morphism with the inclusion of $i:\ker(\pi_1)\to F(X_1
 
 $$F(X_2)\xrightarrow{i\circ \pi_2} F(X_2)\xrightarrow{\pi_1} M$$
 
-with $\ker(\pi_1)=\operatorname{im}(i\circ \pi_2)$. This is the start of an *exact sequence* of morphisms, something to be explored [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences and chain homology\|later]].
+with $\ker(\pi_1)=\operatorname{im}(i\circ \pi_2)$. This is the start of an *exact sequence* of morphisms, something to be explored [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Exact sequences and chain homology\|later]].
 
 
 ## Suggested next notes
@@ -46,4 +46,4 @@ with $\ker(\pi_1)=\operatorname{im}(i\circ \pi_2)$. This is the start of an *exa
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules\|Bimodules]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products I - Extending scalars\|Tensor Products I - Extending scalars]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences and chain homology\|Exact sequences and chain homology]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Exact sequences and chain homology\|Exact sequences and chain homology]]

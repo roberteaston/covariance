@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/the-pullback-functor-is-an-adjoint/","updated":"2024-10-07T13:02:35-07:00"}
 ---
 
-Recall the notion of [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples#Pullbacks\|pullbacks]], which for the sake of this exercise we will only consider in the category $\textbf{Set}$.
+Recall the notion of [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples#Pullbacks\|pullbacks]], which for the sake of this exercise we will only consider in the category $\textbf{Set}$.
 
 Show that the functor which assigns to each diagram of the form $X\xrightarrow{f} Z \xleftarrow{g} Y$ in $\textbf{Set}$ the pullback $X\times_Z Y$ is a right adjoint of another functor. Describe the unit and counit of the adjunction.
 

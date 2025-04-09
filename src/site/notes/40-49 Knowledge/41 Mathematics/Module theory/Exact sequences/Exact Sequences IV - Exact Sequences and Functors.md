@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2025-03-31T12:59:31-07:00"}
 ---
 
-We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
+We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
 - the "hom-out" functor $\operatorname{Hom}_R(M,-)$
 - the "hom-in" functor $\operatorname{Hom}_R(-,N)$
 - the tensor product functor $M\otimes_R -$
@@ -10,7 +10,7 @@ We would now like to consider how functors (say, from the category $R\textbf{-Mo
 ## The hom-out functor and projective modules
 ---
 
-In light of [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Yoneda's Lemma]], for any fixed object $c$ in a category $C$, understanding the object $c$ is equivalent to understanding the functor $\operatorname{Hom}_C(c,-):C\to \textbf{Set}$. In the context of modules, this means that for any fixed $R$-module $M$ it is worthwhile to study the functor $\operatorname{Hom}_R(M,-)$. We have seen that for every $R$-module $N$ the set $\operatorname{Hom}_R(M,N)$ has a (natural) structure of an abelian group^[What we really want to say is that functor $\operatorname{Hom}_R(M-):R\textbf{-Mod}\to \textbf{Set}$  factors through the forgetful functor $U:\textbf{Ab}\to \textbf{Set}$], so it makes sense to view $\operatorname{Hom}_R(M,N)$ as a functor from the category of $R$-modules to the category of abelian groups. We shall informally call this  "hom-out functor" of $M$ (to contrast it with the "hom-in" functor $\operatorname{Hom}_R(-,M)$).
+In light of [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Yoneda's Lemma]], for any fixed object $c$ in a category $C$, understanding the object $c$ is equivalent to understanding the functor $\operatorname{Hom}_C(c,-):C\to \textbf{Set}$. In the context of modules, this means that for any fixed $R$-module $M$ it is worthwhile to study the functor $\operatorname{Hom}_R(M,-)$. We have seen that for every $R$-module $N$ the set $\operatorname{Hom}_R(M,N)$ has a (natural) structure of an abelian group^[What we really want to say is that functor $\operatorname{Hom}_R(M-):R\textbf{-Mod}\to \textbf{Set}$  factors through the forgetful functor $U:\textbf{Ab}\to \textbf{Set}$], so it makes sense to view $\operatorname{Hom}_R(M,N)$ as a functor from the category of $R$-modules to the category of abelian groups. We shall informally call this  "hom-out functor" of $M$ (to contrast it with the "hom-in" functor $\operatorname{Hom}_R(-,M)$).
 
 Let's start with a warm-up property of this functor.
 
@@ -304,8 +304,8 @@ In particular, free modules are flat.
 ## Suggested next notes
 ---
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Preadditive categories\|Preadditive categories]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|Chain complexes]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories\|Preadditive categories]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Chain complexes\|Chain complexes]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas\|Diagram lemmas]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Noetherian modules\|Noetherian modules]]
 [[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]

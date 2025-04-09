@@ -37,4 +37,4 @@ $$\operatorname{Hom}_{\textbf{Ab}}\left(U(R),\prod_{i\in I}G_i\right)\simeq \pro
 ---
 
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]

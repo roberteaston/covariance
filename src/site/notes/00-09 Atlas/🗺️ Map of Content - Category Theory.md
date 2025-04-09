@@ -10,11 +10,11 @@
 >
 >*My source:* [[Maclane - Categories for the Working Mathematician.pdf#page=28|Mac Lane]]
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Categories\|Categories]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functors\|Functors]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Natural transformations\|Natural transformations]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Functor categories\|Functor categories]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Basic Structures/Special morphisms\|Special morphisms]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors\|Functors]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|Natural transformations]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functor categories\|Functor categories]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Special morphisms\|Special morphisms]]
 
 ## Universal properties
 ---
@@ -24,10 +24,10 @@
 >
 >*My source:* [[Riehl - Category Theory in Context.pdf#page=10|Riehl]]
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal arrows and elements\|Universal arrows and elements]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal arrows and elements\|Universal arrows and elements]]
 
 ## Adjoints
 ---
@@ -51,15 +51,15 @@
 
 ### Basic structures
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Preadditive categories\|Preadditive categories]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Additive categories\|Additive categories]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Abelian categories\|Abelian categories]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories\|Preadditive categories]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories\|Additive categories]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|Abelian categories]]
 
 ### Chain complexes
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|Chain complexes]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Exact sequences and chain homology\|Exact sequences and chain homology]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Double complexes and mural maps\|Double complexes and mural maps]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/The Salamander Lemma\|The Salamander Lemma]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram lemmas\|Diagram lemmas]]
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Diagram chases without elements\|Diagram chases without elements]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Chain complexes\|Chain complexes]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Exact sequences and chain homology\|Exact sequences and chain homology]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Double complexes and mural maps\|Double complexes and mural maps]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas\|Diagram lemmas]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram chases without elements\|Diagram chases without elements]]

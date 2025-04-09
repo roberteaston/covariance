@@ -109,7 +109,7 @@ We will soon see that if the original sequence of morphisms is exact, the result
 
 However, we will see that if the original sequence is a chain complex (which includes the case of an exact sequence), then the resulting sequence will at least still be a chain complex. So chain complexes seem like the right type of object to consider to make things categorical.
 
-In fact, if we define morphisms of chain complexes, then we could consider an actual [[40-49 Knowledge/41 Mathematics/Category theory/Abelian Categories/Chain complexes\|category of chain complexes]] ...
+In fact, if we define morphisms of chain complexes, then we could consider an actual [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Chain complexes\|category of chain complexes]] ...
 
 ## Suggested next note
 ---

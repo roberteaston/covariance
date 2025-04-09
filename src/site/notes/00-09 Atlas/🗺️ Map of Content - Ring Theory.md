@@ -5,11 +5,11 @@
 ## Basic structures
 ---
 
-[[40-49 Knowledge/41 Mathematics/Ring theory/Principal ideal domains (PIDs)\|Principal ideal domains (PIDs)]]
+[[40-49 Knowledge/41 Mathematics/Ring theory/Special types of rings/Principal ideal domains (PIDs)\|Principal ideal domains (PIDs)]]
 [[40-49 Knowledge/41 Mathematics/Ring theory/Graded rings\|Graded rings]]
 
 ## Miscellaneous results
 ---
 
-[[40-49 Knowledge/41 Mathematics/Ring theory/Chinese Remainder Theorem\|Chinese Remainder Theorem]]
+[[40-49 Knowledge/41 Mathematics/Ring theory/Main theorems/Chinese Remainder Theorem\|Chinese Remainder Theorem]]
 [[40-49 Knowledge/41 Mathematics/Ring theory/Least common multiples\|Least common multiples]]

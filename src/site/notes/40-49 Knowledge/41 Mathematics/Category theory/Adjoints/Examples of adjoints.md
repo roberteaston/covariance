@@ -55,7 +55,7 @@ For $U:R\textbf{-Alg}\to R\textbf{-Mod}$, a left adjoint is the [[40-49 Knowledg
 ## Left and right adjoints of diagonal functors
 ---
 
-Another common type of a functor is a "diagonal" or "constant" functor. We saw [[40-49 Knowledge/41 Mathematics/Category theory/Universal Properties/Universal Properties II - Commutative diagrams, cones and limits#Example of a constant diagram\|examples]] of these when we considered "constant" diagrams. Much like with forgetful functors, these functors often have familiar adjoints. Below we list some examples, although note that these adjoints do not always exist in a given category $C$. When in doubt, assume $C=\textbf{Set}$.
+Another common type of a functor is a "diagonal" or "constant" functor. We saw [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits#Example of a constant diagram\|examples]] of these when we considered "constant" diagrams. Much like with forgetful functors, these functors often have familiar adjoints. Below we list some examples, although note that these adjoints do not always exist in a given category $C$. When in doubt, assume $C=\textbf{Set}$.
 
 ### Products and coproducts
 

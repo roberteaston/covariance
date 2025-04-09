@@ -36,10 +36,10 @@ Finally, suppose (3) holds and let $N_1\subseteq N_2\subseteq \cdots$ be a chain
 
 ---
 
-Recall that a ring $R$ can be viewed as a left $R$-module over itself, using its internal multiplication for the $R$-action. Moreover, the ideals of $R$ are then exactly the submodules of $R$ when it is viewed as a left $R$-module.^[We really should be defining a functor of some type, but it's a bit tricky to phrase correctly. Can you figure out how?] Now, if $R$ is a [[40-49 Knowledge/41 Mathematics/Ring theory/Principal ideal domains (PIDs)\|PID]] then every ideal is principal (hence finitely generated), so by the above theorem we have the following:
+Recall that a ring $R$ can be viewed as a left $R$-module over itself, using its internal multiplication for the $R$-action. Moreover, the ideals of $R$ are then exactly the submodules of $R$ when it is viewed as a left $R$-module.^[We really should be defining a functor of some type, but it's a bit tricky to phrase correctly. Can you figure out how?] Now, if $R$ is a [[40-49 Knowledge/41 Mathematics/Ring theory/Special types of rings/Principal ideal domains (PIDs)\|PID]] then every ideal is principal (hence finitely generated), so by the above theorem we have the following:
 
 > [!summary] Corollary
-> Every [[40-49 Knowledge/41 Mathematics/Ring theory/Principal ideal domains (PIDs)\|principal ideal domain]] is Noetherian (when viewed as a module over itself).
+> Every [[40-49 Knowledge/41 Mathematics/Ring theory/Special types of rings/Principal ideal domains (PIDs)\|principal ideal domain]] is Noetherian (when viewed as a module over itself).
 
 Before moving on, we need to:
 
