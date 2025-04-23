@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">Before functoriality, people lived in caves.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" rel="noopener nofollow" class="external-link" href="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" target="_blank">Peter Freyd</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
+<p dir="auto">Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                            | Last Updated             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[40-49 Knowledge/41 Mathematics/Representation theory/Basic definitions and examples/Representations of groups\|Representations of groups]] | 2:31 PM - April 09, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]                                                                                    | 6:58 AM - April 07, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2020-09\|Algebra Qual 2020-09]]                                                 | 3:20 PM - April 05, 2025 |
+| Note                                                                                            | Last Updated             |
+| ----------------------------------------------------------------------------------------------- | ------------------------ |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-06\|Algebra Qual 2024-06]] | 8:11 PM - April 22, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-01\|Algebra Qual 2024-01]] | 8:11 PM - April 22, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2023-09\|Algebra Qual 2023-09]] | 8:11 PM - April 22, 2025 |
 
 { .block-language-dataview}
 

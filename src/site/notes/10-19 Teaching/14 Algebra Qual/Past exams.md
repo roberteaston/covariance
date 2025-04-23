@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/past-exams/","updated":"2025-04-07T06:58:29-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/past-exams/","updated":"2025-04-22T20:09:40-07:00"}
 ---
 
 Looking for past exams? The official repository is available [here](https://math.calpoly.edu/degree-ms/sample-exams), although recent exams have also been recreated here and are linked below.
@@ -8,13 +8,13 @@ Looking for past exams? The official repository is available [here](https://math
 | ----------------------------------------------------------------------------------------------- | ------------------ |
 | [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2025-01\|Algebra Qual 2025-01]] | \-                 |
 | [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-09\|Algebra Qual 2024-09]] | \-                 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-06\|Algebra Qual 2024-06]] | \-                 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-01\|Algebra Qual 2024-01]] | \-                 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2023-09\|Algebra Qual 2023-09]] | \-                 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2023-06\|Algebra Qual 2023-06]] | \-                 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2023-01\|Algebra Qual 2023-01]] | \-                 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2022-09\|Algebra Qual 2022-09]] | \-                 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2022-06\|Algebra Qual 2022-06]] | \-                 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-06\|Algebra Qual 2024-06]] | June 01, 2024      |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-01\|Algebra Qual 2024-01]] | January 20, 2024   |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2023-09\|Algebra Qual 2023-09]] | September 16, 2023 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2023-06\|Algebra Qual 2023-06]] | June 03, 2023      |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2023-01\|Algebra Qual 2023-01]] | January 21, 2023   |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2022-09\|Algebra Qual 2022-09]] | September 17, 2022 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2022-06\|Algebra Qual 2022-06]] | June 04, 2022      |
 | [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2022-01\|Algebra Qual 2022-01]] | January 15, 2022   |
 | [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2021-09\|Algebra Qual 2021-09]] | September 18, 2021 |
 | [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2021-06\|Algebra Qual 2021-06]] | June 05, 2021      |
