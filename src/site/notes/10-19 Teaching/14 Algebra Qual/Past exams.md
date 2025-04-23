@@ -1,13 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/past-exams/","updated":"2025-04-22T20:09:40-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/past-exams/","updated":"2025-04-22T20:44:38-07:00"}
 ---
 
 Looking for past exams? The official repository is available [here](https://math.calpoly.edu/degree-ms/sample-exams), although recent exams have also been recreated here and are linked below.
 
 | Exam                                                                                            | Date Given         |
 | ----------------------------------------------------------------------------------------------- | ------------------ |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2025-01\|Algebra Qual 2025-01]] | \-                 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-09\|Algebra Qual 2024-09]] | \-                 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2025-01\|Algebra Qual 2025-01]] | January 19, 2025   |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-09\|Algebra Qual 2024-09]] | September 18, 2024 |
 | [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-06\|Algebra Qual 2024-06]] | June 01, 2024      |
 | [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-01\|Algebra Qual 2024-01]] | January 20, 2024   |
 | [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2023-09\|Algebra Qual 2023-09]] | September 16, 2023 |

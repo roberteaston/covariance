@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-04-05T15:12:24-07:00"}
 ---
 
+**April 22, 2025
+- Added dates for all exams given since Spring 2022
+
 **April 5, 2025**
 - Updated [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Ring theory/Morphism from the Gaussian integers (2)\|this problem]] to remove an incorrect hint. (Previously, the second part of the problem claimed that the kernel of the morphism required two generators, contrary to the fact that ${\bf Z}[i]$ is a PID.)
 
