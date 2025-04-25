@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" rel="noopener nofollow" class="external-link" href="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" target="_blank">Peter Freyd</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
+<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                            | Last Updated             |
-| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[30-39 Service/31 Department service/Scholarship Committee/Scholarships & Awards\|Scholarships & Awards]]                   | 9:00 AM - April 25, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Edward Van Duyne Memorial\|Edward Van Duyne Memorial]] | 8:56 AM - April 25, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Michael Hushour\|Michael Hushour]]                     | 8:55 AM - April 25, 2025 |
+| Note                                                                                                                                                                                                    | Last Updated             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Donald and Diana Jackson Scholarship in Honor of Clyde Fisher\|Donald and Diana Jackson Scholarship in Honor of Clyde Fisher]] | 9:48 AM - April 25, 2025 |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Clyde P. Fisher Memorial\|Clyde P. Fisher Memorial]]                                                                           | 9:43 AM - April 25, 2025 |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Charles J. Hanks\|Charles J. Hanks]]                                                                                           | 9:41 AM - April 25, 2025 |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/scholarships-and-awards/","updated":"2025-04-25T09:00:40-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/scholarships-and-awards/","updated":"2025-04-25T09:13:11-07:00"}
 ---
 
 > [!info] Under construction
@@ -13,8 +13,8 @@ Welcome to the unofficial wiki for all things related to scholarships and awards
 For the 2024-2025 academic year, there were:
 - 17 scholarships, consisting of 75 recipients receiving a total value of $193,000
 - 11 awards, consisting of 16 recipients receiving a total value of $9,200
-- 240 students eligible for at least one award, 144 of which have a GPA of at least 3.25
-- 49 eligible students with financial need, 36 of which have a GPA of at least 2.75
+- 240 students were eligible for at least one award, 144 of which had a GPA of at least 3.25
+- 49 eligible students with financial need, 36 of which had a GPA of at least 2.75
 
 ## Important points
 ---
@@ -33,7 +33,7 @@ There are two types of awards, confusingly called **scholarships** and **awards*
 
 | Scholarship                                                                                                                                                                                             | Requirements                                                            | \# Awards |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------- | --------- |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Edward Van Duyne Memorial\|Edward Van Duyne Memorial]]                                                                         | <ul><li>3.0+ GPA</li></ul>                                              | 21        |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Edward N. Van Duyne Memorial\|Edward N. Van Duyne Memorial]]                                                                   | <ul><li>3.0+ GPA</li></ul>                                              | 21        |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Kenneth L. Forsen\|Kenneth L. Forsen]]                                                                                         | <ul><li>financial need</li></ul>                                        | 20        |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Lawrence and Ruth Renihan\|Lawrence and Ruth Renihan]]                                                                         | \-                                                                      | 5         |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Women in STEM\|Women in STEM]]                                                                                                 | <ul><li>AWM member</li></ul>                                            | 2         |
@@ -44,10 +44,10 @@ There are two types of awards, confusingly called **scholarships** and **awards*
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/George H. McMeen\|George H. McMeen]]                                                                                           | <ul><li>3.0+ GPA</li></ul>                                              | 2         |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Katrina J. Killgore Memorial\|Katrina J. Killgore Memorial]]                                                                   | \-                                                                      | 1         |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Carol and W. Boyd Judd\|Carol and W. Boyd Judd]]                                                                               | <ul><li>financial need</li><li>3.0+ GPA</li></ul>                       | 1         |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Donald and Diana Jackson Scholarship in Honor of Clyde Fisher\|Donald and Diana Jackson Scholarship in Honor of Clyde Fisher]] | <ul><li>financial need</li><li>3.0+ GPA</li></ul>                       | 2         |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Ed Glassco\|Ed Glassco]]                                                                                                       | <ul><li>3.0+ GPA</li></ul>                                              | 1         |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/W. Boyd Judd\|W. Boyd Judd]]                                                                                                   | <ul><li>financial need</li><li>3.0+ GPA</li></ul>                       | 1         |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Barry Family\|Barry Family]]                                                                                                   | <ul><li>financial need</li><li>sophomore+</li><li>3.0+ GPA</li></ul>    | 1         |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Donald and Diana Jackson Scholarship in Honor of Clyde Fisher\|Donald and Diana Jackson Scholarship in Honor of Clyde Fisher]] | <ul><li>financial need</li><li>3.0+ GPA</li></ul>                       | 1         |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Scholarship for the Advancement of Science and Technology\|Scholarship for the Advancement of Science and Technology]]         | <ul><li>3.0+ GPA</li><li>sophomore+</li></ul>                           | 1         |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Marie Porter Lehman Math Educator\|Marie Porter Lehman Math Educator]]                                                         | \-                                                                      | 1         |
 
