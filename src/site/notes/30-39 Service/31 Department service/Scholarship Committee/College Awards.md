@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/college-awards/","updated":"2025-04-25T07:49:59-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/college-awards/","updated":"2025-04-25T07:56:54-07:00"}
 ---
 
 The [Bailey College of Science and Mathematics](https://www.calpoly.edu/bailey-college-of-science-and-mathematics) holds an annual awards banquet at which it recognizes specific awards from each department within the college. Specifically, it recognizes:
@@ -18,7 +18,7 @@ Although the selection of the above awards is entirely up to the department, the
 
 
 
-**Department** 
+**Department** Dean's Office
 **Title** 
 **Office** 
 **Phone** 

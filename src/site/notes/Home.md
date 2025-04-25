@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
-<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                          | Last Updated             |
-| ------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[40-49 Knowledge/46 People/Sarah Carney May\|Sarah Carney May]]                                           | 7:53 AM - April 25, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/College Awards\|College Awards]]               | 7:49 AM - April 25, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/Scholarships & Awards\|Scholarships & Awards]] | 7:35 AM - April 25, 2025 |
+| Note                                                                                                                  | Last Updated             |
+| --------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[40-49 Knowledge/46 People/Sarah Carney May\|Sarah Carney May]]                                                   | 8:40 AM - April 25, 2025 |
+| [[30-39 Service/31 Department service/Scholarship Committee/Graduate Education Awards\|Graduate Education Awards]] | 8:26 AM - April 25, 2025 |
+| [[30-39 Service/31 Department service/Scholarship Committee/College Awards\|College Awards]]                       | 7:56 AM - April 25, 2025 |
 
 { .block-language-dataview}
 

@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/46-people/sarah-carney-may/","title":"Assistant to the Dean","updated":"2025-04-25T07:53:32-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/46-people/sarah-carney-may/","title":"Assistant to the Dean","updated":"2025-04-25T08:37:31-07:00"}
 ---
 
-**Department** 
+**Department** Dean's Office
 **Title** 
 **Office** 
 **Phone** 
