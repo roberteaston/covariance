@@ -14,9 +14,9 @@
 
 | Note                                                                                                                                                                                                    | Last Updated             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[30-39 Service/31 Department service/Scholarship Committee/Scholarships & Awards\|Scholarships & Awards]]                                                                                           | 9:58 AM - April 25, 2025 |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Donald and Diana Jackson Scholarship in Honor of Clyde Fisher\|Donald and Diana Jackson Scholarship in Honor of Clyde Fisher]] | 9:48 AM - April 25, 2025 |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Clyde P. Fisher Memorial\|Clyde P. Fisher Memorial]]                                                                           | 9:43 AM - April 25, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Charles J. Hanks\|Charles J. Hanks]]                                                                                           | 9:41 AM - April 25, 2025 |
 
 { .block-language-dataview}
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/donald-and-diana-jackson-scholarship-in-honor-of-clyde-fisher/","updated":"2025-04-25T09:47:02-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/donald-and-diana-jackson-scholarship-in-honor-of-clyde-fisher/","updated":"2025-04-25T09:48:30-07:00"}
 ---
 
 ## Description
