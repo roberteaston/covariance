@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
+<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                            | Last Updated             |
-| ----------------------------------------------------------------------------------------------- | ------------------------ |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2025-01\|Algebra Qual 2025-01]] | 8:45 PM - April 22, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2024-09\|Algebra Qual 2024-09]] | 8:44 PM - April 22, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]                                    | 8:44 PM - April 22, 2025 |
+| Note                                                                                                          | Last Updated             |
+| ------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[40-49 Knowledge/46 People/Sarah Carney May\|Sarah Carney May]]                                           | 7:53 AM - April 25, 2025 |
+| [[30-39 Service/31 Department service/Scholarship Committee/College Awards\|College Awards]]               | 7:49 AM - April 25, 2025 |
+| [[30-39 Service/31 Department service/Scholarship Committee/Scholarships & Awards\|Scholarships & Awards]] | 7:35 AM - April 25, 2025 |
 
 { .block-language-dataview}
 
