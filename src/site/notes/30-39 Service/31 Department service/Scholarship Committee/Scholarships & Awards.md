@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/scholarships-and-awards/","updated":"2025-04-25T07:35:09-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/scholarships-and-awards/","updated":"2025-04-25T09:00:40-07:00"}
 ---
 
 > [!info] Under construction
@@ -10,14 +10,18 @@ Welcome to the unofficial wiki for all things related to scholarships and awards
 ## Recent statistics
 ---
 
-(coming soon)
+For the 2024-2025 academic year, there were:
+- 17 scholarships, consisting of 75 recipients receiving a total value of $193,000
+- 11 awards, consisting of 16 recipients receiving a total value of $9,200
+- 240 students eligible for at least one award, 144 of which have a GPA of at least 3.25
+- 49 eligible students with financial need, 36 of which have a GPA of at least 2.75
 
 ## Important points
 ---
 
 ### Scholarships vs. Awards
 
-(coming soon)
+There are two types of awards, confusingly called **scholarships** and **awards**. The former is applied directly to tuition costs and so can only be awarded to returning students; the latter is a cash award to be used however the student desires. In my personal opinion, these should probably be called “scholarship awards” and “non-scholarship awards”, but the bizarre convention seems to be to simply call these “scholarships” and “awards.”
 
 ### Different awards with the same name
 
