@@ -19,10 +19,10 @@ Although the selection of the above awards is entirely up to the department, the
 
 
 **Department** Dean's Office
-**Title** 
-**Office** 
-**Phone** 
-**Email** 
+**Title** Assistant to the Dean
+**Office** 25-299A
+**Phone** 805-756-1619
+**Email** sacarney@calpoly.edu
 
 The following *might* be a photo of Sarah Carney May. Consider it unconfirmed.
 
