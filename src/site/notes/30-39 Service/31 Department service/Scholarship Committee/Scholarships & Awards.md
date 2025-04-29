@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/scholarships-and-awards/","updated":"2025-04-25T15:37:29-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/scholarships-and-awards/","updated":"2025-04-28T06:33:58-07:00"}
 ---
 
 > [!warning] Under construction

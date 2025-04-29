@@ -65,7 +65,7 @@ $G_{aH}=\{b\in G\,|\,baH=aH\}.$
 
 
 
-Suppose $G_1$ and $G_2$ are groups, with identity elements $e_1$ and $e_2$, respectively. Prove that if $\phi:G_1\to G_2$ is an isomorphism, then $\phi(e_1)=e_2$.
+Suppose $G_1$ and $G_2$ are groups, with identity elements $e_1$ and $e_2$, respectively. Prove that if $\phi:G_1\to G_2$ is a homomorphism^[The version of this problem that appeared on the Spring 2019 exam assumed $\phi$ was an isomorphism, but that assumption was unnecessarily strong.], then $\phi(e_1)=e_2$.
 
 > [!info]- View $\LaTeX$ code
 > ```

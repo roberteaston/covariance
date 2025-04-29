@@ -2,6 +2,9 @@
 {"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-04-25T07:20:25-07:00"}
 ---
 
+**April 29, 2025**
+- Relaxed a condition in the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Image of the identity is the identity\|Image of the identity is the identity]]. The original version assumed $\phi$ was an isomorphism of groups, but the desired result only requires $\phi$ to be a (homo)morphism.
+
 **April 22, 2025
 - Added dates for all exams given since Spring 2022
 
