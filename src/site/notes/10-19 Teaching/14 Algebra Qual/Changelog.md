@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-04-25T07:20:25-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-04-29T06:35:20-07:00"}
 ---
 
 **April 29, 2025**

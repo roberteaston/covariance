@@ -46,6 +46,7 @@ There are two types of awards, confusingly called **scholarships** and **awards*
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Marie Porter Lehman Math Educator\|Marie Porter Lehman Math Educator]]                                                         |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Michael Hushour\|Michael Hushour]]                                                                                             |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Ralph M. Warten Memorial\|Ralph M. Warten Memorial]]                                                                           |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Robert P. Balles Mathematics Scholarship\|Robert P. Balles Mathematics Scholarship]]                                           |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Scholarship for the Advancement of Science and Technology\|Scholarship for the Advancement of Science and Technology]]         |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Volmar A. and Viola I. Folsom\|Volmar A. and Viola I. Folsom]]                                                                 |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/W. Boyd Judd\|W. Boyd Judd]]                                                                                                   |

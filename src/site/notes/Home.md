@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties III - Yoneda's Lemma</a></div></div><div class="callout-content">
-<p dir="auto">Every man is like the company he is wont to keep.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">Before functoriality, people lived in caves.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                                                    | Last Updated             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Image of the identity is the identity\|Image of the identity is the identity]]                                              | 6:33 AM - April 29, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/Scholarships & Awards\|Scholarships & Awards]]                                                                                           | 6:33 AM - April 28, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Donald and Diana Jackson Scholarship in Honor of Clyde Fisher\|Donald and Diana Jackson Scholarship in Honor of Clyde Fisher]] | 9:48 AM - April 25, 2025 |
+| Note                                                                                                                                                          | Last Updated             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Charles J. Hanks Excellence in Math\|Charles J. Hanks Excellence in Math]]           | 11:41 AM - May 02, 2025  |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Robert P. Balles Mathematics Scholarship\|Robert P. Balles Mathematics Scholarship]] | 11:27 AM - May 02, 2025  |
+| [[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]                                                                                                    | 6:35 AM - April 29, 2025 |
 
 { .block-language-dataview}
 
