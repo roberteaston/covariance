@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/robert-p-balles-mathematics-scholarship/","updated":"2025-05-02T11:27:30-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/robert-p-balles-mathematics-scholarship/","updated":"2025-05-02T13:38:40-07:00"}
 ---
 
 > [!warning] Unfunded and inactive
 > The donor for this award died in 2022 (exact date needed), and as of 2023 this award is unfunded and inactive.
-## Description and selection criteria
+## Description
 ---
 The following appears underneath the corresponding plaque in the Math Department:
 

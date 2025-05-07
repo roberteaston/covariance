@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">Before functoriality, people lived in caves.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
+<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                          | Last Updated             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Charles J. Hanks Excellence in Math\|Charles J. Hanks Excellence in Math]]           | 11:41 AM - May 02, 2025  |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Robert P. Balles Mathematics Scholarship\|Robert P. Balles Mathematics Scholarship]] | 11:27 AM - May 02, 2025  |
-| [[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]                                                                                                    | 6:35 AM - April 29, 2025 |
+| Note                                                                                                                            | Last Updated            |
+| ------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Edward Van Duyne Memorial\|Edward Van Duyne Memorial]] | 2:13 PM - May 07, 2025  |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Bryant Russell Memorial\|Bryant Russell Memorial]]     | 1:26 PM - May 07, 2025  |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Outstanding Thesis\|Outstanding Thesis]]               | 10:17 AM - May 07, 2025 |
 
 { .block-language-dataview}
 
