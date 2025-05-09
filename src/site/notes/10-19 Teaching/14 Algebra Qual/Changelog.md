@@ -1,7 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-04-29T06:35:20-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-05-08T19:18:01-07:00"}
 ---
 
+## Most recent update
+---
+
+**May 8, 2025**
+- Fixed a typo in [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Automorphisms of a finite cyclic group\|Automorphisms of a finite cyclic group]]. Previously the definition of the map $\mu_m$ was typographically mangled.
+- The problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Ring theory/Boolean algebras\|Boolean algebras]] was removed from the Problem Bank. It is tricky in a way that does not necessarily test understanding of core concepts in ring theory.
+
+## Earlier updates
+---
 **April 29, 2025**
 - Relaxed a condition in the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Image of the identity is the identity\|Image of the identity is the identity]]. The original version assumed $\phi$ was an isomorphism of groups, but the desired result only requires $\phi$ to be a (homo)morphism.
 

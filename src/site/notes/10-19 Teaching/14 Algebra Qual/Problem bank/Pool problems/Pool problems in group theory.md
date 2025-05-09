@@ -257,7 +257,7 @@ Let $G$ be a group with exactly two conjugacy classes. Prove that $G$ is abelian
 
 
 
-Let ${\bf Z}_n$ denote the cyclic group of order $n$. Suppose $m\in {\bf N}$ is relatively prime to $n$. Define the function $\mu_m:{\bf Z}_n\to {\bf Z}_n$ by $m[a]_n=[ma]_n$.
+Let ${\bf Z}_n$ denote the cyclic group of order $n$. Suppose $m\in {\bf N}$ is relatively prime to $n$. Define the function $\mu_m:{\bf Z}_n\to {\bf Z}_n$ by $\mu_m[a]_n=[ma]_n$.
 
 1. Prove that the map $\mu_m$ is a well-defined automorphism of ${\bf Z}_n$.
 2. Prove that any automorphism of ${\bf Z}_n$ has the form $\mu_m$ for some $m$.

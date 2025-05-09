@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                            | Last Updated            |
-| ------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Edward Van Duyne Memorial\|Edward Van Duyne Memorial]] | 2:13 PM - May 07, 2025  |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Bryant Russell Memorial\|Bryant Russell Memorial]]     | 1:26 PM - May 07, 2025  |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Outstanding Thesis\|Outstanding Thesis]]               | 10:17 AM - May 07, 2025 |
+| Note                                                                                                                                                         | Last Updated           |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]                                                                                                   | 7:18 PM - May 08, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in ring theory\|Pool problems in ring theory]]                                  | 7:16 PM - May 08, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Automorphisms of a finite cyclic group\|Automorphisms of a finite cyclic group]] | 7:13 PM - May 08, 2025 |
 
 { .block-language-dataview}
 

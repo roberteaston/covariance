@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-ring-theory/","updated":"2025-03-29T15:01:27-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-ring-theory/","updated":"2025-05-08T19:16:16-07:00"}
 ---
 
 
@@ -81,31 +81,6 @@ Let $R$ be a commutative ring with $1$, and $\sigma:R\to R$ be a ring automorphi
 > 	\item Show that $F=\{r\in R\mid \sigma(r)=r\}$ is a subring of $R$ (with $1$).
 > 	\item Show that if $\sigma^2$ is the identity map on $R$, then each element of $R$ is the root of a monic polynomial of degree 2 in $F[x]$, where $F$ is as in (a).
 > \end{enumerate}
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/boolean-algebras/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-A **Boolean algebra** is a ring $A$ with $1$ satisfying $x^2=x$ for all $x\in A$. Prove that in a Boolean algebra $A$:
-1. $2x=0$ for all $x\in A$.
-2. Every prime ideal $\mathfrak{p}$ is maximal, and $A/\mathfrak{p}$ is a field with two elements.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> A {\bfseries Boolean algebra} is a ring $A$ with $1$ satisfying $x^2=x$ for all $x\in A$. Prove that in a Boolean algebra $A$:
-> 	\begin{enumerate}[label=\alph*)]
-> 		\item $2x=0$ for all $x\in A$.
-> 		
-> 		\item Every prime ideal $\mathfrak{p}$ is maximal, and $A/\mathfrak{p}$ is a field with two elements.
-> 	\end{enumerate}
 > ```
 
 </div></div>
