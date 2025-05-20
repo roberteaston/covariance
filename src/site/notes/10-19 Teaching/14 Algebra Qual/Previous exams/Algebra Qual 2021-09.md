@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2021-09/","updated":"2025-03-17T09:00:00-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2021-09/","updated":"2025-05-19T18:56:53-07:00"}
 ---
 
 ## Problem 1

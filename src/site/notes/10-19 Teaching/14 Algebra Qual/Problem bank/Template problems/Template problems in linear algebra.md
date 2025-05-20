@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/template-problems-in-linear-algebra/","updated":"2025-04-04T15:09:18-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/template-problems-in-linear-algebra/","updated":"2025-05-19T18:56:53-07:00"}
 ---
 
 

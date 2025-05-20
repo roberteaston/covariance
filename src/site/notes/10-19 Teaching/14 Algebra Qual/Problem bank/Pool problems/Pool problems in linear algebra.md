@@ -79,36 +79,6 @@ Suppose $V$ is a finite-dimensional real vector space and $T:V\to V$ is a linear
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/analyzing-an-unusual-matrix/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Let $a$ and $b$ be real numbers and let $A\in {\bf R}^{3\times 3}$ with each diagonal entry equal to $a$ and each off-diagonal entry equal to $b$.
-1. Determine all eigenvalues and representative eigenvectors of $A$ together with their algebraic multiplicities. (*Hint:* $A=(a-b)I+bJ$ where $J$ is the $3\times 3$ matrix each of whose entries equals $1$.)
-2. Is $A$ diagonalizable? Justify your answer.
-3. Determine the minimal polynomial of $A$.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> Let $a$ and $b$ be real numbers and let $A\in {\bf R}^{3\times 3}$ with each diagonal entry equal to $a$ and each off-diagonal entry equal to $b$.
-> \begin{enumerate}[label=\alph*)]
-> 	\item Determine all eigenvalues and representative eigenvectors of $A$ together with their algebraic multiplicities.
-> 	
-> 	\medskip
-> 	\noindent ({\itshape Hint:} $A=(a-b)I+bJ$ where $J$ is the $3\times 3$ matrix each of whose entries equals $1$.)
-> 	
-> 	\item Is $A$ diagonalizable? Justify your answer.
-> 	\item Determine the minimal polynomial of $A$.
-> \end{enumerate}
-> ```
-
-</div></div>
-
-
----
-
-
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/direct-sums-and-idempotent-transformations/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
