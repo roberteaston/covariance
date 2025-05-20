@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                         | Last Updated           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]                                                                                                   | 7:18 PM - May 08, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in ring theory\|Pool problems in ring theory]]                                  | 7:16 PM - May 08, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Automorphisms of a finite cyclic group\|Automorphisms of a finite cyclic group]] | 7:13 PM - May 08, 2025 |
+| Note                                                                                                                          | Last Updated           |
+| ----------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]                                                                    | 5:50 PM - May 19, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in ring theory\|Pool problems in ring theory]]   | 5:48 PM - May 19, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]] | 5:44 PM - May 19, 2025 |
 
 { .block-language-dataview}
 

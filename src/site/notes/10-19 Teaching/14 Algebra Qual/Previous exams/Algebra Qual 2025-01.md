@@ -48,7 +48,7 @@ Suppose $\phi:G\to G'$ is a surjective homomorphism, $H\leq G$ is a subgroup con
 
 A **Boolean algebra** is a ring $A$ with $1$ satisfying $x^2=x$ for all $x\in A$. Prove that in a Boolean algebra $A$:
 1. $2x=0$ for all $x\in A$.
-2. Every prime ideal $\mathfrak{p}$ is maximal, and $A/\mathfrak{p}$ is a field with two elements.
+2. Every nonzero prime ideal $\mathfrak{p}$ is maximal, and $A/\mathfrak{p}$ is a field with two elements.
 
 > [!info]- View $\LaTeX$ code
 > ```

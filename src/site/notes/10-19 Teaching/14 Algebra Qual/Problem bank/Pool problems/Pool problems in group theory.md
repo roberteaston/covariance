@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-group-theory/","updated":"2025-03-29T15:01:16-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-group-theory/","updated":"2025-05-19T17:44:35-07:00"}
 ---
 
 
@@ -462,30 +462,6 @@ Show that every finite group with more than two elements has a nontrivial automo
 > [!info]- View $\LaTeX$ code
 > ```
 > Show that every finite group with more than two elements has a nontrivial automorphism.
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/image-of-a-normal-subgroup-and-induced-morphisms/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Let $\sigma:G\to H$ be a group epimorphism. Let $N$ be a normal subgroup of $G$ and $K=\sigma(N)$, the image of $N$ in $H$.
-1. Prove that $K$ is a normal subgroup of $H$. Give an example to show that this is not true if $\sigma$ is not onto.
-2. Under what conditions does $\sigma$ induce a homomorphism $G/N\to H/K$, and when is this an isomorphism? Prove your answer.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> Let $\sigma:G\to H$ be a group epimorphism. Let $N$ be a normal subgroup of $G$ and $K=\sigma(N)$, the image of $N$ in $H$.
-> \begin{enumerate}[label=\alph*)]
-> 	\item Prove that $K$ is a normal subgroup of $H$. Give an example to show that this is not true if $\sigma$ is not onto.
-> 	\item Under what conditions does $\sigma$ induce a homomorphism $G/N\to H/K$, and when is this an isomorphism? Prove your answer.
-> \end{enumerate}
 > ```
 
 </div></div>

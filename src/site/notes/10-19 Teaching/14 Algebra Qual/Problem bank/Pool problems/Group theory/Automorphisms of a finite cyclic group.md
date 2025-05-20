@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/automorphisms-of-a-finite-cyclic-group/","tags":["group_theory"],"updated":"2025-05-08T19:13:01-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/automorphisms-of-a-finite-cyclic-group/","tags":["group_theory"],"updated":"2025-05-09T14:11:26-07:00"}
 ---
 
 Let ${\bf Z}_n$ denote the cyclic group of order $n$. Suppose $m\in {\bf N}$ is relatively prime to $n$. Define the function $\mu_m:{\bf Z}_n\to {\bf Z}_n$ by $\mu_m[a]_n=[ma]_n$.

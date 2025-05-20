@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-ring-theory/","updated":"2025-05-08T19:16:16-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-ring-theory/","updated":"2025-05-19T17:48:00-07:00"}
 ---
 
 
@@ -194,24 +194,6 @@ Prove that every Euclidean domain is a principal ideal domain.
 > [!info]- View $\LaTeX$ code
 > ```
 > Prove that every Euclidean domain is a principal ideal domain.
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/existence-of-an-identity-element-in-a-finite-ring/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Suppose $R$ is a finite ring with no nontrivial zero-divisors. Prove that $R$ contains an element $1$ satisfying $1\cdot a=a\cdot 1=a$ for all $a\in R$.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> Suppose $R$ is a finite ring with no nontrivial zero-divisors. Prove that $R$ contains an element $1$ satisfying $1\cdot a=a\cdot 1=a$ for all $a\in R$.
 > ```
 
 </div></div>
@@ -622,30 +604,6 @@ Let $[b]$ be the image of $b\in R$ in $R/N$. Prove that if $[a]\in R/N$ and $[a]
 >	N=\{a\in R\,\mid\, a^n=0\text{ for some }n\}.
 > \]
 > Let $[b]$ be the image of $b\in R$ in $R/N$. Prove that if $[a]\in R/N$ and $[a]^m=0$ then $[a]=[0]$.
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/quotients-and-direct-products/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Let $R_1,\ldots, R_k$ be commutative rings, and set $R=R_1\times \cdots \times R_k$.
-1. Let $I_j\subset R_j$ be ideals, and put $I=I_1\times \cdots \times I_k$. Use the First Isomorphism Theorem to prove that $R/I\simeq R_1/I_1\times \cdots \times R_k/I_k$.
-2. Prove the prime ideals of $R$ have the form $R_1\times \cdots \times R_{j-1}\times P_j\times R_{j+1}\times \cdots \times R_k$ where $P_j\subset R_j$ is a prime ideal for $1\leq j\leq k$. (Omit the proof that this is an ideal.)
-
-> [!info]- View $\LaTeX$ code
-> ```
-> Let $R_1,\ldots, R_k$ be commutative rings, and set $R=R_1\times \cdots \times R_k$.
-> 	\begin{enumerate}[label=\alph*)]
-> 		\item Let $I_j\subset R_j$ be ideals, and put $I=I_1\times \cdots \times I_k$. Use the First Isomorphism Theorem to prove that $R/I\simeq R_1/I_1\times \cdots \times R_k/I_k$.
-> 		\item Prove the prime ideals of $R$ have the form $R_1\times \cdots \times R_{j-1}\times P_j\times R_{j+1}\times \cdots \times R_k$ where $P_j\subset R_j$ is a prime ideal for $1\leq j\leq k$. (Omit the proof that this is an ideal.)
-> 	\end{enumerate}
 > ```
 
 </div></div>
