@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/lawrence-and-ruth-renihan-scholarship-mathematics/","updated":"2025-05-07T10:06:25-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/lawrence-and-ruth-renihan-scholarship-mathematics/","updated":"2025-05-20T15:32:38-07:00"}
 ---
 
 ## Description
@@ -21,8 +21,8 @@
 
 ## Donor info
 ---
-If I find any donor info, I'll put that here.
 
+Marie Porter Lehman was a school teacher with a special interest in mathematics and in teaching gifted students. This scholarship was established in 2001 by Marie’s family and is awarded to a student in a teaching credential program or master’s degree program that is headed for a career as a mathematics teacher.
 
 ## Related pages
 ---

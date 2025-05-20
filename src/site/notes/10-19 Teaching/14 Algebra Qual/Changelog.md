@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-05-19T18:56:53-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-05-20T15:24:48-07:00"}
 ---
 
 ## Most recent update

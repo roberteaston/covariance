@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/scholarship-for-the-advancement-of-science-and-technology-math/","updated":"2025-05-07T10:11:14-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/scholarship-for-the-advancement-of-science-and-technology-math/","updated":"2025-05-20T15:33:05-07:00"}
 ---
 
 ## Description
@@ -21,7 +21,8 @@
 
 ## Donor info
 ---
-If I find any more donor info, I'll put that here.
+
+This scholarship was established by two Cal Poly College of Science and Mathematics alums. Catherine (Katie) and Nichols Dellamaggiore. Catherine graduated as a Statistics major in 2001 and Nick with a double in Computer Science and Mathematics in 2002.
 
 ## Related pages
 ---

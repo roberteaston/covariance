@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/charles-j-hanks-mathematics-scholarship/","updated":"2025-05-07T10:07:03-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/charles-j-hanks-mathematics-scholarship/","updated":"2025-05-20T15:33:37-07:00"}
 ---
 
 ## Description
@@ -24,6 +24,8 @@ The second criterion above is vague, but is reflected in the fact that this scho
 
 ## Donor info
 ---
+
+Charlie Hanks was a member of the department from 1954 to 1983 and served as chair from 1972 to 1982. This scholarship was established in his memory by his wife Marjorie in 2000 and supports Mathematics majors who have demonstrated scholastic achievement. Marjorie passed away a few years ago, but support of the award has been picked up by math alumnus Steve Corcoran whom Dr. Hanks mentored as a student.
 
 ## Related pages
 ---

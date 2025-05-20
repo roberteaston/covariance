@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/george-h-mc-meen-scholarship-endowment/","updated":"2025-05-07T10:07:41-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/george-h-mc-meen-scholarship-endowment/","updated":"2025-05-20T15:32:52-07:00"}
 ---
 
 ## Description
@@ -22,7 +22,8 @@ According to the internal coding in the Cal Poly Scholarships system, the 3.0+ G
 
 ## Donor info
 ---
-If I find any donor info, I'll put that here.
+
+George McMeen was a member of the math faculty from 1960 to 1977. The scholarship fund was established in 2004 in George’s memory by his family.
 
 ## Related pages
 ---

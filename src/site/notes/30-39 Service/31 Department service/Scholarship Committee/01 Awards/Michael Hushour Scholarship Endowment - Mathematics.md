@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/michael-hushour-scholarship-endowment-mathematics/","updated":"2025-05-07T10:08:57-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/michael-hushour-scholarship-endowment-mathematics/","updated":"2025-05-20T15:30:50-07:00"}
 ---
 
 ## Description
@@ -20,7 +20,8 @@
 
 ## Donor info
 ---
-If I find any donor info, I'll put that here.
+
+Michael Hushour is a Cal Poly Mathematics Alumnus who received his BS degree in 1969 and MS degree in 1971. He established this award to support mathematics majors in 2013.
 
 
 ## Related pages

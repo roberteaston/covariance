@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/clyde-p-fisher-memorial-scholarship-endowment/","updated":"2025-05-07T09:54:19-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/clyde-p-fisher-memorial-scholarship-endowment/","updated":"2025-05-20T15:34:53-07:00"}
 ---
 
 ## Description
@@ -22,7 +22,8 @@ This award is given to a single student meeting the following criteria:
 
 ## Donor info
 ---
-If I learn any donor info, I'll put that here.
+
+This award honors Clyde Fisher the former Dean of the College of Science and Mathematics from 1947 to 1975.
 
 ## Related pages
 ---

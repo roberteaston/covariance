@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/barry-family-scholarship/","updated":"2025-05-07T10:01:46-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/barry-family-scholarship/","updated":"2025-05-20T15:26:46-07:00"}
 ---
 
 ## Description
@@ -22,7 +22,8 @@
 
 ## Donor info
 ---
-If I track down any info about the donor, I'll put that here.
+
+Established in 2016 by Alexi and Tyler Barry, both Cal Poly math majors who graduated in the mid-2000s.
 
 ## Related pages
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/ralph-m-warten-memorial-scholarship-endowment-fund-mathematics/","updated":"2025-05-07T10:10:52-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/ralph-m-warten-memorial-scholarship-endowment-fund-mathematics/","updated":"2025-05-20T15:33:23-07:00"}
 ---
 
 ## Description
@@ -23,8 +23,8 @@
 
 ## Donor info
 ---
-If I find any info about the donor, I'll put that here.
 
+This scholarship was established in 1988 by Mrs. Grace Warten as a memorial to her husband Ralph M. Warten who taught in the math dept from 1968 to 1983.
 
 ## Related pages
 ---

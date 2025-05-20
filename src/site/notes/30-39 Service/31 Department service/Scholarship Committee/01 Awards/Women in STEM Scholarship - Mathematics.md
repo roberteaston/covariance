@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/women-in-stem-scholarship-mathematics/","updated":"2025-05-07T10:13:31-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/women-in-stem-scholarship-mathematics/","updated":"2025-05-20T15:26:08-07:00"}
 ---
 
 ## Description
@@ -21,7 +21,8 @@
 
 ## Donor info
 ---
-If I find any donor info, I'll put that there.
+
+Established by the Nevada National Security site and Cal Poly alum Mike Abbot.
 
 
 ## Related pages

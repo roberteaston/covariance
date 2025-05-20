@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/bryant-russell-memorial/","updated":"2025-05-07T13:26:42-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/bryant-russell-memorial/","updated":"2025-05-20T15:34:11-07:00"}
 ---
 
 ## Description
@@ -19,7 +19,8 @@
 
 ## Donor info
 ---
-If I find any info on the donor, I'll put that here.
+
+This award was established by the parents of Bryant Russell in 1996 and is awarded to, “an outstanding mathematics student.”
 
 ## Related pages
 ---

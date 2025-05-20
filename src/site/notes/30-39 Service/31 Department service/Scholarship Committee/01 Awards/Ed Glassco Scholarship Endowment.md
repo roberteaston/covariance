@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/ed-glassco-scholarship-endowment/","updated":"2025-05-07T10:02:48-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/ed-glassco-scholarship-endowment/","updated":"2025-05-20T15:32:06-07:00"}
 ---
 
 ## Description
@@ -22,7 +22,8 @@
 
 ## Donor info
 ---
-If I find any donor info, I'll put that there.
+
+Ed was a member of the department from 1969 until he passed away suddenly in 2002. His wife, Julie Thompson, set up this scholarship in 2008 in Ed's honor.
 
 ## Related pages
 ---

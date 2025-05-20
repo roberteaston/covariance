@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/outstanding-thesis/","updated":"2025-05-07T10:17:09-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/outstanding-thesis/","updated":"2025-05-20T15:35:13-07:00"}
 ---
 
 ## Description
@@ -17,7 +17,7 @@
 ## Donor info
 ---
 
-Todor Todorov. I need to add some bio for him here.
+This award was established in 2019 by emeritus professor Todor Todorov to encourage more students to write theses as part of their graduate work. Since most students don’t finish their work before this banquet (not looking at anyone in particular here), this award is given for the best thesis turned in by the end of the previous year.
 
 ## Related pages
 ---

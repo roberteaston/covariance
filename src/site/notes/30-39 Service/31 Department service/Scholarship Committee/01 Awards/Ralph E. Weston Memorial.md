@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/ralph-e-weston-memorial/","updated":"2025-05-07T10:01:33-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/ralph-e-weston-memorial/","updated":"2025-05-20T15:34:28-07:00"}
 ---
 
 ## Description
@@ -23,7 +23,7 @@
 ## Donor info
 ---
 
-If I can track down some info about Ralph E. Weston, I'll put that here.
+This award was established in 1986 to honor the top two scorers from Cal Poly in the William Lowell Putnam Exam Competition held in December.
 
 ## Related pages
 ---

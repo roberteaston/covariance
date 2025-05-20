@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/carol-s-and-w-boyd-judd-scholarship-endowment/","updated":"2025-05-07T10:01:52-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/carol-s-and-w-boyd-judd-scholarship-endowment/","updated":"2025-05-20T15:31:05-07:00"}
 ---
 
 ## Description
@@ -22,7 +22,8 @@
 
 ## Donor info
 ---
-If I find any info about the donors, I'll put that here.
+
+Boyd Judd was a faculty member in our department from 1956 until his retirement in 1981, and his wife Carol established this scholarship in his honor in 2007.
 
 ## Related pages
 ---

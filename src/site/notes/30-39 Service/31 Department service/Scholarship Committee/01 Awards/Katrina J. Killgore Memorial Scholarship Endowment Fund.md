@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/katrina-j-killgore-memorial-scholarship-endowment-fund/","updated":"2025-05-07T10:04:26-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/katrina-j-killgore-memorial-scholarship-endowment-fund/","updated":"2025-05-20T15:32:21-07:00"}
 ---
 
 ## Description
@@ -22,7 +22,8 @@
 
 ## Donor info
 ---
-If I find any additional donor info, I'll place that here.
+
+Katrina Killgore was a junior math major who passed away suddenly in 1987. Her father, Mr. Roy Killgore, established this scholarship in 1987 in honor of his daughter and to encourage and reward students who achieve a measure of success in overall scholastic improvement.
 
 ## Related pages
 ---

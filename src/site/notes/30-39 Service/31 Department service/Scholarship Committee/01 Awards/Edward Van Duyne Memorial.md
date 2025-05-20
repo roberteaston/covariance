@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/edward-van-duyne-memorial/","updated":"2025-05-07T14:13:09-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/edward-van-duyne-memorial/","updated":"2025-05-20T15:33:58-07:00"}
 ---
 
 ## Description
@@ -18,7 +18,8 @@ Informally, the Scholarship Committee tends to choose recipients that did not re
 
 ## Donor info
 ---
-If I learn any donor info, I'll put that here.
+
+Edward Van Duyne graduated with a bachelor’s degree in mathematics from Cal Poly in 1960. After graduation, he had a long career with the Federal Aviation Administration and eventually earned a master’s degree from John Hopkins University. His estate established this scholarship in 2016 with an extraordinary 1.8 million dollar gift.
 
 ## Related pages
 ---

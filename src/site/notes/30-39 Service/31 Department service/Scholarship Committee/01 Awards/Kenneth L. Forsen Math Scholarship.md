@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/kenneth-l-forsen-math-scholarship/","updated":"2025-05-07T07:09:10-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/kenneth-l-forsen-math-scholarship/","updated":"2025-05-20T15:31:56-07:00"}
 ---
 
 ## Description
@@ -16,7 +16,8 @@
 
 ## Donor info
 ---
-If I find any donor info, I'll put that here.
+
+This scholarship was established as a trust by Kenneth Forsen in order to benefit the Math Department at Cal Poly.
 
 
 ## Related pages

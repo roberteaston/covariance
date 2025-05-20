@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/volmar-a-and-viola-i-folsom-scholarship-endowment-fund/","updated":"2025-05-07T10:12:30-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/volmar-a-and-viola-i-folsom-scholarship-endowment-fund/","updated":"2025-05-20T15:31:42-07:00"}
 ---
 
 ## Description
@@ -21,7 +21,8 @@
 
 ## Donor info
 ---
-If I learn any donor info, I'll put that here.
+
+This scholarship was established in 1987 by Viola Folsom in honor of her husband Volmar Folsom who was on the math faculty from 1946 until 1975.
 
 ## Related pages
 ---

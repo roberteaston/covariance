@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/w-boyd-judd-memorial-scholarship-endowment/","updated":"2025-05-07T10:12:55-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/w-boyd-judd-memorial-scholarship-endowment/","updated":"2025-05-20T15:31:18-07:00"}
 ---
 
 ## Description
@@ -20,7 +20,8 @@
 
 ## Donor info
 ---
-If I find any donor info, I'll put that here.
+
+This award is in honor of Boyd Judd and was establish by Carol and Anita Judd in 2007 to honor a member of a math club, like Kappa Mu Epsilon, Association of Women in Mathematics, the Future Math Educators Club, or the Math Club and is based on scholarship, service, and need.
 
 ## Related pages
 ---
