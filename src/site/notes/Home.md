@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener nofollow">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                      | Last Updated           |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Outstanding Thesis\|Outstanding Thesis]]                                                         | 3:35 PM - May 20, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Clyde P. Fisher Memorial Scholarship Endowment\|Clyde P. Fisher Memorial Scholarship Endowment]] | 3:34 PM - May 20, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Accenture Outstanding Junior Math Award\|Accenture Outstanding Junior Math Award]]               | 3:34 PM - May 20, 2025 |
+| Note                                                                                                                                                                        | Last Updated           |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Carol S. and W. Boyd Judd Scholarship Endowment\|Carol S. and W. Boyd Judd Scholarship Endowment]] | 8:56 AM - May 23, 2025 |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Accenture Outstanding Junior Math Award\|Accenture Outstanding Junior Math Award]]                 | 8:44 AM - May 23, 2025 |
+| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Bryant Russell Memorial\|Bryant Russell Memorial]]                                                 | 8:39 AM - May 23, 2025 |
 
 { .block-language-dataview}
 

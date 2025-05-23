@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/accenture-outstanding-junior-math-award/","updated":"2025-05-20T15:34:40-07:00"}
+{"dg-publish":true,"permalink":"/30-39-service/31-department-service/scholarship-committee/01-awards/accenture-outstanding-junior-math-award/","updated":"2025-05-23T08:44:16-07:00"}
 ---
 
 ## Description
@@ -24,7 +24,7 @@ Superior skills should be demonstrated in the following areas:
 ## Donor info
 ---
 
-This award is sponsored by the consulting firm Accenture and goes to a student who has demonstrated superior leadership skills, has an ability to work effectively with peers and faculty, and is strong academically.
+This award is sponsored by the consulting firm [Accenture](https://www.accenture.com/us-en). I have yet to determine when this award was first established and what connection the firm has to Cal Poly.
 
 ## Related pages
 ---
