@@ -14,9 +14,9 @@
 
 | Note                                                                                                                                                                        | Last Updated           |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
+| [[test note with bases plugin\|test note with bases plugin]]                                                                                                             | 9:52 AM - May 26, 2025 |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Carol S. and W. Boyd Judd Scholarship Endowment\|Carol S. and W. Boyd Judd Scholarship Endowment]] | 8:56 AM - May 23, 2025 |
 | [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Accenture Outstanding Junior Math Award\|Accenture Outstanding Junior Math Award]]                 | 8:44 AM - May 23, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Bryant Russell Memorial\|Bryant Russell Memorial]]                                                 | 8:39 AM - May 23, 2025 |
 
 { .block-language-dataview}
 
