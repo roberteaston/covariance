@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-group-theory/","updated":"2025-05-19T17:44:35-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-group-theory/","updated":"2025-05-26T19:34:36-07:00"}
 ---
 
 
@@ -426,24 +426,6 @@ Let $N$ be a finite normal subgroup of $G$. Prove there is a normal subgroup $M$
 > 
 > \medskip
 > \noindent ({\itshape Hint:} You may use the fact that the centralizer $C(h):=\{g\in G\mid ghg^{-1}=h\}$ is a subgroup of $G$.)
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/existence-of-an-identity-element-in-a-group/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Suppose $G$ is a nonempty finite set that has an associative pairing $G\times G\to G$, written $(x,y)\mapsto x\cdot y$. Suppose this pairing satisfies left and right cancellation: $x\cdot y = x\cdot y'$ implies $y=y'$, and $x\cdot y = x'\cdot y$ implies $x=x'$. Prove there exists an element $e$ of $G$ such that for all $x\in G$, $e\cdot x = x\cdot e = x$. Justify your reasoning as carefully as possible.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> Suppose $G$ is a nonempty finite set that has an associative pairing $G\times G\to G$, written $(x,y)\mapsto x\cdot y$. Suppose this pairing satisfies left and right cancellation: $x\cdot y = x\cdot y'$ implies $y=y'$, and $x\cdot y = x'\cdot y$ implies $x=x'$. Prove there exists an element $e$ of $G$ such that for all $x\in G$, $e\cdot x = x\cdot e = x$. Justify your reasoning as carefully as possible.
 > ```
 
 </div></div>

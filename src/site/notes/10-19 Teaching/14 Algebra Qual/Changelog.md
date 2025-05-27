@@ -4,6 +4,13 @@
 
 ## Most recent update
 ---
+
+**May 26, 2025**
+- Removed the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Existence of an identity element in a group\|Existence of an identity element in a group]] from the Problem Bank. It was similar to, but more awkward than [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Ring theory/Existence of an identity element in a finite ring\|Existence of an identity element in a finite ring]].
+
+## Earlier updates
+---
+
 **May 19, 2025**
 - Removed from the problem bank the following problems, each for being either too tricky, long, or ambiguous:
 	- [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Ring theory/Existence of an identity element in a finite ring\|Existence of an identity element in a finite ring]]
@@ -12,9 +19,6 @@
 	- [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Image of a normal subgroup and induced morphisms\|Image of a normal subgroup and induced morphisms]]
 	- [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/Analyzing an unusual matrix\|Analyzing an unusual matrix]]
 
-
-## Earlier updates
----
 **May 8, 2025**
 - Fixed a typo in [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Automorphisms of a finite cyclic group\|Automorphisms of a finite cyclic group]]. Previously the definition of the map $\mu_m$ was typographically mangled.
 - The problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Ring theory/Boolean algebras\|Boolean algebras]] was removed from the Problem Bank. It is tricky in a way that does not necessarily test understanding of core concepts in ring theory.
