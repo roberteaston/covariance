@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" rel="noopener nofollow" class="external-link" href="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" target="_blank">Peter Freyd</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
+<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                        | Last Updated           |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]]                                               | 7:34 PM - May 26, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Carol S. and W. Boyd Judd Scholarship Endowment\|Carol S. and W. Boyd Judd Scholarship Endowment]] | 8:56 AM - May 23, 2025 |
-| [[30-39 Service/31 Department service/Scholarship Committee/01 Awards/Accenture Outstanding Junior Math Award\|Accenture Outstanding Junior Math Award]]                 | 8:44 AM - May 23, 2025 |
+| Note                                                                                                                                             | Last Updated             |
+| ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| [[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]                                                                                       | 10:17 AM - June 04, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]]                    | 10:16 AM - June 04, 2025 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Centralizers in symmetric groups\|Centralizers in symmetric groups]] | 10:16 AM - June 04, 2025 |
 
 { .block-language-dataview}
 
@@ -73,9 +73,9 @@
 { .block-language-dataview}
 
 > [!summary]- Field theory
->  | Note                                                                                                              | Last Updated             |
-> | ----------------------------------------------------------------------------------------------------------------- | ------------------------ |
-> | [[40-49 Knowledge/41 Mathematics/Field theory/A question about finite fields\|A question about finite fields]] | 7:24 AM - March 31, 2025 |
+>  | Note                                                                                                              | Last Updated            |
+> | ----------------------------------------------------------------------------------------------------------------- | ----------------------- |
+> | [[40-49 Knowledge/41 Mathematics/Field theory/A question about finite fields\|A question about finite fields]] | 10:26 AM - May 30, 2025 |
 > 
 { .block-language-dataview}
 

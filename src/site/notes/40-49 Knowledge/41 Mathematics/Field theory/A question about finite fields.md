@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/field-theory/a-question-about-finite-fields/","tags":["field_theory"],"updated":"2025-03-31T07:24:50-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/field-theory/a-question-about-finite-fields/","tags":["field_theory"],"updated":"2025-05-30T10:26:01-07:00"}
 ---
 
 ## Background

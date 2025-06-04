@@ -1,15 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-05-20T15:24:48-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-06-04T10:17:28-07:00"}
 ---
 
 ## Most recent update
 ---
 
-**May 26, 2025**
-- Removed the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Existence of an identity element in a group\|Existence of an identity element in a group]] from the Problem Bank. It was similar to, but more awkward than [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Ring theory/Existence of an identity element in a finite ring\|Existence of an identity element in a finite ring]].
+**June 4, 2025**
+- Added the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Centralizers in symmetric groups\|Centralizers in symmetric groups]] to the problem bank.
+
 
 ## Earlier updates
 ---
+
+**May 26, 2025**
+- Removed the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Existence of an identity element in a group\|Existence of an identity element in a group]] from the Problem Bank. It was similar to, but more awkward than [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Ring theory/Existence of an identity element in a finite ring\|Existence of an identity element in a finite ring]].
 
 **May 19, 2025**
 - Removed from the problem bank the following problems, each for being either too tricky, long, or ambiguous:
@@ -40,11 +44,9 @@
 	- [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/Numerical range of a linear transformation\|Numerical range of a linear transformation]]
 	- [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/Projections and adjoints\|Projections and adjoints]]
 
-
 **March 31, 2025**
 - Added [[10-19 Teaching/14 Algebra Qual/Notation Key\|Notation Key]]
 - Updated typography
-
 
 **March 29, 2025**
 Initial release, including:

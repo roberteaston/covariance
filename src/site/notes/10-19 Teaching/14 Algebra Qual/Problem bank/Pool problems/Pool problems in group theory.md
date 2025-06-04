@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-group-theory/","updated":"2025-05-26T19:34:36-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/pool-problems-in-group-theory/","updated":"2025-06-04T10:16:44-07:00"}
 ---
 
 
@@ -268,6 +268,42 @@ Let ${\bf Z}_n$ denote the cyclic group of order $n$. Suppose $m\in {\bf N}$ is 
 > \begin{enumerate}[label=\alph*)]
 > 	\item Prove that the map $\mu_m$ is a well-defined automorphism of ${\bf Z}_n$.
 > 	\item Prove that any automorphism of ${\bf Z}_n$ has the form $\mu_m$ for some $m$.
+> \end{enumerate}
+> ```
+
+</div></div>
+
+
+---
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/centralizers-in-symmetric-groups/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+For a group $G$ and an element $g\in G$, the **centralizer** of $g$ in $G$ is the subgroup
+
+$C_G(g)=\{h\in G:hgh^{-1}=g\}.$
+
+We say $g$ and $g’$ are **conjugate in $G$** if there exists an element $h\in G$ such that $g’=hgh^{-1}$.
+
+Suppose $S_n$ is a symmetric group with $n\geq 4$, and $\sigma$ is one of the $(n-2)$-cycles in $S_n$. (There are $\frac{n!}{2(n-2)}$ such cycles.)
+1. Prove that $[S_n:C_{S_n}(\sigma)]=[A_n:C_{A_n}(\sigma)]$.
+2. Determine whether all $(n-2)$-cycles are conjugate in $A_n$.
+
+> [!info]- View $\LaTeX$ code
+> ```
+> For a group $G$ and an element $g\in G$, the {\bfseries centralizer} of $g$ in $G$ is the subgroup
+> \[
+> 	C_G(g)=\{h\in G:hgh^{-1}=g\}.
+> \]
+> We say $g$ and $g’$ are {\bfseries conjugate in $G$} if there exists an element $h\in G$ such that $g’=hgh^{-1}$.
+> 
+> Suppose $S_n$ is a symmetric group with $n\geq 4$, and $\sigma$ is one of the $(n-2)$-cycles in $S_n$. (There are $\frac{n!}{2(n-2)}$ such cycles.)
+> \begin{enumerate}[label=\alph*)]
+> 	\item Prove that $[S_n:C_{S_n}(\sigma)]=[A_n:C_{A_n}(\sigma)]$.
+> 	\item Determine whether all $(n-2)$-cycles are conjugate in $A_n$.
 > \end{enumerate}
 > ```
 
