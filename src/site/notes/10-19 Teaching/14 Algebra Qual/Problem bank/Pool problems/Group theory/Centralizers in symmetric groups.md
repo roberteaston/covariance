@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/centralizers-in-symmetric-groups/","tags":["group_theory"],"updated":"2025-06-04T10:16:03-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/centralizers-in-symmetric-groups/","tags":["group_theory"],"updated":"2025-06-07T14:18:38-07:00"}
 ---
 
 For a group $G$ and an element $g\in G$, the **centralizer** of $g$ in $G$ is the subgroup

@@ -5,8 +5,8 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
-<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
 </div></div></span></p>
 
 ## Recently updated notes
@@ -14,9 +14,9 @@
 
 | Note                                                                                                                                             | Last Updated             |
 | ------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]]                                                    | 8:51 AM - June 13, 2025  |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Centralizers in symmetric groups\|Centralizers in symmetric groups]] | 2:18 PM - June 07, 2025  |
 | [[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]                                                                                       | 10:17 AM - June 04, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]]                    | 10:16 AM - June 04, 2025 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Centralizers in symmetric groups\|Centralizers in symmetric groups]] | 10:16 AM - June 04, 2025 |
 
 { .block-language-dataview}
 
@@ -50,7 +50,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|Abelian categories]]                                                                                               | 12:33 PM - March 31, 2025   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories\|Additive categories]]                                                                                             | 12:34 PM - March 31, 2025   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]                                                                                                                             | 12:38 PM - March 31, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]]                                                                                                                 | 12:40 PM - March 31, 2025   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]]                                                                                                                 | 8:51 AM - June 13, 2025     |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Chain complexes\|Chain complexes]]                                                                                                     | 12:34 PM - March 31, 2025   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram chases without elements\|Diagram chases without elements]]                                                                     | 7:26 PM - November 23, 2024 |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas\|Diagram lemmas]]                                                                                                       | 12:34 PM - March 31, 2025   |
