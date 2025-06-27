@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","updated":"2025-06-27T10:44:11-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","updated":"2025-06-27T13:56:45-07:00"}
 ---
 
-> [!quote] The Tagline
+> [!quote] The tagline
 > It's time for a purely categorical development of representation theory.
 
 ## Project summary
