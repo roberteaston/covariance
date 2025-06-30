@@ -7,6 +7,8 @@
 
 | Meeting Date                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-06-30\|REU Meeting - 2025-06-30]] |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-06-26\|REU Meeting - 2025-06-26]] |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-27\|REU Meeting - 2024-08-27]]                        |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-23\|REU Meeting - 2024-08-23]]                        |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-20\|REU Meeting - 2024-08-20]]                        |
@@ -23,7 +25,6 @@
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-09\|REU Meeting - 2024-07-09]]                        |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-05\|REU Meeting - 2024-07-05]]                        |
 | [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-02\|REU Meeting - 2024-07-02]]                        |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-06-26\|REU Meeting - 2025-06-26]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-01\|REU Meeting - 2025-07-01]]  |
 
 { .block-language-dataview}
