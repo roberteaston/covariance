@@ -11,6 +11,7 @@ We briefly chatted about our goal for this first week of our project, namely to 
 - [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]]
 - [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors\|Functors]]
 - [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|Natural transformations]]
+
 We also talked briefly about how the objects of categories should be viewed as "dots" or "pegs", which in general have no additional structure (e.g., elements). Along those same lines, arrows should be viewed as ... arrows. In particular, the arrows do not need to correspond to actual set maps of any type. Keeping these two pictures in mind will help guide our decisions in the future as we attempt to slowly repackage "every" concept as a statement about an arrow.
 
 ## Tasks for next meeting
