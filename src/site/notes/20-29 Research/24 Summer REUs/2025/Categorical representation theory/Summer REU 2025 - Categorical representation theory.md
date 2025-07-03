@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","updated":"2025-07-01T10:52:41-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","updated":"2025-07-03T09:31:53-07:00"}
 ---
 
 > [!quote] The tagline
@@ -20,6 +20,7 @@ Each of these aims is open-ended. Some things will be quickly and easily dealt w
 
 | Meeting Date                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-03\|REU Meeting - 2025-07-03]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-06-30\|REU Meeting - 2025-06-30]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-06-26\|REU Meeting - 2025-06-26]] |
 
@@ -28,7 +29,7 @@ Each of these aims is open-ended. Some things will be quickly and easily dealt w
 ## Task list
 
 *Tasks will be added after each meeting.*
-### Summarize Classical Representation Theory: Part I
+### Classical Representation Theory: Part I
 
 - [x] Summarize classical definitions of a representation of a group $G$, including:
 	- [x] matrix representations
@@ -44,15 +45,28 @@ Each of these aims is open-ended. Some things will be quickly and easily dealt w
 
 ### Categorification: Part I
 
- - [ ] Carefully describe the "categorification" construction.
-	 - [ ] Define a "categorization" functor $\textbf{Grp}\to \textbf{Cat}$? Make sure to describe what happens to arrows in $\textbf{Grp}$, i.e., group morphisms.
-	- [ ] Describe the "image" of this functor.
-	- [ ] Verify that functors $\textbf{G}\to \textbf{H}$ correspond to group morphisms $G\to H$.
-	- [ ] Similarly "categorify" any monoid.
-- [ ] Explicitly describe the functors between the three categories listed above.\
-	- [ ] Make sure to verify that arrows in the third (functor) category correspond to intertwiners.
-	- [ ] Convince yourselves the categories are equivalent.
-	- [ ] Determine which (if any) of those three categories are isomorphic.
+ - [x] Carefully describe the "categorification" construction.
+	 - [x] Define a "categorization" functor $\textbf{Grp}\to \textbf{Cat}$? Make sure to describe what happens to arrows in $\textbf{Grp}$, i.e., group morphisms.
+	- [x] Describe the "image" of this functor.
+	- [x] Verify that functors $\textbf{G}\to \textbf{H}$ correspond to group morphisms $G\to H$.
+	- [x] Similarly "categorify" any monoid.
+- [x] Explicitly describe the functors between the category of $F$-linear representations of $G$, the category of $F[G]$-modules, and the category of functors $\textbf{G} \to \textbf{Vec}_F$.
+	- [x] Make sure to verify that arrows in the third (functor) category correspond to intertwiners.
+	- [x] Convince yourselves the categories are equivalent.
+	- [x] Determine which (if any) of those three categories are isomorphic.
+
+### Classical Representation Theory: Part II
+
+- [ ]  classical definitions of
+	- [ ] (ir)reducible representations
+	- [ ] completely reducible representations
+	- [ ] (in)decomposable representations
+- [ ] Give explicit examples of each of the above , including possible combinations; e.g., a representation that is indecomposable and reducible.
+- [ ] Give an example of a field extension $F\to E$ and a matrix representation over $F$ that is irreducible over $F$ but reducible over $E$ (see page 848 in Dummit & Foote).
+	- [ ] Turn this into an example in the category of linear representations (as opposed to matrix representations).
+- [ ] State Maschke's Theorem and summarize the proof
+- [ ] Try the following exercises in Section 18.1 of Dummit & Foote:
+	- 1, 2, 3, 5, 13-16, 20
 
 ## The team
 ---

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","updated":"2025-07-01T14:32:04-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","updated":"2025-07-03T07:31:18-07:00"}
 ---
 
 

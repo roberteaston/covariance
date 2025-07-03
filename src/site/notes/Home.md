@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
-<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                | Last Updated            |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[20-29 Research/24 Summer REUs/2025/Project Single Arrow/Summer REU 2025 - Project arrow\|Summer REU 2025 - Project arrow]]                                     | 7:31 AM - July 03, 2025 |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-01\|REU Meeting - 2025-07-01]]                                       | 2:30 PM - July 01, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]] | 2:10 PM - July 01, 2025 |
+| Note                                                                                                                                                                                 | Last Updated            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-03\|REU Meeting - 2025-07-03]]                                                       | 9:37 AM - July 03, 2025 |
+| [[20-29 Research/24 Summer REUs/2025/Categorical representation theory/Summer REU 2025 - Categorical representation theory\|Summer REU 2025 - Categorical representation theory]] | 9:31 AM - July 03, 2025 |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-01\|REU Meeting - 2025-07-01]]                                                        | 7:31 AM - July 03, 2025 |
 
 { .block-language-dataview}
 
