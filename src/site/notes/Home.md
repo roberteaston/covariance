@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                                 | Last Updated             |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------ |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-07\|REU Meeting - 2025-07-07]]                                                       | 10:13 AM - July 07, 2025 |
-| [[20-29 Research/24 Summer REUs/2025/Categorical representation theory/Summer REU 2025 - Categorical representation theory\|Summer REU 2025 - Categorical representation theory]] | 10:05 AM - July 07, 2025 |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-03\|REU Meeting - 2025-07-03]]                                                       | 7:27 PM - July 06, 2025  |
+| Note                                                                                                                            | Last Updated            |
+| ------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[20-29 Research/24 Summer REUs/2025/Project Single Arrow/Summer REU 2025 - Project arrow\|Summer REU 2025 - Project arrow]] | 1:11 PM - July 08, 2025 |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-08\|REU Meeting - 2025-07-08]]   | 1:09 PM - July 08, 2025 |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-01\|REU Meeting - 2025-07-01]]   | 9:34 AM - July 08, 2025 |
 
 { .block-language-dataview}
 
@@ -125,9 +125,9 @@
 { .block-language-dataview}
 
 > [!summary]- Representation theory
->  | Note                                                                                                                                            | Last Updated             |
-> | ----------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-> | [[40-49 Knowledge/41 Mathematics/Representation theory/Basic definitions and examples/Representations of groups\|Representations of groups]] | 2:31 PM - April 09, 2025 |
+>  | Note                                                                                                                                            | Last Updated            |
+> | ----------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+> | [[40-49 Knowledge/41 Mathematics/Representation theory/Basic definitions and examples/Representations of groups\|Representations of groups]] | 9:26 AM - July 08, 2025 |
 > 
 { .block-language-dataview}
 

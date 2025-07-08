@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","updated":"2025-07-03T07:31:18-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","updated":"2025-07-08T13:03:26-07:00"}
 ---
 
 
@@ -22,6 +22,7 @@ We are going to take that philosophy to the extreme, by attempting to recharacte
 
 | Meeting Date                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-08\|REU Meeting - 2025-07-08]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-01\|REU Meeting - 2025-07-01]] |
 
 { .block-language-dataview}
@@ -32,16 +33,23 @@ We are going to take that philosophy to the extreme, by attempting to recharacte
 
 ### Learn the Basics of Category Theory: Categories, Functors and Natural Transformations
 
-- [ ] In  *Categories for the Working Mathematician*:
-	- [ ]  Read Sections 1.2-1.4
-	- [ ] Try the following exercises:
+- [x] In  *Categories for the Working Mathematician*:
+	- [x]  Read Sections 1.2-1.4
+	- [x] Try the following exercises:
 		- 1.3: 2, 3c, 4
 		- 1.4: 1, 3, 6
-- [ ] In *The Joy of Cats*, read/skim:
-	- [ ] Section 1
-	- [ ] Sections 3.1-3.3, 3.17-3.20
-	- [ ] Sections 6.1-6.4
+- [x] In *The Joy of Cats*, read/skim:
+	- [x] Section 1
+	- [x] Sections 3.1-3.3, 3.17-3.20
+	- [x] Sections 6.1-6.4
 
+### Categorifying the Notions of Injective and Surjective
+- [ ] In *Categories for the Working Mathematician*:
+	- [ ] Read Section 1.5 and the notes at the end of Chapter 1
+	- [ ] Try the following exercises:
+		- 1.5: 1-6
+- [ ] In *The Joy of Cats*:
+	- [ ] Read/skim through Chapters 5, 7 and 8
 
 ## The team
 ---
