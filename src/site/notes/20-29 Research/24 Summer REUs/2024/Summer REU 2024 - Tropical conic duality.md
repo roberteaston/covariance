@@ -7,6 +7,7 @@
 
 | Meeting Date                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-10\|REU Meeting - 2025-07-10]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-08\|REU Meeting - 2025-07-08]]  |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-07\|REU Meeting - 2025-07-07]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-03\|REU Meeting - 2025-07-03]] |

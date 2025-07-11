@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">Before functoriality, people lived in caves.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
+<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                            | Last Updated            |
-| ------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[20-29 Research/24 Summer REUs/2025/Project Single Arrow/Summer REU 2025 - Project arrow\|Summer REU 2025 - Project arrow]] | 1:11 PM - July 08, 2025 |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-08\|REU Meeting - 2025-07-08]]   | 1:09 PM - July 08, 2025 |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-01\|REU Meeting - 2025-07-01]]   | 9:34 AM - July 08, 2025 |
+| Note                                                                                                                                                                                 | Last Updated            |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------- |
+| [[20-29 Research/24 Summer REUs/2025/Categorical representation theory/Summer REU 2025 - Categorical representation theory\|Summer REU 2025 - Categorical representation theory]] | 2:36 PM - July 11, 2025 |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-10\|REU Meeting - 2025-07-10]]                                                       | 2:33 PM - July 11, 2025 |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-07\|REU Meeting - 2025-07-07]]                                                       | 2:25 PM - July 11, 2025 |
 
 { .block-language-dataview}
 
