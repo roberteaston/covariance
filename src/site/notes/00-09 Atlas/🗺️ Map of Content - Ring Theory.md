@@ -6,7 +6,7 @@
 ---
 
 [[40-49 Knowledge/41 Mathematics/Ring theory/Special types of rings/Principal ideal domains (PIDs)\|Principal ideal domains (PIDs)]]
-[[40-49 Knowledge/41 Mathematics/Ring theory/Graded rings\|Graded rings]]
+[[40-49 Knowledge/41 Mathematics/Ring theory/Special types of rings/Graded rings\|Graded rings]]
 
 ## Miscellaneous results
 ---

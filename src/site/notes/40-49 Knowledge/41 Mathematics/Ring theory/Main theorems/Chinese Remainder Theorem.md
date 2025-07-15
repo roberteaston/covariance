@@ -1,13 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/main-theorems/chinese-remainder-theorem/","tags":["ring_theory"],"updated":"2025-03-31T07:25:28-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/main-theorems/chinese-remainder-theorem/","tags":["ring_theory"],"updated":"2025-07-15T09:26:45-07:00"}
 ---
 
->[!summary] The Chinese Remainder Theorem
->Let $R$ be a ring with unity and $I_1,\ldots , I_k\subseteq R$ be two-sided ideals in $R$. Let
->$$\pi:R\to R/I_1\times \cdots \times R/I_k$$
->be the ring morphism induced by the projection morphisms $\pi_i:R\to R/I_i$. In other words, $\pi$ is the map given by $r\mapsto (r+I_1,\ldots, r+I_k)$. Then:
->1. $\ker(\pi)=I_1\cap \cdots \cap I_k$;
->2. If the ideals are pairwise coprime, then $\pi$ is surjective. In this case, the First Isomorphism Theorem gives an isomorphism
+> [!summary] The Chinese Remainder Theorem
+> Let $R$ be a ring with unity and $I_1,\ldots , I_k\subseteq R$ be two-sided ideals in $R$. Let $$\pi:R\to R/I_1\times \cdots \times R/I_k$$ be the ring morphism induced by the projection morphisms $\pi_i:R\to R/I_i$. In other words, $\pi$ is the map given by $r\mapsto (r+I_1,\ldots, r+I_k)$. Then:
+> 1. $\ker(\pi)=I_1\cap \cdots \cap I_k$;
+> 2. If the ideals are pairwise coprime, then $\pi$ is surjective. In this case, the First Isomorphism Theorem gives an isomorphism
 >   $$R/I_1\cdots I_k\simeq R/I_1\times\cdots \times R/I_k.$$
 >   If $R$ is commutative, then we also have $I_1\cap \cdots \cap I_k = I_1\cdots I_k$. 
 
