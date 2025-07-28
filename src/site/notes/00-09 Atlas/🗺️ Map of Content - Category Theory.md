@@ -8,7 +8,7 @@
 >[!quote] Mac Lane
 >..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."
 >
->*My source:* [[Maclane - Categories for the Working Mathematician.pdf#page=28|Mac Lane]]
+>*My source:* [[Maclane - Categories for the Working Mathematician.pdf#page=28\|Mac Lane]]
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors\|Functors]]
@@ -35,7 +35,7 @@
 >[!quote] Mac Lane
 >... good general theory does not search for the maximum generality, but for the right generality.
 >
->*My source:* [[Maclane - Categories for the Working Mathematician.pdf#page=117|Mac Lane]]
+>*My source:* [[Maclane - Categories for the Working Mathematician.pdf#page=117\|Mac Lane]]
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|Examples of adjoints]]
@@ -47,7 +47,7 @@
 >[!quote] Mac Lane
 >... the subject languished until ... the discovery by Grothendieck that categories of sheaves (of abelian groups) over a topological space were abelian categories but not categories of modules, and that homological algebra in these categories was needed for a complete treatment of sheaf cohomology. With this impetus, abelian categories joined the establishment.
 >
->*My source:* [[Maclane - Categories for the Working Mathematician.pdf#page=217|Mac Lane]]
+>*My source:* [[Maclane - Categories for the Working Mathematician.pdf#page=217\|Mac Lane]]
 
 ### Basic structures
 

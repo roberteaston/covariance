@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","tags":["category_theory","group_theory"],"updated":"2025-07-15T09:55:50-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","tags":["category_theory","group_theory"],"updated":"2025-07-15T14:28:58-07:00"}
 ---
 
 > [!quote] The tagline
@@ -84,11 +84,11 @@ Each of these aims is open-ended. Some things will be quickly and easily dealt w
 ---
 ### Aaron Boone
 aboone03@calpoly.edu
-![Boone, Aaron.jpeg|100](/img/user/90-99%20Meta/91%20Images/Headshots/Boone,%20Aaron.jpeg)
+![[Boone, Aaron.jpeg\|100]]
 
 ### Mark Muzquiz
 mamuzqui@calpoly.edu
-![Muzquiz, Mark.jpeg|100](/img/user/90-99%20Meta/91%20Images/Headshots/Muzquiz,%20Mark.jpeg)
+![[Muzquiz, Mark.jpeg\|100]]
 
 
 ## References

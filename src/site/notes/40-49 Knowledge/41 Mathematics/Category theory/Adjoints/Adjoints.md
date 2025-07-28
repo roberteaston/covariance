@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2025-03-31T12:38:36-07:00"}
 ---
 
-> [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=117|Saunders Mac Lane]]
+> [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=117\|Saunders Mac Lane]]
 > ...good general theory does not search for the maximum generality, but for the right generality.
 
 ## Motivation

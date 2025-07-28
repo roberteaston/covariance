@@ -60,11 +60,11 @@ rweaston@calpoly.edu
 
 ### Liya Golden
 ligolden@calpoly.edu
-![Golden, Liya.jpeg|100](/img/user/90-99%20Meta/91%20Images/Headshots/Golden,%20Liya.jpeg)
+![[Golden, Liya.jpeg\|100]]
 
 ### Lena Nezamzadeh
 lnezamza@calpoly.edu
-![Nezamzadeh, Lena.jpeg|100](/img/user/90-99%20Meta/91%20Images/Headshots/Nezamzadeh,%20Lena.jpeg)
+![[Nezamzadeh, Lena.jpeg\|100]]
 
 
 ## References

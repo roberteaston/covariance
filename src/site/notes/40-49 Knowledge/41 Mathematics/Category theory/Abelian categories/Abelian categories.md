@@ -20,7 +20,7 @@ We will define kernels and cokernels below, but for now we note the following fa
 
 The categories $\textbf{Ab}$ and $R\textbf{-Mod}$ (and many others) are abelian, with the usual kernels and cokernels.
 
-If $A$ is an abelian category, then so is any functor category $A^{\mathcal{J}}$. See [[Maclane - Categories for the Working Mathematician.pdf|page 199 in Mac Lane]] for the short proof.
+If $A$ is an abelian category, then so is any functor category $A^{\mathcal{J}}$. See [[Maclane - Categories for the Working Mathematician.pdf\|page 199 in Mac Lane]] for the short proof.
 
 ### Examples of non-abelian additive categories
 

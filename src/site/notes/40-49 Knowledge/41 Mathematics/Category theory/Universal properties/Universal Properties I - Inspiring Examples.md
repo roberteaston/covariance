@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-i-inspiring-examples/","tags":["category_theory","quotes"],"updated":"2025-07-01T14:10:00-07:00"}
 ---
 
-> [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=66|Saunders Mac Lane]]
+> [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=66\|Saunders Mac Lane]]
 > The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).
 
 Many (perhaps even most!) constructions in abstract algebra involve an object (and morphism) that satisfies some defining "universal property." But often the mathematician unaccustomed with category theory is left to wonder:
@@ -82,7 +82,7 @@ The quotient group construction is probably the first time most of us officially
 
 You might notice something a little different about this example compared to all the others listed here. In this example, the universal property involves information *not* encoded in the diagram, namely that the arrows have been restricted (to only morphisms with a certain property). This suggests that we should ultimately look for a characterization of "universal property" that goes behind representing diagrams.
 
->[!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=67|Saunders Mac Lane]]
+>[!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=67\|Saunders Mac Lane]]
 >Now the quotient group is usually described as a group whose elements are cosets. However, once the cosets are used to prove this one "universal" property of $\pi: G\to G/N$, all other properties of quotient groups - for example, the isomorphism theorems - can be proved with no further mention of cosets ... All that is needed is the existence of a universal element ... For that matter, even this existence could be proved without using cosets (see the adjoint functor theorem ...)
 
 ## Examples in $\textbf{Ab}$

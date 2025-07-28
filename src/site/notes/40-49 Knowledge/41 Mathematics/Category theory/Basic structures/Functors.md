@@ -8,7 +8,7 @@
 > [!quote] [[Riehl - Category Theory in Context.pdf#page=31|John Baez]]
 > ...every sufficiently good analogy is yearning to become a functor.
 
-> [!quote] [[Vakil - The Rising Sea.pdf#page=25|Brian Conrad]]
+> [!quote] [[Vakil - The Rising Sea.pdf#page=25\|Brian Conrad]]
 > Before functoriality, people lived in caves.
 
 ## Definition

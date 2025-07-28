@@ -156,7 +156,7 @@ It makes sense to ask how the right derived functor of the composition $G\circ F
 [[Kato - Heart of Cohomology.pdf]]
 [[McCleary - A Users Guide to Spectral Sequences.pdf]]
 [[Vakil - Puzzlin Through Exact Sequences.pdf]]
-[[Vakil - The Rising Sea.pdf]]
+[[Vakil - The Rising Sea.pdf\|Vakil - The Rising Sea.pdf]]
 
 
 ## Suggested next note

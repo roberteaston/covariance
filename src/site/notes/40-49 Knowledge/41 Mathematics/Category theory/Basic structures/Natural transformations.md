@@ -3,7 +3,7 @@
 ---
 
 
-> [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=28|Eilenberg and Mac Lane]]
+> [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=28\|Eilenberg and Mac Lane]]
 > ..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."
 
 ## Definition
