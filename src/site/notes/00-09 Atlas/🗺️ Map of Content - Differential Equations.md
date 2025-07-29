@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-07-28T19:25:49-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-07-29T08:49:57-07:00"}
 ---
 
 > [!quote] George Pólya
@@ -17,7 +17,8 @@
 
 ### Frobenius series solutions
 
-*Coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I\|Frobenius Series Solutions I]]
+*More coming soon*
 
 ### Fourier series solutions
 

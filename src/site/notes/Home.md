@@ -14,9 +14,9 @@
 
 | Note                                                                                                                                                                                                                       | Last Updated            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[00-09 Atlas/🗺️ Map of Content - Differential Equations\|🗺️ Map of Content - Differential Equations]]                                                                                                                | 8:49 AM - July 29, 2025 |
 | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]] | 8:49 AM - July 29, 2025 |
 | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I\|Frobenius Series Solutions I]]                                                                         | 8:49 AM - July 29, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions III - A more representative example\|Power Series Solutions III - A more representative example]]                 | 8:21 AM - July 29, 2025 |
 
 { .block-language-dataview}
 
