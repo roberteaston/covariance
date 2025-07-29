@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-iv-analytic-functions-and-ordinary-points/","tags":["differential_equations"],"updated":"2025-07-29T08:49:29-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-iv-analytic-functions-and-ordinary-points/","tags":["differential_equations"],"updated":"2025-07-29T08:54:01-07:00"}
 ---
 
 Our goal in this not is to give some type of answer to the question "When can we find a power series solution to a differential equation?" We begin by recalling a few basic facts about power series. We then analyze the case of second-order, linear, homogeneous differential equations. As we will eventually see, that situation is already complicated enough.
@@ -100,9 +100,9 @@ We can now answer the following:
 > For which points $x_0$ does this differential equation possess a solution that is analytic at $x_0$, i.e., that can be represented by a power series centered at $x_0$?
 
 
-The following theorem gives *sufficient* (but not *necessary* conditions to guarantee success:
+The following theorem gives *sufficient* (but not *necessary*) conditions to guarantee success:
 
-> [!summary]
+> [!summary] Radius of convergence of power series solutions
 > Suppose $p$ and $q$ are analytic at $x_0$ Then the general solution to the differential equation
 > 
 > $$y''+p(x)y'+q(x)y=0$$

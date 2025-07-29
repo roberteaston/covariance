@@ -5,8 +5,8 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties III - Yoneda's Lemma</a></div></div><div class="callout-content">
+<p dir="auto">Every man is like the company he is wont to keep.</p>
 </div></div></span></p>
 
 ## Recently updated notes
@@ -14,8 +14,8 @@
 
 | Note                                                                                                                                                                                                                       | Last Updated            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]] | 8:54 AM - July 29, 2025 |
 | [[00-09 Atlas/🗺️ Map of Content - Differential Equations\|🗺️ Map of Content - Differential Equations]]                                                                                                                | 8:49 AM - July 29, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]] | 8:49 AM - July 29, 2025 |
 | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I\|Frobenius Series Solutions I]]                                                                         | 8:49 AM - July 29, 2025 |
 
 { .block-language-dataview}
@@ -79,7 +79,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions I - From polynomials to power series\|Power Series Solutions I - From polynomials to power series]]               | 7:16 PM - July 28, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions II - First steps with power series\|Power Series Solutions II - First steps with power series]]                   | 3:48 PM - July 28, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions III - A more representative example\|Power Series Solutions III - A more representative example]]                 | 8:21 AM - July 29, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]] | 8:49 AM - July 29, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]] | 8:54 AM - July 29, 2025 |
 > 
 { .block-language-dataview}
 
