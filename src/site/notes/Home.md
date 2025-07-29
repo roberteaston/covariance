@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-04-09T14:39:04-07:00"}
+{"dg-publish":true,"permalink":"/home/","tags":["gardenEntry"],"updated":"2025-07-28T19:21:02-07:00"}
 ---
 
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener nofollow">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
+<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
 </div></div></span></p>
 
 ## Recently updated notes
@@ -14,9 +14,9 @@
 
 | Note                                                                                                                                                                                                                       | Last Updated            |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions III - A more representative example\|Power Series Solutions III - A more representative example]]                 | 7:20 PM - July 28, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions I - From polynomials to power series\|Power Series Solutions I - From polynomials to power series]]               | 7:16 PM - July 28, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]] | 3:59 PM - July 28, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]] | 8:49 AM - July 29, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I\|Frobenius Series Solutions I]]                                                                         | 8:49 AM - July 29, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions III - A more representative example\|Power Series Solutions III - A more representative example]]                 | 8:21 AM - July 29, 2025 |
 
 { .block-language-dataview}
 
@@ -69,6 +69,17 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                                           | 2:10 PM - July 01, 2025     |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]] | 10:38 AM - April 01, 2025   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]                                               | 12:50 PM - March 31, 2025   |
+> 
+{ .block-language-dataview}
+
+> [!summary]- Differential equations
+>  | Note                                                                                                                                                                                                                       | Last Updated            |
+> | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I\|Frobenius Series Solutions I]]                                                                         | 8:49 AM - July 29, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions I - From polynomials to power series\|Power Series Solutions I - From polynomials to power series]]               | 7:16 PM - July 28, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions II - First steps with power series\|Power Series Solutions II - First steps with power series]]                   | 3:48 PM - July 28, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions III - A more representative example\|Power Series Solutions III - A more representative example]]                 | 8:21 AM - July 29, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]] | 8:49 AM - July 29, 2025 |
 > 
 { .block-language-dataview}
 
