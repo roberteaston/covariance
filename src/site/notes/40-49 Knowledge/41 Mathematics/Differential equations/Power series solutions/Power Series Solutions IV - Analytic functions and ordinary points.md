@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-iv-analytic-functions-and-ordinary-points/","tags":["differential_equations"],"updated":"2025-07-29T08:54:01-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-iv-analytic-functions-and-ordinary-points/","tags":["differential_equations"],"updated":"2025-07-29T13:26:13-07:00"}
 ---
 
 Our goal in this not is to give some type of answer to the question "When can we find a power series solution to a differential equation?" We begin by recalling a few basic facts about power series. We then analyze the case of second-order, linear, homogeneous differential equations. As we will eventually see, that situation is already complicated enough.
@@ -304,4 +304,4 @@ While we didn't find two linearly independent solutions to our differential equa
 ## Suggested next notes
 ---
 
-[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I\|Frobenius Series Solutions I]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I - Regular singular points\|Frobenius Series Solutions I - Regular singular points]]
