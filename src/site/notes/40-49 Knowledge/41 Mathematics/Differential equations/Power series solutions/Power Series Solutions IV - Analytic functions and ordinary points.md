@@ -15,7 +15,7 @@ $$
 
 A big part of Calculus III is building up the machinery to make sense of power series as functions. One of the central results is that a power series defines a function whose domain is always an interval centered at $x_0$, hence the name **center**. The radius $R$ of that interval of convergence is called the **radius of convergence** of the power series. If that radius is finite, then we are guaranteed that the series $P(x)$ converges absolutely for all values of $x$ in the open interval $(x_0-R,x_0+R)$. The series might or might not converge at the endpoints. That depends on the particular series.
 
-![interval_of_convergence.png|300](/img/user/90-99%20Meta/91%20Images/Differential%20equations/interval_of_convergence.png)
+![intervalOfConvergence.png|300](/img/user/90-99%20Meta/91%20Images/Differential%20equations/intervalOfConvergence.png)
 
 Part of the usefulness of power series is that "most" functions can be represented by power series, at least locally. More precisely, we say a function  is **analytic at $x_0$** if it can be represented by a power series near , i.e., if there is a power series $P(x)$ centered at  such that $f(x)=P(x)$ for all  in some open interval  containing .
 
@@ -304,4 +304,4 @@ While we didn't find two linearly independent solutions to our differential equa
 ## Suggested next notes
 ---
 
-[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I - Regular singular points\|Frobenius Series Solutions I - Regular singular points]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I - Slightly generalizing power series\|Frobenius Series Solutions I - Slightly generalizing power series]]
