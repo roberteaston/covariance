@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                                                                         | Last Updated            |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I - Slightly generalizing power series\|Frobenius Series Solutions I - Slightly generalizing power series]] | 3:30 PM - July 30, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions II - Some illustrative examples\|Frobenius Series Solutions II - Some illustrative examples]]               | 3:30 PM - July 30, 2025 |
-| [[00-09 Atlas/🗺️ Map of Content - Differential Equations\|🗺️ Map of Content - Differential Equations]]                                                                                                                  | 3:29 PM - July 30, 2025 |
+| Note                                                                                                                                                                                                                         | Last Updated             |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions III - Frobenius theory\|Frobenius Series Solutions III - Frobenius theory]]                                 | 11:59 AM - July 31, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]]   | 9:04 AM - July 31, 2025  |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I - Slightly generalizing power series\|Frobenius Series Solutions I - Slightly generalizing power series]] | 3:30 PM - July 30, 2025  |
 
 { .block-language-dataview}
 
@@ -73,14 +73,15 @@
 { .block-language-dataview}
 
 > [!summary]- Differential equations
->  | Note                                                                                                                                                                                                                         | Last Updated            |
-> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I - Slightly generalizing power series\|Frobenius Series Solutions I - Slightly generalizing power series]] | 3:30 PM - July 30, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions II - Some illustrative examples\|Frobenius Series Solutions II - Some illustrative examples]]               | 3:30 PM - July 30, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions I - From polynomials to power series\|Power Series Solutions I - From polynomials to power series]]                 | 7:16 PM - July 28, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions II - First steps with power series\|Power Series Solutions II - First steps with power series]]                     | 3:48 PM - July 28, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions III - A more representative example\|Power Series Solutions III - A more representative example]]                   | 8:21 AM - July 29, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]]   | 1:26 PM - July 29, 2025 |
+>  | Note                                                                                                                                                                                                                         | Last Updated             |
+> | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I - Slightly generalizing power series\|Frobenius Series Solutions I - Slightly generalizing power series]] | 3:30 PM - July 30, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions II - Some illustrative examples\|Frobenius Series Solutions II - Some illustrative examples]]               | 3:30 PM - July 30, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions III - Frobenius theory\|Frobenius Series Solutions III - Frobenius theory]]                                 | 11:59 AM - July 31, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions I - From polynomials to power series\|Power Series Solutions I - From polynomials to power series]]                 | 7:16 PM - July 28, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions II - First steps with power series\|Power Series Solutions II - First steps with power series]]                     | 3:48 PM - July 28, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions III - A more representative example\|Power Series Solutions III - A more representative example]]                   | 8:21 AM - July 29, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions IV - Analytic functions and ordinary points\|Power Series Solutions IV - Analytic functions and ordinary points]]   | 9:04 AM - July 31, 2025  |
 > 
 { .block-language-dataview}
 
