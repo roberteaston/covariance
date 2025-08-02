@@ -17,17 +17,19 @@
 
 ### Frobenius series solutions
 
-[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions I - Slightly generalizing power series\|Frobenius Series Solutions I - Slightly generalizing power series]]
-[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions II - Some illustrative examples\|Frobenius Series Solutions II - Some illustrative examples]]
-[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius Series Solutions/Frobenius Series Solutions III - Frobenius theory\|Frobenius Series Solutions III - Frobenius theory]]
-*More coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions I - Slightly generalizing power series\|Frobenius Series Solutions I - Slightly generalizing power series]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions II - Some illustrative examples\|Frobenius Series Solutions II - Some illustrative examples]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions III - Frobenius theory\|Frobenius Series Solutions III - Frobenius theory]]
 
 ### Fourier series solutions
 
 > [!quote] Jean-Baptiste Joseph Fourier
 > There cannot be a language more universal and more simple, more free from errors and obscurities...more worthy to express the invariable relations of all natural things [than mathematics].
 
-*Coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions I - A problem with power series\|Fourier series solutions I - A problem with power series]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions II - Periodic functions\|Fourier series solutions II - Periodic functions]]
+
+*More coming soon*
 
 ## Transform methods
 ---
