@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-07-30T15:29:03-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-08-02T15:52:21-07:00"}
 ---
 
 > [!quote] George Pólya
@@ -28,6 +28,8 @@
 
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions I - A problem with power series\|Fourier series solutions I - A problem with power series]]
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions II - Periodic functions\|Fourier series solutions II - Periodic functions]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions III - Series representations of periodic functions\|Fourier series solutions III - Series representations of periodic functions]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions IV - Computing Fourier coefficients\|Fourier series solutions IV - Computing Fourier coefficients]]
 
 *More coming soon*
 

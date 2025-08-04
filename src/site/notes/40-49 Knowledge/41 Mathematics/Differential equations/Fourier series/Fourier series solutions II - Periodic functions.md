@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-ii-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-02T15:51:07-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-ii-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-04T08:29:27-07:00"}
 ---
 
 We begin by recalling the definitions and basic properties of periodic functions.
@@ -99,4 +99,4 @@ After considering a few examples, you should be able to convince yourself of the
 ## Suggested next notes
 ---
 
-*Coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions III - Series representations of periodic functions\|Fourier series solutions III - Series representations of periodic functions]]]
