@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iv-computing-fourier-coefficients/","tags":["differential_equations"],"updated":"2025-08-04T08:44:50-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iv-computing-fourier-coefficients/","tags":["differential_equations"],"updated":"2025-08-05T09:04:06-07:00"}
 ---
 
 We will now answer one of three main questions about Fourier series:
 
 > [!question]
-> If a function $f$ can be represented by a (complex) Fourier series, then what are the coefficients in that Fourier series?
+> If a periodic function $f$ can be represented by a (complex) Fourier series, then what are the coefficients in that Fourier series?
 
 ## Representation by power series
 ---
@@ -58,7 +58,7 @@ $$
 ## Representation by complex exponential functions
 ---
 
-We now try a similar strategy for (complex) Fourier series. Suppose $f(t)$ can be represented by some Fourier series. That is, suppose
+We now try a similar strategy for (complex) Fourier series. Suppose $f(t)$ is a periodic function with period $1$, and suppose $f(t)$ can be represented by some Fourier series. That is, suppose
 
 $$
 f(t) = \sum_{n=-\infty}^{\infty} c_n e^{2\pi int}.

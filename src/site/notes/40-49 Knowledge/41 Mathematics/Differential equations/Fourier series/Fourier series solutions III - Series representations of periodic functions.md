@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iii-series-representations-of-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-05T09:02:29-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iii-series-representations-of-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-05T09:17:31-07:00"}
 ---
 
 ## Representing periodic functions with sine functions
@@ -129,7 +129,46 @@ We can now freely convert back and forth between sines and cosines, and complex 
 
 ### Example
 
-*Coming soon*
+Suppose $f(t)$ is the following sines-and-cosines Fourier polynomial, i.e., a Fourier series with only finite many terms:
+
+$$f(t)=3+2\cos(2\pi t)-\sin(2\pi t)+3\cos(4\pi t)+2\sin(4\pi t).$$
+
+Using the above relations, we can rewrite this function in terms of complex exponential functions, as so:
+
+$$f(t) = 3+2\cdot \frac{e^{2\pi it}+e^{-2\pi i t}}{2}-\frac{e^{2\pi it}-e^{-2\pi it}}{2i}+3\cdot\frac{e^{4\pi it}+e^{-4\pi it}}{2}+2\cdot \frac{e^{4\pi it}-e^{-4\pi it}}{2i}.$$
+
+Let's rewrite this so that exponential terms with the same exponent have been combined, and then the terms are ordered according to the exponent (from most negative to most positive). We obtain
+
+$$f(t)=\left(\frac{3}{2}+i\right)e^{-4\pi it}+\left(1-\frac{1}{2}i\right)e^{-2\pi it}+3+\left(1+\frac{1}{2}i\right)e^{2\pi it}+\left(\frac{3}{2}-i\right)e^{4\pi it}.$$
+
+Let's use an index $n$ that keeps track of theses terms, so that $e^{2\pi i nt}$ corresponds to index $n$:
+
+$$f(t)=\underbrace{\left(\frac{3}{2}+i\right)e^{-4\pi it}}_{n=-2}+\underbrace{\left(1-\frac{1}{2}i\right)e^{-2\pi it}}_{n=-1}+\underbrace{3}_{n=0}+\underbrace{\left(1+\frac{1}{2}i\right)e^{2\pi it}}_{n=1}+\underbrace{\left(\frac{3}{2}-i\right)e^{4\pi it}}_{n=2}.$$
+
+This is very suggestive...
+
+---
+
+Looking at the previous example, it should be clear that any sines-and-cosines Fourier series can be converted to a sum involving these complex exponential functions. More explicitly, if we started with a finite sum of the form
+
+$$f(t)=\sum_{n=0}^{N} (a_n \cos(2\pi nt)+b_n\sin(2\pi nt)),$$
+
+then using our relations above we could rewrite this in the form
+
+$$f(t)=\sum_{n=0}^N \left(\frac{1}{2}(a_n-ib_n)e^{2\pi int}+\frac{1}{2}(a_n+ib_n)e^{-2\pi int}\right).$$
+
+If we did as in the above example, and ordered the terms according to the value of the exponent, we could write this more simply in the form
+
+$$f(t)=\sum_{n=-N}^N c_n e^{2\pi int},$$
+
+where $c_0=a_0$ and for $n> 0$ we have
+
+$$\begin{align*}
+c_n &= \frac{1}{2}(a_n-ib_n)\\
+c_{-n} &= \frac{1}{2}(a_n+ib_n).
+\end{align*}$$
+
+*Under construction*
 
 ## Suggested next notes
 ---
