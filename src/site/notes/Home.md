@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener nofollow">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                                 | Last Updated              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-04\|REU Meeting - 2025-08-04]]                                                       | 2:57 PM - August 04, 2025 |
-| [[20-29 Research/24 Summer REUs/2025/Categorical representation theory/Summer REU 2025 - Categorical representation theory\|Summer REU 2025 - Categorical representation theory]] | 2:56 PM - August 04, 2025 |
-| [[00-09 Atlas/🗺️ Map of Content - Differential Equations\|🗺️ Map of Content - Differential Equations]]                                                                          | 8:45 AM - August 04, 2025 |
+| Note                                                                                                                                                                                                                                 | Last Updated              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions III - Series representations of periodic functions\|Fourier series solutions III - Series representations of periodic functions]] | 9:02 AM - August 05, 2025 |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-04\|REU Meeting - 2025-08-04]]                                                                                                       | 8:41 AM - August 05, 2025 |
+| [[20-29 Research/24 Summer REUs/2025/Categorical representation theory/Summer REU 2025 - Categorical representation theory\|Summer REU 2025 - Categorical representation theory]]                                                 | 2:56 PM - August 04, 2025 |
 
 { .block-language-dataview}
 
@@ -77,7 +77,7 @@
 > | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions I - A problem with power series\|Fourier series solutions I - A problem with power series]]                                       | 3:38 PM - August 02, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions II - Periodic functions\|Fourier series solutions II - Periodic functions]]                                                       | 8:29 AM - August 04, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions III - Series representations of periodic functions\|Fourier series solutions III - Series representations of periodic functions]] | 8:39 AM - August 04, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions III - Series representations of periodic functions\|Fourier series solutions III - Series representations of periodic functions]] | 9:02 AM - August 05, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions IV - Computing Fourier coefficients\|Fourier series solutions IV - Computing Fourier coefficients]]                               | 8:44 AM - August 04, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions I - Slightly generalizing power series\|Frobenius Series Solutions I - Slightly generalizing power series]]         | 3:30 PM - July 30, 2025   |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions II - Some illustrative examples\|Frobenius Series Solutions II - Some illustrative examples]]                       | 3:30 PM - July 30, 2025   |

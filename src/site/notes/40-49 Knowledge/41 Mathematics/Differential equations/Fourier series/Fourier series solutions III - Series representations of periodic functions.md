@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iii-series-representations-of-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-04T08:39:35-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iii-series-representations-of-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-05T09:02:29-07:00"}
 ---
 
 ## Representing periodic functions with sine functions
@@ -74,6 +74,60 @@ Classically, this new sines-and-cosines form was the preferred form of Fourier s
 
 ## Using complex exponential functions
 ---
+
+> [!warning] Under construction
+> This section is still under construction.
+
+Recall^[Eventually I'm make a note on this and include the link here.] that the complex exponential function satisfies the following identity:
+
+> [!summary] Euler's Formula
+> For any real number $\theta$ we have the following equality of complex numbers:
+> 
+> $$e^{i\theta}=\cos(\theta)+i\sin(\theta).$$
+
+Here are a few convenient consequences:
+- For every real number $\theta$, the complex number $e^{i\theta}$ lies on the unit circle in the complex plane, with polar angle $\theta$.
+- The function $f(t)=e^{it}$ is a periodic function of $t$ with fundamental period $T=2\pi$. As $t$ increases, we can visualize the values of $f(t)$ as orbiting around the origin counterclockwise on the unit circle. When $t=0$, the point $f(0)=1$ is at coordinates $(1,0)$. When $t=\frac{\pi}{2}$, the point $f(\pi/2)=i$ is at coordinates $(0,1)$. And so on.
+- The function $f(2\pi nt) = e^{i\cdot 2\pi nt}$ is periodic with fundamental period $T=\frac{2\pi}{2\pi n}=\frac{1}{n}$ (at least for $n\neq 0$; when $n=0$ it's simply the constant function $1$). In particular, this function always has period $1$ (among all of its periods).
+- There is a nice symmetry to the function $e^{i\theta}$, in that $e^{-i\theta} = \cos(\theta)-i\sin(\theta)$. In other words, the complex numbers $e^{i\theta}$ and $e^{-i\theta}$ are **complex conjugates**; i.e., they have the same real part and opposite imaginary parts. Visually, this means the two points are reflections of each other over the real (horizontal) axis.
+
+We can use the two equalities
+
+$$
+\begin{align*}
+e^{i\theta}&=\cos(\theta)+i\sin(\theta)\\
+e^{-i\theta}&=\cos(\theta)-i\sin(\theta)
+\end{align*}
+$$
+
+to express both $\cos(\theta)$ and $\sin(\theta)$ in terms of $e^{i\theta}$ and $e^{-i\theta}$. Indeed, if we add the two equations above we obtain
+
+$$e^{i\theta}+e^{-i\theta} = 2\cos(\theta),$$
+
+and so
+
+$$\cos(\theta) = \frac{e^{i\theta}+e^{-i\theta}}{2}.$$
+
+Similarly, if we subtract the two equations above we obtain
+
+$$e^{i\theta}-e^{-i\theta}=2i\sin(\theta),$$
+
+and so
+
+$$\sin(\theta)=\frac{e^{i\theta}-e^{-i\theta}}{2i}.$$
+
+We can now freely convert back and forth between sines and cosines, and complex exponential functions:
+
+> [!summary] Conversion between sines-and-cosines and complex exponential functions
+> We have the following equalities, for all real values of $\theta$:
+> 
+> $$\begin{align*}
+> e^{i\theta} &=\cos(\theta)+i\sin(\theta)\\
+> \cos(\theta) &= \frac{e^{i\theta}+e^{-i\theta}}{2}\\
+> \sin(\theta)&=\frac{e^{i\theta}-e^{-i\theta}}{2i}
+> \end{align*}$$
+
+### Example
 
 *Coming soon*
 
