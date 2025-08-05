@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iii-series-representations-of-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-05T09:17:31-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iii-series-representations-of-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-05T11:40:48-07:00"}
 ---
 
 ## Representing periodic functions with sine functions
@@ -74,9 +74,6 @@ Classically, this new sines-and-cosines form was the preferred form of Fourier s
 
 ## Using complex exponential functions
 ---
-
-> [!warning] Under construction
-> This section is still under construction.
 
 Recall^[Eventually I'm make a note on this and include the link here.] that the complex exponential function satisfies the following identity:
 
@@ -168,7 +165,18 @@ c_n &= \frac{1}{2}(a_n-ib_n)\\
 c_{-n} &= \frac{1}{2}(a_n+ib_n).
 \end{align*}$$
 
-*Under construction*
+It should now be reasonable to define:
+
+> [!note] Definition of complex Fourier series
+> A **complex Fourier series** is a series of the form
+> 
+> $$\sum_{m=-\infty}^{\infty} c_m e^{2\pi imt},$$
+> 
+> where $c_m$ are complex numbers.
+
+Note that we are ignoring any questions of convergence, at least for now.
+
+Notice how similar this new type of series is to a power series!
 
 ## Suggested next notes
 ---
