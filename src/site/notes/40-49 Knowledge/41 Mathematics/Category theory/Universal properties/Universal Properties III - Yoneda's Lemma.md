@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-iii-yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2025-03-31T12:50:43-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-iii-yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2025-08-06T15:08:34-07:00"}
 ---
 
 > [!quote] Euripides
@@ -14,7 +14,7 @@ But how does one formalize this idea?
 ## The original inspiration: universal properties
 ---
 
-First revisit our pantheon of [[Universal Properties IV - Revisiting Examples\|objects with universal properties]]. Looking over these examples, a clear pattern emerges. In each case was have an object $c$ in a category $C$ that is characterized by a "universal property," which can be expressed in the form of a bijection
+First revisit our pantheon of [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|objects with universal properties]]. Looking over these examples, a clear pattern emerges. In each case was have an object $c$ in a category $C$ that is characterized by a "universal property," which can be expressed in the form of a bijection
 $$\tau_d:\operatorname{Hom}_C(c,d)\xrightarrow{\sim}F(d)$$
 that is "natural in $d$", where  $F:C\to \textbf{Set}$ is some functor.^[To be fair, sometimes we have the "dual" situation, in which we have a natural bijection $\tau_d:\operatorname{Hom}_C(d,c)\xrightarrow{\sim} F(d)$. For now we'll stick to one scenario.] This naturality, often stated but not articulated, is the formal embodiment of the idea that the bijection $\tau_d$ is defined "in the same way" for every $d\in C$, or at least "in a compatible way." What that means precisely is that for every arrow $f:d_1\to d_2$ in $C$ we have a commutative diagram
 

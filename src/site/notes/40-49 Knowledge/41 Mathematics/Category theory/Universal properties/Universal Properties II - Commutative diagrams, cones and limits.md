@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-ii-commutative-diagrams-cones-and-limits/","tags":["category_theory"],"updated":"2025-04-01T10:38:28-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-ii-commutative-diagrams-cones-and-limits/","tags":["category_theory"],"updated":"2025-08-06T15:08:01-07:00"}
 ---
 
 Many of our [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|inspiring examples]] of universal properties can be described by the following basic situation:
@@ -150,7 +150,7 @@ When this limit exists, the limit object is usually called the **product** of $c
 
 
 > [!warning] Under Construction
-> This section is currently under construction. More examples will be added soon, including:
+> This section is currently under construction. More examples will be added eventually, including:
 > - products and coproducts
 > - powers and copowers
 > -  pullbacks and pushforwards

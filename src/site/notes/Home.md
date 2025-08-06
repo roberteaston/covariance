@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                                               | Last Updated              |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions V - Computing some Fourier series\|Fourier series solutions V - Computing some Fourier series]] | 9:12 AM - August 06, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions II - Periodic functions\|Fourier series solutions II - Periodic functions]]                     | 9:03 AM - August 06, 2025 |
-| [[00-09 Atlas/🗺️ Map of Content - Differential Equations\|🗺️ Map of Content - Differential Equations]]                                                                                        | 8:53 AM - August 06, 2025 |
+| Note                                                                                                                                                                                                          | Last Updated              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-08-06\|REU Meeting - 2025-08-06]]                                                                                 | 3:11 PM - August 06, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]                                               | 3:08 PM - August 06, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]] | 3:08 PM - August 06, 2025 |
 
 { .block-language-dataview}
 
@@ -67,8 +67,8 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]]                                                                                           | 12:37 PM - March 31, 2025   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal arrows and elements\|Universal arrows and elements]]                                                                       | 12:48 PM - March 31, 2025   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                                           | 2:10 PM - July 01, 2025     |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]] | 10:38 AM - April 01, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]                                               | 12:50 PM - March 31, 2025   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]] | 3:08 PM - August 06, 2025   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]                                               | 3:08 PM - August 06, 2025   |
 > 
 { .block-language-dataview}
 
@@ -79,7 +79,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions II - Periodic functions\|Fourier series solutions II - Periodic functions]]                                                       | 9:03 AM - August 06, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions III - Series representations of periodic functions\|Fourier series solutions III - Series representations of periodic functions]] | 11:40 AM - August 05, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions IV - Computing Fourier coefficients\|Fourier series solutions IV - Computing Fourier coefficients]]                               | 8:22 AM - August 06, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions V - Computing some Fourier series\|Fourier series solutions V - Computing some Fourier series]]                                   | 9:12 AM - August 06, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions V - Computing some Fourier series\|Fourier series solutions V - Computing some Fourier series]]                                   | 2:43 PM - August 06, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions I - Slightly generalizing power series\|Frobenius Series Solutions I - Slightly generalizing power series]]         | 3:30 PM - July 30, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions II - Some illustrative examples\|Frobenius Series Solutions II - Some illustrative examples]]                       | 3:30 PM - July 30, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions III - Frobenius theory\|Frobenius Series Solutions III - Frobenius theory]]                                         | 3:23 PM - August 02, 2025  |

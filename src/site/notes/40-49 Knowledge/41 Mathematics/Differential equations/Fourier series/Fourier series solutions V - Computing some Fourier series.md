@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-v-computing-some-fourier-series/","tags":["differential_equations"],"updated":"2025-08-06T09:12:46-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-v-computing-some-fourier-series/","tags":["differential_equations"],"updated":"2025-08-06T14:43:53-07:00"}
 ---
 
 It is a good idea to see computations of some Fourier series of functions that aren't built from sines and cosines. To that end, we consider two simple examples: 1) a "square wave"; and 2) a "triangular wave".

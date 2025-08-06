@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","tags":["category_theory","group_theory"],"updated":"2025-08-04T14:56:55-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","tags":["category_theory","group_theory"],"updated":"2025-08-06T14:58:12-07:00"}
 ---
 
 > [!quote] The tagline
@@ -20,6 +20,7 @@ Each of these aims is open-ended. Some things will be quickly and easily dealt w
 
 | Meeting Date                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-06\|REU Meeting - 2025-08-06]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-04\|REU Meeting - 2025-08-04]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-31\|REU Meeting - 2025-07-31]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-10\|REU Meeting - 2025-07-10]] |
@@ -84,9 +85,11 @@ Each of these aims is open-ended. Some things will be quickly and easily dealt w
  - [x] Write down some key/familiar examples of categories with a monoidal structure, and examples of monoids in those categories.
  - [x] In the special case in which your category is of the form $C^C$, where $C$ is some fixed category (and hence $C^C$ is the category of all functors $F:C\to C$), parse the meaning of a monoid in that monoidal category. Thus define a *monad* and rejoice!
  - [ ] (Optional) Give a nice description of monoid objects in $(\textbf{Set},\bigsqcup, \emptyset)$.
- - [ ] Complete Exercise 4 in Section VII.1
- - [ ] Apply the result of the above exercise to the case of representations of a group $G$ in some of our favorite categories
+ - [x] Complete Exercise 4 in Section VII.1
+ - [x] Apply the result of the above exercise to the case of representations of a group $G$ in some of our favorite categories; e.g., in $\textbf{Set}, \textbf{Vec}_F$, etc.
+ - [ ] Describe a monoidal structure on $\textbf{Set}^{\textbf{G}}$.
  - [ ] Write down what a means to have a monoid in $\textbf{Set}^{\textbf{G}}$. What does this mean in terms of representations?
+ - [ ] Is there a monoidal structure on $\textbf{Matr}_F$? If so, write down what it means to have a monoid in that monoidal category and describe monoids in that monoidal category.
 
 ## The team
 ---
