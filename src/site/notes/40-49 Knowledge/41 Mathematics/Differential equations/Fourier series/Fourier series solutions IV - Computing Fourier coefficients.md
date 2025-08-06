@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iv-computing-fourier-coefficients/","tags":["differential_equations"],"updated":"2025-08-05T15:38:24-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iv-computing-fourier-coefficients/","tags":["differential_equations"],"updated":"2025-08-06T08:22:28-07:00"}
 ---
 
 We will now answer one of three main questions about Fourier series:
@@ -261,4 +261,4 @@ and all other $\hat{f}(n)=0$.
 ## Suggested next notes
 ---
 
-*Coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions V - Computing some Fourier series\|Fourier series solutions V - Computing some Fourier series]]
