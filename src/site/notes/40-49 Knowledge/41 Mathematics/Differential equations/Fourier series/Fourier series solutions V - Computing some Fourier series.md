@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-v-computing-some-fourier-series/","tags":["differential_equations"],"updated":"2025-08-06T08:59:51-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-v-computing-some-fourier-series/","tags":["differential_equations"],"updated":"2025-08-06T09:12:46-07:00"}
 ---
 
 It is a good idea to see computations of some Fourier series of functions that aren't built from sines and cosines. To that end, we consider two simple examples: 1) a "square wave"; and 2) a "triangular wave".
@@ -68,7 +68,7 @@ Finally, if we truncate our series at $N=99$, the graph of the corresponding fin
 ![squareWave99.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/squareWave99.png)
 
 
-*Still under construction*
+Although our "Fourier approximations" appear to be converging quickly to the original square wave, you might notice those weird little "peaks" at the corners of each wave. There's something a little surprising going on here, but we'll hold off on investigating further until after our next example.
 
 ## Example: A triangular wave
 ---
@@ -76,6 +76,10 @@ Finally, if we truncate our series at $N=99$, the graph of the corresponding fin
  Now $f(t)$ denote the "triangle wave" function, which is periodic with period 1 and is defined on $[0,1)$ by
 
 $$f(t)=\begin{cases}t,& 0\leq t<\frac{1}{2} \\ 1-t,& \frac{1}{2}\leq t<1 \end{cases}$$
+
+As you can see from the graph, it seems reasonable to call this function a "triangle wave":
+
+![triangleWave.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/triangleWave.png)
 
 We first compute
 
@@ -120,8 +124,14 @@ $$\begin{align*}
 
 ### Some Fourier approximations
 
-*Still under construction*
+As with the square wave, we can get a sense for how quickly our Fourier series is converging to the original function by looking at some Fourier approximations with increasingly larger $N$ values (i.e., more and more terms included). Here are the graphs of those approximations when $N=1, 9$ and $99$, this time with the original graph overlaid for visual comparison:
 
+![triangleWave1.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/triangleWave1.png)
+
+![triangleWave9.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/triangleWave9.png)
+
+
+![triangleWave99.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/triangleWave99.png)
 
 ## Initial observations
 ---
