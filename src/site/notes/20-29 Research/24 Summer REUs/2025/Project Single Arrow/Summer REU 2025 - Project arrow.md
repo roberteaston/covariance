@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","tags":["category_theory"],"updated":"2025-07-08T14:21:41-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","tags":["category_theory"],"updated":"2025-08-06T15:13:41-07:00"}
 ---
 
 
@@ -32,7 +32,7 @@ We are going to take that philosophy to the extreme, by attempting to recharacte
 ## Task list
 ---
 
-### Learn the Basics of Category Theory: Categories, Functors and Natural Transformations
+### Learn the basics of category theory: fategories, Functors and Nnatural transformations
 
 - [x] In  *Categories for the Working Mathematician*:
 	- [x]  Read Sections 1.2-1.4
@@ -44,13 +44,20 @@ We are going to take that philosophy to the extreme, by attempting to recharacte
 	- [x] Sections 3.1-3.3, 3.17-3.20
 	- [x] Sections 6.1-6.4
 
-### Categorifying the Notions of Injective and Surjective
-- [ ] In *Categories for the Working Mathematician*:
-	- [ ] Read Section 1.5 and the notes at the end of Chapter 1
-	- [ ] Try the following exercises:
+### Categorifying the notions of injective and surjective
+- [x] In *Categories for the Working Mathematician*:
+	- [x] Read Section 1.5 and the notes at the end of Chapter 1
+	- [x] Try the following exercises:
 		- 1.5: 1-6
-- [ ] In *The Joy of Cats*:
-	- [ ] Read/skim through Chapters 5, 7 and 8
+- [x] In *The Joy of Cats*:
+	- [x] Read/skim through Chapters 5, 7 and 8
+
+### Yoneda's Lemma: The origin of the motto "It's all about the arrows!"
+
+- [ ] Reading through the following notes, which slowly build to Yoneda's Lemma:
+	- [ ] [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]
+	- [ ] [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]]
+	- [ ] [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]
 
 ## The team
 ---
