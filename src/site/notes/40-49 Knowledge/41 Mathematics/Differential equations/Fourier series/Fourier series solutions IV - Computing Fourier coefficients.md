@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iv-computing-fourier-coefficients/","tags":["differential_equations"],"updated":"2025-08-06T08:22:28-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iv-computing-fourier-coefficients/","tags":["differential_equations"],"updated":"2025-08-06T15:17:33-07:00"}
 ---
 
 We will now answer one of three main questions about Fourier series:
@@ -148,7 +148,7 @@ when the function $f(t)$ is known to have some type of symmetry about the origin
 > We call this series the **complex Fourier series corresponding to $f$** (even in the case $f$ itself does not exactly equal this series).
 
 
-## Terrible example
+## A terrible example
 ---
 
 We will have better examples in the next section, but let's start with an example of a function $f(t)$ for which we have two separate methods to compute the complex Fourier coefficients. To that end, consider the function
