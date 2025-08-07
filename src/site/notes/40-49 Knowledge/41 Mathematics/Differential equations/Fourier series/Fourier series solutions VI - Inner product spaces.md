@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vi-inner-product-spaces/","tags":["differential_equations"],"updated":"2025-08-07T09:11:04-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vi-inner-product-spaces/","tags":["differential_equations"],"updated":"2025-08-07T09:51:51-07:00"}
 ---
 
 > [!warning]
@@ -59,7 +59,7 @@ Using the dot product on ${\bf C}^n$ defined above as inspiration, we define the
 
 We can use this inner product to define a **norm** (or **length**) for functions $f:[0,1]\to {\bf C}$, by setting $|f|$ to be the number given by
 
-$$|f|^2=(f,f)\int_0^1 f(t)\overline{f(t)}\operatorname{d}t = \int_0^1 |f(t)|^2.$$
+$$|f|^2=(f,f)=\int_0^1 f(t)\overline{f(t)}\operatorname{d}t = \int_0^1 |f(t)|^2.$$
 
 We say a function $f$ is of **unit length** if $|f|^2=1$.
 
@@ -124,6 +124,14 @@ $$f(t)=\sum_{n=-\infty}^{\infty} c_n\,e_n(t)$$
 then the coefficients must be given by
 
 $$c_n = (f,e_n)=\int_0^1 f(t)e^{-2\pi int}\operatorname{d}t=\hat{f}(n).$$
+
+### The space $L^2([0,1])$
+
+In order to state a bunch of nice facts that are actually true, we need to nail down what it means for our functions to be "nice." We have been considering functions $f:[0,1]\to {\bf C}$ and we would like to define the norm (or length) of such functions by the formula
+
+$$|f|^2= \int_0^1 |f(t)|^2.$$
+
+So at the very least we should restrict ourselves to functions $f$ where the integral above exists and is finite. We will refer to the space of such functions as (a) **Lebesgue space** and denote it $L^2([0,1])$.^[Techincally, this isn't *exactly* the definition of this Lebesgue space, but it's close enough for what we're doing.]
 
 *Under construction*
 
