@@ -30,7 +30,9 @@
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions II - Periodic functions\|Fourier series solutions II - Periodic functions]]
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions III - Series representations of periodic functions\|Fourier series solutions III - Series representations of periodic functions]]
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions IV - Computing Fourier coefficients\|Fourier series solutions IV - Computing Fourier coefficients]]
-[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions V - Computing some Fourier series\|Fourier series solutions V - Computing some Fourier series]]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions V - Computing some Fourier series\|Fourier series solutions V - Computing some Fourier series]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VI - Inner product spaces\|Fourier series solutions VI - Inner product spaces]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VII - Solving differential equations with Fourier series\|Fourier series solutions VII - Solving differential equations with Fourier series]]
 
 *More coming soon*
 

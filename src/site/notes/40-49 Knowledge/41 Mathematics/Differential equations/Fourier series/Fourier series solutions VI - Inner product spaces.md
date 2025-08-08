@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vi-inner-product-spaces/","tags":["differential_equations"],"updated":"2025-08-07T09:51:51-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vi-inner-product-spaces/","tags":["differential_equations"],"updated":"2025-08-08T12:49:43-07:00"}
 ---
 
 > [!warning]
@@ -133,10 +133,8 @@ $$|f|^2= \int_0^1 |f(t)|^2.$$
 
 So at the very least we should restrict ourselves to functions $f$ where the integral above exists and is finite. We will refer to the space of such functions as (a) **Lebesgue space** and denote it $L^2([0,1])$.^[Techincally, this isn't *exactly* the definition of this Lebesgue space, but it's close enough for what we're doing.]
 
-*Under construction*
-
 
 ## Suggested next notes
 ---
 
-*Coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VII - Solving differential equations with Fourier series\|Fourier series solutions VII - Solving differential equations with Fourier series]]
