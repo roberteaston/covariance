@@ -1,13 +1,15 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vii-solving-differential-equations-with-fourier-series/","tags":["differential_equations"],"updated":"2025-08-08T14:24:41-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vii-solving-differential-equations-with-fourier-series/","tags":["differential_equations"],"updated":"2025-08-09T15:15:01-07:00"}
 ---
 
-Let's see how we can sometimes use Fourier series to help us solve differential equations, including some partial differential equations. We will give two real-world examples, both involving a concept known as *heat flow*.
+Let's see how we can sometimes use Fourier series to help us solve differential equations, including some partial differential equations. We will give two real-world examples, both involving a concept known as *heat flow*. In both cases, we will be dealing with two-variable functions, where our two variables are position $x$ and time $t$. In the first example, our function will be periodic in position, while in the second example it will be periodic in time.
 
 ## Heat flow
 ---
 
-Let's first give a quick-and-dirty derivation of the so-called "heat equation". To that end, suppose something one-dimensional is heating up and $u(x,t)$ denotes the temperature at position $x$ and time $t$ (all in your favorite chosen units). Also let $q(x,t)$ denote the *rate* at which *energy* flows at position $x$ and time $t$, where the rate is positive if the energy flows in the positive $x$-direction.
+Let's first give a quick-and-dirty derivation of the so-called "heat equation". If you're already familiar with the heat equation, you can skip to the first example.
+
+If you're still here, then suppose something one-dimensional is heating up and $u(x,t)$ denotes the temperature at position  and time  (all in your favorite chosen units). Also let $q(x,t)$ denote the *rate* at which *energy* flows at position  and time , where the rate is positive if the energy flows in the positive -direction.
 
 We make two basic assumptions about the functions $u(x,t)$ and $q(x,t)$:
 
@@ -68,7 +70,7 @@ By our choice of coordinate $x$, the function $u(x,t)$ is periodic in $x$ with p
 1. The function $u(x,t)$ satisfies the heat equation $u_t = u_{xx}$.
 2. For each fixed value of $t$, the function $u(x,t)$ can be represented by a Fourier series in $x$, i.e., for each value of $t$ there are complex numbers $c_n(t)$ such that
    
-   $$\displaystyle u(x,t)=\sum_{n=-\infty}^{\infty} c_n(t) e^{2\pi nx}.$$
+   $$\displaystyle u(x,t)=\sum_{n=-\infty}^{\infty} c_n(t) e^{2\pi inx}.$$
 
 > [!note] Pay close attention to the variables
 > Imagine $u(x,t)$ is a family of functions of $x$, one function at each time $t$. Each of those functions is periodic in $x$, so we represent it as a linear combination of our favorite periodic functions in $x$, namely $e^{2\pi inx}$. The coefficients of those linear combinations presumably depend on $t$, however, which is why they're denoted $c_n(t)$.
@@ -83,18 +85,18 @@ This will come up again at the very end of this example.
 
 Let's now use the method we employed with power series (and Frobenius series), i.e., substitute our candidate series into the differential equation. In this case, let's first compute
 
-$$u_t = \frac{\partial}{\partial t}\left(\sum_{n=-\infty}^{\infty} c_n(t) e^{2\pi nx}\right)=\sum_{n=-\infty}^{\infty}\frac{\partial}{\partial t}\left(c_n(t)e^{2\pi inx}\right)=\sum_{n=-\infty}^{\infty} c_n'(t)e^{2\pi inx}.$$
+$$u_t = \frac{\partial}{\partial t}\left(\sum_{n=-\infty}^{\infty} c_n(t) e^{2\pi inx}\right)=\sum_{n=-\infty}^{\infty}\frac{\partial}{\partial t}\left(c_n(t)e^{2\pi inx}\right)=\sum_{n=-\infty}^{\infty} c_n'(t)e^{2\pi inx}.$$
 
 (We interchanged the infinite sum and the partial differentiation, which probably deserves justification.)
 
 On the other hand, we can also similarly compute
 
-$$u_x = \frac{\partial}{\partial x}\left(\sum_{n=-\infty}^{\infty} c_n(t) e^{2\pi nx}\right)=\sum_{n=-\infty}^{\infty}\frac{\partial}{\partial x}\left(c_n(t)e^{2\pi inx}\right)=\sum_{n=-\infty}^{\infty} c_n(t)\cdot 2\pi in e^{2\pi nx}$$
+$$u_x = \frac{\partial}{\partial x}\left(\sum_{n=-\infty}^{\infty} c_n(t) e^{2\pi inx}\right)=\sum_{n=-\infty}^{\infty}\frac{\partial}{\partial x}\left(c_n(t)e^{2\pi inx}\right)=\sum_{n=-\infty}^{\infty} c_n(t)\cdot 2\pi in \cdot e^{2\pi nx}$$
 
 and then
 
 $$\begin{align*}
-u_{xx} &= \frac{\partial}{\partial x}\left(\sum_{n=-\infty}^{\infty} c_n(t)\cdot 2\pi in e^{2\pi nx}\right)\\
+u_{xx} &= \frac{\partial}{\partial x}\left(\sum_{n=-\infty}^{\infty} c_n(t)\cdot 2\pi in e^{2\pi inx}\right)\\
 &=\sum_{n=-\infty}^{\infty}\frac{\partial}{\partial x}\left(c_n(t)\cdot 2\pi ine^{2\pi inx}\right)\\
 &=\sum_{-\infty}^{\infty} c_n(t)\cdot 4\pi^2 i^2n^2e^{2\pi inx}\\
 &= \sum_{n=-\infty}^{\infty} -4\pi^2n^2\,c_n(t)e^{2\pi inx}.
@@ -168,7 +170,42 @@ For now this all might seem a bit much, but as our theory develops it will prove
 ## Example: Hot Earth
 ---
 
-*Coming soon*
+In this example, let us now imagine we've chosen a fixed position on the surface of the earth, and we let $u(x,t)$ denote the temperature $x$ meters below the surface at time $t$ (in years). This time, let us assume:
+1. The function  satisfies the heat equation $u_t=\frac{1}{2}u_{xx}$. There is nothing special about the value of $\frac{1}{2}$, other than to provide slight contrast with the previous example (and possibly make some numbers later on slightly nicer looking).
+2. The function $u(x,t)$ is periodic in $t$ with period $1$. In other words, at any fixed position $x$, the temperature should repeat annually. While that's not totally realistic, it's not an entirely terrible assumption. In places like Michigan, for instance, it tends to be cold every December and hot every July. Because of this assumption, we will assume we can represent $u(x,t)$ by a Fourier series in $t$, i.e., as
+   
+   $$\displaystyle u(x,t)=\sum_{n=-\infty}^{\infty} c_n(x) e^{2\pi int}.$$
+
+We now substitute this proposed Fourier series into our heat equation, this time finding that
+
+$$\sum_{n=-\infty}^{\infty} 2\pi in\cdot c_n(x)e^{2\pi int}=\sum_{n=-\infty}^{\infty}\frac{1}{2}c_n''(x)e^{2\pi int}.$$
+
+Once again, by the linear independence of the functions $\{e^{2\pi int}\}_n$, the above equality implies that for all $n$ we just have
+
+$$2\pi in\cdot c_n(x)=\frac{1}{2}c_n''(x),$$
+
+or equivalently,
+
+$$c_n''(x)=4\pi in\cdot c_n(x).$$
+
+### Solving this new differential equation
+
+This new differential equation^[Really a family of differential equations, one for each integer $n$.] is a second-order, linear, homogeneous differential equation. We can solve it using our methods from Linear Analysis I, although there's a good chance you never worked through an example with complex coefficients like this. Fortunately, the process is the same, so long as you're familiar with how to find roots of complex numbers.
+
+In operator notation, we can write our new differential equation as
+
+$$(D^2-4\pi in)c_n=0,$$
+
+where $D$ is the differential operator $\frac{\operatorname{d}}{\operatorname{d}x}$. We now need to find the roots of the so-called *auxiliary polynomial*, namely $p(z)=z^2-4\pi in$. We can do this using exponential notation. Suppose $z$ is one of the roots, so that $z^2=4\pi in$. Let's rewrite both sides in polar-exponential form.  On the left-hand side we'll simply write $z=re^{i\theta}$.
+
+On the right-hand side we have two cases to consider. When $n\geq 0$, the number $4\pi in$ is purely imaginary with nonnegative imaginary part, i.e., lies on the positive imaginary axis. Its polar angle is therefore $\frac{\pi}{2}$ and its polar length is $4\pi n$, so in polar-exponential form this number is $4\pi n\cdot e^{i\cdot \frac{\pi}{2}}$. The equality $z^2=4\pi in$ then becomes
+
+$$r^2e^{i\cdot 2\theta}=4\pi n\cdot e^{i\cdot\frac{\pi}{2}},$$
+
+then implies that $r^2=4\pi n$ and $2\theta = \frac{\pi}{2}+2\pi k$ for $k\in {\bf Z}$. (Recall that polar angles are only defined up to integer multiples of $2\pi$.) It follows that $r=2\sqrt{\pi n}$ and $\theta = \frac{\pi}{4}+\pi k$ for $k\in {\bf Z}$. 
+
+*Under construction!*
+
 
 ## Suggested next notes
 ---
