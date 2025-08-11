@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vii-solving-differential-equations-with-fourier-series/","tags":["differential_equations"],"updated":"2025-08-09T15:15:01-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vii-solving-differential-equations-with-fourier-series/","tags":["differential_equations"],"updated":"2025-08-11T09:47:16-07:00"}
 ---
 
 Let's see how we can sometimes use Fourier series to help us solve differential equations, including some partial differential equations. We will give two real-world examples, both involving a concept known as *heat flow*. In both cases, we will be dealing with two-variable functions, where our two variables are position $x$ and time $t$. In the first example, our function will be periodic in position, while in the second example it will be periodic in time.
@@ -176,6 +176,9 @@ In this example, let us now imagine we've chosen a fixed position on the surface
    
    $$\displaystyle u(x,t)=\sum_{n=-\infty}^{\infty} c_n(x) e^{2\pi int}.$$
 
+> [!note] Compare with the previous example
+> Note that in this example our function $u(x,t)$ is assumed to be periodic in time $t$, not in position $x$. That means our Fourier series should be a combination of our basic periodic functions in $t$, namely $e^{2\pi int}$, where the coefficients depend on the position variable $x$.
+
 We now substitute this proposed Fourier series into our heat equation, this time finding that
 
 $$\sum_{n=-\infty}^{\infty} 2\pi in\cdot c_n(x)e^{2\pi int}=\sum_{n=-\infty}^{\infty}\frac{1}{2}c_n''(x)e^{2\pi int}.$$
@@ -196,16 +199,132 @@ In operator notation, we can write our new differential equation as
 
 $$(D^2-4\pi in)c_n=0,$$
 
-where $D$ is the differential operator $\frac{\operatorname{d}}{\operatorname{d}x}$. We now need to find the roots of the so-called *auxiliary polynomial*, namely $p(z)=z^2-4\pi in$. We can do this using exponential notation. Suppose $z$ is one of the roots, so that $z^2=4\pi in$. Let's rewrite both sides in polar-exponential form.  On the left-hand side we'll simply write $z=re^{i\theta}$.
+where $D$ is the differential operator $\frac{\operatorname{d}}{\operatorname{d}x}$. We now need to find the roots of the so-called *auxiliary polynomial*, namely $p(z)=z^2-4\pi in$. In other words, we need to find all complex numbers $z$ such that $z^2 = 4\pi in$. Fortunately, there is a straightforward process to do this, using exponential notation.
 
-On the right-hand side we have two cases to consider. When $n\geq 0$, the number $4\pi in$ is purely imaginary with nonnegative imaginary part, i.e., lies on the positive imaginary axis. Its polar angle is therefore $\frac{\pi}{2}$ and its polar length is $4\pi n$, so in polar-exponential form this number is $4\pi n\cdot e^{i\cdot \frac{\pi}{2}}$. The equality $z^2=4\pi in$ then becomes
+Suppose $z$ is one of the roots, so that $z^2=4\pi in$. Let's rewrite both sides in polar-exponential form.  On the left-hand side we'll simply write $z=re^{i\theta}$. On the right-hand side we have two cases to consider. When $n\geq 0$, the number $4\pi in$ is purely imaginary with nonnegative imaginary part, i.e., lies on the positive imaginary axis. Its polar angle is therefore $\frac{\pi}{2}$ and its polar length is $4\pi n$, so in polar-exponential form this number is $4\pi n\cdot e^{i\cdot \frac{\pi}{2}}$. The equality $z^2=4\pi in$ then becomes
 
-$$r^2e^{i\cdot 2\theta}=4\pi n\cdot e^{i\cdot\frac{\pi}{2}},$$
+$$r^2e^{i\cdot 2\theta}=4\pi n\cdot e^{i\cdot\frac{\pi}{2}}.$$
 
-then implies that $r^2=4\pi n$ and $2\theta = \frac{\pi}{2}+2\pi k$ for $k\in {\bf Z}$. (Recall that polar angles are only defined up to integer multiples of $2\pi$.) It follows that $r=2\sqrt{\pi n}$ and $\theta = \frac{\pi}{4}+\pi k$ for $k\in {\bf Z}$. 
+In polar-exponential form, two complex number are the same exactly when they have the same polar distance and the same angle, up to integer multiples of $2\pi$. So, the above equation implies that $r^2=4\pi n$ and $2\theta = \frac{\pi}{2}+2\pi k$ for $k\in {\bf Z}$. It follows that $r=2\sqrt{\pi n}$ and $\theta = \frac{\pi}{4}+\pi k$ for $k\in {\bf Z}$. This leads to the two distinct complex numbers $z_1= 2\sqrt{\pi n}\cdot e^{i\cdot \frac{\pi}{4}}$ and $z_2 = 2\sqrt{\pi n}\cdot e^{i\cdot \frac{5\pi}{4}}$.
 
-*Under construction!*
+We now repeat the previous computation in the case $n<0$. In that case, the number $4\pi in$ is purely imaginary with negative imaginary part, i.e., lies on the negative imaginary axis. Its polar angle is therefore $-\frac{\pi}{2}$ and its polar length is $4\pi|n|$, so in polar-exponential form this number is $4\pi |n|e^{-i\cdot\frac{\pi}{2}}$. The equality $z^2=4\pi in$ then becomes
 
+$$r^2 e^{i\cdot 2\theta} = 4\pi |n|e^{-i\cdot\frac{\pi}{2}}.$$
+
+It follows that $r=2\sqrt{\pi |n|}$ and $\theta = -\frac{\pi}{4}+\pi k$ for $k\in {\bf Z}$. This leads to the two distinct complex numbers $z_3 = 2\sqrt{\pi|n|}\cdot e^{-i\cdot\frac{\pi}{4}}$ and $z_4 =2\sqrt{\pi|n|}\cdot e^{-i\cdot\frac{5\pi}{4}}$. (We've written the angles in this way so that it's clear $z_1$ and $z_3$ are complex conjugates, as are $z_2$ and $z_4$).
+
+Before returning to our Fourier series, in this case it helps to rewrite the above complex numbers in their real and imaginary parts. Using Euler's identity, we have
+
+$$
+z_1 = 2\sqrt{\pi n}\cdot e^{i\cdot\frac{\pi}{4}} = 2\sqrt{\pi n}\cdot (\cos(\pi/4)+i\sin(\pi/4)) = 2\sqrt{\pi n}\cdot\left(\frac{\sqrt{2}}{2}+i\cdot\frac{\sqrt{2}}{2}\right)=\sqrt{2\pi n}(1+i)
+$$
+
+Similarly, we find that
+
+$$\begin{align*}
+z_2 &= -\sqrt{2\pi n}(1+i)\\
+z_3 &= \sqrt{2\pi |n|}(1-i)\\
+z_4 &= -\sqrt{2\pi |n|}(1-i).
+\end{align*}$$
+
+Now that we finally have these roots, we can conclude that the general solution to the second-order differential equation 
+
+$$(D^2-4\pi in)c_n=0$$
+
+is
+
+$$c_n(x) =
+\begin{cases}
+A_n e^{\sqrt{2\pi n}(1+i)x}+B_n e^{-\sqrt{2\pi n}(1+i)x} &\text{ when }n\geq 0\\
+A_n e^{\sqrt{2\pi |n|}(1-i)x}+B_n e^{-\sqrt{2\pi |n|}(1-i)x} &\text{ when }n<0
+\end{cases}
+$$
+
+> [!warning] Time to cheat
+> It turns out that, in our particular problem, our Fourier coefficients must have $A_n=0$ for all $n$. We will take that as a fact for now, but I encourage you to investigate what happens to our final solution (below) if we do not make that assumption.
+
+
+Using the above cheat, we can now conclude that
+
+$$c_n(x) =
+\begin{cases}
+B_n e^{-\sqrt{2\pi n}(1+i)x} &\text{ when }n\geq 0\\
+B_n e^{-\sqrt{2\pi |n|}(1-i)x} &\text{ when }n<0
+\end{cases}
+$$
+
+As usual, if we set $x=0$ in the above expression then we obtain $c_n(0)=B_n$, so we can rewrite the above as
+
+$$c_n(x) =
+\begin{cases}
+c_n(0) e^{-\sqrt{2\pi n}(1+i)x} &\text{ when }n\geq 0\\
+c_n(0) e^{-\sqrt{2\pi |n|}(1-i)x} &\text{ when }n<0
+\end{cases}
+$$
+
+Even better, if we let $f(t)=u(0,t)$ (the temperature at the surface, which we can think of as the *initial data* for this system), then just as in the previous example we can verify that $\hat{f}(n)=c_n(0)$, and so we can rewrite the previous expression as
+
+$$c_n(x) =
+\begin{cases}
+\hat{f}(n) e^{-\sqrt{2\pi n}(1+i)x} &\text{ when }n\geq 0\\
+\hat{f}(n) e^{-\sqrt{2\pi |n|}(1-i)x} &\text{ when }n<0
+\end{cases}
+$$
+
+The solution to our "Hot Earth" problem is therefore
+
+$$u(x,t)=\sum_{n=-\infty}^{-1} \hat{f}(n)e^{-\sqrt{2\pi |n|}(1-i)x}e^{2\pi int}+\sum_{n=0}^{\infty}\hat{f}(n) e^{-\sqrt{2\pi n}(1+i)x}e^{2\pi int}$$
+
+### Analyzing a special case
+
+The above formula looks pretty complicated, so let's consider a special case in which a bunch of the terms greatly simplify. Suppose the temperature at the surface were given by $f(t)=\sin(2\pi t)$. Converting this function directly into complex exponential functions, we find that
+
+$$f(t) = \frac{i}{2}e^{-2\pi it}-\frac{i}{2}e^{2\pi it}.$$
+
+It follows that $\hat{f}(-1)=\frac{i}{2}$, $\hat{f}(1)=-\frac{i}{2}$ and $\hat{f}(n)=0$ for all other $n$. Our giant summation above then reduces to simply
+
+$$u(x,t)=\frac{i}{2}e^{-\sqrt{2\pi}(1-i)x}e^{-2\pi it}-\frac{i}{2}e^{-\sqrt{2\pi}(1+i)x}e^{2\pi it}$$
+
+We can simplify this expression and convert it into a function involving only real numbers, as follows:
+
+$$\begin{align*}
+u(x,t) &= \frac{i}{2}e^{-\sqrt{2\pi}(1-i)x}e^{-2\pi it}-\frac{i}{2}e^{-\sqrt{2\pi}(1+i)x}e^{2\pi it}\\
+&= \frac{i}{2}e^{-\sqrt{2\pi}\cdot x}\left(e^{i(\sqrt{2\pi}\cdot x-2\pi t)}-e^{-i(\sqrt{2\pi}\cdot x-2\pi t)}\right)\\
+&= \frac{i}{2}e^{-\sqrt{2\pi}\cdot x}\left(2i\sin(\sqrt{2\pi}\cdot x-2\pi t)\right)\\
+&= -e^{-\sqrt{2\pi}\cdot x}\sin(\sqrt{2\pi}\cdot x-2\pi t)\\
+&= e^{-\sqrt{2\pi}\cdot x}\sin(2\pi t-\sqrt{2\pi}\cdot x).
+\end{align*}$$
+
+A physicist might call this a *damped* and *phase-shifted* sine function. The term $e^{-\sqrt{2\pi}\cdot x}$ is the damping term, while the $-\sqrt{2\pi}\cdot x$ inside the sine function causes the phase shift.
+
+To make things even nice, suppose we fixed our attention at position $x=\sqrt{\pi/2}\approx 1.25$ meters, i.e., about $4$ feet below the ground. In this case, the above expression simplifies even further to
+
+$$u(\sqrt{\pi/2},t)=e^{-\pi}\sin(2\pi t-\pi).$$
+
+Comparing the graph of this function with the graph of the surface temperature, we see the following:
+
+![cellarGraph.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/cellarGraph.png)
+
+
+In other words, the temperature four feet down:
+1. Doesn't vary much.
+2. Is cool when the surface is warm and warm when the surface is cool.
+
+This sounds a lot like how a cellar works, and it's the reason cellars are so useful!
+
+### A last observation
+
+Before leaving this example, let's end by noting that the same trick used in the previous example can let us rewrite the general solution $u(x,t)$ in the form
+
+$$u(x,t)=\int_0^1 f(s)g(x,t-s)\operatorname{d}s,$$
+
+where $f(t)$ is our surface temperature (the initial *impulse* in our system) and where
+
+$$g(x,y)=\sum_{n=-\infty}^{-1} e^{-\sqrt{2\pi |n|}(1-i)x}e^{2\pi iny}+\sum_{n=0}^{\infty}e^{-\sqrt{2\pi n}(1+i)x}e^{2\pi iny}$$
+
+is the *impulse response* (aka *Green's function*, *fundamental solution*, *convolving function*, ...).
+
+There's definitely something going on here, and we'll see exactly what that is when we get familiar with the Fourier transform.
 
 ## Suggested next notes
 ---

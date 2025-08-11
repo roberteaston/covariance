@@ -34,8 +34,6 @@
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VI - Inner product spaces\|Fourier series solutions VI - Inner product spaces]]
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VII - Solving differential equations with Fourier series\|Fourier series solutions VII - Solving differential equations with Fourier series]]
 
-*More coming soon*
-
 ## Transform methods
 ---
 
