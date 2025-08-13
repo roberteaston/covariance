@@ -1,40 +1,28 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024-tropical-conic-duality/","updated":"2025-06-27T10:19:44-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024-tropical-conic-duality/","updated":"2025-08-13T10:16:25-07:00"}
 ---
 
 ## Meeting notes
 ---
 
-| Meeting Date                                                                                                                   |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-08-11\|REU Meeting - 2025-08-11]]  |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-06\|REU Meeting - 2025-08-06]] |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-08-06\|REU Meeting - 2025-08-06]]  |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-04\|REU Meeting - 2025-08-04]] |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-31\|REU Meeting - 2025-07-31]] |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-10\|REU Meeting - 2025-07-10]] |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-08\|REU Meeting - 2025-07-08]]  |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-07\|REU Meeting - 2025-07-07]] |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-07-03\|REU Meeting - 2025-07-03]] |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-06-30\|REU Meeting - 2025-06-30]] |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-06-26\|REU Meeting - 2025-06-26]] |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-27\|REU Meeting - 2024-08-27]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-23\|REU Meeting - 2024-08-23]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-20\|REU Meeting - 2024-08-20]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-13\|REU Meeting - 2024-08-13]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-09\|REU Meeting - 2024-08-09]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-06\|REU Meeting - 2024-08-06]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-02\|REU Meeting - 2024-08-02]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-30\|REU Meeting - 2024-07-30]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-26\|REU Meeting - 2024-07-26]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-23\|REU Meeting - 2024-07-23]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-19\|REU Meeting - 2024-07-19]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-16\|REU Meeting - 2024-07-16]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-12\|REU Meeting - 2024-07-12]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-09\|REU Meeting - 2024-07-09]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-05\|REU Meeting - 2024-07-05]]                        |
-| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-02\|REU Meeting - 2024-07-02]]                        |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-01\|REU Meeting - 2025-07-01]]  |
+| Meeting Date                                                                                            |
+| ------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-27\|REU Meeting - 2024-08-27]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-23\|REU Meeting - 2024-08-23]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-20\|REU Meeting - 2024-08-20]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-13\|REU Meeting - 2024-08-13]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-09\|REU Meeting - 2024-08-09]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-06\|REU Meeting - 2024-08-06]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-08-02\|REU Meeting - 2024-08-02]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-30\|REU Meeting - 2024-07-30]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-26\|REU Meeting - 2024-07-26]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-23\|REU Meeting - 2024-07-23]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-19\|REU Meeting - 2024-07-19]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-16\|REU Meeting - 2024-07-16]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-12\|REU Meeting - 2024-07-12]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-09\|REU Meeting - 2024-07-09]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-05\|REU Meeting - 2024-07-05]] |
+| [[50-59 Logs/52 Research meetings/2024 - Summer/REU Meeting - 2024-07-02\|REU Meeting - 2024-07-02]] |
 
 { .block-language-dataview}
 

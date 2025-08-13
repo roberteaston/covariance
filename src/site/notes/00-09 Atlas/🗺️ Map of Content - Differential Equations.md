@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-08-11T09:47:34-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-08-13T09:59:41-07:00"}
 ---
 
 > [!quote] George Pólya
@@ -40,6 +40,7 @@
 ### The Fourier transform
 
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform I - Pushing Fourier series to the limit\|Fourier transform I - Pushing Fourier series to the limit]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform II - The Fourier transform and inverse transform\|Fourier transform II - The Fourier transform and inverse transform]]
 *More coming soon*
 
 ### The Laplace transform

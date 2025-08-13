@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-i-pushing-fourier-series-to-the-limit/","tags":["differential_equations"],"updated":"2025-08-13T09:59:23-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-i-pushing-fourier-series-to-the-limit/","tags":["differential_equations"],"updated":"2025-08-13T11:40:07-07:00"}
 ---
 
 We are about to discover the Fourier *transform* as the natural answer to the following:
@@ -63,11 +63,151 @@ We can now ask the question:
 > [!question] Can we let $T\to \infty$?
 > In other words, what happens if $f$ is not periodic? Can we make sense of some type of limit of the above situation?
 
+Let's try answering this question in a particular (hopefully inspiring) example.
 
-*Under construction*
+## Extended example: The rectangle function
+---
+
+Thinking like physicists for the moment, suppose we consider the simple situation of a "signal" that's "on" for one unit of time (say, $1$ second) and then "off" at all other times. We can model such a signal with a function that takes the value $1$ over an interval of length $1$, and then value $0$ everywhere else. It will turn out to make things slightly nicer numerically if we use the function that is $1$ on the interval $[-\frac{1}{2},\frac{1}{2}]$ and $0$ everywhere else. The graph of this function is
+
+![rectFunctionGraph1.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/rectFunctionGraph1.png)
+
+We can make this graph more visualizing appealing (and look more like an idealization of an actual, continuous signal) if we add dotted lines connecting the "jump" points:
+
+![rectFunctionGraph2.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/rectFunctionGraph2.png)
+
+We will follow the common convention and denote this function $\Pi(t)$, so that algebraically
+
+$$\Pi(t) = \begin{cases} 1,& \text{if }-\frac{1}{2}\leq t\leq \frac{1}{2} \\ 0,& \text{else}\end{cases}$$
+
+It would be reasonable to call this the *square function*, as its graph resembles a little unit square sitting on the origin, but for historical reasons it's usually called the unit **rectangle function**. (This naming will seem more justified when we start stretching and scaling the function, in which case the graph suddenly looks like a random rectangle than a square).
+
+No matter what we call it, this function is decidedly *not* periodic. We can easily create periodic "versions" of this function, though. For example, suppose we wanted a function that agreed with the above function on $[-1,1]$, say, but that was periodic with period $2$. In other words, suppose we considered the function $\Pi_2(t)$ whose graph looked like
+
+*Image coming soon*
+
+Similarly, if we wanted a function whose graph had little unit squares that repeated with period $4$, we could consider the function $\Pi_4(t)$ whose graph looked like
+
+*Image coming soon*
+
+In general, for every $T > 1$ let's let $\Pi_T(t)$ denote the function that is periodic with period $T$ and whose graph looks like unit squares with centers spaced $T$ units apart:
+
+*Image coming soon*
+
+This function takes the value $1$ on every interval of the form $[kT-\frac{1}{2},kT+\frac{1}{2}]$, and is $0$ elsewhere.
+
+> [!note] Observations
+> 1. The function $\Pi_T(t)$ agrees with the function $\Pi(t)$ on the interval of width $T-1$ centered at the origin. In particular, for each fixed value of $t$ we always have $\lim_{T\to \infty}\Pi_T(t) = \Pi(t)$. So it looks like our functions $\Pi_T(t)$ are "converging" to the original function $\Pi(t)$.
+> 2. The function $\Pi_T(t)$ is periodic with period $T>0$, so it makes sense to consider its corresponding complex Fourier series.
+
+### Computing the Fourier series for $\Pi_T(t)$
+
+For simplicity, let's assume $\Pi_T(t)$ agrees with its complex Fourier series and write
+
+$$\Pi_T(t) = \sum_{n=-\infty}^{\infty} c_{n,T} \cdot e^{\frac{2\pi int}{T}}.$$
+
+The Fourier coefficients in this series are then given by
+
+$$\begin{align*}
+c_{n,T} &= \frac{1}{T}\int_0^T \Pi_T(t)e^{-\frac{2\pi int}{T}}\operatorname{d}t\\
+&= \frac{1}{T}\int_{-\frac{T}{2}}^{\frac{T}{2}}\Pi_T(t)e^{-\frac{2\pi int}{T}}\operatorname{d}t\\\\
+&= \frac{1}{T}\int_{-\frac{1}{2}}^{\frac{1}{2}} 1\cdot e^{-\frac{2\pi int}{T}}\operatorname{d}t\\
+&= \begin{cases}\frac{1}{T},& \text{ when }n=0 \\ \frac{1}{\pi n}\sin\left(\frac{\pi n}{T}\right),& \text{ when }n\neq 0\end{cases}
+\end{align*}$$
+
+where we did some simplifications (behind the scenes) after computing the final integral. Substituting this information back into our Fourier series, we see that
+
+$$\Pi_T(t) = \frac{1}{T}+\sum_{n\neq 0} \frac{1}{\pi n}\sin\left(\frac{\pi n}{T}\right)e^{\frac{2\pi in t}{T}}.$$
+
+We want to analyze what happens in the above expression as $T\to \infty$. To that end, we can rewrite that summation (perhaps more suggestively) as
+
+$$\Pi_T(t) = ç.$$
+
+Why rewrite the sum in this way? We claim that doing so makes the above sum look like a *Riemann sum*. Indeed, suppose (for some fixed value of $t$) we were asked to approximate the integral below with a Riemann sum:
+
+$$\int_{-\infty}^{\infty} \frac{\sin(\pi s)}{\pi s}e^{2\pi its}\operatorname{d}s.$$
+
+Ignoring questions of convergence, the conventional approach would be to subdivide the $s$-axis into little slices of equal length, say length $\Delta s = \frac{1}{T}$:
+
+*Image coming soon*
+
+We would then evaluate the integrand at the values $s=\ldots,-\frac{2}{T},-\frac{1}{T},0,\frac{1}{T},\frac{2}{T},\ldots$, i.e., at all points of the form $s=\frac{n}{T}$ where $n\in {\bf Z}$. 
+
+> [!warning] A small but fixable issue
+> We should note that the integrand is not actually defined exactly at $s=0$, but we'll see shortly that as $s$ approaches $0$ the values of the integrand simply approach $1$. In other words, the integrand has a removable discontinuity at $s=0$, which can be removed by setting the value of the integrand to $1$ at $s=0$.
+
+With the above minor fix in mind, the Riemann sum for the above definite integral is
+
+$$\frac{1}{T}+\sum_{n\neq 0} \frac{1}{\pi n}\sin\left(\frac{\pi n}{T}\right)e^{\frac{2\pi in t}{T}},$$
+
+where the first $\frac{1}{T}$ terms comes from the contribution at $s=0$. This is exactly our Fourier series for $\Pi_T(t)$!
+
+### The dramatic conclusion
+
+Now, as we let $T\to \infty$, our Riemann sum should converge to the exact value of the integral. In other words, we appear to have
+
+$$\begin{align*}
+\Pi(t) &= \lim_{T\to\infty} \Pi_T(t)\\
+&= \lim_{T\to \infty}\left(\frac{1}{T}+\sum_{n\neq 0} \frac{1}{\pi n}\sin\left(\frac{\pi n}{T}\right)e^{\frac{2\pi in t}{T}}\right)\\
+&= \int_{-\infty}^{\infty}\frac{\sin(\pi s)}{\pi s}e^{2\pi its}\operatorname{d}s.
+\end{align*}$$
+
+In other words, the Fourier series for the periodic "versions" $\Pi_T(t)$ seem to converge to an integral representation of the non-periodic function $\Pi(t)$.
+
+> [!question] An immediate question
+> The Fourier *series* for a periodic function seems to have been replaced by some type of Fourier *integral* for our non-periodic function. During this change, the Fourier coefficients (which were a sequence of complex numbers) were replaced by a single new *function*, in this case the function $\frac{\sin(\pi s)}{\pi s}$.
+> 
+> How did this function arise? How is it related to our original function $\Pi(t)$?
+
+We can answer this question by looking back at how we computed the Fourier coefficients for the periodic function $\Pi_T(t)$. After our usual computations, we found that (at least for $n\neq 0$)
+
+$$c_{n,T} = \frac{1}{\pi n}\sin\left(\frac{\pi n}{T}\right).$$
+
+In our effort to view the Fourier series as a Riemann sum for a definite integral, we introduced the new variable $s$, and in our sum we had $s=\frac{n}{T}$. So, at each term in the sum we were using the approximation
+
+$$\frac{\sin(\pi s)}{\pi s}\approx \frac{\sin\left(\pi\cdot \frac{n}{T}\right)}{\pi\cdot\frac{n}{T}}.$$
+
+Combining this estimate with the previous equality, we see that
+
+$$\begin{align*}
+\frac{\sin(\pi s)}{\pi s} &\approx \frac{\sin\left(\pi\cdot \frac{n}{T}\right)}{\pi\cdot\frac{n}{T}}\\
+&= T\cdot c_{n,T}\\
+&= \int_{-\frac{1}{2}}^{\frac{1}{2}}1\cdot e^{-\frac{2\pi int}{T}}\operatorname{d}t\\
+&= \int_{-\infty}^{\infty} \Pi(t)e^{-2\pi it\cdot\frac{n}{T}}\operatorname{d}t
+\end{align*}$$
+
+where in the last step we simply used the fact that $\Pi(t)$ was $0$ outside the interval $[-\frac{1}{2},\frac{1}{2}]$.
+
+With all this in mind, it looks like (and we can now easily confirm) that
+
+$$\frac{\sin(\pi s)}{\pi s} = \int_{-\infty}^{\infty} \Pi(t)e^{-2\pi its}\operatorname{d}t$$
+
+
+## The takeaway
+---
+
+Here's a quick comparison between the situation for periodic functions and non-periodic functions, at least if the previous example is to be trusted.
+
+When $f(t)$ is a periodic function with period $T > 0$, we expect/hope to be able to write
+
+$$f(t) = \sum_{n=-\infty}^{\infty} c_n e^{2\pi it\cdot\frac{n}{T}},$$
+
+where 
+
+$$c_n = \frac{1}{T}\int_0^T f(t)e^{-2\pi it\cdot\frac{n}{T}}\,\operatorname{d}t.$$
+
+On the other hand, when $f(t)$ is a non-periodic function, it seems like we might expect/hope to be able to write
+
+$$f(t) = \int_{-\infty}^{\infty} F(s)e^{2\pi its}\operatorname{d}s,$$
+
+where 
+
+$$F(s) = \int_{-\infty}^{\infty} f(t)e^{-2\pi its}\operatorname{d}t.$$
+
+Let's make this official in the next note!
 
 
 ## Suggested next notes
 ---
 
-*Coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform II - The Fourier transform and inverse transform\|Fourier transform II - The Fourier transform and inverse transform]]
