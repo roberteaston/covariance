@@ -39,7 +39,8 @@
 
 ### The Fourier transform
 
-*Coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform I - Pushing Fourier series to the limit\|Fourier transform I - Pushing Fourier series to the limit]]
+*More coming soon*
 
 ### The Laplace transform
 
