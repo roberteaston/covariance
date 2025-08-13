@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","tags":["category_theory"],"updated":"2025-08-06T15:13:41-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","tags":["category_theory"],"updated":"2025-08-13T09:20:10-07:00"}
 ---
 
 
@@ -22,6 +22,7 @@ We are going to take that philosophy to the extreme, by attempting to recharacte
 
 | Meeting Date                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-08-11\|REU Meeting - 2025-08-11]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-08-06\|REU Meeting - 2025-08-06]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-08\|REU Meeting - 2025-07-08]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-01\|REU Meeting - 2025-07-01]] |
@@ -54,10 +55,16 @@ We are going to take that philosophy to the extreme, by attempting to recharacte
 
 ### Yoneda's Lemma: The origin of the motto "It's all about the arrows!"
 
-- [ ] Reading through the following notes, which slowly build to Yoneda's Lemma:
-	- [ ] [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]
-	- [ ] [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]]
-	- [ ] [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]
+- [x] Reading through the following notes, which slowly build to Yoneda's Lemma:
+	- [x] [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]
+	- [x] [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]]
+	- [x] [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]
+
+### Using Yoneda's Lemma as a guide
+
+- [ ] Suppose $F,G:C\to {\bf Set}$ are two functors from a given category $C$ to the category of sets, and suppose $\tau:F\Rightarrow G$ is a natural transformation. Propose a "natural" (pun intended) definition for $\tau$ to be called a **natural injection**.
+- [ ] Suppose $a,b\in C$ are two objects in a given category $C$, and $f:a\to b$ is an arrow in $C$. The functor $H$ should provide a natural transformation $H_f:H_a\Rightarrow H_b$. Describe this natural transformation, i.e., for every object $c\in C$, describe the set map $H_a(c)\to H_b(c)$. (Hint: Write down what those sets are.)
+- [ ] Using your proposed definition for *natural injection*, show that $f:a\to b$ is a monomorphism in $C$ if and only if the corresponding natural transformation $H_f:H_a\Rightarrow H_b$ is a natural injection.
 
 ## The team
 ---

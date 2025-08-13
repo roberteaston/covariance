@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                                                                                             | Last Updated               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VII - Solving differential equations with Fourier series\|Fourier series solutions VII - Solving differential equations with Fourier series]] | 9:47 AM - August 11, 2025  |
-| [[00-09 Atlas/🗺️ Map of Content - Differential Equations\|🗺️ Map of Content - Differential Equations]]                                                                                                                                      | 2:25 PM - August 08, 2025  |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VI - Inner product spaces\|Fourier series solutions VI - Inner product spaces]]                                                               | 12:49 PM - August 08, 2025 |
+| Note                                                                                                                            | Last Updated              |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[20-29 Research/24 Summer REUs/2025/Project Single Arrow/Summer REU 2025 - Project arrow\|Summer REU 2025 - Project arrow]] | 9:20 AM - August 13, 2025 |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-08-11\|REU Meeting - 2025-08-11]]   | 9:18 AM - August 13, 2025 |
+| [[00-09 Atlas/🗺️ Map of Content - Differential Equations\|🗺️ Map of Content - Differential Equations]]                     | 9:47 AM - August 11, 2025 |
 
 { .block-language-dataview}
 
