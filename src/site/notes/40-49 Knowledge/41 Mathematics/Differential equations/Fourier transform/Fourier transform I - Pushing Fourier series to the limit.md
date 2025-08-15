@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-i-pushing-fourier-series-to-the-limit/","tags":["differential_equations"],"updated":"2025-08-13T11:40:07-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-i-pushing-fourier-series-to-the-limit/","tags":["differential_equations"],"updated":"2025-08-15T08:59:02-07:00"}
 ---
 
 We are about to discover the Fourier *transform* as the natural answer to the following:
@@ -20,13 +20,13 @@ $$c_n =\int_0^1 f(t)e^{-2\pi int}\operatorname{d}t.$$
 
 We then introduced the "hat" notation $\hat{f}(n)$ for the value of the above integral.
 
-[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VI - Inner product spaces\|Eventually]] we used ideas from linear algebra to clarify the situation, by introducing an analogue of the dot product for periodic functions, namely the [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VI - Inner product spaces#Extending the dot product to functions\|inner product]] for functions $f,g:[0,1]\to {\bf C}$ defined by
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VI - Inner product spaces\|Eventually]] we used ideas from linear algebra to clarify the situation, introducing an analogue of the dot product for periodic functions, namely the [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions VI - Inner product spaces#Extending the dot product to functions\|inner product]] for functions $f,g:[0,1]\to {\bf C}$ defined by
 
 $$(f,g)=\int_0^1 f(t)\overline{g(t)}\operatorname{d}t.$$
 
 This inner product shares nearly all of the familiar properties of the dot product on ${\bf R}^n$ and allowed us to define both the notion of *length* (using $|f|^2 = (f,f)$) and *orthogonality* (by declaring $f$ and $g$ orthogonal whenever $(f,g)=0$). In particular, if we let $e_n(t)=e^{2\pi int}$, then the set of functions $\{e_n(t)\mid n\in {\bf Z}\}$ is an orthonormal set, i.e., is a set of functions that are unit length and mutually orthogonal.
 
-With this new linear algebra language, our work above becomes a standard result about orthonormal sets, namely that if $f$ can be written as a linear combination of the $e_n$, then that combination must be exactly
+With this new linear algebra language, our work above became a standard result about orthonormal sets, namely that if $f$ can be written as a linear combination of the $e_n$, then that combination must be exactly
 
 $$f = \sum_{n=-\infty}^{\infty} (f,e_n)\cdot e_n,$$
 
@@ -36,7 +36,7 @@ $$(f,e_n)=\int_0^1 f(t)\overline{e_n(t)}\operatorname{d}t = \int_0^1 f(t)e^{-2\p
 
 ### The more general situation
 
-We can easily extend the above results to the case of functions that are periodic with arbitrary period $T > 0$. In this case, the inner product for functions $f,g:[0,T]\to {\bf C}$ is given by
+We can easily extend the above results to the case of functions that are periodic with arbitrary period $T > 0$. In this case, an inner product for functions $f,g:[0,T]\to {\bf C}$ is given by
 
 $$(f,g)=\int_0^T f(t)\overline{g(t)}\operatorname{d}t,$$
 
@@ -50,11 +50,11 @@ where
 
 $$(f,e_n) = \int_0^T f(t)\cdot \frac{1}{\sqrt{T}}e^{-\frac{2\pi int}{T}}\operatorname{d}t=\frac{1}{\sqrt{T}}\int_0^T f(t)e^{-\frac{2\pi int}{T}}\operatorname{d}t.$$
 
-If, for some reason, you wished to express $f$ as a linear combination of the functions $e^{\frac{2\pi int}{T}}$ (which are no longer unit length but are still mutually orthogonal), you could equivalently write
+If, for some reason, we wish to express $f$ as a linear combination of the functions $e^{\frac{2\pi int}{T}}$ (which are no longer unit length but are still mutually orthogonal), we can equivalently write
 
 $$f(t) = \sum_{n=-\infty}^{\infty} c_n e^{\frac{2\pi int}{T}},$$
 
-where $c_n$ satisfied the integral equation
+where $c_n$ satisfy the integral equation
 
 $$c_n = \frac{1}{T}\int_0^T f(t)e^{-\frac{2\pi int}{T}}\operatorname{d}t.$$
 
@@ -63,7 +63,7 @@ We can now ask the question:
 > [!question] Can we let $T\to \infty$?
 > In other words, what happens if $f$ is not periodic? Can we make sense of some type of limit of the above situation?
 
-Let's try answering this question in a particular (hopefully inspiring) example.
+Let's try answering this question in a particular (hopefully insightful) example.
 
 ## Extended example: The rectangle function
 ---
@@ -80,25 +80,27 @@ We will follow the common convention and denote this function $\Pi(t)$, so that 
 
 $$\Pi(t) = \begin{cases} 1,& \text{if }-\frac{1}{2}\leq t\leq \frac{1}{2} \\ 0,& \text{else}\end{cases}$$
 
-It would be reasonable to call this the *square function*, as its graph resembles a little unit square sitting on the origin, but for historical reasons it's usually called the unit **rectangle function**. (This naming will seem more justified when we start stretching and scaling the function, in which case the graph suddenly looks like a random rectangle than a square).
+The choice of the character $\Pi$ (which is a capital pi) is meant to visually remind us of the graph of the function.
 
-No matter what we call it, this function is decidedly *not* periodic. We can easily create periodic "versions" of this function, though. For example, suppose we wanted a function that agreed with the above function on $[-1,1]$, say, but that was periodic with period $2$. In other words, suppose we considered the function $\Pi_2(t)$ whose graph looked like
+It would be reasonable to call this the *square function*, as its graph resembles a little unit square sitting on the origin, but for historical reasons it's usually called the unit **rectangle function**. (This naming will seem more justified when we start stretching and scaling the function, in which case the graph resembles a non-square rectangle.)
 
-*Image coming soon*
-
-Similarly, if we wanted a function whose graph had little unit squares that repeated with period $4$, we could consider the function $\Pi_4(t)$ whose graph looked like
+No matter what we call it, this function is decidedly *not* periodic. We can easily create periodic "versions" of this function, i.e., a function that is "on" for $1$ second bursts, periodically. For example, we might want a function that agreed with the above function on $[-1,1]$ but that was periodic with period $2$. In other words, suppose we considered the function $\Pi_2(t)$ whose graph looked like
 
 *Image coming soon*
 
-In general, for every $T > 1$ let's let $\Pi_T(t)$ denote the function that is periodic with period $T$ and whose graph looks like unit squares with centers spaced $T$ units apart:
+Similarly, if we wanted a function that was "on" for $1$-second intervals every $4$ seconds, we could consider the function $\Pi_4(t)$ whose graph looked like
+
+*Image coming soon*
+
+In general, for every $T > 1$ let's let $\Pi_T(t)$ denote the function that is periodic with period $T$ and takes the value $1$ on $[-\frac{1}{2},\frac{1}{2}]$:
 
 *Image coming soon*
 
 This function takes the value $1$ on every interval of the form $[kT-\frac{1}{2},kT+\frac{1}{2}]$, and is $0$ elsewhere.
 
 > [!note] Observations
-> 1. The function $\Pi_T(t)$ agrees with the function $\Pi(t)$ on the interval of width $T-1$ centered at the origin. In particular, for each fixed value of $t$ we always have $\lim_{T\to \infty}\Pi_T(t) = \Pi(t)$. So it looks like our functions $\Pi_T(t)$ are "converging" to the original function $\Pi(t)$.
-> 2. The function $\Pi_T(t)$ is periodic with period $T>0$, so it makes sense to consider its corresponding complex Fourier series.
+> 1. The function $\Pi_T(t)$ is periodic with period $T>0$, so it makes sense to consider its corresponding complex Fourier series.
+> 2. The function $\Pi_T(t)$ agrees with the function $\Pi(t)$ on the interval of width $T-1$ centered at the origin. In particular, for each fixed value of $t$ we always have $\displaystyle \lim_{T\to \infty}\Pi_T(t) = \Pi(t)$. So it looks like our functions $\Pi_T(t)$ are "converging" to the original function $\Pi(t)$.
 
 ### Computing the Fourier series for $\Pi_T(t)$
 
@@ -121,7 +123,7 @@ $$\Pi_T(t) = \frac{1}{T}+\sum_{n\neq 0} \frac{1}{\pi n}\sin\left(\frac{\pi n}{T}
 
 We want to analyze what happens in the above expression as $T\to \infty$. To that end, we can rewrite that summation (perhaps more suggestively) as
 
-$$\Pi_T(t) = ç.$$
+$$\Pi_T(t) = \frac{1}{T}+\sum_{n\neq 0} \frac{\sin\left(\pi\cdot\frac{n}{T}\right)}{\pi \cdot\frac{n}{T}}e^{2\pi it\cdot\frac{n}{T}}\cdot\frac{1}{T}.$$
 
 Why rewrite the sum in this way? We claim that doing so makes the above sum look like a *Riemann sum*. Indeed, suppose (for some fixed value of $t$) we were asked to approximate the integral below with a Riemann sum:
 
@@ -138,9 +140,9 @@ We would then evaluate the integrand at the values $s=\ldots,-\frac{2}{T},-\frac
 
 With the above minor fix in mind, the Riemann sum for the above definite integral is
 
-$$\frac{1}{T}+\sum_{n\neq 0} \frac{1}{\pi n}\sin\left(\frac{\pi n}{T}\right)e^{\frac{2\pi in t}{T}},$$
+$$\int_{-\infty}^{\infty}\frac{\sin(\pi s)}{\pi s}e^{2\pi its}\operatorname{d}s\approx \frac{1}{T}+\sum_{n\neq 0} \frac{\sin\left(\pi\cdot\frac{n}{T}\right)}{\pi \cdot\frac{n}{T}}e^{2\pi it\cdot\frac{n}{T}}\cdot\frac{1}{T},$$
 
-where the first $\frac{1}{T}$ terms comes from the contribution at $s=0$. This is exactly our Fourier series for $\Pi_T(t)$!
+where the first $\frac{1}{T}$ terms comes from the contribution at $s=0$. The sum on the right is exactly our Fourier series for $\Pi_T(t)$!
 
 ### The dramatic conclusion
 
@@ -148,11 +150,11 @@ Now, as we let $T\to \infty$, our Riemann sum should converge to the exact value
 
 $$\begin{align*}
 \Pi(t) &= \lim_{T\to\infty} \Pi_T(t)\\
-&= \lim_{T\to \infty}\left(\frac{1}{T}+\sum_{n\neq 0} \frac{1}{\pi n}\sin\left(\frac{\pi n}{T}\right)e^{\frac{2\pi in t}{T}}\right)\\
+&= \lim_{T\to \infty}\left(\frac{1}{T}+\sum_{n\neq 0} \frac{\sin\left(\pi\cdot\frac{n}{T}\right)}{\pi \cdot\frac{n}{T}}e^{2\pi it\cdot\frac{n}{T}}\cdot\frac{1}{T}\right)\\
 &= \int_{-\infty}^{\infty}\frac{\sin(\pi s)}{\pi s}e^{2\pi its}\operatorname{d}s.
 \end{align*}$$
 
-In other words, the Fourier series for the periodic "versions" $\Pi_T(t)$ seem to converge to an integral representation of the non-periodic function $\Pi(t)$.
+In other words, the Fourier series for the periodic functions $\Pi_T(t)$ seem to converge to an integral representation of the non-periodic function $\Pi(t)$.
 
 > [!question] An immediate question
 > The Fourier *series* for a periodic function seems to have been replaced by some type of Fourier *integral* for our non-periodic function. During this change, the Fourier coefficients (which were a sequence of complex numbers) were replaced by a single new *function*, in this case the function $\frac{\sin(\pi s)}{\pi s}$.
@@ -167,7 +169,7 @@ In our effort to view the Fourier series as a Riemann sum for a definite integra
 
 $$\frac{\sin(\pi s)}{\pi s}\approx \frac{\sin\left(\pi\cdot \frac{n}{T}\right)}{\pi\cdot\frac{n}{T}}.$$
 
-Combining this estimate with the previous equality, we see that
+Combining this estimate with the previous equality, we see that when $s=\frac{n}{T}$ we have
 
 $$\begin{align*}
 \frac{\sin(\pi s)}{\pi s} &\approx \frac{\sin\left(\pi\cdot \frac{n}{T}\right)}{\pi\cdot\frac{n}{T}}\\
@@ -182,17 +184,27 @@ With all this in mind, it looks like (and we can now easily confirm) that
 
 $$\frac{\sin(\pi s)}{\pi s} = \int_{-\infty}^{\infty} \Pi(t)e^{-2\pi its}\operatorname{d}t$$
 
+Indeed, observe that
+
+$$\begin{align*}
+\int_{-\infty}^{\infty} \Pi(t)e^{-2\pi its}\operatorname{d}t &= \int_{-\frac{1}{2}}^{\frac{1}{2}} e^{-2\pi its}\operatorname{d}t\\
+&= \left[\frac{1}{-2\pi is}e^{-2\pi its}\right]_{t=-\frac{1}{2}}^{t=\frac{1}{2}}\\
+&= \frac{1}{-2\pi is}e^{-\pi is}-\frac{1}{-2\pi is}e^{\pi is}\\
+&= \frac{1}{2\pi is}\left(e^{\pi is}-e^{-\pi is}\right)\\
+&= \frac{1}{2\pi is}\cdot 2i\sin(\pi s)\\
+&= \frac{\sin(\pi s)}{\pi s}.
+\end{align*}$$
 
 ## The takeaway
 ---
 
 Here's a quick comparison between the situation for periodic functions and non-periodic functions, at least if the previous example is to be trusted.
 
-When $f(t)$ is a periodic function with period $T > 0$, we expect/hope to be able to write
+When $f(t)$ is a periodic function with period $T > 0$, if we can write
 
 $$f(t) = \sum_{n=-\infty}^{\infty} c_n e^{2\pi it\cdot\frac{n}{T}},$$
 
-where 
+then we must have
 
 $$c_n = \frac{1}{T}\int_0^T f(t)e^{-2\pi it\cdot\frac{n}{T}}\,\operatorname{d}t.$$
 
