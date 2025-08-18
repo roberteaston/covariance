@@ -1,8 +1,22 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-iii-properties/","tags":["differential_equations"],"updated":"2025-08-18T09:52:23-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-iii-properties/","tags":["differential_equations"],"updated":"2025-08-18T15:29:31-07:00"}
 ---
 
 The Fourier transform (and inverse transform) enjoys a long list of very nice properties.
+
+## Linearity
+---
+
+Since the Fourier transform and inverse transform are both defined by definite integrals, it is straightforward to verify they inherit the usual linearity properties of integration, namely that for any pair of function $f$ and $g$ (for which the Fourier transform exists) we have
+
+$$\mathcal{F}(f+g)= \mathcal{F}f+\mathcal{F}g,$$
+
+ and for any constant $c$ we have
+
+$$\mathcal{F}(cf) = c\cdot \mathcal{F}f$$
+
+(and similarly for the inverse transform).
+
 
 ## "Signal reversal"
 ---
@@ -80,7 +94,18 @@ $$(\mathcal{F}f)^-(s)=(\mathcal{F}f)(-s)=\frac{1}{1-2\pi is}=\overline{\left(\fr
 ## Shifting and stretching
 ---
 
+Suppose $f(t)$ is a function with a known Fourier transform. One of the first things we learn in precalculus is how manipulating the inputs and outputs of a function affects the graph of that function.
+
+
+The linearity of the Fourier transform allows us to easily determine the Fourier transform 
+
 *Under construction!*
+
+> [!summary] The stretch-and-shift property of the Fourier transform
+> Suppose $f$ has a Fourier transform and $a,b$ are real numbers (with $a\neq 0$). Let $g(t)=f(at+b)$. Then 
+> 
+> $$(\mathcal{F}g)(s) = \frac{1}{|a|}e^{\frac{2\pi isb}{a}}\cdot (\mathcal{F}f)\left(\frac{s}{a}\right).$$
+
 
 ## Suggested next notes
 ---

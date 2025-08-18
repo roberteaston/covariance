@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-ii-the-fourier-transform-and-inverse-transform/","tags":["differential_equations"],"updated":"2025-08-18T09:31:28-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-ii-the-fourier-transform-and-inverse-transform/","tags":["differential_equations"],"updated":"2025-08-18T15:21:01-07:00"}
 ---
 
 Inspired by the [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform I - Pushing Fourier series to the limit#The takeaway\|previous example]] and ignoring any technical issues (such as convergence), we have been led to define the following:
@@ -72,21 +72,34 @@ $$\Lambda(t)=\begin{cases}1+t,&\text{ for }-1\leq t\leq 0\\1-t,&\text{ for }0<t\
 
 The graph of this function looks like a isosceles right triangle of height $1$ and base $2$ centered at the origin:
 
-*Image coming soon*
+![triangleFunction.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/triangleFunction.png)
 
 We have chosen to use the capital lambda symbol for this function's name because that Greek character also happens to look like a triangle.
 
 In any case, we can compute the Fourier transform of this function:
 
-$$(\mathcal{F}\Lambda)(s) = \int_{-\infty}^{\infty} \Lambda(t)e^{-2\pi its}\operatorname{d}t = \int_{-1}^0 (1+t)e^{-2\pi its}\operatorname{d}t +\int_0^1 (1-t)e^{-2\pi its}\,\operatorname{d}t.$$
+$$\begin{align*}
+(\mathcal{F}\Lambda)(s) &= \int_{-\infty}^{\infty} \Lambda(t)e^{-2\pi its}\operatorname{d}t \\
+&= \int_{-1}^0 (1+t)e^{-2\pi its}\operatorname{d}t +\int_0^1 (1-t)e^{-2\pi its}\,\operatorname{d}t\\
+&= \int_{-1}^1 e^{-2\pi its}\operatorname{d}t+\int_{-1}^0te^{-2\pi its}\operatorname{d} t-\int_0^1 te^{-2\pi its}\operatorname{d}t\\
+&= \frac{1}{-2\pi is}\left[e^{-2\pi its}\right]_{t=-1}^{t=1}+\frac{1}{(-2\pi is)^2}\int_{2\pi is}^0 ue^u\operatorname{d}u-\frac{1}{(-2\pi is)^2}\int_0^{-2\pi is}ue^u\operatorname{d}u\\
+&= \frac{1}{-2\pi is}\left(e^{-2\pi is}-e^{2\pi is}\right)+\frac{1}{(-2\pi is)^2}\left[ue^u-e^u\right]_{u=2\pi is}^{u=0}-\frac{1}{(-2\pi is)^2}\left[ue^u-e^u\right]_{u=0}^{u=-2\pi is}\\
+&= \frac{1}{2\pi is}\left(e^{2\pi is}-e^{-2\pi is}\right)+\frac{1}{(-2\pi is)^2}\left(-1-2\pi ise^{2\pi is}+e^{2\pi is}\right)-\frac{1}{(-2\pi is)^2}\left(-2\pi ise^{-2\pi is}-e^{-2\pi is}+1\right)\\
+&= \frac{1}{2\pi is}e^{2\pi is}-\frac{1}{2\pi is}e^{-2\pi is}-\frac{1}{(-2\pi is)^2}-\frac{1}{2\pi is}e^{2\pi is}+\frac{1}{(-2\pi is)^2}e^{2\pi is}+\frac{1}{2\pi is}e^{-2\pi is}+\frac{1}{(2\pi is)^2}e^{-2\pi is}-\frac{1}{(-2\pi is)^2}\\
+&= \frac{1}{(-2\pi is)^2}\left(e^{2\pi is}-2+e^{-2\pi is}\right),
+\end{align*}$$
 
-I'll add the computations later, but for now I'll cut to the chase and note that we eventually find
 
-$$(\mathcal{F}\Lambda)(s)=\frac{1}{(-2\pi is)^2}\left(e^{2\pi is}-2+e^{-2\pi is}\right).$$
 
-Even better, this expression can be simplified to
+We could leave the answer like this, but this expression can be simplified even further, as follows:
 
-$$(\mathcal{F}\Lambda)(s)=\frac{\sin^2(\pi s)}{(\pi s)^2}=\operatorname{sinc}^2(s).$$
+$$\begin{align*}
+(\mathcal{F}\Lambda)(s)&= \frac{1}{(-2\pi is)^2}\left(e^{2\pi is}-2+e^{-2\pi is}\right)\\
+&= \frac{1}{(-2\pi is)^2}\left(e^{\pi is}-e^{-\pi is}\right)^2\\
+&= \frac{1}{-4\pi^2 s^2}\left(2i\sin(\pi s)\right)^2\\
+&= \frac{\sin^2(\pi s)}{(\pi s)^2}\\
+&=\operatorname{sinc}^2(s)
+\end{align*}$$
 
 So the Fourier transform of the triangle function $\Lambda$ is exactly the square of the Fourier transform of the rectangle function $\Pi$. We'll soon see that there is a secret reason for this!
 
@@ -98,7 +111,7 @@ $$f(t)=\begin{cases}e^{-t},&\text{ for }t\geq 0\\0,&\text{ otherwise}\end{cases}
 
 The graph of $f$ looks like
 
-*Image coming soon*
+![oneSidedExponentialDecay.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/oneSidedExponentialDecay.png)
 
 (We have not chosen a fun character to name this function, since there aren't any characters that look like the above graph.)
 
@@ -120,7 +133,7 @@ $$\begin{align*}
 
 Consider the classic Gaussian function $f(t)=e^{-\pi t^2}$, whose graph is the usual bell curve:
 
-*Image coming soon*
+![gaussian.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/gaussian.png)
 
 Note that the constant $\pi$ was chosen so that the area under the bell curve is exactly $1$, i.e.,
 
@@ -130,9 +143,46 @@ The Fourier transform of this function is difficult to compute directly:
 
 $$(\mathcal{F}f)(s)=\int_{-\infty}^{\infty}e^{-\pi t^2}e^{-2\pi its}\operatorname{d}t$$
 
-There is a trick to compute this transform, and I will add those details shortly. For now, I will simply note that it turns out this function equals its Fourier transform! In other words, $(\mathcal{F}(f))(s)=e^{-\pi s^2}$.
+We can determine $\mathcal{F}f$ without computing the above integral in a very sneaky way. Let's temporarily denote the above integral by $F(s)$. First we consider *differentiating* the mystery function $F$, finding
+
+$$F'(s) = \frac{\operatorname{d}}{\operatorname{d}s}\left(\int_{-\infty}^{\infty}e^{-\pi t^2}e^{-2\pi its}\operatorname{d}t\right)$$
+
+If we live life reckless and pass the differentiation inside the integral, we find that
+
+$$F'(s) = \int_{-\infty}^{\infty} e^{-\pi t^2}\cdot (-2\pi it)e^{-2\pi its}\operatorname{d}t.$$
+
+This new integral can be computed using integration-by-parts. Specifically, if we let $u=e^{-2\pi its}$ and $\operatorname{d}v=-2\pi ite^{-\pi t^2}$, then $\operatorname{d}u=-2\pi ise^{-2\pi its}\operatorname{d}t$ and $v=ie^{-\pi t^2}$, and so we have
+
+
+$$\begin{align*}
+\int e^{-\pi t^2}\cdot (-2\pi it)e^{-2\pi its}\operatorname{d}t &= e^{-2\pi its}\cdot ie^{-\pi t^2}-\int ie^{-\pi t^2}\cdot (-2\pi is)e^{-2\pi its}\operatorname{d}t\\
+&= ie^{-\pi t^2}e^{-2\pi its}-2\pi s\int e^{-\pi t^2}e^{-2\pi its}\operatorname{d}t.
+\end{align*}$$
+
+This is the antiderivative formula, so what happens to the definite (improper) integral? We'll be a bit fast and loose here, but the main point is that as $t\to \pm\infty$, the boundary term $ie^{-\pi t^2}e^{-2\pi ts}$ rapidly tends to $0$. Indeed, if you converted it the usual real-and-imaginary parts, you would see that
+
+$$ie^{-\pi t^2}e^{-2\pi its}=ie^{-\pi t^2}(\cos(2\pi ts)-i\sin(2\pi ts))=e^{-\pi t^2}\sin(2\pi ts)+ie^{-\pi t^2}\cos(2\pi ts).$$
+
+The net effect is that
+
+$$F'(s) = -2\pi s\int_{-\infty}^{\infty} e^{-\pi t^2}e^{-2\pi its}\operatorname{d}t.$$
+
+But this new integral is just the integral we started with, which defined $F(s)$. So we've discovered that
+
+$$F'(s)=-2\pi s\cdot F(s).$$
+
+The general solution to this ordinary differential equation is 
+
+$$F(s)=Ce^{-\pi s^2}.$$
+
+We can even determine the mystery constant $C$, since $F(0)=C$ and
+
+$$F(0) = \int_{-\infty}^{\infty} e^{-\pi t^2}\operatorname{d}t = 1.$$
+
+So, we can finally conclude that $F(s)=e^{-\pi s^2}$. In other words, the Fourier transform of the Gaussian $f(t)=e^{-\pi t^2}$ is the identical Gaussian $F(s) = e^{-\pi s^2}$.
 
 If you think of the Fourier transform as some kind of "operator" that transforms functions into other functions, then you can also start to think of this particular Gaussian function as something like an "eigenfunction" with eigenvalue $1$. 
+
 ## Suggested next notes
 ---
 

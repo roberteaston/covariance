@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-08-13T11:53:01-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-08-18T09:52:32-07:00"}
 ---
 
 > [!quote] George Pólya
