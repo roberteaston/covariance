@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-ii-the-fourier-transform-and-inverse-transform/","tags":["differential_equations"],"updated":"2025-08-16T14:33:52-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-ii-the-fourier-transform-and-inverse-transform/","tags":["differential_equations"],"updated":"2025-08-18T09:31:28-07:00"}
 ---
 
 Inspired by the [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform I - Pushing Fourier series to the limit#The takeaway\|previous example]] and ignoring any technical issues (such as convergence), we have been led to define the following:
@@ -66,17 +66,74 @@ We won't worry about this for now.
 
 ### A triangle function
 
-*Under construction!*
+Consider the "triangle function" defined piecewise by
+
+$$\Lambda(t)=\begin{cases}1+t,&\text{ for }-1\leq t\leq 0\\1-t,&\text{ for }0<t\leq 1\\0,&\text{ otherwise}\end{cases}$$
+
+The graph of this function looks like a isosceles right triangle of height $1$ and base $2$ centered at the origin:
+
+*Image coming soon*
+
+We have chosen to use the capital lambda symbol for this function's name because that Greek character also happens to look like a triangle.
+
+In any case, we can compute the Fourier transform of this function:
+
+$$(\mathcal{F}\Lambda)(s) = \int_{-\infty}^{\infty} \Lambda(t)e^{-2\pi its}\operatorname{d}t = \int_{-1}^0 (1+t)e^{-2\pi its}\operatorname{d}t +\int_0^1 (1-t)e^{-2\pi its}\,\operatorname{d}t.$$
+
+I'll add the computations later, but for now I'll cut to the chase and note that we eventually find
+
+$$(\mathcal{F}\Lambda)(s)=\frac{1}{(-2\pi is)^2}\left(e^{2\pi is}-2+e^{-2\pi is}\right).$$
+
+Even better, this expression can be simplified to
+
+$$(\mathcal{F}\Lambda)(s)=\frac{\sin^2(\pi s)}{(\pi s)^2}=\operatorname{sinc}^2(s).$$
+
+So the Fourier transform of the triangle function $\Lambda$ is exactly the square of the Fourier transform of the rectangle function $\Pi$. We'll soon see that there is a secret reason for this!
 
 ### One-sided exponential decay
 
-*Under construction!*
+Consider the one-sided exponential decay function
+
+$$f(t)=\begin{cases}e^{-t},&\text{ for }t\geq 0\\0,&\text{ otherwise}\end{cases}.$$
+
+The graph of $f$ looks like
+
+*Image coming soon*
+
+(We have not chosen a fun character to name this function, since there aren't any characters that look like the above graph.)
+
+We compute the Fourier transform of this function:
+
+$$\begin{align*}
+(\mathcal{F}f)(s) &= \int_{-\infty}^{\infty}f(t)e^{-2\pi its}\operatorname{d}t\\
+&= \int_0^{\infty} e^{-t}e^{-2\pi its}\operatorname{d}t\\
+&=\int_0^{\infty}e^{(-1-2\pi is)t}\operatorname{d}t\\
+&= \frac{1}{-1-2\pi is}\lim_{b\to\infty}\left(e^{(-1-2\pi is)b}-1\right)\\
+&= \frac{1}{-1-2\pi is}\lim_{b\to \infty}\left(e^{-b}e^{-2\pi ibs}-1\right)\\
+&= \frac{1}{-1-2\pi is}(0-1)\\
+&= \frac{1}{1+2\pi is}.
+\end{align*}$$
+
+(Note that here we are assuming $s$ only takes real values, in which case the exponential function $e^{-2\pi ibs}=\cos(2\pi bs)-i\sin(2\pi bs)$ is always a complex number on the unit circle. This is how we concluded that the term $e^{-b}e^{-2\pi ibs}$ went to $0$ as $b\to \infty$.)
 
 ### A Gaussian function
 
-*Under construction!*
+Consider the classic Gaussian function $f(t)=e^{-\pi t^2}$, whose graph is the usual bell curve:
 
+*Image coming soon*
+
+Note that the constant $\pi$ was chosen so that the area under the bell curve is exactly $1$, i.e.,
+
+$$\int_{-\infty}^{\infty} e^{-\pi t^2}\operatorname{d}t=1.$$
+
+The Fourier transform of this function is difficult to compute directly:
+
+$$(\mathcal{F}f)(s)=\int_{-\infty}^{\infty}e^{-\pi t^2}e^{-2\pi its}\operatorname{d}t$$
+
+There is a trick to compute this transform, and I will add those details shortly. For now, I will simply note that it turns out this function equals its Fourier transform! In other words, $(\mathcal{F}(f))(s)=e^{-\pi s^2}$.
+
+If you think of the Fourier transform as some kind of "operator" that transforms functions into other functions, then you can also start to think of this particular Gaussian function as something like an "eigenfunction" with eigenvalue $1$. 
 ## Suggested next notes
 ---
 
-*Coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform III - Properties\|Fourier transform III - Properties]]
