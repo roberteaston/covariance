@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-v-convolution/","tags":["differential_equations"],"updated":"2025-08-19T14:34:56-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-v-convolution/","tags":["differential_equations"],"updated":"2025-08-19T14:37:44-07:00"}
 ---
 
 Inspired by the previous example, we make the following definition:

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-08-18T09:52:32-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-08-19T14:38:22-07:00"}
 ---
 
 > [!quote] George Pólya
@@ -42,8 +42,11 @@
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform I - Pushing Fourier series to the limit\|Fourier transform I - Pushing Fourier series to the limit]]
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform II - The Fourier transform and inverse transform\|Fourier transform II - The Fourier transform and inverse transform]]
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform III - Properties of the Fourier transform\|Fourier transform III - Properties of the Fourier transform]]
-*More coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform IV - Derivatives\|Fourier transform IV - Derivatives]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform V - Convolution\|Fourier transform V - Convolution]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform VI - Solving differential equations\|Fourier transform VI - Solving differential equations]]
 
 ### The Laplace transform
 
-*Coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform I - Desperate times\|Laplace transform I - Desperate times]]
+*More coming soon*
