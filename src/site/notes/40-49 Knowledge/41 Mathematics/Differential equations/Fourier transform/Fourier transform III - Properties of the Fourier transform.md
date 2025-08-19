@@ -169,4 +169,4 @@ $$(\mathcal{F}g)(s)=\frac{e^{\frac{2\pi is\cdot\frac{-3}{2}}{\frac{1}{2}}}}{\fra
 ## Suggested next notes
 ---
 
-[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform IV - The convolution product\|Fourier transform IV - The convolution product]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform IV - Derivatives\|Fourier transform IV - Derivatives]]
