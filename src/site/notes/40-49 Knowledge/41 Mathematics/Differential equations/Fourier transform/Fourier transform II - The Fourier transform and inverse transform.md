@@ -186,4 +186,4 @@ If you think of the Fourier transform as some kind of "operator" that transforms
 ## Suggested next notes
 ---
 
-[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform III - Properties\|Fourier transform III - Properties]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform III - Properties of the Fourier transform\|Fourier transform III - Properties of the Fourier transform]]

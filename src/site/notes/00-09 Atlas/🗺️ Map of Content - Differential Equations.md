@@ -41,7 +41,7 @@
 
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform I - Pushing Fourier series to the limit\|Fourier transform I - Pushing Fourier series to the limit]]
 [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform II - The Fourier transform and inverse transform\|Fourier transform II - The Fourier transform and inverse transform]]
-[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform III - Properties\|Fourier transform III - Properties]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform III - Properties of the Fourier transform\|Fourier transform III - Properties of the Fourier transform]]
 *More coming soon*
 
 ### The Laplace transform
