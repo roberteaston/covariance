@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2025-summer/reu-1-aaron-and-mark/reu-meeting-2025-08-15/","updated":"2025-08-15T10:10:10-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2025-summer/reu-1-aaron-and-mark/reu-meeting-2025-08-15/","updated":"2025-08-20T14:44:09-07:00"}
 ---
 
 This following is a brief summary of our research meetings on 2025-08-14 and 2025-08-15.
