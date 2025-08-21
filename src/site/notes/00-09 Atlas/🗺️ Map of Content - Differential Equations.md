@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-08-19T15:20:19-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-differential-equations/","updated":"2025-08-21T15:06:26-07:00"}
 ---
 
 > [!quote] George Pólya
@@ -49,4 +49,15 @@
 ### The Laplace transform
 
 [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform I - Desperate times\|Laplace transform I - Desperate times]]
-*More coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform II - The inverse Laplace transform\|Laplace transform II - The inverse Laplace transform]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform III - The Shifting Theorems\|Laplace transform III - The Shifting Theorems]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform IV - Convolution redux\|Laplace transform IV - Convolution redux]]
+[[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform V - Solving differential equations\|Laplace transform V - Solving differential equations]]
+
+
+## Distributions
+---
+
+*Coming soon*
+
+

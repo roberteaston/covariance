@@ -22,6 +22,7 @@ We are going to take that philosophy to the extreme, by attempting to recharacte
 
 | Meeting Date                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-08-20\|REU Meeting - 2025-08-20]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-08-11\|REU Meeting - 2025-08-11]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-08-06\|REU Meeting - 2025-08-06]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-07-08\|REU Meeting - 2025-07-08]] |
