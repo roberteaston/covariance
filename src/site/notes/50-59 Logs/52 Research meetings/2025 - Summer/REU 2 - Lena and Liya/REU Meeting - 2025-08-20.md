@@ -17,7 +17,7 @@ We spent our meeting going through the tasks set at the last meeting, which were
 ## Tasks for next meeting
 ---
 
-
+*Coming soon!*
 
 ## References
 ---

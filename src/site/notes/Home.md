@@ -5,8 +5,8 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
+<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
 </div></div></span></p>
 
 ## Recently updated notes
@@ -14,9 +14,9 @@
 
 | Note                                                                                                                                                                        | Last Updated              |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform III - The Shifting Theorems\|Laplace transform III - The Shifting Theorems]] | 3:11 PM - August 21, 2025 |
+| [[20-29 Research/24 Summer REUs/2025/Project Single Arrow/Summer REU 2025 - Project arrow\|Summer REU 2025 - Project arrow]]                                             | 3:13 PM - August 21, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform III - The Shifting Theorems\|Laplace transform III - The Shifting Theorems]] | 3:12 PM - August 21, 2025 |
 | [[00-09 Atlas/🗺️ Map of Content - Differential Equations\|🗺️ Map of Content - Differential Equations]]                                                                 | 3:06 PM - August 21, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform IV - Convolution redux\|Laplace transform IV - Convolution redux]]           | 3:05 PM - August 21, 2025 |
 
 { .block-language-dataview}
 
@@ -93,7 +93,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions III - Frobenius theory\|Frobenius Series Solutions III - Frobenius theory]]                                                     | 3:23 PM - August 02, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform I - Desperate times\|Laplace transform I - Desperate times]]                                                                                      | 1:41 PM - August 21, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform II - The inverse Laplace transform\|Laplace transform II - The inverse Laplace transform]]                                                        | 2:10 PM - August 21, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform III - The Shifting Theorems\|Laplace transform III - The Shifting Theorems]]                                                                      | 3:11 PM - August 21, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform III - The Shifting Theorems\|Laplace transform III - The Shifting Theorems]]                                                                      | 3:12 PM - August 21, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform IV - Convolution redux\|Laplace transform IV - Convolution redux]]                                                                                | 3:05 PM - August 21, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform V - Solving differential equations\|Laplace transform V - Solving differential equations]]                                                        | 3:04 PM - August 21, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions I - From polynomials to power series\|Power Series Solutions I - From polynomials to power series]]                                     | 7:16 PM - July 28, 2025    |

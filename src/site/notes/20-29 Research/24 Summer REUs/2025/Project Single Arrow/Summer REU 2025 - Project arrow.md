@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","tags":["category_theory"],"updated":"2025-08-13T09:20:10-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","tags":["category_theory"],"updated":"2025-08-21T15:13:24-07:00"}
 ---
 
 
@@ -63,9 +63,9 @@ We are going to take that philosophy to the extreme, by attempting to recharacte
 
 ### Using Yoneda's Lemma as a guide
 
-- [ ] Suppose $F,G:C\to {\bf Set}$ are two functors from a given category $C$ to the category of sets, and suppose $\tau:F\Rightarrow G$ is a natural transformation. Propose a "natural" (pun intended) definition for $\tau$ to be called a **natural injection**.
-- [ ] Suppose $a,b\in C$ are two objects in a given category $C$, and $f:a\to b$ is an arrow in $C$. The functor $H$ should provide a natural transformation $H_f:H_a\Rightarrow H_b$. Describe this natural transformation, i.e., for every object $c\in C$, describe the set map $H_a(c)\to H_b(c)$. (Hint: Write down what those sets are.)
-- [ ] Using your proposed definition for *natural injection*, show that $f:a\to b$ is a monomorphism in $C$ if and only if the corresponding natural transformation $H_f:H_a\Rightarrow H_b$ is a natural injection.
+- [x] Suppose $F,G:C\to {\bf Set}$ are two functors from a given category $C$ to the category of sets, and suppose $\tau:F\Rightarrow G$ is a natural transformation. Propose a "natural" (pun intended) definition for $\tau$ to be called a **natural injection**.
+- [x] Suppose $a,b\in C$ are two objects in a given category $C$, and $f:a\to b$ is an arrow in $C$. The functor $H$ should provide a natural transformation $H_f:H_a\Rightarrow H_b$. Describe this natural transformation, i.e., for every object $c\in C$, describe the set map $H_a(c)\to H_b(c)$. (Hint: Write down what those sets are.)
+- [x] Using your proposed definition for *natural injection*, show that $f:a\to b$ is a monomorphism in $C$ if and only if the corresponding natural transformation $H_f:H_a\Rightarrow H_b$ is a natural injection.
 
 ## The team
 ---
