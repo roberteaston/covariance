@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">Before functoriality, people lived in caves.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                                 | Last Updated              |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform I - Desperate times\|Laplace transform I - Desperate times]]                          | 3:27 PM - August 20, 2025 |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-15\|REU Meeting - 2025-08-15]]                                                       | 2:44 PM - August 20, 2025 |
-| [[20-29 Research/24 Summer REUs/2025/Categorical representation theory/Summer REU 2025 - Categorical representation theory\|Summer REU 2025 - Categorical representation theory]] | 8:08 AM - August 20, 2025 |
+| Note                                                                                                                                                                                      | Last Updated              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[20-29 Research/24 Summer REUs/2025/Categorical representation theory/Summer REU 2025 - Categorical representation theory\|Summer REU 2025 - Categorical representation theory]]      | 2:37 PM - August 21, 2025 |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-20\|REU Meeting - 2025-08-20]]                                                            | 2:36 PM - August 21, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform II - The inverse Laplace transform\|Laplace transform II - The inverse Laplace transform]] | 2:10 PM - August 21, 2025 |
 
 { .block-language-dataview}
 
@@ -91,7 +91,9 @@
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions I - Slightly generalizing power series\|Frobenius Series Solutions I - Slightly generalizing power series]]                     | 3:30 PM - July 30, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions II - Some illustrative examples\|Frobenius Series Solutions II - Some illustrative examples]]                                   | 3:30 PM - July 30, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions III - Frobenius theory\|Frobenius Series Solutions III - Frobenius theory]]                                                     | 3:23 PM - August 02, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform I - Desperate times\|Laplace transform I - Desperate times]]                                                                                      | 3:27 PM - August 20, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform I - Desperate times\|Laplace transform I - Desperate times]]                                                                                      | 1:41 PM - August 21, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform II - The inverse Laplace transform\|Laplace transform II - The inverse Laplace transform]]                                                        | 2:10 PM - August 21, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform III - The Shifting Theorems\|Laplace transform III - The Shifting Theorems]]                                                                      | 2:10 PM - August 21, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions I - From polynomials to power series\|Power Series Solutions I - From polynomials to power series]]                                     | 7:16 PM - July 28, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions II - First steps with power series\|Power Series Solutions II - First steps with power series]]                                         | 3:48 PM - July 28, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions III - A more representative example\|Power Series Solutions III - A more representative example]]                                       | 8:21 AM - July 29, 2025    |

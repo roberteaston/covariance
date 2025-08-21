@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-i-desperate-times/","tags":["differential_equations"],"updated":"2025-08-20T15:27:01-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-i-desperate-times/","tags":["differential_equations"],"updated":"2025-08-21T13:41:52-07:00"}
 ---
-
-*Under construction!*
 
 We've defined the Fourier transform of a function $f(t)$ by the integral formula
 
@@ -144,7 +142,23 @@ It turns out this is correct, as is a very similar formula that's produced when 
 > L(\cos(bt))&= \frac{s}{s^2+b^2}\quad (\text{for }s>0)
 > \end{align*}$$
 
+
+## A quick note on existence
+---
+
+We tinkered with the Fourier transform to produce a transform that we *hoped* existed for more functions. Based on our examples above, that goal appears to have been achieved. In fact, it turns out that now any function $f(t)$ that doesn't grow *too fast* has a Laplace transform. More precisely, we have the following:
+
+> [!summary] Existence of the Laplace transform
+> Suppose $f(t)$ is a piecewise continuous function on $[0,\infty)$ and there are constants $M, \alpha$ such that
+> 
+> $$|f(t)|\leq Me^{\alpha t}$$
+> 
+> for all sufficiently large $t$. Then $(Lf)(s)$ exists for $s>\alpha$.
+
+
+In other words, so long as $f(t)$ doesn't grow faster than a standard exponential function, it will have a Laplace transform. But functions like $f(t)=e^{t^2}$ are still out of luck!
+
 ## Suggested next notes
 ---
 
-*Coming soon*
+[[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform II - The inverse Laplace transform\|Laplace transform II - The inverse Laplace transform]]
