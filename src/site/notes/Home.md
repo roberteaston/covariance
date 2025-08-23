@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener nofollow">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                        | Last Updated               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform IV - Convolution redux\|Laplace transform IV - Convolution redux]]           | 1:33 PM - August 22, 2025  |
-| [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform III - The Shifting Theorems\|Laplace transform III - The Shifting Theorems]] | 1:17 PM - August 22, 2025  |
-| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 2 - Lena and Liya/REU Meeting - 2025-08-20\|REU Meeting - 2025-08-20]]                                               | 11:23 AM - August 22, 2025 |
+| Note                                                                                                                                                                                      | Last Updated              |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform V - Solving differential equations\|Laplace transform V - Solving differential equations]] | 2:54 PM - August 23, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform IV - Convolution redux\|Laplace transform IV - Convolution redux]]                         | 2:09 PM - August 23, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform III - The Shifting Theorems\|Laplace transform III - The Shifting Theorems]]               | 1:17 PM - August 22, 2025 |
 
 { .block-language-dataview}
 
@@ -94,8 +94,8 @@
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform I - Desperate times\|Laplace transform I - Desperate times]]                                                                                      | 1:41 PM - August 21, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform II - The inverse Laplace transform\|Laplace transform II - The inverse Laplace transform]]                                                        | 2:10 PM - August 21, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform III - The Shifting Theorems\|Laplace transform III - The Shifting Theorems]]                                                                      | 1:17 PM - August 22, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform IV - Convolution redux\|Laplace transform IV - Convolution redux]]                                                                                | 1:33 PM - August 22, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform V - Solving differential equations\|Laplace transform V - Solving differential equations]]                                                        | 3:04 PM - August 21, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform IV - Convolution redux\|Laplace transform IV - Convolution redux]]                                                                                | 2:09 PM - August 23, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Differential equations/Laplace transform/Laplace transform V - Solving differential equations\|Laplace transform V - Solving differential equations]]                                                        | 2:54 PM - August 23, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions I - From polynomials to power series\|Power Series Solutions I - From polynomials to power series]]                                     | 7:16 PM - July 28, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions II - First steps with power series\|Power Series Solutions II - First steps with power series]]                                         | 3:48 PM - July 28, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions III - A more representative example\|Power Series Solutions III - A more representative example]]                                       | 8:21 AM - July 29, 2025    |

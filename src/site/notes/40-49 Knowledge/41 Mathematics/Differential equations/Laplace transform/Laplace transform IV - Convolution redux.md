@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-iv-convolution-redux/","tags":["differential_equations"],"updated":"2025-08-22T13:33:37-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-iv-convolution-redux/","tags":["differential_equations"],"updated":"2025-08-23T14:09:56-07:00"}
 ---
 
 Recall that for the Fourier transform we had
