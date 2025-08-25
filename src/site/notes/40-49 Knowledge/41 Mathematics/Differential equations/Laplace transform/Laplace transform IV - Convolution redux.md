@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-iv-convolution-redux/","tags":["differential_equations"],"updated":"2025-08-23T14:09:56-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-iv-convolution-redux/","tags":["differential_equations"],"updated":"2025-08-25T08:42:19-07:00"}
 ---
 
 Recall that for the Fourier transform we had
@@ -22,7 +22,7 @@ Fortunately, it turns out that is the only thing we need to do:
 > [!note] Definition of convolution for functions defined on $[0,\infty)$
 > Fr functions $f,g$ defined on $[0,\infty)$, their **convolution** is the function denoted $f\ast g$ defined by the integral formula
 > 
-> (f\ast g)(t) = \int_0^t f(t-x)g(x)\operatorname{d}x.
+> $$(f\ast g)(t) = \int_0^t f(t-x)g(x)\operatorname{d}x.$$
 
 
 ### Example
@@ -43,7 +43,7 @@ $$\begin{align*}
 
 Just as with the Fourier transform, it turns out that the Laplace transform converts convolution product into usual product:
 
-$$L(g\ast g) = Lf\cdot Lg.$$
+$$L(f\ast g) = Lf\cdot Lg.$$
 
 Read "in reverse", this same property tells us
 
