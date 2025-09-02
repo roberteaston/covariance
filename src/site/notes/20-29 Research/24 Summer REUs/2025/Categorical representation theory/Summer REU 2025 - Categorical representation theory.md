@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","tags":["category_theory","group_theory"],"updated":"2025-08-21T14:37:25-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","tags":["category_theory","group_theory"],"updated":"2025-09-02T11:11:25-07:00"}
 ---
 
 > [!quote] The tagline
@@ -20,6 +20,7 @@ Each of these aims is open-ended. Some things will be quickly and easily dealt w
 
 | Meeting Date                                                                                                                   |
 | ------------------------------------------------------------------------------------------------------------------------------ |
+| [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-29\|REU Meeting - 2025-08-29]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-20\|REU Meeting - 2025-08-20]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-15\|REU Meeting - 2025-08-15]] |
 | [[50-59 Logs/52 Research meetings/2025 - Summer/REU 1 - Aaron and Mark/REU Meeting - 2025-08-06\|REU Meeting - 2025-08-06]] |
@@ -94,8 +95,14 @@ Each of these aims is open-ended. Some things will be quickly and easily dealt w
  - [x] Is there a monoidal structure on $\textbf{Matr}_F$? If so, write down what it means to have a monoid in that monoidal category and describe monoids in that monoidal category.
  - [x] Translate the notations of submodules and direct sums of modules into the categories $\textbf{Vec}_F$ and $\textbf{Matr}_F$, and then extend the notions of *irreducible* and *indecomposable* to representations of a group into those categories.
 - [x] Read about the general categorical definitions of *subobjects* and *direct sums*.
-- [ ] Investigate the notions of subobjects in the familiar categories ${\bf Set}$, ${\bf Vec}_F$ and ${\bf Top}$, and then extend the notions of *reducible* and *irreducible* representations to these new settings,
-- [ ] Recall the definition of the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories#Biproducts\|biproduct]] in a preadditive category, and also scan the general info about the notion of *direct sum* over at [Wikipedia](https://en.wikipedia.org/wiki/Direct_sum). Then try to extend the notions of *decomposable* and *indecomposable* to ${\bf Vec}_F$ and ${\bf Top}$. What goes wrong with ${\bf Set}$?
+- [x] Investigate the notions of subobjects in the familiar categories ${\bf Set}$, ${\bf Vec}_F$ and ${\bf Top}$, and then extend the notions of *reducible* and *irreducible* representations to these new settings,
+- [x] Recall the definition of the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories#Biproducts\|biproduct]] in a preadditive category, and also scan the general info about the notion of *direct sum* over at [Wikipedia](https://en.wikipedia.org/wiki/Direct_sum). Then try to extend the notions of *decomposable* and *indecomposable* to ${\bf Vec}_F$ and ${\bf Top}$. What goes wrong with ${\bf Set}$?
+
+### Induced Representations and Kan Extensions
+
+- [ ] Read Chapter X in Mac Lane, on Kan extensions. Focus mainly on Sections X.1, X.3, X.5 and X.7.
+- [ ] Think about how to reframe induced representations and restrictions both as adjoints, and as an example of Kan extensions.
+- [ ] Think about how the results on Kan extensions (especially when they exist and how to construct them) specifically in the case of induced reps. Can we give a categorical explanation for the construction of an induced representation?
 
 ## The team
 ---
