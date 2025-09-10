@@ -714,7 +714,7 @@ Let $G$ be a group and suppose $H\leq G$. The **normalizer** of $H$ in $G$ is de
 
 
 
-Suppose $G$ is a cyclic group of order $n$, and $t\in G$ is a generator.
+Suppose $G$ is a cyclic group of finite order $n$, and $t\in G$ is a generator.
 
 1. Give a positive integer $d$ such that $t^{-1}=t^d$.
 2. Let $c$ be an integer and let $m=\gcd(n,c)$. Prove that the order of $t^c$ is $\frac{n}{m}$.
