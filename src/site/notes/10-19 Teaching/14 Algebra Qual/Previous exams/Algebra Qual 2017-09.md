@@ -10,7 +10,7 @@
 
 
 
-The additive group ${\bf Z}=({\bf Z},+)$ of rational integers is a subgroup of the additive group ${\bf Q}=({\bf Q},+)$. Show that ${\bf Q}$ has infinite index in ${\bf Q}$.
+The additive group ${\bf Z}=({\bf Z},+)$ of rational integers is a subgroup of the additive group ${\bf Q}=({\bf Q},+)$. Show that ${\bf Z}$ has infinite index in ${\bf Q}$.
 
 > [!info]- View $\LaTeX$ code
 > ```

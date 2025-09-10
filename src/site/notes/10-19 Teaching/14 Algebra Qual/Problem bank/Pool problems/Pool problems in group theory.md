@@ -982,7 +982,7 @@ Let $G$ be a group of order $2n$ for some positive integer $n > 1$.
 
 
 
-The additive group ${\bf Z}=({\bf Z},+)$ of rational integers is a subgroup of the additive group ${\bf Q}=({\bf Q},+)$. Show that ${\bf Q}$ has infinite index in ${\bf Q}$.
+The additive group ${\bf Z}=({\bf Z},+)$ of rational integers is a subgroup of the additive group ${\bf Q}=({\bf Q},+)$. Show that ${\bf Z}$ has infinite index in ${\bf Q}$.
 
 > [!info]- View $\LaTeX$ code
 > ```
