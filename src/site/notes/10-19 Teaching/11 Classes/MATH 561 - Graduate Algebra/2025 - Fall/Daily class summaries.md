@@ -4,7 +4,8 @@
 
 Below you can find the complete list of daily class summaries, beginning with the most recent class.
 
-| Class Date | Topics Covered |
-| ---------- | -------------- |
+| Class Date                                                                               | Topics Covered               |
+| ---------------------------------------------------------------------------------------- | ---------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-18\|2025-09-18]] | <ul><li>Categories</li></ul> |
 
 { .block-language-dataview}

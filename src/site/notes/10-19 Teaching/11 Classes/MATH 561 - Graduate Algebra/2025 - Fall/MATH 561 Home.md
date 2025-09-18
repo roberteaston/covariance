@@ -13,8 +13,9 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the four most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Daily class summaries\|here]].
 
-| Class Date | Topics Covered |
-| ---------- | -------------- |
+| Class Date                                                                               | Topics Covered               |
+| ---------------------------------------------------------------------------------------- | ---------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-18\|2025-09-18]] | <ul><li>Categories</li></ul> |
 
 { .block-language-dataview}
 
@@ -22,7 +23,8 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 Although the weekly assignments should be submitted digitally in Canvas, the assignments themselves are posted here. You can also see when the assignments were last updated, whether it were to correct mistakes, add hints, or post solutions.
 
-| Assignment | Due Date | Last Updated |
-| ---------- | -------- | ------------ |
+| Assignment                                                                                               | Due Date           | Last Updated                  |
+| -------------------------------------------------------------------------------------------------------- | ------------------ | ----------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 1\|Homework 1]] | September 29, 2024 | 10:43 AM - September 18, 2025 |
 
 { .block-language-dataview}
