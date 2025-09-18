@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functor-categories/","tags":["category_theory"],"updated":"2025-03-31T12:46:02-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functor-categories/","tags":["category_theory"],"updated":"2025-09-17T15:12:42-07:00"}
 ---
 
 ## Definition
 ---
 
-We can now think of functors between two fixed categories as objects worthy of study, with [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|natural transformations]] as the arrows between them.
+ It will often be helpful to think of functors between two fixed categories as objects worthy of study on their own, as objects of a new category in which [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|natural transformations]] between such functors are the arrows between them.
 
 >[!note] Definition of a functor category
 >Suppose $C$ and $D$ are two categories. We denote the category of functors from $C$ to $D$ by $D^C$. The objects of this category are functors $F:C\to D$, and the arrows of this category are natural transformations $\tau:F\Rightarrow G$ between such functors.
@@ -19,7 +19,7 @@ One can verify that $D^C$ does indeed satisfy the axioms of a category.
 ## Examples
 ---
 
-The main examples most people stumble across are probably [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]] and presheaves (in algebraic geometry), but for now we will satisfy ourselves with some much simpler examples.
+The main examples most people stumble across are probably hom-functors (in the context of [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Yoneda's Lemma]]) and presheaves (in algebraic geometry), but for now we will satisfy ourselves with some much simpler examples.
 
 ### Functors from the categories $\textbf{0}$ and $\textbf{1}$
 
