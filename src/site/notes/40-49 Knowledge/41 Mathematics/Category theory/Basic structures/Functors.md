@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2025-09-17T15:00:23-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2025-09-19T06:53:54-07:00"}
 ---
 
 > [!quote] [[Riehl - Category Theory in Context.pdf#page=31|Eilenberg and Mac Lane]]
@@ -27,7 +27,7 @@ Maps between categories are called *functors*. Briefly, a functor between catego
 
 
 > [!question] Covariant? Contravariant?
-> You may run across the terms "covariant functor" or "contravariant functor." Both are holdovers from the early days of category theory, when the foundations were still being established. Back then, many of the inspiring examples in algebraic geometry and algebraic topology involved functor-like maps that reversed the directions of arrows. We will even see examples of this in both module theory (see [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors#The hom-in functor and injective modules\|here]]) and category theory (see [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]). In other words, we'll see maps between categories that send an arrow $f:c_1\to c_2$ in $C$ to an arrow $F(f):F(c_2)\to F(c_1)$ in $D$. In other words, the direction of the arrow is being reversed.
+> You may run across the terms "covariant functor" or "contravariant functor." Both are holdovers from the early days of category theory, when the foundations were still being established. Back then, many of the inspiring examples in algebraic geometry and algebraic topology involved functor-like maps that reversed the directions of arrows. We will even see examples of this in both module theory (see [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors#The hom-in functor and injective modules\|here]]) and category theory (see [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]). In other words, we'll see maps between categories that send an arrow $f:c_1\to c_2$ in $C$ to an arrow $F(f):F(c_2)\to F(c_1)$ in $D$. Notice that the direction of the arrow is being reversed.
 > 
 > Since such maps between categories arose naturally and behaved well in all other respects, they were called **contravariant functors**. By contrast, our usual (direction-preserving) maps were called **covariant functors**.^[Hence the origin for the name of this wiki!] Note that a contravariant functor "reverses" composition, i.e., satisfies $F(f\circ g)=F(g)\circ F(g)$.
 > 
@@ -43,7 +43,7 @@ Maps between categories are called *functors*. Briefly, a functor between catego
 One of the first constructions you usually see in set theory is that of the *power set*. Indeed, it is usually part of the very axioms of set theory. This construction is the object map of a functor. The **power set functor** $\mathcal{P}:{\bf Set}\to {\bf Set}$ is defined as follows:
 - Objects: For each set $X$ we assign its power set $\mathcal{P}(X)$, i.e., the set of all subsets of $X$
 - Arrows: For each set map $f:X\to Y$, we assign the set map $\mathcal{P}(f):\mathcal{P}(X)\to \mathcal{P}(Y)$ defined by sending a subset $S\subseteq X$ to its image $f(S)\subseteq Y$.
-You should verify for yourself that these maps satisfy the [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors#^a05956\|properties]] of a functor.
+You should [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Power set functors\|verify for yourself]] that these maps satisfy the [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors#^a05956\|properties]] of a functor.
 
 There is also a "contravariant" power set functor that is defined identically on objects, but associates to each set map $f:X\to Y$ the *inverse image* set map $f^*:\mathcal{P}(Y)\to \mathcal{P}(X)$ defined by sending a subset $T\subseteq Y$ to its inverse image $f^{-1}(T)\subseteq X$. This is really a functor ${\bf Set}^{\text{op}}\to {\bf Set}$.
 
@@ -75,6 +75,7 @@ Suppose $G$ is a group. For each pair of elements $x,y\in G$, the element $xyx^{
 2. Any group morphism $G\to H$ carries commutators to commutators, hence $[G,G]$ to $[H,H]$
 3. Every group morphism $G\to H$ to an abelian group $H$ factors uniquely through the projection $G\to G/[G,G]$
 4. The assignment $G\mapsto G/[G,G]$ is the object function of a functor ${\bf Grp}\to {\bf Ab}$, called the **abelianization** functor (or sometimes **factor-commutator** functor).
+
 The abelianization functor is [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|adjoint]] to the forgetful functor $U:\textbf{Ab}\to \textbf{Grp}$.
 
 ### A non-functor

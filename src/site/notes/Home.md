@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
-<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">Before functoriality, people lived in caves.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                     | Last Updated                  |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 1\|Homework 1]] | 11:04 AM - September 18, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/MATH 561 Home\|MATH 561 Home]]    | 11:03 AM - September 18, 2025 |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-18\|2025-09-18]]                 | 10:50 AM - September 18, 2025 |
+| Note                                                                                          | Last Updated                  |
+| --------------------------------------------------------------------------------------------- | ----------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors\|Functors]]     | 6:53 AM - September 19, 2025  |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]] | 6:50 AM - September 19, 2025  |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-18\|2025-09-18]]      | 12:01 PM - September 18, 2025 |
 
 { .block-language-dataview}
 
@@ -50,7 +50,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|Abelian categories]]                                                                                               | 12:33 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories\|Additive categories]]                                                                                             | 12:34 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]                                                                                                                             | 12:38 PM - March 31, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]]                                                                                                                 | 2:30 PM - September 17, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]]                                                                                                                 | 6:50 AM - September 19, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Chain complexes\|Chain complexes]]                                                                                                     | 12:34 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram chases without elements\|Diagram chases without elements]]                                                                     | 7:26 PM - November 23, 2024  |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas\|Diagram lemmas]]                                                                                                       | 12:34 PM - March 31, 2025    |
@@ -58,7 +58,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Exact sequences and chain homology\|Exact sequences and chain homology]]                                                               | 12:35 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|Examples of adjoints]]                                                                                                     | 12:39 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functor categories\|Functor categories]]                                                                                                 | 3:12 PM - September 17, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors\|Functors]]                                                                                                                     | 3:00 PM - September 17, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors\|Functors]]                                                                                                                     | 6:53 AM - September 19, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|Natural transformations]]                                                                                       | 3:09 PM - September 17, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories\|Preadditive categories]]                                                                                       | 12:36 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints\|Properties of adjoints]]                                                                                                 | 12:39 PM - March 31, 2025    |
