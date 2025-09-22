@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                  | Last Updated                 |
-| --------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms\|Module morphisms]] | 6:57 AM - September 22, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|Modules]]                   | 6:56 AM - September 22, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 2\|Homework 2]]              | 6:51 AM - September 22, 2025 |
+| Note                                                                                     | Last Updated                  |
+| ---------------------------------------------------------------------------------------- | ----------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-22\|2025-09-22]] | 12:05 PM - September 22, 2025 |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-18\|2025-09-18]] | 11:59 AM - September 22, 2025 |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-19\|2025-09-19]] | 11:59 AM - September 22, 2025 |
 
 { .block-language-dataview}
 
