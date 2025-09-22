@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/the-isomorphism-theorems-for-modules/","tags":["module_theory"],"updated":"2025-03-31T12:57:33-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/the-isomorphism-theorems-for-modules/","tags":["module_theory"],"updated":"2025-09-22T12:57:50-07:00"}
 ---
 
-As we groups and rings, we have the standard four isomorphism theorems for modules, the first of which gets by far the most use:
+As with groups and rings, for modules we have the standard four isomorphism theorems, the first of which gets by far the most use:
 
 >[!summary] The First Isomorphism Theorem for Modules
 >Let $\phi:M\to N$ be an $R$-module morphism. Then the map $m+\operatorname{ker}(\phi)\mapsto \phi(m)$ defines a module isomorphism $M/\operatorname{ker}(\phi)\simeq \phi(M)$.

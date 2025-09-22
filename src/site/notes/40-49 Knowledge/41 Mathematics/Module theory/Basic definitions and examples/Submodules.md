@@ -1,6 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/submodules/","tags":["module_theory"],"updated":"2025-03-31T12:52:50-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/submodules/","tags":["module_theory"],"updated":"2025-09-22T12:42:53-07:00"}
 ---
+
+I have certain opinions on whether subobjects should really be studied (at least early on in a theory, and possibly ever). While category theory can certainly be forced to handle such a notion, it always seems (at least to me) exactly like that: forcing the theory to accommodate a concept for which it was not naturally built.
+
+Nevertheless, for now I shall bow to the unstoppable collective compulsion to immediately introduce the notion of subobject after defining a new type of object. I will, however, frequently ask the question "Did we really need the notion of subobject here?" I think we'll find that very often the answer is "No, not really."
 
 ## Definition
 ---
@@ -22,7 +26,7 @@ Do I personally ever use this criterion? I do not. Please do not shame me.
 
 ### The largest and smallest submodules
 
-For a module $M$, the entire module $M$ itself is a submodule, called the **improper** submodule. At the other extreme, the trivial subgroup $\{0\}\subseteq M$ is also a submodule, called the **trivial** submodule. When viewed as a module in its own right, it is usually called the [[Examples of modules#The zero module\|zero module]].
+For a module $M$, the entire module $M$ itself is a submodule, called the **improper** submodule. At the other extreme, the trivial subgroup $\{0\}\subseteq M$ is also a submodule, called the **trivial** submodule. When viewed as a module in its own right, it is usually called the [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules#The zero module\|zero module]].
 
 ### Submodules and ideals
 
@@ -30,11 +34,11 @@ When a ring $R$ is considered as a left $R$-module (via left multiplication), th
 
 ### Submodules and subgroups
 
-[[Examples of modules#Abelian groups are ${ bf Z}$-modules\|Recall]] that a ${\bf Z}$-module is the same as an abelian group. Under this identification, submodules are in (natural) bijection with subgroups.
+[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules#Abelian groups are ${ bf Z}$-modules\|Recall]] that a ${\bf Z}$-module is the same as an abelian group. Under this identification, submodules are in (natural) bijection with subgroups.
 
 ### Submodules and vector spaces
 
-[[Examples of modules#More about vector spaces\|Recall]] that if $F$ is a field, then an $F[x]$-module is the same as an $F$-vector space $V$ together with a linear endomorphism $T:V\to V$. Under this identification, $F[x]$-submodules of $(V,T)$ are the same as $T$-stable subspaces of $V$, i.e., subspaces $U\subseteq V$ such that $T(U)\subseteq U$.
+[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules#Vector spaces with linear endomorphisms\|Recall]] that if $F$ is a field, then an $F[x]$-module is the same as an $F$-vector space $V$ together with a linear endomorphism $T:V\to V$. Under this identification, $F[x]$-submodules of $(V,T)$ are the same as $T$-stable subspaces of $V$, i.e., subspaces $U\subseteq V$ such that $T(U)\subseteq U$.
 
 >[!summary]
 >$F[x]$-submodules are $T$-stable subspaces
