@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2025-03-31T12:52:24-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2025-09-22T06:56:47-07:00"}
 ---
 
 > [!quote] Everyone
@@ -109,7 +109,7 @@ Suppose $F$ is a field. If $V$ is an $F$-vector space and $T:V\to V$ is a linear
 
 Suppose $M$ is an $R$-module and $I\subseteq R$ is a two-sided ideal of $R$. Suppose $I$ [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Annihilators\|annihilates]] $M$, i.e., $im=0$ for all $i\in I$ and $m\in M$. Then we can define an $R/I$-module structure on $M$ in the obvious way: $(r+I)m = rm$ for $r\in R$ and $m\in M$.
 
-For example, if $M$ is a finite abelian group of order $n$, then $nm=0$ for every $m\in M$, i.e., the ideal $(n)\subseteq {\bf Z}$ [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Annihilators\|annihilates]] $M$. We can therefore also view $M$ as a ${\bf Z}/n{\bf Z}$-module.
+For example, if $M$ is a finite abelian group of order $n$, then $nm=0$ for every $m\in M$, i.e., the ideal $\langle n\rangle\subseteq {\bf Z}$ [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Annihilators\|annihilates]] $M$. We can therefore also view $M$ as a ${\bf Z}/n{\bf Z}$-module.
 
 ### The zero module
 

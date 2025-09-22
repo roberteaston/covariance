@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms/","tags":["module_theory"],"updated":"2025-03-31T12:51:14-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms/","tags":["module_theory"],"updated":"2025-09-22T06:57:17-07:00"}
 ---
 
 As we will see, the road to understanding modules is through understanding the connections between modules, i.e., the maps between modules.
@@ -8,7 +8,7 @@ As we will see, the road to understanding modules is through understanding the c
 ---
 
 >[!note] Definition of module morphism
->Let $R$ be a ring and $M$ and $N$ be $R$-modules. An **$R$-module (homo)morphism** from $M$ to $N$ is a set map $\phi:M\to N$ that respects the module structures, i.e., such that:
+>Let $R$ be a ring and $M$ and $N$ be $R$-modules. An **$R$-module morphism** from $M$ to $N$ is a set map $\phi:M\to N$ that respects the module structures, i.e., such that:
 >- $\phi(m_1+m_2)=\phi(m_1)+\phi(m_2)$ for all $m_1, m_2\in M$; and
 >- $\phi(rm)=r\phi(m)$ for all $r\in R$ and $m\in M$.
 
