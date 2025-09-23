@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms-and-submodules/","tags":["module_theory"],"updated":"2025-09-23T06:48:32-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms-and-submodules/","tags":["module_theory"],"updated":"2025-09-23T06:59:05-07:00"}
 ---
 
 There is a tight connection between module morphisms and submodules.
@@ -7,7 +7,7 @@ There is a tight connection between module morphisms and submodules.
 ## Kernels
 ---
 
-Suppose $f:M\to N$ is an $R$-module morphism. Let $\operatorname{ker}(f)$ be the usual kernel of $f$ when it is viewed as simply a morphism of abelian groups, i.e.., $\operatorname{ker}(f)=\{m\in M\mid f(m)=0_N\}$. This set is not only a subgroup of $M$ (when viewed as an abelian group), but also a submodule of $M$. It is still called the **kernel** of the morphism $f$. One can also give a definition of the kernel without reference to any elements, using the [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms#The zero morphism\|zero morphism]].
+Suppose $f:M\to N$ is an $R$-module morphism. Let $\operatorname{ker}(f)$ be the usual kernel of $f$ when it is viewed as simply a morphism of abelian groups, i.e.., $\operatorname{ker}(f)=\{m\in M\mid f(m)=0_N\}$. This set is not only a subgroup of $M$ (when viewed as an abelian group), but also a submodule of $M$. It is still called the **kernel** of the morphism $f$. One can also give a definition of the kernel without reference to any elements using the [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms#The zero morphism\|zero morphism]] (see [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories#Kernels and Cokernels\|here]]).
 
 For future reference, we should cryptically note that the kernel of the module morphism $f:M\to N$ should really be the "inclusion" morphism $i:K\to M$, where $K=\ker(f)$ is the submodule defined above.
 
