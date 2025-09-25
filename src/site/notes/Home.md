@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                    | Last Updated                 |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]] | 2:32 PM - September 25, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Quotient modules\|Quotient modules]]                                         | 2:28 PM - September 25, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules\|Module morphisms and submodules]]     | 2:23 PM - September 25, 2025 |
+| Note                                                                                                                                                                | Last Updated                 |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-23\|2025-09-23]]                                                                            | 3:31 PM - September 25, 2025 |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-25\|2025-09-25]]                                                                            | 3:25 PM - September 25, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]] | 3:18 PM - September 25, 2025 |
 
 { .block-language-dataview}
 
@@ -66,7 +66,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Spectral sequences\|Spectral sequences]]                                                                                               | 12:37 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]]                                                                                           | 12:37 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal arrows and elements\|Universal arrows and elements]]                                                                       | 12:48 PM - March 31, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                                           | 2:10 PM - July 01, 2025      |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                                           | 3:18 PM - September 25, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]] | 3:08 PM - August 06, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]                                               | 3:08 PM - August 06, 2025    |
 > 
