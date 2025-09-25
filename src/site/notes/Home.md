@@ -5,8 +5,8 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
+<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
 </div></div></span></p>
 
 ## Recently updated notes
@@ -14,9 +14,9 @@
 
 | Note                                                                                                                                                    | Last Updated                 |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]] | 6:59 AM - September 25, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Quotient modules\|Quotient modules]]                                         | 6:55 AM - September 25, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules\|Module morphisms and submodules]]     | 6:49 AM - September 25, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]] | 2:32 PM - September 25, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Quotient modules\|Quotient modules]]                                         | 2:28 PM - September 25, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules\|Module morphisms and submodules]]     | 2:23 PM - September 25, 2025 |
 
 { .block-language-dataview}
 
@@ -135,12 +135,12 @@
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Jordan Canonical Form I - Definition\|Jordan Canonical Form I - Definition]]                                                                                                     | 12:59 PM - March 31, 2025     |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Jordan Canonical Form II - Computation\|Jordan Canonical Form II - Computation]]                                                                                                 | 1:00 PM - March 31, 2025      |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Linear independence, rank and the structure of free modules\|Linear independence, rank and the structure of free modules]]                                                       | 1:01 PM - March 31, 2025      |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms\|Module morphisms]]                                                                                                                                 | 12:28 PM - September 22, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules\|Module morphisms and submodules]]                                                                                                   | 6:49 AM - September 25, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms\|Module morphisms]]                                                                                                                                 | 10:54 AM - September 25, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules\|Module morphisms and submodules]]                                                                                                   | 2:23 PM - September 25, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|Modules]]                                                                                                                                                   | 12:14 PM - September 22, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Modules over a PID - The Fundamental Theorem\|Modules over a PID - The Fundamental Theorem]]                                                                                     | 1:01 PM - March 31, 2025      |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Noetherian modules\|Noetherian modules]]                                                                                                                                         | 1:01 PM - March 31, 2025      |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Quotient modules\|Quotient modules]]                                                                                                                                       | 6:55 AM - September 25, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Quotient modules\|Quotient modules]]                                                                                                                                       | 2:28 PM - September 25, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form I - Definition\|Rational Canonical Form I - Definition]]                                                                                                 | 1:02 PM - March 31, 2025      |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form II - Additional Properties\|Rational Canonical Form II - Additional Properties]]                                                                         | 1:02 PM - March 31, 2025      |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation\|Rational Canonical Form III - Computation]]                                                                                           | 1:02 PM - March 31, 2025      |
@@ -151,7 +151,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product\|Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product]] | 1:04 PM - March 31, 2025      |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|Tensor Products IV - The Adjoint Property]]                                                                                   | 1:05 PM - March 31, 2025      |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/The 2-category of bimodules\|The 2-category of bimodules]]                                                                                                                                | 6:46 AM - October 10, 2024    |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]]                                                                                               | 6:59 AM - September 25, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]]                                                                                               | 2:32 PM - September 25, 2025  |
 > 
 { .block-language-dataview}
 
