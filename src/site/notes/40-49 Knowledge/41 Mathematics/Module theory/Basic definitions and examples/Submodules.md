@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/submodules/","tags":["module_theory"],"updated":"2025-09-23T06:57:02-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/submodules/","tags":["module_theory"],"updated":"2025-09-25T06:47:16-07:00"}
 ---
 
 I have certain opinions on whether subobjects should really be studied (at least early on in a theory, and possibly ever). While category theory can certainly be forced to handle such a notion, it always seems (at least to me) exactly like that: forcing the theory to accommodate a concept for which it was not naturally built.
