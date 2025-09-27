@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/math-561-home/","updated":"2025-09-18T11:03:24-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/math-561-home/","updated":"2025-09-27T14:31:05-07:00"}
 ---
 
 > [!quote] [Olaf](https://en.wikipedia.org/wiki/Olaf_(Frozen))
@@ -12,12 +12,12 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the four most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Daily class summaries\|here]].
 
-| Class Date                                                                               | Topics Covered                                              |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-25\|2025-09-25]] | <ul><li>Module morphisms</li><li>Quotient modules</li></ul> |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-23\|2025-09-23]] | <ul><li>Module morphisms</li><li>Submodules</li></ul>       |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-22\|2025-09-22]] | <ul><li>Modules</li><li>Module morphisms</li></ul>          |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-19\|2025-09-19]] | <ul><li>Functors</li></ul>                                  |
+| Class Date                                                                               | Topics Covered                                                                                           |
+| ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-25\|2025-09-25]] | <ul><li>Module morphisms</li><li>Quotient modules</li></ul>                                              |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-26\|2025-09-26]] | <ul><li>Quotient modules</li><li>Universal properties</li><li>Isomorphism Theorems for Modules</li></ul> |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-23\|2025-09-23]] | <ul><li>Module morphisms</li><li>Submodules</li></ul>                                                    |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-22\|2025-09-22]] | <ul><li>Modules</li><li>Module morphisms</li></ul>                                                       |
 
 { .block-language-dataview}
 

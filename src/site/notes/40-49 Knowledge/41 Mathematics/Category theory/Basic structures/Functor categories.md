@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functor-categories/","tags":["category_theory"],"updated":"2025-09-17T15:12:42-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functor-categories/","tags":["category_theory"],"updated":"2025-09-27T15:35:32-07:00"}
 ---
 
 ## Definition
 ---
 
- It will often be helpful to think of functors between two fixed categories as objects worthy of study on their own, as objects of a new category in which [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|natural transformations]] between such functors are the arrows between them.
+ It will often be helpful to think of functors between two fixed categories as objects worthy of study on their own, namely as objects of a new category in which [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|natural transformations]] between such functors are the arrows between them.
 
 >[!note] Definition of a functor category
 >Suppose $C$ and $D$ are two categories. We denote the category of functors from $C$ to $D$ by $D^C$. The objects of this category are functors $F:C\to D$, and the arrows of this category are natural transformations $\tau:F\Rightarrow G$ between such functors.
@@ -27,9 +27,11 @@ Recall that the empty category $\textbf{0}$ has no objects and no arrows. For ea
 
 Similarly, the category $\textbf{1}$ has a single object and only the identity arrow on that object. Convince yourself that functors $\textbf{1}\to C$ are in bijection with objects of $C$. Moreover, the natural transformations between such functors are in bijection with arrows in $C$. You should now be able to verify we have an equivalence of categories $C^{\textbf{1}}\simeq C$.
 
+Are you feeling a bit better about the exponential notation $D^C$?
+
 ### Commutative diagrams of a fixed shape
 
-Suppose $J$ is a fixed category. Recall that for any category $C$, functors $F:J\to C$ can be thought of as "commutative diagrams in $C$ of shape $J$." For example, suppose $J$ is the category with three objects and two nonidentity arrows, as illustrated below:
+Suppose $J$ is a fixed category. For any category $C$, functors $F:J\to C$ can be thought of as "commutative diagrams in $C$ of shape $J$." For example, suppose $J$ is the category with three objects and two nonidentity arrows, as illustrated below:
 
 $$a\xrightarrow{f} c\xleftarrow{g} b.$$
 
@@ -39,7 +41,8 @@ $$F(a)\xrightarrow{F(f)} F(c)\xleftarrow{F(g)} F(b).$$
 
 This functor category is useful when studying pullbacks and pushforwards.
 
-## Suggested next note
+## Suggested next notes
 ---
 
+[[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]

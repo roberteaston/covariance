@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-vs-direct-sums-vs-sums/","tags":["module_theory"],"updated":"2025-03-31T12:55:01-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-vs-direct-sums-vs-sums/","tags":["module_theory"],"updated":"2025-09-27T15:29:03-07:00"}
 ---
 
 Suppose $\{N_s\mid s\in S\}$ is a family of submodules of a fixed $R$-module $M$. We have four constructions available to create a new module:
@@ -32,11 +32,11 @@ This module is denoted $\displaystyle \prod_{s\in S}N_s$. As a set, its elements
 
 We should investigate how these three constructions are related, when (if ever) they are the same, and when (if ever) they are different. We first put these constructions into categorical context, where their differences are immediately obvious.
 
-There are two categories at play here. The first is the category $R\textbf{-Mod}$ of all left $R$-modules. In this category there are no obvious "internal" constructions, by which we mean constructions performed "within" a given $R$-module $M$. In fact, the very concept of submodule is a bit complicated to encode in this category, although it can be done.^[A submodule of an $R$-module $M$ is an isomorphism class of monomorphisms to $M$.]
+There are two categories at play here. The first is the category $R\textbf{-Mod}$ of all left $R$-modules. In this category there are no obvious "internal" constructions, by which we mean constructions performed "within" a given $R$-module $M$. In fact, the very concept of submodule is a bit complicated to encode in this category, although it can be done.^[A submodule of an $R$-module $M$ is an equivalence class of monics to $M$.]
 
-The second category is the category $\mathbf{M}$ of the submodules of a fixed $R$-module $M$. We [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules#What's really going on\|encountered]] this category when defining the sum of a family of submodules of a given module. To recap, the objects of $\mathbf{M}$ are the submodules $N$ of $M$, and the arrows $N_1\to N_2$ in $\mathbf{M}$ correspond to the inclusions $N_1\subseteq N_2$ of submodules. It is important to note that there are **no other morphisms besides inclusion morphisms**.
+The second category is the category $\mathbf{M}$ of the submodules of a fixed $R$-module $M$. We [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules#What's really going on\|encountered]] this category when defining the sum of a family of submodules of a given module. To recap, the objects of $\mathbf{M}$ are the submodules $N$ of $M$, and the arrows $N_1\to N_2$ in $\mathbf{M}$ correspond to the inclusions $N_1\subseteq N_2$ of submodules. It is important to note that there are *no other morphisms besides inclusion morphisms*.
 
-These two categories are related by a forgetful functor $U:\mathbf{M}\to R\textbf{-Mod}$ that sends each submodule $N$ of $M$ to the same module (forgetting the previous inclusion in $M$), and each inclusion arrow $N_1\to N_2$ to the corresponding monomorphism $i:N_1\to N_2$. Note that this functor is *faithful* (no arrows in $\mathbf{M}$ become identified in $R\textbf{-Mod}$) but not *full* (there are module morphisms $N_1\to N_2$ that do not correspond to inclusion maps).^[These notions of "faithful" and "full" are the functorial version of injective (on hom-sets) and surjective (on hom-sets).]
+These two categories are related by a forgetful functor $U:\mathbf{M}\to R\textbf{-Mod}$ that sends each submodule $N$ of $M$ to the same module (forgetting the previous inclusion in $M$), and each inclusion arrow $N_1\to N_2$ to the corresponding monic morphism $i:N_1\to N_2$. Note that this functor is *faithful* (no arrows in $\mathbf{M}$ become identified in $R\textbf{-Mod}$) but not *full* (there are module morphisms $N_1\to N_2$ that do not correspond to inclusion maps).^[These notions of "faithful" and "full" are the functorial version of injective (on hom-sets) and surjective (on hom-sets).]
 
 So where does this put us? In a good position, actually. Suppose $\{N_s\mid s\in S\}$ is a family of submodules of a fixed $R$-module $M$. When considered as a family of objects in $\mathbf{M}$ (i.e., as submodules of $M$), we can form the product and coproduct for this family. The coproduct is a submodule of $M$ that every submodule in the family maps to (i.e., is included in), universally so (i.e., is minimal among such submodules). This is precisely the sum of the family of submodules, $\displaystyle \sum_{s\in S} N_s$. The product is a submodule of $M$ that maps to every module in the system (i.e., is included in every submodule), universally so (i.e., is maximal among such submodules). This is precisely the intersection of the family of modules, $\displaystyle \bigcap_{s\in S} N_s$.
 
@@ -44,14 +44,15 @@ However, now suppose we consider the family of submodules as a family of modules
 
 ### When, if ever, do some of these constructions coincide?
 
-As mentioned above, whenever $S$ is finite there is a natural isomorphism between the direct product over $S$ and the direct sum over $S$.  There is also a special case in which the sum of a family of submodules is isomorphic to the direct sum of the family of submodules (viewed as modules).^[In the finite case, this is also isomorphic to the direct product of those submodules viewed as modules.]
+As mentioned previously, whenever $S$ is finite there is a natural isomorphism between the direct product over $S$ and the direct sum over $S$.  There is also a special case in which the sum of a family of submodules is isomorphic to the direct sum of the family of submodules (viewed as modules).^[In the finite case, this is also isomorphic to the direct product of those submodules viewed as modules.]
 
 >[!summary] When a sum is a direct sum
 >Suppose $N_1,\ldots, N_k$ is a family of submodules of an $R$-module $M$. Then the map $n_1\oplus\cdots\oplus n_k\mapsto n_1+\cdots+n_k$ is an $R$-module isomorphism
 >$$N_1\oplus\cdots \oplus N_k\simeq N_1+\cdots +N_k$$
 >exactly when $N_j\cap (N_1+\cdots +\hat{N_j}+\cdots +N_k)=(0)$ for every $j$.
 
-## Suggested next note
+## Suggested next notes
 ---
 
+[[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|Natural transformations]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]

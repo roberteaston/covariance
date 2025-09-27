@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/the-isomorphism-theorems-for-modules/","tags":["module_theory"],"updated":"2025-09-25T14:32:49-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/the-isomorphism-theorems-for-modules/","tags":["module_theory"],"updated":"2025-09-27T14:45:03-07:00"}
 ---
 
 As with groups and rings, for modules we have the standard four isomorphism theorems, the first of which gets by far the most use:
@@ -8,7 +8,7 @@ As with groups and rings, for modules we have the standard four isomorphism theo
 >Let $f:M\to N$ be an $R$-module morphism. Then the map $m+\operatorname{ker}(f)\mapsto f(m)$ defines a module isomorphism $M/\operatorname{ker}(f)\simeq \operatorname{im}(f)$.
 { #feb9be}
 
-The proof of this theorem is almost identical to the proof of the analogous theorem for groups. Nevertheless, I should add a proof here at some point.
+The proof of this theorem is almost identical to the proof of the analogous theorem for groups. Nevertheless, I should add a proof here at some point. In fact, I should offer "element-free" proofs that exclusively rely on invoking universal properties of the various constructions involved. For now, I'll mark that task as TBD.
 
 ---
 
