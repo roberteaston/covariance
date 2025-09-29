@@ -14,10 +14,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                                           |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-29\|2025-09-29]] | <ul><li>Direct products of modules</li><li>Direct sums of modules</li><li>Sums of submodules</li></ul>   |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-26\|2025-09-26]] | <ul><li>Quotient modules</li><li>Universal properties</li><li>Isomorphism Theorems for Modules</li></ul> |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-25\|2025-09-25]] | <ul><li>Module morphisms</li><li>Quotient modules</li></ul>                                              |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-23\|2025-09-23]] | <ul><li>Module morphisms</li><li>Submodules</li></ul>                                                    |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-22\|2025-09-22]] | <ul><li>Modules</li><li>Module morphisms</li></ul>                                                       |
 
 { .block-language-dataview}
 
