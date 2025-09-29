@@ -28,6 +28,7 @@ Although the weekly assignments should be submitted digitally in Canvas, the ass
 
 | Assignment                                                                                               | Due Date           | Last Updated                 |
 | -------------------------------------------------------------------------------------------------------- | ------------------ | ---------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 3\|Homework 3]] | October 05, 2025   | 6:52 AM - September 29, 2025 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 2\|Homework 2]] | September 28, 2025 | 2:14 PM - September 25, 2025 |
 | [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 1\|Homework 1]] | September 21, 2025 | 6:41 AM - September 23, 2025 |
 
