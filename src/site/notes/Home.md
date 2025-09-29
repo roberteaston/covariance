@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                                                     | Last Updated                  |
-| -------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-29\|2025-09-29]]                 | 10:23 AM - September 29, 2025 |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-26\|2025-09-26]]                 | 7:00 AM - September 29, 2025  |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 3\|Homework 3]] | 6:52 AM - September 29, 2025  |
+| Note                                                                                                                                                            | Last Updated                  |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]] | 12:36 PM - September 29, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]                                     | 12:30 PM - September 29, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]                             | 11:59 AM - September 29, 2025 |
 
 { .block-language-dataview}
 
@@ -122,9 +122,9 @@
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodule morphisms\|Bimodule morphisms]]                                                                                                                                                  | 12:53 PM - March 31, 2025     |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules\|Bimodules]]                                                                                                                                                                    | 12:53 PM - March 31, 2025     |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]                                                                                                                   | 2:53 PM - September 27, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]]                                                                                       | 3:29 PM - September 27, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]                                                                                                                           | 3:23 PM - September 27, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]                                                                                                                   | 11:59 AM - September 29, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]]                                                                                       | 12:36 PM - September 29, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]                                                                                                                           | 12:30 PM - September 29, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences I - Illustrative Examples\|Exact Sequences I - Illustrative Examples]]                                                                                              | 12:57 PM - March 31, 2025     |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]                                                                                                        | 12:58 PM - March 31, 2025     |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]]                                                                            | 12:58 PM - March 31, 2025     |
