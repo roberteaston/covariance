@@ -155,6 +155,8 @@ A category is **discrete** when every arrow is an identity arrow. In other words
 Note that both the discrete categories above, and categories such as $\mathbf{X}$, are different from the (large) category $\textbf{Set}$, which has as objects all (small) sets and as arrows all set maps. The association to each set $X$ the corresponding category $\mathbf{X}$ is the object map of a [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors\|functor]] from the category $\textbf{Set}$ to the category $\textbf{Cat}$ of categories.
 
 ### Groups as categories
+{ #42b4b3}
+
 
 For a given group $G$ one can associate a category $BG$, which has a single object $\star$ and exactly one arrow $g:\star\to\star$  for each element $g\in G$.  Moreover, the composition of arrows in the category $\textbf{G}$ corresponds to the group operation in $G$. The category $BG$ is sometimes called the **delooping category** or (**delooping groupoid**) of the group $G$.
 

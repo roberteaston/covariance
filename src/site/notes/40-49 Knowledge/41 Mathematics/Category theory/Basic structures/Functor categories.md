@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functor-categories/","tags":["category_theory"],"updated":"2025-09-27T15:35:32-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functor-categories/","tags":["category_theory"],"updated":"2025-09-30T11:05:38-07:00"}
 ---
 
 ## Definition
@@ -8,7 +8,7 @@
  It will often be helpful to think of functors between two fixed categories as objects worthy of study on their own, namely as objects of a new category in which [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|natural transformations]] between such functors are the arrows between them.
 
 >[!note] Definition of a functor category
->Suppose $C$ and $D$ are two categories. We denote the category of functors from $C$ to $D$ by $D^C$. The objects of this category are functors $F:C\to D$, and the arrows of this category are natural transformations $\tau:F\Rightarrow G$ between such functors.
+>Suppose $C$ and $D$ are two categories. We denote the category of functors from $C$ to $D$ by $D^C$. The objects of this category are functors $F:C\to D$, and the arrows of this category are natural transformations $\tau:F\Rightarrow G$ between such functors. The composition operation is the "vertical composition" of natural transformations.
 
 One can verify that $D^C$ does indeed satisfy the axioms of a category.
 
