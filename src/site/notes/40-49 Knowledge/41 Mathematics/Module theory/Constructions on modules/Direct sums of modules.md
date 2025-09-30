@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-sums-of-modules/","tags":["module_theory"],"updated":"2025-09-29T12:30:54-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-sums-of-modules/","tags":["module_theory"],"updated":"2025-09-30T10:34:07-07:00"}
 ---
 
 As is always the case with category-theoretic constructions, there is a construction "dual" to that of the direct product of modules, called the **direct sum** of modules. It is characterized by the property "dual" to that of direct product.
@@ -69,7 +69,7 @@ Indeed, suppose we allowed for arbitrary infinite formal sums $\displaystyle \su
 
 $$h\left(\sum_{s\in S}m_s\right) = \sum_{s\in S}f_s(m_s).$$
 
-But that latter sum occurs in the module $P$, where arbitrary sums of elements is not necessarily defined. (As an $R$-module, $P$ is endowed with a *binary* operation, we can be repeated to define an $n$-ary operation, but not necessarily anything beyond that.) In other words, it's not clear such a map $h$ is well defined (or even possible).
+However, that latter sum occurs in the module $P$, where arbitrary sums of elements is not necessarily defined. (As an $R$-module, $P$ is endowed with a *binary* operation, we can be repeated to define an $n$-ary operation, but not necessarily anything beyond that.) In other words, it's not clear such a map $h$ is well defined (or even possible).
 
 The finiteness condition on our formal sums removes this issue, and indeed the desired universal property is now straightforward to verify.
 

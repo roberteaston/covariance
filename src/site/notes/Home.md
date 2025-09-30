@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=28" data-href="Maclane - Categories for the Working Mathematician.pdf#page=28" href="Maclane - Categories for the Working Mathematician.pdf#page=28" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">Before functoriality, people lived in caves.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                            | Last Updated                  |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]] | 12:36 PM - September 29, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]                                     | 12:30 PM - September 29, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]                             | 11:59 AM - September 29, 2025 |
+| Note                                                                                                                                | Last Updated                  |
+| ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-30\|2025-09-30]]                                            | 10:39 AM - September 30, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]         | 10:34 AM - September 30, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]] | 10:32 AM - September 30, 2025 |
 
 { .block-language-dataview}
 
@@ -122,9 +122,9 @@
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodule morphisms\|Bimodule morphisms]]                                                                                                                                                  | 12:53 PM - March 31, 2025     |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules\|Bimodules]]                                                                                                                                                                    | 12:53 PM - March 31, 2025     |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]                                                                                                                   | 11:59 AM - September 29, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]]                                                                                       | 12:36 PM - September 29, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]                                                                                                                           | 12:30 PM - September 29, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]                                                                                                                   | 10:32 AM - September 30, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]]                                                                                       | 10:31 AM - September 30, 2025 |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]                                                                                                                           | 10:34 AM - September 30, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences I - Illustrative Examples\|Exact Sequences I - Illustrative Examples]]                                                                                              | 12:57 PM - March 31, 2025     |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]                                                                                                        | 12:58 PM - March 31, 2025     |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]]                                                                            | 12:58 PM - March 31, 2025     |

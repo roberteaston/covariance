@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-of-modules/","tags":["module_theory"],"updated":"2025-09-29T11:59:44-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/direct-products-of-modules/","tags":["module_theory"],"updated":"2025-09-30T10:32:27-07:00"}
 ---
 
 For any family of modules, there is a construction analogous to the Cartesian product in $\textbf{Set}$ that produces a single module characterized by a universal property.
@@ -53,7 +53,7 @@ Finally, suppose $\{M_s\mid s\in S\}$ is a family of $R$-modules indexed by some
 
 As an abelian group, this is the usual direct product of the corresponding abelian groups; as a set, it is the usual Cartesian product of the corresponding sets. While you could probably get away with considering elements of the infinite Cartesian product as "infinite tuples", at this point it's beneficial to be more careful.
 
-For example, what if the set $S$ is not linearly ordered? Can we talk about families (of sets, modules, whatever) as "indexed by the complex numbers" or "indexed by vectors in ${\bf R}^2"? We can, and you already know how. You essentially "label" the members of your family by elements of the index set. An "infinite $S$-tuple of elements" is then really a specification, for each $s\in S$, of an element $f(s)$ in the object we "labeled" by $s$.
+For example, what if the set $S$ is not linearly ordered? Can we talk about families (of sets, modules, whatever) as "indexed by the complex numbers" or "indexed by vectors in ${\bf R}^2$"? We can, and you already know how. You essentially "label" the members of your family by elements of the index set. An "infinite $S$-tuple of elements" is then really a specification, for each $s\in S$, of an element $f(s)$ in the object we "labeled" by $s$.
 
 So in our case, we can construct the set $\displaystyle \prod_{s\in S} M_s$ as the collection of all set maps $f$ from $S$ such that $f(s)\in M_s$ for every $s\in S$. Ignoring certain set-theoretic considerations^[For example, you might be wondering what the common codomain is for all such functions? The answer is the fixed universe $\mathcal{U}$, which contains all sets were are allowed to consider. In particular, it should contain the union of the sets of elements of all $M_s$.], this does the job. The additive operation and $R$-action are then once again defined "component-wise", which is now more accurately described as "on outputs"; e.g., $(r\cdot f)(s) = r\cdot f(s)$, where the right-hand side indicates the action of $R$ on the $R$-module $M_s$. In other words, for each $s\in S$ we can think of $f(s)$ as the value of the $s$-component of the element $f$.
 
