@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2025-09-27T15:41:40-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2025-10-02T06:52:43-07:00"}
 ---
 
 > [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=117\|Saunders Mac Lane]]
@@ -82,7 +82,7 @@ In short, the bijections in $\tau$ should be compatible with arrow composition.
 > The description of an adjunction can be rephrased in an equivalent way in which $\tau$ becomes a bona fide natural isomorphism between two functors.
 
 
-We will see a *plethora* of examples (below), but first a few additional notes are in order.
+We will see a [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|plethora of examples]], but first a few additional notes are in order.
 
 ## Units and counits
 ---
