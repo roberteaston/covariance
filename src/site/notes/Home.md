@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                                                                    | Last Updated               |
-| ----------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|Natural transformations]] | 9:02 AM - October 03, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]                                       | 7:17 AM - October 03, 2025 |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-02\|2025-10-02]]                                | 6:42 AM - October 03, 2025 |
+| Note                                                                                                                    | Last Updated                |
+| ----------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 3\|Homework 3]]                | 11:09 AM - October 03, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|Natural transformations]] | 11:09 AM - October 03, 2025 |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-03\|2025-10-03]]                                | 10:45 AM - October 03, 2025 |
 
 { .block-language-dataview}
 
@@ -59,7 +59,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|Examples of adjoints]]                                                                                                     | 12:39 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functor categories\|Functor categories]]                                                                                                 | 2:54 PM - October 02, 2025   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors\|Functors]]                                                                                                                     | 6:53 AM - September 19, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|Natural transformations]]                                                                                       | 9:02 AM - October 03, 2025   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|Natural transformations]]                                                                                       | 11:09 AM - October 03, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories\|Preadditive categories]]                                                                                       | 12:36 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints\|Properties of adjoints]]                                                                                                 | 12:39 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Special morphisms\|Special morphisms]]                                                                                                   | 12:47 PM - March 31, 2025    |
