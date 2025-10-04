@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/natural-transformations/","tags":["category_theory","quotes"],"updated":"2025-10-03T11:09:44-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/natural-transformations/","tags":["category_theory","quotes"],"updated":"2025-10-04T13:59:45-07:00"}
 ---
 
 
