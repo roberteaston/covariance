@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                        | Last Updated               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/A criterion for a module to be finitely generated\|A criterion for a module to be finitely generated]] | 2:46 PM - October 04, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/The pullback functor is an adjoint\|The pullback functor is an adjoint]]                               | 2:45 PM - October 04, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 4\|Homework 4]]                                                                    | 2:44 PM - October 04, 2025 |
+| Note                                                                                                     | Last Updated               |
+| -------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 3\|Homework 3]] | 2:53 PM - October 04, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 2\|Homework 2]] | 2:53 PM - October 04, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 1\|Homework 1]] | 2:52 PM - October 04, 2025 |
 
 { .block-language-dataview}
 
