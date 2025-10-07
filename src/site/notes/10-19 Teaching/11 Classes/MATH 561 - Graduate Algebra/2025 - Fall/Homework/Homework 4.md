@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-4/","updated":"2025-10-04T14:44:32-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-4/","updated":"2025-10-04T15:02:08-07:00"}
 ---
 
 ## Problem 1
@@ -20,7 +20,7 @@ Show that the functor which assigns to each diagram of the form $X\xrightarrow{f
 You don't need to check every tiny detail for this one. Define the pullback as a functor (giving the maps on objects *and* arrows), and then explicitly define the set map that should be a natural bijection between the appropriate hom-sets.
 
 >[!summary]- Hints
-Let $J$ be the category with three objects and two non-identity arrows, visualized as $\bullet \rightarrow \bullet \leftarrow \bullet$.  Functors $J\to \textbf{Set}$ then correspond to diagrams in $\textbf{Set}$ of shape $J$; i.e., diagrams of the form $X\xrightarrow{f} Z \xleftarrow{g} Y$ in $\textbf{Set}$. Let $\textbf{Set}^J$ denote the category of functors $J\to \mathbf{Set}$ and let $\Delta:\textbf{Set}\to \textbf{Set}^J$ denote the diagonal functor. Show the pullback functor is a right adjoint of $\Delta$.
+Let $J$ be the category with three objects and two non-identity arrows, visualized as $\bullet \rightarrow \bullet \leftarrow \bullet$.  Functors $J\to \textbf{Set}$ then correspond to diagrams in $\textbf{Set}$ of shape $J$; i.e., diagrams of the form $X\xrightarrow{f} Z \xleftarrow{g} Y$ in $\textbf{Set}$. Let $\textbf{Set}^J$ denote the category of functors $J\to \mathbf{Set}$ and let $\Delta:\textbf{Set}\to \textbf{Set}^J$ denote the diagonal (or constant) functor. Show the pullback functor is a right adjoint of $\Delta$.
 
 
 
@@ -38,7 +38,7 @@ Let $J$ be the category with three objects and two non-identity arrows, visualiz
 
 
 
-Let $R$ be an integral domain and $M$ be a finitely generated torsion $R$-module. Prove that the [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Annihilators\|annihilator]] of $M$ in $R$ is nontrivial.
+Let $R$ be an integral domain and $M$ be a finitely-generated torsion $R$-module. Prove that the [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Annihilators\|annihilator]] of $M$ in $R$ is nontrivial.
 
 </div></div>
 

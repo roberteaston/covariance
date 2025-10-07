@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2025-10-03T07:17:25-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2025-10-06T06:38:38-07:00"}
 ---
 
 > [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=117\|Saunders Mac Lane]]
@@ -37,7 +37,7 @@ Let's first consider the case in which $F$ and $G$ are mutual inverses. In other
 Is this case interesting? Not really. An isomorphism of categories implies a bijection on both objects and arrows. For all intents and purposes, the categories $C$ and $D$ are identical. Are question about arrows between $c$ and $d$ is then just a question about arrows between two objects in the same category.
 ### Special Case 2: Equivalences of categories
 
-With [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|natural transformations]] at our disposal, it makes sense to relax the requirement that the compositions $GF$ and $FG$ exactly equal the respective identity functors, and replace it with the weaker condition that the compositions are *naturally isomorphic* to the respective identity functors. In other words, let's assume there are natural isomorphisms $GF\simeq I_C$ and $FG\simeq I_D$. This means that for every $c\in C$ we have an natural isomorphism $c\xrightarrow{\sim} GF(c)$ in $C$, and similarly for every $d\in D$ a natural isomorphism $FG(d)\xrightarrow{\sim}d$ in $D$. In this case, the functors $F$ and $G$ are said to be **naturally isomorphic** and the categories $C$ and $D$ are said to be **equivalent**.
+With [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|natural transformations]] at our disposal, it makes sense to relax the requirement that the compositions $GF$ and $FG$ exactly equal the respective identity functors, and replace it with the weaker condition that the compositions are *naturally isomorphic* to the respective identity functors. In other words, let's assume there are natural isomorphisms $GF\simeq I_C$ and $FG\simeq I_D$. This means that for every $c\in C$ we have a (natural) isomorphism $c\xrightarrow{\sim} GF(c)$ in $C$, and similarly for every $d\in D$ a natural isomorphism $FG(d)\xrightarrow{\sim}d$ in $D$. In this case, the functors $F$ and $G$ are said to be **naturally isomorphic** and the categories $C$ and $D$ are said to be **equivalent**.
 
 When people talk about equivalent categories, this is what they mean. For our purposes, though, this is still too strong of a condition on our functors. Equivalent categories are "basically" the same, and we want to allow for functors between categories that are "very different."
 ### Special Case 3: Adjunction of categories

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/examples-of-free-modules/","tags":["module_theory"],"updated":"2025-03-31T12:55:47-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/examples-of-free-modules/","tags":["module_theory"],"updated":"2025-10-07T06:39:04-07:00"}
 ---
 
 For each finite set $X$, the structure of the free module $F(X)$ is entirely determined by the cardinality of $X$. Let's consider some specific examples.
@@ -34,7 +34,7 @@ $$\phi_{\{x\},M}:\operatorname{Hom}_R(F(\{x\}), M)\to \operatorname{Hom}_{\textb
 Next let's consider an arbitrary finite set $X=\{x_1,x_2,\ldots, x_n\}$. By our construction, the module $F(X)$ consists of all formal $R$-linear combinations of the form $r_1x_1+r_2x_2+\cdots +r_n x_n$, which his evidently isomorphic to the $R$-module $R\oplus R\oplus \cdots \oplus R$ (the direct sum of $R$ with itself $n$ times). This $R$-module is usually denoted $R^n$.
 
 > [!question] Is this bad notation?
-> The notation $R^n$ is usually shorthand for  the direct product $R\times R\times \cdots \times R$, not the direct sum. Fortunately, for finite families in the category $R\mathbf{-Mod}$ the direct product and direct sum are isomorphic $R$-modules.
+> The notation $R^n$ is usually shorthand for  the direct product $R\times R\times \cdots \times R$, not the direct sum. Fortunately, for finite families in the category $R\text{-{\bf Mod}}$ the direct product and direct sum are isomorphic $R$-modules.
 
 
 ## Suggested next note

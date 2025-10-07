@@ -14,10 +14,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                                              |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-07\|2025-10-07]] | <ul><li>Adjoints</li></ul>                                                                                  |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-06\|2025-10-06]] | <ul><li>Adjoints</li></ul>                                                                                  |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-03\|2025-10-03]] | <ul><li>Natural transformations</li></ul>                                                                   |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-02\|2025-10-02]] | <ul><li>Direct products of modules</li><li>Direct sums of modules</li><li>Natural transformations</li></ul> |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-30\|2025-09-30]] | <ul><li>Direct products of modules</li><li>Direct sums of modules</li><li>Sums of submodules</li></ul>      |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-09/2025-09-29\|2025-09-29]] | <ul><li>Direct products of modules</li><li>Direct sums of modules</li><li>Sums of submodules</li></ul>      |
 
 { .block-language-dataview}
 
@@ -28,9 +28,9 @@ Although the weekly assignments should be submitted digitally in Canvas, the ass
 
 | Assignment                                                                                               | Due Date           | Last Updated               |
 | -------------------------------------------------------------------------------------------------------- | ------------------ | -------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 4\|Homework 4]] | October 12, 2025   | 2:44 PM - October 04, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 3\|Homework 3]] | October 05, 2025   | 1:59 PM - October 04, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 2\|Homework 2]] | September 28, 2025 | 2:53 PM - October 04, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 1\|Homework 1]] | September 21, 2025 | 2:52 PM - October 04, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 4\|Homework 4]] | October 12, 2025   | 3:02 PM - October 04, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 3\|Homework 3]] | October 05, 2025   | 3:02 PM - October 04, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 2\|Homework 2]] | September 28, 2025 | 3:02 PM - October 04, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 1\|Homework 1]] | September 21, 2025 | 3:02 PM - October 04, 2025 |
 
 { .block-language-dataview}
