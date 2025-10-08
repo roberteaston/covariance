@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-i-inspiring-examples/","tags":["category_theory","quotes"],"updated":"2025-09-27T15:29:15-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-i-inspiring-examples/","tags":["category_theory","quotes"],"updated":"2025-10-07T19:56:27-07:00"}
 ---
 
 > [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=66\|Saunders Mac Lane]]
@@ -17,6 +17,9 @@ Rather than dive straight into the technical definitions, I think it's more illu
 
 ## Examples in $\textbf{Set}$
 ---
+
+> [!quote] [[Riehl - Category Theory in Context.pdf#page=31|Eilenberg and Mac Lane]]
+> ...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.
 
 You encounter many constructions on sets as soon as you start studying set theory. Here we list a few, along with a "universal property" they satisfy.
 ### Cartesian product

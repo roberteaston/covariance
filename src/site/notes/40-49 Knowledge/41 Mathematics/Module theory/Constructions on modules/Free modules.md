@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2025-10-07T06:37:09-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2025-10-07T21:03:23-07:00"}
 ---
 
 ## Motivation
@@ -7,7 +7,9 @@
 
 You often hear it said that a "free object" is an object with no other "relations" beyond those required of every object of that type, e.g., a "free group" is a group with no relations beyond those required of every group. But what does that actually mean, and how do you formalize it?
 
-As a first attempt, we could start with a set $X$ and then define the "free object on $X$" as the "smallest" or "simplest" object $F(X)$ one can create (of the desired type) beginning from only the set $X$. But how do we formalize "smallest" or "simplest"? We might [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|reasonably suggest]] that the definition be such that $F(X)$ has a desirable universal property. For example, the free group $F(X)$ should be the group such that group morphisms $F(X)\to G$ are in natural bijection with set maps $X\to U(G)$, where $U(G)$ is the underlying set of elements of $G$; i.e., where $U$ is the forgetful functor $\textbf{Grp}\to \textbf{Set}$. In this way, the set $X$ would act like a "basis" for the group $F(X)$, in that maps from $F(X)$ are entirely determined by the images of the "basis" elements $X$. The "free" adjective could then be interpreted as the fact that there are no conditions on the maps from $X$ to $U(G)$; they are simply set maps. You can map the elements of $X$ "freely" to any elements you'd like in $U(G)$, and to every such choice there is a unique corresponding group morphism from the free object $F(X)$ to $G$. So it's not so much that $F(X)$ is "free" from "relations," but rather that the basis elements in $X$ can be freely mapped to any elements of your chosen target group.
+As a first attempt, we could start with a set $X$ and then define the "free object on $X$" as the "smallest" or "simplest" object $F(X)$ one can create (of the desired type) beginning from only the set $X$. But how do we formalize the notions of "smallest" or "simplest"? We might [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|reasonably suggest]] that the definition be such that $F(X)$ has a desirable universal property.
+
+For example, the free group $F(X)$ should be the group such that group morphisms $F(X)\to G$ are in natural bijection with set maps $X\to U(G)$, where $U(G)$ is the underlying set of elements of $G$; i.e., where $U$ is the forgetful functor $\textbf{Grp}\to \textbf{Set}$. In this way, the set $X$ would act like a "basis" for the group $F(X)$, in that maps from $F(X)$ are entirely determined by the images of the "basis" elements $X$. The "free" adjective could then be interpreted as the fact that there are no conditions on the maps from $X$ to $U(G)$; they are simply set maps. You can map the elements of $X$ "freely" to any elements you'd like in $U(G)$, and to every such choice there is a unique corresponding group morphism from the free object $F(X)$ to $G$. So it's not so much that $F(X)$ is "free" from "relations," but rather that the basis elements in $F(X)$ can be freely mapped to any elements of your chosen target group.
 
 Let's try following this idea for modules, but this time filling in all of the details.
 
@@ -15,13 +17,13 @@ Let's try following this idea for modules, but this time filling in all of the d
 ---
 ### The goal
 
-Let $R$ be a fixed ring and  $U:R\textbf{-Mod}\to \textbf{Set}$ be the forgetful functor from $R$-modules to sets. We will show there is a functor $F:\textbf{Set}\to R\textbf{-Mod}$ that associates to each set $X$ a "minimal" $R$-module $F(X)$ with a "free" property as described above. Specifically, to every $R$-module morphism $F(A)\to M$ there will correspond a unique set map $A\to U(M)$, and conversely. In other words, for every $R$-module $M$ and set $X$ there will be a natural bijection of sets
+Let $R$ be a fixed ring and  $U:R\text{-{\bf Mod}}\to \textbf{Set}$ be the forgetful functor from $R$-modules to sets. We will show there is a functor $F:\textbf{Set}\to R\text{-{\bf Mod}}$ that associates to each set $X$ a "minimal" $R$-module $F(X)$ with a "free" property as described above. Specifically, to every $R$-module morphism $F(A)\to M$ there will correspond a unique set map $A\to U(M)$, and conversely. In other words, for every $R$-module $M$ and set $X$ there will be a natural bijection of sets
 
-$$\phi_{X,M}:\operatorname{Hom}_R(F(X), M)\xrightarrow{\sim}\operatorname{Hom}_{\textbf{Set}}(X, U(M)).$$
+$$\phi_{X,M}:\operatorname{Hom}_{R\text{-{\bf Mod}}}(F(X), M)\xrightarrow{\sim}\operatorname{Hom}_{\textbf{Set}}(X, U(M)).$$
 
 Put more simply still, our functor $F$ will be a left adjoint to the forgetful functor $U$.
 
-Before we construct the functor $F$, let's take a minute to explain what it means for $\phi_{X,M}$ to be natural in $X$ and $M$. Naturality "in $M$" will mean that for every $R$-module morphism $f:M\to N$ we have a commutative diagram
+Before we construct the functor $F$, let's take a minute to recall what it means for $\phi_{X,M}$ to be natural in $X$ and $M$. Naturality "in $M$" will mean that for every $R$-module morphism $f:M\to N$ we have a commutative diagram
 { #7ea360}
 
 
@@ -34,9 +36,9 @@ Similarly, naturality "in $X$" will mean that for every set map $g:X\to Y$ we ha
 This naturality condition will have many consequences for our construction, which we'll investigate later.
 ### The construction of $F(X)$
 
-Let $X$ be a fixed set. We first define the set $F(X)$ to be the collection of formal finite $R$-linear combinations of elements of $X$.^[Equivalently, we can define $F(X)$ to be the collection of all set maps $f:X\to R$ with the property that $f(x)=0_R$ for all but finitely many $x\in X$] In other words, $F(X)$ consists of expressions of the form $\displaystyle\sum_{x\in X} r_x x$, where $r_x=0_R$ for all but finitely many $x\in X$.
+Let $X$ be a fixed set. We first define the set $F(X)$ to be the collection of formal finite $R$-linear combinations of elements of $X$.^[More carefully, we should define $F(X)$ to be the collection of all set maps $f:X\to U(R)$ with the property that $f(x)=0_R$ for all but finitely many $x\in X$] In other words, $F(X)$ consists of expressions of the form $\displaystyle\sum_{x\in X} r_x x$, where $r_x=0_R$ for all but finitely many $x\in X$.
 
-We then define a binary operation on $F(X)$ by "combining coefficients." In other words, if $m_1 =\displaystyle\sum_{x\in X} r_x x$ and $m_2 = \displaystyle\sum_{x\in X} s_x x$ are two elements of $F(X)$, then we define $m_1+m_2 = \displaystyle \sum_{x\in X} (r_x+s_x)x$. You can then verify that this operation is commutative and associative, that there is an identity element (the trivial combination), and that every element has a inverse (obtained by taking the combination with the additive inverse coefficients). In other words, this gives the set $F(X)$ the structure of an abelian group^[This is precisely the construction of the free abelian group on the set $X$. Do you see how one could convert any finite formal sum of the given form into such a set map, and conversely?].
+We then define a binary operation on $F(X)$ by "adding coefficients." In other words, if $m_1 =\displaystyle\sum_{x\in X} r_x x$ and $m_2 = \displaystyle\sum_{x\in X} s_x x$ are two elements of $F(X)$, then we define $m_1+m_2 = \displaystyle \sum_{x\in X} (r_x+s_x)x$. You can then verify that this operation is commutative and associative, that there is an identity element (the trivial combination), and that every element has a inverse (obtained by taking the combination with the additive inverse coefficients). In other words, this gives the set $F(X)$ the structure of an abelian group^[This is precisely the construction of the free abelian group on the set $X$. Do you see how one could convert any finite formal sum of the given form into such a set map, and conversely?].
 
 Finally, we let $R$ act on the left of $F(X)$ by left multiplication of the coefficients: $s\cdot \displaystyle \sum_{x\in X} r_x x = \sum_{x\in X} (sr_x) x$. It is then straightforward to verify this gives $F(X)$ the structure of an $R$-module.
 

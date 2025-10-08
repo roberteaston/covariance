@@ -35,7 +35,7 @@ As usual, there are various equivalent interpretations of these properties:
 
 
 
-If $C\to \textbf{1}$ is the unique functor to the category with one object, then a left adjoint $\textbf{1}\to C$ is the functor that selects the initial object of $C$, while a right adjoint $\textbf{1}\to C$ is the functor that selects the terminal object of $C$. 
+If $C\to \textbf{1}$ is the unique functor to the category with one object, then a left adjoint $\textbf{1}\to C$ is the functor that selects the initial object of $C$ (assuming it exists), while a right adjoint $\textbf{1}\to C$ is the functor that selects the terminal object of $C$ (assuming it exists). 
 
 </div></div>
 

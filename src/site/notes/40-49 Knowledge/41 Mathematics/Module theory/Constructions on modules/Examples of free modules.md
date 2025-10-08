@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/examples-of-free-modules/","tags":["module_theory"],"updated":"2025-10-07T06:39:04-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/examples-of-free-modules/","tags":["module_theory"],"updated":"2025-10-07T21:06:36-07:00"}
 ---
 
 For each finite set $X$, the structure of the free module $F(X)$ is entirely determined by the cardinality of $X$. Let's consider some specific examples.
 ## The free module on the empty set
 ---
 
-What is the free module on the empty set? According to our construction the set of elements of the $R$-module $F(\emptyset)$ consists of all formal finite $R$-linear combinations of elements $\emptyset$. But what the heck is the set of combinations of nothing, you might ask? Let's look at the universal property $F(\emptyset)$ should enjoy, namely that there is a natural bijection
+What is the free module on the empty set? According to our construction the set of elements of the $R$-module $F(\emptyset)$ consists of all formal finite $R$-linear combinations of elements of the empty set. But what the heck is the set of combinations of nothing, you might ask? Let's look at the universal property $F(\emptyset)$ should enjoy, namely that there is a natural bijection
 
 $$\phi_{\emptyset, M}:\operatorname{Hom}_R(F(\emptyset), M)\to \operatorname{Hom}_{\textbf{Set}}(\emptyset, U(M)).$$
 
