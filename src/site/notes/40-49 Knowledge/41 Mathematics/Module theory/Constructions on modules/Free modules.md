@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2025-10-07T21:03:23-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2025-10-08T14:33:02-07:00"}
 ---
 
 ## Motivation
@@ -45,9 +45,9 @@ Finally, we let $R$ act on the left of $F(X)$ by left multiplication of the coef
 In summary:
 
 > [!tldr] The construction/definition of free modules
-> Given a set $X$, the **free $R$-module on $X$** is the set
+> Given a set $X$, the **free $R$-module on $X$** is the $R$-module denoted $F(X)$ whose underlying set of elements is
 > 
-> $$F(X)=\left\{\sum_{x\in X}r_x x\mid r_x\in R,\, r_x=0_R\text{ for all but finitely many }x\right\}.$$
+> $$\left\{\sum_{x\in X}r_x x\mid r_x\in R,\, r_x=0_R\text{ for all but finitely many }x\right\}.$$
 > 
 > The group operation in $F(X)$ is addition of coefficients, and the $R$-action is by left multiplication of coefficients.
 
@@ -71,7 +71,7 @@ We can verify this set map is bijective by constructing the inverse set map. Sup
 >[!note] Definition of free
 >Suppose $M$ is an $R$-module. We say $M$ is **free** if $M$ is isomorphic (as an $R$-module) to $F(X)$ for some finite set $X$. In that case we can also say $M$ is **free on $X$**.
 
-In terms of elements, this is just like a basis for a vector space. If $X$ is a subset of the elements of $M$, then $M$ is free on $X$ exactly when the elements of $X$ [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Generators for modules and submodules\|generate]] $M$ and are $R$-linearly independent in $M$; the first condition guarantees that every $m\in M$ can be written as $\displaystyle m= \sum_{x\in X}r_x x$ for some $r_x\in X$, while the second condition guarantees that such an expression is unique.
+In terms of elements, this is just like a basis for a vector space. If $X$ is a subset of the elements of $M$, then $M$ is free on $X$ exactly when the set of elements of $X$ [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Generators for modules and submodules\|generates]] $M$ and are $R$-linearly independent in $M$; the first condition guarantees that every $m\in M$ can be written as $\displaystyle m= \sum_{x\in X}r_x x$ for some $r_x\in X$, while the second condition guarantees that such an expression is unique.
 
 For a more categorical approach, observe the following about subsets $X$ of elements of $M$:
 1. A subset $X\subseteq M$ generates $M$ exactly when the corresponding module morphism $\pi:F(X)\to M$ is surjective; and
