@@ -12,12 +12,12 @@ We're older now, so it's time things make sense. This wiki is an attempt move at
 
 Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the four most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Daily class summaries\|here]].
 
-| Class Date                                                                               | Topics Covered                                                                                              |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-07\|2025-10-07]] | <ul><li>Adjoints</li></ul>                                                                                  |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-06\|2025-10-06]] | <ul><li>Adjoints</li></ul>                                                                                  |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-03\|2025-10-03]] | <ul><li>Natural transformations</li></ul>                                                                   |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-02\|2025-10-02]] | <ul><li>Direct products of modules</li><li>Direct sums of modules</li><li>Natural transformations</li></ul> |
+| Class Date                                                                               | Topics Covered                            |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-09\|2025-10-09]] | <ul><li>Free modules</li></ul>            |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-07\|2025-10-07]] | <ul><li>Adjoints</li></ul>                |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-06\|2025-10-06]] | <ul><li>Adjoints</li></ul>                |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-03\|2025-10-03]] | <ul><li>Natural transformations</li></ul> |
 
 { .block-language-dataview}
 
