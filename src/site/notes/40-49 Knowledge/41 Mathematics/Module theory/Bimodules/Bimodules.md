@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodules/","tags":["#module_theory"],"updated":"2025-03-31T12:53:41-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodules/","tags":["#module_theory"],"updated":"2025-10-09T20:16:58-07:00"}
 ---
 
 ## Definition
 ---
 
-Generalizing the notion of a module, we can consider an abelian group endowed with *both* a left- and right-action. Such a structure is called a *bimodule*.
+Generalizing the notion of a module, we can consider an abelian group endowed with *both* a left-$R$ and right-$S$ action. Such a structure is called a *bimodule*.
 
 >[!note] Definition of bimodule
 >Let $R$ and $S$ be rings (with unity). An **$(R,S)$-bimodule** consists of an abelian group $M$ with both the structure of a left $R$-module and right $S$-module, such that $r(ms)=(rm)s$ for every $r\in R$, $s\in S$, and $m\in M$.

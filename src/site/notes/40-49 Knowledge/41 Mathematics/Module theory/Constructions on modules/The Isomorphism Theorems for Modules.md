@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/the-isomorphism-theorems-for-modules/","tags":["module_theory"],"updated":"2025-10-09T10:49:34-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/the-isomorphism-theorems-for-modules/","tags":["module_theory"],"updated":"2025-10-09T20:03:14-07:00"}
 ---
 
 As with groups and rings, for modules we have the standard four isomorphism theorems, the first of which gets by far the most use:
