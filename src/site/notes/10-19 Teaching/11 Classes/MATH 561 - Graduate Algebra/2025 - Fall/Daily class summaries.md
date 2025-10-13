@@ -6,6 +6,8 @@ Below you can find the complete list of daily class summaries, beginning with th
 
 | Class Date                                                                               | Topics Covered                                                                                              |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-13\|2025-10-13]] | <ul><li>Tensor products</li><li>Bimodules</li></ul>                                                         |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-10\|2025-10-10]] | <ul><li>Extending scalars</li><li>Tensor products</li></ul>                                                 |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-09\|2025-10-09]] | <ul><li>Free modules</li></ul>                                                                              |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-07\|2025-10-07]] | <ul><li>Adjoints</li></ul>                                                                                  |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-06\|2025-10-06]] | <ul><li>Adjoints</li></ul>                                                                                  |
