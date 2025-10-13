@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties III - Yoneda's Lemma</a></div></div><div class="callout-content">
-<p dir="auto">Every man is like the company he is wont to keep.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"> Eilenberg and Mac Lane in <em>Categories for the Working Mathematician</em> (p. 28) | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
+<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                    | Last Updated                |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 5\|Homework 5]]                                                | 6:44 AM - October 13, 2025  |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/The Isomorphism Theorems for Modules\|The Isomorphism Theorems for Modules]] | 10:13 AM - October 10, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules\|Bimodules]]                                                                      | 8:16 PM - October 09, 2025  |
+| Note                                                                                                                                                        | Last Updated               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules\|Bimodules]]                                                                          | 6:57 AM - October 13, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodule morphisms\|Bimodule morphisms]]                                                        | 6:55 AM - October 13, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products I - Extending scalars\|Tensor Products I - Extending scalars]] | 6:48 AM - October 13, 2025 |
 
 { .block-language-dataview}
 
@@ -120,8 +120,8 @@
 > [!summary]- Module theory
 >  | Note                                                                                                                                                                                                                                                  | Last Updated                |
 > | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodule morphisms\|Bimodule morphisms]]                                                                                                                                                  | 12:53 PM - March 31, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules\|Bimodules]]                                                                                                                                                                    | 8:16 PM - October 09, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodule morphisms\|Bimodule morphisms]]                                                                                                                                                  | 6:55 AM - October 13, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules\|Bimodules]]                                                                                                                                                                    | 6:57 AM - October 13, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products of modules\|Direct products of modules]]                                                                                                                   | 1:51 PM - October 08, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct products vs. direct sums vs. sums\|Direct products vs. direct sums vs. sums]]                                                                                       | 2:29 PM - October 08, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Direct sums of modules\|Direct sums of modules]]                                                                                                                           | 2:11 PM - October 08, 2025  |
@@ -146,7 +146,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation\|Rational Canonical Form III - Computation]]                                                                                           | 1:02 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Submodules\|Submodules]]                                                                                                                                             | 10:36 AM - October 08, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules\|Sums of submodules]]                                                                                                                                   | 2:14 PM - October 08, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products I - Extending scalars\|Tensor Products I - Extending scalars]]                                                                                           | 8:16 PM - October 09, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products I - Extending scalars\|Tensor Products I - Extending scalars]]                                                                                           | 6:48 AM - October 13, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|Tensor Products II - Tensor products of bimodules]]                                                                   | 1:04 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product\|Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product]] | 1:04 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|Tensor Products IV - The Adjoint Property]]                                                                                   | 1:05 PM - March 31, 2025    |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2025-10-09T20:16:32-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2025-10-13T06:48:58-07:00"}
 ---
 
 ## Extension of scalars
@@ -121,7 +121,7 @@ For example, for every abelian group $A$ we have a (unique) isomorphism ${\bf Z}
 
 Suppose $k\subseteq K$ are fields. We can view $K$ as a $k$-vector space (by remembering the $k$-scaling but forgetting the result of the internal multiplication in $K$), and then we can attempt to "extend scalars" to recover this lost information, by forming the $K$-vector space $K\otimes_k K$.
 
-If this looks weird, it's because we're hiding a forgetful functor, namely the forgetful functor $U:\textbf{Vec}_K\to \textbf{Vec}_k$. With this is mind, we're really comparing $K\otimes_k U(K)$ with $K$. This will, in general, not recover the original field $K$; instead, we will see (once we learn that tensor product commutes with direct sum) that $K\otimes_k U(EK)\simeq K^n$, where $n$ is the dimension of $K$ as a $k$-vector space.
+If this looks weird, it's because we're hiding a forgetful functor, namely the forgetful functor $U:\textbf{Vec}_K\to \textbf{Vec}_k$. With this is mind, we're really comparing $K\otimes_k U(K)$ with $K$. This will, in general, not recover the original field $K$; instead, we will see (once we learn that tensor product commutes with direct sum) that $K\otimes_k U(K)\simeq K^n$, where $n$ is the dimension of $K$ as a $k$-vector space.
 
 ### Extending ${\bf Z}$-actions to ${\bf Q}$-actions for finite abelian groups
 
@@ -134,7 +134,7 @@ By linearity it follows that every element of ${\bf Q}\otimes_{\bf Z} A$ is 0, a
 We will see shortly that the tensor product construction commutes with coproducts, a consequence of which will be that the tensor product of a direct sum is (isomorphic to) the direct sum of the tensor products. In the case of free modules, this yields a nice result.
 
 > [!summary] Tensor product of free modules
->Suppose $R$ is a subring of $S$ and $M$ is a free $R$-module of rank $n$, i.e., $M\simeq R^n\simeq R\oplus R\oplus \cdots \oplus R$. Then $S\otimes_R M \simeq S^n$.
+>Suppose $R$ is a subring of $S$ and $M$ is a free $R$-module of rank $n$, i.e., $M\simeq R\oplus R\oplus \cdots \oplus R\simeq R^n$. Then $S\otimes_R M \simeq S^n$.
 
 For example, we have ${\bf Q}\otimes_{\bf Z}{\bf Z}^n\simeq {\bf Q}^n$ and ${\bf C}\otimes_{\bf R}{\bf R}^n\simeq {\bf C}^n$. As another class of special case, if $k\subseteq K$ is a field extension and $V$ is an $k$-vector space of dimension $n$, then $V\simeq k^n$ as $k$-vector spaces and $K\otimes_k V\simeq K^n$ as $K$-vector spaces.
 
