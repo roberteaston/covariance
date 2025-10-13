@@ -47,7 +47,7 @@ h(m)\cdot s&= h_m\cdot s\\
 \end{align*}$$
 We've finally verified that our map $h:M\to\operatorname{Hom}_T(N,P)$ really is an $(R,S)$-bimodule morphism. This association $f\mapsto h$ is our set map
 $$\tau_P:\operatorname{Hom}_{(R,T)}(M\otimes_S N,P)\to\operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P)).$$
-We have not yet shown that $\tau_P$ is natural (in $P$), nor that it is bijective. We'll leave verifying naturality as [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/The universal property of tensor products\|an exercise]], but we will verify $\tau_P$ is a bijection by constructing the inverse map.
+We have not yet shown that $\tau_P$ is natural (in $P$), nor that it is bijective. We'll leave verifying naturality as [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/A universal property of tensor products\|an exercise]], but we will verify $\tau_P$ is a bijection by constructing the inverse map.
 
 To that end, suppose $h:M\to\operatorname{Hom}_T(N,P)$ is an $(R,S)$-bimodule morphism. As above, for each $m\in M$ let's write $h_m$ for $h(m)$, to cut down on parentheses. Define a set map $g:M\times N\to P$ by $g(m,n)=h_m(n).$ This set map is linear in $M$ because $h$ is additive:
 $$g(m_1+m_2,-)=h(m_1+m_2)=h(m_1)+h(m_2)=g(m_1,-)+g(m_2,-).$$
