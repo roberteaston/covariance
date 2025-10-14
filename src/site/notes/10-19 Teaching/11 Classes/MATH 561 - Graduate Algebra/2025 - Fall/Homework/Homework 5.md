@@ -11,9 +11,12 @@
 
 
 
-Show that ${\bf C}\otimes_{\bf R}{\bf C}$ and ${\bf C}\otimes_{\bf C}{\bf C}$ are both left ${\bf R}$-modules but are not isomorphic as ${\bf R}$-modules.
+Show that ${\bf C}\otimes_{\bf R}{\bf C}$ and ${\bf C}\otimes_{\bf C}{\bf C}$ are not isomorphic as ${\bf R}$-modules.
 
-*Note:* Our notation is intentionally a bit sloppy here, since this is how you'll often see statements like this written. In the first tensor product, the copy of ${\bf C}$ on the right is the ${\bf R}$-module of complex numbers (i.e., the additive group of complex numbers along with scaling by real numbers), while in the second tensor product it is the ${\bf C}$-module of complex numbers (i.e., the ring of complex numbers).
+*Note:* Our notation is intentionally a bit sloppy here, since this is how you'll often see statements like this written. For clarity, we note that:
+- In the first tensor product, the copy of ${\bf C}$ on the right is the ${\bf R}$-module (i.e., $({\bf R},{\bf Z})$-bimodule) of complex numbers (i.e., the additive group of complex numbers along with scaling by real numbers), while the ${\bf C}$ on the left is $({\bf C},{\bf R})$-bimodule of complex numbers. The resulting tensor product is therefore a $({\bf C},{\bf Z})$-bimodule, which by "restriction of scalars" we can also view as an $({\bf R},{\bf Z})$-bimodule, i.e., an ${\bf R}$-module.
+- In the second tensor product, the copy of ${\bf C}$ on the right is the ${\bf C}$-module (i.e., $({\bf C},{\bf Z})$-bimodule) of complex numbers (i.e., the ring of complex numbers), while the ${\bf C}$ on the left is the ring of complex numbers with the standard $({\bf C},{\bf C})$-bimodule structure. The resulting tensor product is therefore a $({\bf C},{\bf Z})$-bimodule, which by "restriction of scalars" we can also view as an $({\bf R},{\bf Z})$-bimodule, i.e., an ${\bf R}$-module.
+Your argument will prove that the two constructions are also not isomorphic as ${\bf C}$-modules.
 
 >[!summary]- Hints
 >You often hear the complex numbers described as "two-dimensional as a real vector space." For us, this means that the ${\bf R}$-module ${\bf C}$ is isomorphic to the free ${\bf R}$-module on a two-element set, the latter of which is isomorphic as an ${\bf R}$-module to ${\bf R}\oplus {\bf R}\simeq {\bf R}^2$.

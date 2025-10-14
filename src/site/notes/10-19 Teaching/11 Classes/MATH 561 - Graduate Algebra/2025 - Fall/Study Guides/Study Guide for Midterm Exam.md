@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/study-guides/study-guide-for-midterm-exam/","updated":"2025-06-18T14:49:19-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/study-guides/study-guide-for-midterm-exam/","updated":"2025-10-14T10:36:22-07:00"}
 ---
 
 The midterm exam problems will be very similar to some of the problems listed below. The exam will consist of approximately five such problems.
