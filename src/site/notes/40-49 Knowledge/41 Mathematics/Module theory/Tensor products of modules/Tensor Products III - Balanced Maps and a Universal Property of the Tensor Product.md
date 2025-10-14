@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2025-03-31T13:04:47-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2025-10-13T13:08:54-07:00"}
 ---
 
 ## Balanced maps
@@ -16,7 +16,7 @@ Now suppose $R$, $S$, and $T$ are rings (with unity), $M$ is an $(R,S)$-bimodule
 In this situation, for any $(R,T)$-module $P$ we say a morphism of $(R,T)$-sets $f:M\times N\to P$ is:
 - **linear in $M$** if for for every $n\in N$ the map $M\to P$ defined by $m\mapsto f(m,n)$ is a left $R$-module morphism;
 - **linear in $N$** if for every $m\in M$ the map $N\to P$ defined by $n\mapsto f(m,n)$ is a right $T$-module morphism;
-- bilinear if it is both linear in $M$ and in $N$; and
+- **bilinear** if it is both linear in $M$ and in $N$; and
 - **$S$-balanced** (or **middle balanced**) if for every $s\in S$ we have $f(ms,n)=f(m,sn),$ for all $m\in M$ and $n\in N$.
 
 With this new terminology in place, for any triple of bimodules $M$, $N$, $P$ as above, we can talk about the set of bilinear $S$-balanced $(R,T)$-maps $f:M\times N\to P$. These are the maps that satisfy the following conditions:
@@ -69,7 +69,7 @@ Our [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Te
 ### Identity
 
 >[!summary] Proposition
->Suppose $M$ is an $(R,S)$-bimodule. If we consider the ring $R$ with its usual $(R,R)$-bimodule structure, then there is a isomorphism of $(R,S)$-modules
+>Suppose $M$ is an $(R,S)$-bimodule. If we consider the ring $R$ with its standard $(R,R)$-bimodule structure, then there is a isomorphism of $(R,S)$-modules
 >
 >$$R\otimes_R M\xrightarrow{\sim} M,$$
 >
@@ -87,7 +87,7 @@ Our [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Te
 ### Symmetry
 
 >[!summary] Proposition
->Suppose $M$ and $N$ are $R$-modules and we give them the standard $(R,R)$-bimodule structure. Then there is an $R$-module isomorphism
+>Suppose $M$ and $N$ are $R$-modules and we give them the standard $(R,R)$-bimodule structures. Then there is an $R$-module isomorphism
 >
 >$$M\otimes_R N\xrightarrow{\sim} N\otimes_R M,$$
 >
@@ -99,7 +99,7 @@ The following fact can be occasionally useful:
 
 >[!summary] Proposition
 >Suppose $D$ is an integral domain with field of fractions $Q$. The tensor product $Q\otimes_D M$ is closely related to the torsion in the module $M$, in the following ways:
->1. f $j:M\to Q\otimes_D M$ is the morphism given by $m\mapsto 1_Q\otimes m$, then $\ker(j)=\operatorname{Tor}(M).$
+>1. If $\eta_M:M\to Q\otimes_D M$ is the morphism given by $m\mapsto 1_Q\otimes m$ (i.e., $\eta_M$ is a component of the unit of the adjunction), then $\ker(\eta_M)=\operatorname{Tor}(M).$
 >2. For any $D$-module $M$, the tensor product $Q\otimes_D M$ is zero if and only if $M$ is torsion.
 >3. For any $D$-module $M$, we have an isomorphism of $D$-modules $Q\otimes_D M\simeq Q\otimes_D (M/\operatorname{Tor}(M))$.
 
