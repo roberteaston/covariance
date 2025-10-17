@@ -135,15 +135,15 @@ Show that for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\ope
 
 
 Suppose $R, S$, and $T$ are rings (with unity), $M$ is an $(R,S)$-bimodule and $N$ is an $(S,T)$-bimodule.
-1. Define functors $F,G:(R,T){\bf -Mod}\to {\bf Set}$ such that on objects
+1. Define functors $F,G:(R,T)\text{-{\bf Bimod}}\to {\bf Set}$ such that on objects
    $\begin{align*}
-   F(P)&=\operatorname{Hom}_{(R,T)}(M\otimes_S N,P)\\
-   G(P)&=\operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P)).
+   F(P)&=\operatorname{Hom}_{(R,T)\text{-{\bf Bimod}}}(M\otimes_S N,P)\\
+   G(P)&=\operatorname{Hom}_{(R,S)\text{-{\bf Bimod}}}(M,\operatorname{Hom}_{\text{{\bf Mod}-}T}(N,P)).
    \end{align*}$
    In other words, what are the maps on arrows?
 2. For every $(R,T)$-bimodule $P$ there is a set bijection
-   $\tau_P:\operatorname{Hom}_{(R,T)}(M\otimes_S N,P)\xrightarrow{\sim} \operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P)).$
-   See [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|these notes]] for the explicit description of the set map $\tau_P$, as well as the verification that $\tau_P$ is a bijection. In short, for each $(R,T)$-bimodule morphism $f:M\otimes_S N\to P$, $\tau_P(f)$ is the $(R,S)$-bimodule morphism $\tau_P(f):M\to \operatorname{Hom}_T(N,P)$ that assigns to each $m\in M$ the right $T$-module morphism $n\mapsto f(m\otimes n)$.
+   $\tau_P:\operatorname{Hom}_{(R,T)\text{-{\bf Bimod}}}(M\otimes_S N,P)\xrightarrow{\sim} \operatorname{Hom}_{(R,S)\text{-{\bf Bimod}}}(M,\operatorname{Hom}_{\text{{\bf Mod}-}T}(N,P)).$
+   See [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|these notes]] for the explicit description of the set map $\tau_P$, as well as the verification that $\tau_P$ is a bijection. In short, for each $(R,T)$-bimodule morphism $f:M\otimes_S N\to P$, $\tau_P(f)$ is the $(R,S)$-bimodule morphism $\tau_P(f):M\to \operatorname{Hom}_{\text{{\bf Mod}-}T}(N,P)$ that assigns to each $m\in M$ the right $T$-module morphism $n\mapsto f(m\otimes n)$.
    
    Show that these bijections $\tau_p$ define a natural transformation $\tau:F\Rightarrow G$. Since every $\tau_P$ is a bijection, we call $\tau$ a **natural isomorphism** between the functors $F$ and $G$.
 

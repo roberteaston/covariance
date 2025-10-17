@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-the-adjoint-property/","tags":["module_theory"],"updated":"2025-03-31T13:05:05-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-the-adjoint-property/","tags":["module_theory"],"updated":"2025-10-17T06:53:03-07:00"}
 ---
 
 You might be wondering if there is a way to avoid inventing these new objects (the $(R,T)$-sets) together with the extremely specific notion of balanced bilinear maps between such objects. The answer is yes, through the following result:
 
 >[!summary] Alternate (better?) universal property of the tensor product
 >Suppose $M$ is an $(R,S)$-bimodule and $N$ is an $(S, T)$-bimodule. Then there is a natural bijection for every $(R,T)$-bimodule $P$
->$$\tau_P:\operatorname{Hom}_{(R,T)}(M\otimes_S N,P)\xrightarrow{\sim} \operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P)).$$
+>$$\tau_P:\operatorname{Hom}_{(R,T)\text{-{\bf Bimod}}}(M\otimes_S N,P)\xrightarrow{\sim} \operatorname{Hom}_{(R,S)\text{-{\bf Bimod}}}(M,\operatorname{Hom}_{\text{{\bf Mod}-}T}(N,P)).$$
 { #4dc916}
 
 
@@ -60,7 +60,7 @@ $$g(rm,n)=h_{rm}(n)=(r\cdot h_m)(n)=r\cdot h_m(n)=r\cdot g(m,n).$$
 And it is compatible with the right $T$-actions:
 $$g(m,nt)=h_m(nt)=h_m(n)\cdot t=g(m,n)\cdot t.$$
 It now follows from the original universal property of the tensor product that the corresponding map $f:M\otimes_S N\to P$ defined on simple tensors by $f(m\otimes n)=g(m,n)$ is an $(R,T)$-bimodule morphism. This association $h\mapsto f$ is our set map
-$$\eta_P:\operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P))\to\operatorname{Hom}_{(R,T)}(M\otimes_S N,P).$$
+$$\eta_P:\operatorname{Hom}_{(R,S)\text{-{\bf Bimod}}}(M,\operatorname{Hom}_{\text{{\bf Mod}-}T}(N,P))\to\operatorname{Hom}_{(R,T)\text{-{\bf Bimod}}}(M\otimes_S N,P).$$
 From our explicit constructions one can verify that the set maps $\tau_P$ and $\eta_P$ are mutual inverses, and hence both are bijections.
 
 ## An immediate consequence

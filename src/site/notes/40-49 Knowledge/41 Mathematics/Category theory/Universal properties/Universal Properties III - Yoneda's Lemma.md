@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-iii-yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2025-08-06T15:08:34-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-iii-yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2025-10-17T06:56:46-07:00"}
 ---
 
 > [!quote] Euripides
@@ -60,23 +60,23 @@ In other words, there is a natural isomorphism $\tau:\operatorname{Hom}_{\textbf
 
 ### Free $R$-modules
 
-Let $R$ be a ring and $U:R\textbf{-Mod}\to \textbf{Set}$ be the usual forgetful functor. The [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|free module]] construction takes each set $A$ and produces an $R$-module $F(A)$. The function which sends each $a\in A$ to the same element $a\in F(A)$ regarded as a formal $R$-linear sum of elements of $A$ is an arrow $j:A\to U(F(A))$. For any other $R$-module $M$, each function $f:A\to U(M)$ can be extended uniquely to a module morphism $h:F(A)\to M$ with $f=U(h)\circ j$.
+Let $R$ be a ring and $U:R\text{-{\bf Mod}}\to \textbf{Set}$ be the usual forgetful functor. The [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|free module]] construction takes each set $A$ and produces an $R$-module $F(A)$. The function which sends each $a\in A$ to the same element $a\in F(A)$ regarded as a formal $R$-linear sum of elements of $A$ is an arrow $j:A\to U(F(A))$. For any other $R$-module $M$, each function $f:A\to U(M)$ can be extended uniquely to a module morphism $h:F(A)\to M$ with $f=U(h)\circ j$.
 
-In the current context, let $G:R\textbf{-Mod}\to\textbf{Set}$ be the functor that assigns to each $R$-module $M$ the collection of set maps $f:A\to U(M)$; i.e., $G(M)=\operatorname{Hom}_{\textbf{Set}}(A,U(M))$. Then there is a natural bijection
+In the current context, let $G:R\text{-{\bf Mod}}\to\textbf{Set}$ be the functor that assigns to each $R$-module $M$ the collection of set maps $f:A\to U(M)$; i.e., $G(M)=\operatorname{Hom}_{\textbf{Set}}(A,U(M))$. Then there is a natural bijection
 
-$$\tau_N:\operatorname{Hom}_R(F(A),M)\xrightarrow{\sim} G(M).$$
+$$\tau_N:\operatorname{Hom}_{R\text{-{\bf Mod}}}(F(A),M)\xrightarrow{\sim} G(M).$$
 
-In other words, there is a natural isomorphism $\tau:\operatorname{Hom}_R(F(A),-)\xRightarrow{\sim} G$.
+In other words, there is a natural isomorphism $\tau:\operatorname{Hom}_{R\text{-{\bf Mod}}}(F(A),-)\xRightarrow{\sim} G$.
 
 ### The tensor product construction
 
 Suppose $R$ is a commutative ring and $M$ and $N$ are left $R$-modules. By taking the standard $R$-module structure (i.e., $(R,R)$-bimodule structure) on $M$ and the canonical $(R,{\bf Z})$-bimodule structure on $N$, we can form the tensor product $M\otimes_R N$. The result is an $(R,{\bf Z})$-bimodule, i.e., a left $R$-module. There is a natural bijection between $R$-module morphisms $M\otimes_S N\to P$ and certain set maps:
 
-$$\tau_P:\operatorname{Hom}_{R\textbf{-Mod}}(M\otimes_R N,P)\xrightarrow{\sim} F(P),$$
+$$\tau_P:\operatorname{Hom}_{R\text{-{\bf Mod}}}(M\otimes_R N,P)\xrightarrow{\sim} F(P),$$
 
 where $F(P)$ is the collection of bilinear, $R$-balanced $(R,\textbf{Z})$-set maps $g:M\times N\to P$.
 
-In other words, there is a natural isomorphism $\tau:\operatorname{Hom}_{(R,T)}(M\otimes_S N,-)\xRightarrow{\sim} F$.
+In other words, there is a natural isomorphism $\tau:\operatorname{Hom}_{R\text{-{\bf Mod}}}(M\otimes_S N,-)\xRightarrow{\sim} F$.
 
 ## From objects to (hom) functors
 ---

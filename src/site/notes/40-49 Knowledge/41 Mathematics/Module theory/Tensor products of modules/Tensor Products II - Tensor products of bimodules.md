@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-ii-tensor-products-of-bimodules/","tags":["module_theory"],"updated":"2025-03-31T13:04:13-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-ii-tensor-products-of-bimodules/","tags":["module_theory"],"updated":"2025-10-14T14:19:10-07:00"}
 ---
 
 ## Motivation

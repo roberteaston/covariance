@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2025-10-13T13:08:54-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2025-10-17T06:51:43-07:00"}
 ---
 
 ## Balanced maps
@@ -7,7 +7,7 @@
 
 Before we state a second universal property of our tensor product construction, we first need to talk about a new class of map between bimodules.
 
-We begin with a slight generalization of the notion of a bimodule, to simply a set $X$ endowed with a left $R$-action and right $S$-action for some rings $R$ and $S$, in a compatible way. In other words, we have set maps $R\times X\to X$ and $X\times S\to X$ such that $r\cdot (x\cdot s) = (r\cdot x)\cdot s$. Note that there are no "distributive" rules since the set $X$ is not assumed to have any binary operations. Also note that any $(R,S)$-bimodule $M$ can also be regarded as an $(R,S)$-set by simply forgetting the addtive operation in $M$.
+We begin with a slight generalization of the notion of a bimodule, to simply a set $X$ endowed with a left $R$-action and right $S$-action for some rings $R$ and $S$, in a compatible way. In other words, we have set maps $R\times X\to X$ and $X\times S\to X$ such that $r\cdot (x\cdot s) = (r\cdot x)\cdot s$. Note that there are no "distributive" rules since the set $X$ is not assumed to have any binary operations. Also note that any $(R,S)$-bimodule $M$ can also be regarded as an $(R,S)$-set by simply forgetting the additive operation in $M$.
 
 A **morphism of $(R,S)$**-sets $X$ and $Y$ is simply a set map $f:X\to Y$ that is compatible with the left $R$- and right $S$-actions. In other words, $f(rx)=rf(x)$ and $f(xs)=f(x)s$ for every $x\in X$, $r\in R$ and $s\in S$.
 
@@ -58,7 +58,7 @@ Let's try the inverse direction. Suppose $g:M\times N\to P$ is an $S$-balanced b
 
 ### Categorical interpretation
 
-For each $(R,T)$-bimodule $P$, let $F(P)$ denote the set of bilinear, $S$-balanced $(R,T)$-set maps $g:U_1(M)\times U_2(N)\to U_3(P)$, where the $U_i$ are the appropriate forgetful functors to $\textbf{Set}$. One can check that $F$ is the object function of a functor $F:(R,T)\textbf{-Bimod}\to \textbf{Set}$. The universal property above can then be viewed as a natural isomorphism $\operatorname{Hom}_{(R,T)}(M\otimes_S N,-)\simeq F$. In view of [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]], this characterizes the bimodule $M\otimes_S N$ uniquely up to unique isomorphism.
+For each $(R,T)$-bimodule $P$, let $F(P)$ denote the set of bilinear, $S$-balanced $(R,T)$-set maps $g:U_1(M)\times U_2(N)\to U_3(P)$, where the $U_i$ are the appropriate forgetful functors to $\textbf{Set}$. One can check that $F$ is the object function of a functor $F:(R,T)\text{-{\bf Bimod}}\to \textbf{Set}$. The universal property above can then be viewed as a natural isomorphism $\operatorname{Hom}_{(R,T)\text{-{\bf Bimod}}}(M\otimes_S N,-)\simeq F$. In view of [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]], this characterizes the bimodule $M\otimes_S N$ uniquely up to unique isomorphism.
 
 ## Additional properties of the tensor product
 ---
