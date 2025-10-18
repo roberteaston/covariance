@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-iii-yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2025-10-17T06:56:46-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-iii-yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2025-10-17T10:14:20-07:00"}
 ---
 
 > [!quote] Euripides

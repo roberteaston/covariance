@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
-<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                                                                                                  | Last Updated               |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]                                                                                       | 6:56 AM - October 17, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|Tensor Products IV - The Adjoint Property]]                                                                                   | 6:53 AM - October 17, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product\|Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product]] | 6:51 AM - October 17, 2025 |
+| Note                                                                                         | Last Updated               |
+| -------------------------------------------------------------------------------------------- | -------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-16 1\|2025-10-16 1]] | 3:21 PM - October 18, 2025 |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-16\|2025-10-16]]     | 3:21 PM - October 18, 2025 |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-14\|2025-10-14]]     | 3:18 PM - October 18, 2025 |
 
 { .block-language-dataview}
 
@@ -68,7 +68,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal arrows and elements\|Universal arrows and elements]]                                                                       | 12:48 PM - March 31, 2025   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                                           | 7:56 PM - October 07, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]] | 3:08 PM - August 06, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]                                               | 6:56 AM - October 17, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]                                               | 10:14 AM - October 17, 2025 |
 > 
 { .block-language-dataview}
 
