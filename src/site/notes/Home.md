@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone (probably) | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
+<p dir="auto">A natural transformation is a morphism between functors.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                                          | Last Updated               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-23\|2025-10-23]]                                                                                                      | 7:42 AM - October 24, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 7\|Homework 7]]                                                                                      | 7:32 AM - October 24, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Finite abelian groups are neither injective nor projective\|Finite abelian groups are neither injective nor projective]] | 7:31 AM - October 24, 2025 |
+| Note                                                                                                                                                                     | Last Updated               |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]] | 8:00 AM - October 24, 2025 |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-23\|2025-10-23]]                                                                                 | 7:42 AM - October 24, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 7\|Homework 7]]                                                                 | 7:32 AM - October 24, 2025 |
 
 { .block-language-dataview}
 
@@ -128,7 +128,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences I - Illustrative Examples\|Exact Sequences I - Illustrative Examples]]                                                                                              | 6:46 AM - October 24, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]                                                                                                        | 2:38 PM - October 23, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]]                                                                            | 7:26 AM - October 24, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]                                                                              | 6:44 AM - October 24, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]                                                                              | 8:00 AM - October 24, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]]                                                                                                                       | 2:25 PM - October 09, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]                                                                                                                                               | 2:17 PM - October 09, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Generators for modules and submodules\|Generators for modules and submodules]]                                                                                             | 2:31 PM - October 09, 2025  |
