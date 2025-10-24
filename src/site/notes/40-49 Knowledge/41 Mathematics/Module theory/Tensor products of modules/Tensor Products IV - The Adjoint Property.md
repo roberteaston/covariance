@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-the-adjoint-property/","tags":["module_theory"],"updated":"2025-10-17T06:53:03-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iv-the-adjoint-property/","tags":["module_theory"],"updated":"2025-10-24T08:45:38-07:00"}
 ---
 
 You might be wondering if there is a way to avoid inventing these new objects (the $(R,T)$-sets) together with the extremely specific notion of balanced bilinear maps between such objects. The answer is yes, through the following result:
@@ -69,12 +69,12 @@ From our explicit constructions one can verify that the set maps $\tau_P$ and $\
  Now that we know the tensor product functor $M\otimes_S -$ is a [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product#^4dc916\|left adjoint]], we also know it [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints#^6063ae\|commutes with all colimits]], such as direct sums.
 
 >[!summary] The tensor product commutes with direct sums
->Suppose $M$ is an $(R,S)$-bimodule and $\{N_i\mid i\in I\}$ is a family of $(S,T)$-bimodules. Then there is a unique isomorphism of $(R,T)$-bimodules
-$$M\otimes_S \left(\bigoplus_{i\in I} N_i\right)\simeq \bigoplus_{i\in I} \left(M\otimes_S N_i\right)$$
+>Suppose $M$ is an $(R,S)$-bimodule and $\{N_x\}_{x\in X}$ is a family of $(S,T)$-bimodules. Then there is a unique isomorphism of $(R,T)$-bimodules
+$$M\otimes_S \left(\bigoplus_{x\in X} N_x\right)\simeq \bigoplus_{x\in X} \left(M\otimes_S N_i\right)$$
 { #690b7a}
 
 
-The analogous result is true with the positions of the tensor product and direct sum exchanged, i.e., right-tensoring distributes across direct sums. Because of this, we say that **tensor product commutes with direct sums**. As finite direct products are isomorphic to the corresponding direct sums, this also implies that **tensor product commutes with finite direct products**.
+The analogous result is true with the positions of the tensor product and direct sum exchanged, i.e., right-tensoring distributes across direct sums. Because of this, we say that **tensor product commutes with direct sums**. (As finite direct products are isomorphic to the corresponding direct sums, this also implies that tensor product commutes with finite direct products.)
 
 ### Extending scalars on free modules
 
@@ -111,5 +111,5 @@ The statement about bases follows from our explicit isomorphism (involving tenso
 ## Suggested next notes
 ---
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]
-[[The tensor product functor and flat modules\|The tensor product functor and flat modules]]
+[[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras\|Tensor algebras]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas\|Diagram lemmas]]

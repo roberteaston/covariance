@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2025-10-24T08:00:34-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2025-10-24T08:43:46-07:00"}
 ---
 
 We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
@@ -19,7 +19,7 @@ Let's start with a warm-up property of this functor.
 As with any functor, we are naturally curious about how the functor interacts with the other constructions in our category. For example, we have the following result:
 
 > [!summary] The hom-out functor commutes with direct products
-> Suppose $\{N_x\mid x\in X\}$ is a family of $R$-modules. There is a natural isomorphism of abelian groups
+> Suppose $\{N_x\}_{x\in X}$ is a family of $R$-modules. There is a natural isomorphism of abelian groups
 > 
 > $$\tau_M:\operatorname{Hom}_{R\text{-{\bf Mod}}}\left(M,\prod_{x\in X}N_x\right)\xrightarrow{\sim} \prod_{x\in X}\operatorname{Hom}_{R\text{-{\bf Mod}}}(M,N_x),$$
 > 
@@ -99,7 +99,7 @@ One immediate consequence of the above fact is that the direct sum of two projec
 Another immediate consequence is that free modules are always projective. And since every module is a quotient of a free module^[Let $X$ be a generating set for $M$. Then we have a corresponding surjection $\pi:F(X)\to M$. By the First Isomorphism Theorem we then have $M\simeq F(X)/\ker(\pi)$.], we can now say that every module is a quotient of a projective module.
 
 Note that we now have several "easy" examples of projective modules.
-- Suppose $R=F$ is a field. Then $R$-modules are $F$-vector spaces, all of which are free. In light of the above facts, this means every vector space is projective.
+- Suppose $R=k$ is a field. Then $R$-modules are $k$-vector spaces, all of which are free. In light of the above facts, this means every vector space is projective.
 - The abelian group ${\bf Z}$ is the free ${\bf Z}$-module on a singleton set, hence it is projective.
 
 Here's another nice fact:
@@ -117,7 +117,7 @@ It can help to also have some examples of modules that are not projective. We le
 ## The hom-in functor and injective modules
 ---
 
-For every object $r$ in a category $C$, we can consider the "hom-in" functor that is dual to the [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|hom-out functor]], that is the functor $\operatorname{Hom}_C(-,r)$. In general this is a functor from $C^{\text{op}}$ to ${\bf Set}$, although just as with the hom-out functor in the case of $R$-modules we can consider it a functor with values in the category of abelian groups.
+For every object $d$ in a category $C$, we can consider the "hom-in" functor that is dual to the [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|hom-out functor]], that is the functor $\operatorname{Hom}_C(-,d)$. In general this is a functor from $C^{\text{op}}$ to ${\bf Set}$, although just as with the hom-out functor in the case of $R$-modules we can consider it a functor with values in the category of abelian groups.
 
 We now analyze the properties of this functor, in parallel with those of the hom-out functor.
 
@@ -126,7 +126,7 @@ We now analyze the properties of this functor, in parallel with those of the hom
  How does the hom-in functor interact with direct products? At first glance, it seems somewhat differently than the hom-out functor:
 
 > [!summary] The hom-out functor exchanges direct sums for direct products
-> Suppose $\{M_x\mid x\in X\}$ is a family of $R$-modules. There is a natural isomorphism of abelian groups
+> Suppose $\{M_x\}_{x\in X}$ is a family of $R$-modules. There is a natural isomorphism of abelian groups
 >
 > $$\operatorname{Hom}_{R\text{-{\bf Mod}}}\left(\bigoplus_{x\in X}M_x,N\right)\xrightarrow{\sim} \prod_{x\in X}\operatorname{Hom}_{R\text{-{\bf Mod}}}(M_x,N),$$
 > 
@@ -207,7 +207,7 @@ In the special case of modules over a principal ideal domain, there is an altern
 { #fd1cd5}
 
 
-In particular, an abelian group is injective if and only if it's divisible. Also, when $R$ is a PID we can use the above fact to prove that any quotient of an injective $R$-module is injective.
+In particular, an abelian group is injective if and only if it's *divisible*. Also, when $R$ is a PID we can use the above fact to prove that any quotient of an injective $R$-module is injective.
 
 Here are some additional examples of injective modules:
 - Every vector space is injective.
@@ -239,8 +239,8 @@ We have [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of module
 
 
 >[!summary] The tensor product commutes with direct sums
->Suppose $M$ is an $(R,S)$-bimodule and $\{N_i\mid i\in I\}$ is a family of $(S,T)$-bimodules. Then there is a unique isomorphism of $(R,T)$-bimodules
-$M\otimes_S \left(\bigoplus_{i\in I} N_i\right)\simeq \bigoplus_{i\in I} \left(M\otimes_S N_i\right)$
+>Suppose $M$ is an $(R,S)$-bimodule and $\{N_x\}_{x\in X}$ is a family of $(S,T)$-bimodules. Then there is a unique isomorphism of $(R,T)$-bimodules
+$M\otimes_S \left(\bigoplus_{x\in X} N_x\right)\simeq \bigoplus_{x\in X} \left(M\otimes_S N_i\right)$
 
 </div></div>
 
