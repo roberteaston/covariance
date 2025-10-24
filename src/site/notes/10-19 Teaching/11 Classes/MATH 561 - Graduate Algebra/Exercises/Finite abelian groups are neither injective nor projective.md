@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/finite-abelian-groups-are-neither-injective-nor-projective/","updated":"2024-10-30T14:17:11-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/finite-abelian-groups-are-neither-injective-nor-projective/","updated":"2025-10-24T07:31:39-07:00"}
 ---
 
 Let $A$ be a nonzero finite abelian group. Prove that:
@@ -11,7 +11,7 @@ Let $A$ be a nonzero finite abelian group. Prove that:
 > - If you would prefer a direct approach, consider the following strategy:
 > 	- Note that a direct summand of a projective/injective module is also projective/injective
 > 	- By the Fundamental Theorem of Finite Abelian Groups, $A$ has a direct summand of the form $\textbf{Z}_{p^k}$ for some prime $p$ and positive integer $k$
-> 	- By considering the short exact sequence below, you can show $\textbf{Z}_{p^k}$ is neither injective nor surjective:
+> 	- By considering a certain short exact sequence of the form below, you can show $\textbf{Z}_{p^k}$ is neither injective nor surjective:
 > 	  
 > 	  $$0\to p^k\textbf{Z}_{p^{2k}}\to \textbf{Z}_{p^{2k}}\to \textbf{Z}_{p^k}\to 0$$
 

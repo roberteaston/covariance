@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iii-morphisms-of-exact-sequences/","tags":["module_theory"],"updated":"2025-10-23T14:44:18-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iii-morphisms-of-exact-sequences/","tags":["module_theory"],"updated":"2025-10-24T07:26:26-07:00"}
 ---
 
 ## Motivation
