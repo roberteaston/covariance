@@ -6,6 +6,7 @@ Below you can find the complete list of daily class summaries, beginning with th
 
 | Class Date                                                                               | Topics Covered                                                                                              |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-23\|2025-10-23]] | <ul><li>Chain complexes</li><li>Exact sequences</li></ul>                                                   |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-17\|2025-10-17]] | <ul><li>Yoneda's lemma</li></ul>                                                                            |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-16\|2025-10-16]] | <ul><li>Tensor products</li></ul>                                                                           |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-14\|2025-10-14]] | <ul><li>Bimodules</li><li>Tensor products</li></ul>                                                         |
