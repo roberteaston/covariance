@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2025-10-27T06:44:47-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2025-10-28T06:56:23-07:00"}
 ---
 
 We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
@@ -227,7 +227,7 @@ We leave it to the motivated reader to prove the following:
 Suppose $M$ is an $(R,S)$-bimodule. For any ring $T$ and $(S,T)$-bimodule we can form the $(R,T)$-bimodule $M\otimes_S N$. Similarly, for any $(T,R)$-bimodule we can form the $(T,S)$-bimodule $N\otimes_R M$. In other words, for every ring $T$ we can consider the two possible functors corresponding to tensoring with $M$, namely the left tensor product functor $M\otimes_S -$ and the right tensor product functor $-\otimes_R M$. Both functors will have similar properties, so we'll focus on the former.
 
 > [!note] Unfortunate notation
-> It's a bit unfortunate that the notation $M\otimes_S -$ is ambiguous, as it doesn't specify the domain category for the functor. We really should write $M\otimes_S -:(S,T)\textbf{-Bimod}\to (R,T)\textbf{-Bimod}$, or update the tensor notation to give some reference to the ring $T$.
+> It's a bit unfortunate that the notation $M\otimes_S -$ is ambiguous, as it doesn't specify the domain category for the functor. We really should write $M\otimes_S -:(S,T)\text{-{\bf Bimod}}\to (R,T)\text{-{\bf Bimod}}$, or update the tensor notation to give some reference to the ring $T$.
 
 ### The (left) tensor product functor and direct sums
 
@@ -293,7 +293,7 @@ In particular, free modules are flat.
 #### Examples of flat modules
 
 1. The abelian group ${\bf Z}$ is projective and hence also flat.
-2. The abelian group ${\bf Q}$ is flat.
+2. The abelian group ${\bf Q}$ is flat (and injective, but not projective).
 3. Any direct sum of flat modules is flat; e.g., the abelian group ${\bf Z}\oplus {\bf Q}$ is flat (but neither injective nor projective).
 
 #### Examples of non-flat modules

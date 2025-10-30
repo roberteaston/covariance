@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/tensor-algebras/","tags":["algebra_theory"],"updated":"2025-03-31T07:23:55-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/tensor-algebras/","tags":["algebra_theory"],"updated":"2025-10-30T06:54:20-07:00"}
 ---
 
 ## Motivation
@@ -17,9 +17,9 @@ Yes. Let's see how.
 With the above motivation in mind, we are looking for a functor from the category of $R$-modules to the category of $R$-algebras that is "free" in the same sense as the free $R$-module construction on a set $S$; i.e., that is left adjoint to the corresponding forgetful functor.
 
 > [!summary] A universal property of the tensor algebra
-> Let $U:R\textbf{-Alg}\to R\textbf{-Mod}$ be the forgetful functor from the category of $R$-algebras to the category of $R$-modules. Then there is functor $\mathcal{T}:R\textbf{-Mod}\to R\textbf{-Alg}$ together with a natural bijection
+> Let $U:R\text{-{\bf Alg}}\to R\text{-{\bf Mod}}$ be the forgetful functor from the category of $R$-algebras to the category of $R$-modules. Then there is functor $\mathcal{T}:R\text{-{\bf Mod}}\to R\text{-{\bf Alg}}$ together with a natural bijection
 > 
-> $$\tau_{M,A}:\operatorname{Hom}_{R\textbf{-Alg}}(\mathcal{T}(M),A)\xrightarrow{\sim} \operatorname{Hom}_{R\textbf{-Mod}}(M,U(A)).$$
+> $$\tau_{M,A}:\operatorname{Hom}_{R\text{-{\bf Alg}}}(\mathcal{T}(M),A)\xrightarrow{\sim} \operatorname{Hom}_{R\text{-{\bf Mod}}}(M,U(A)).$$
 > 
 > In other words, the functor $\mathcal{T}$ is a left adjoint of the forgetful functor $U$.
 
@@ -34,7 +34,7 @@ Even without having seen the construction yet, such a property gives us a way to
 
 Since $M\otimes_R M$ captures the idea of multiplying two elements in $M$, the construction/definition below probably comes as no surprise.
 
-> [!note] Definition of tensor algebra
+> [!note] Construction of tensor algebra
 > Suppose $R$ is a commutative ring (with unity) and $M$ is an $R$-module. Set $\mathcal{T}^0(M)=R$ and for each positive integer $k$ define the **$k^{\text{th}}$ tensor power of $M$** to be the $R$-module
 > 
 > $$\mathcal{T}^k(M)=\underbrace{M\otimes_R M\otimes_R \cdots \otimes_R M}_{k\text{ times}}.$$
@@ -73,15 +73,15 @@ At some point we should verify that this construction satisfies the claimed univ
    $$\begin{align*} \left(2\oplus\left[\frac{1}{3}\right]\right)\otimes \left(3\oplus\left[\frac{4}{5}\right]\right)&=(2\cdot 3)\oplus \left(2\cdot\left[\frac{4}{5}\right]+3\cdot\left[\frac{1}{3}\right]\right)\oplus\left(\left[\frac{1}{3}\right]\otimes \left[\frac{4}{5}\right]\right)\\ &=6\oplus \left[\frac{13}{5}\right]\oplus 0\\&= 6\oplus\left[\frac{3}{5}\right].\end{align*}$$
 2. Let $R={\bf Z}$ and $M={\bf Z}_n$. One can verify that ${\bf Z}_n\otimes_{\bf Z} {\bf Z}_n\simeq {\bf Z}_n$, and so the tensor algebra is
    
-   $$\mathcal{T}({\bf Z}_n)\simeq {\bf Z}\oplus {\bf Z}_n\oplus {\bf Z}_n\oplus \cdots\simeq {\bf Z}[x]/(nx).$$
+   $$\mathcal{T}({\bf Z}_n)\simeq {\bf Z}\oplus {\bf Z}_n\oplus {\bf Z}_n\oplus \cdots\simeq {\bf Z}[x]/\langle nx\rangle.$$
    
    For that final isomorphism, the correspondence is that each finite formal sum $c_0\oplus [c_1]\oplus [c_2]\oplus \cdots$ maps to the coset represented by the polynomial $c_0+c_1x+c_2x^2+\cdots$.
 
-3. Suppose $R=F$ is a field and $V$ is a finite-dimensional $F$-vector space. Let $\mathcal{B}=\{v_1,\ldots, v_n\}$ be a basis for $V$ as an $F$-vector space. Then a basis for the $F$-vector space $\mathcal{T}^k(V)$ is
+1. Suppose $R=k$ is a field and $V$ is a finite-dimensional $k$-vector space. Let $\mathcal{B}=\{v_1,\ldots, v_n\}$ be a basis for $V$ as an $k$-vector space. Then a basis for the $k$-vector space $\mathcal{T}^m(V)$ is
    
-   $$\{v_{i_1}\otimes v_{i_2}\otimes \cdots \otimes v_{i_k}\mid v_{i_j}\in \mathcal{B}\}.$$
+   $$\{v_{i_1}\otimes v_{i_2}\otimes \cdots \otimes v_{i_m}\mid v_{i_j}\in \mathcal{B}\}.$$
    
-   (When $k=0$, the basis is simply $\{1\}$.) In particular, $\mathcal{T}^k(V)$ is an $F$-vector space of dimension $n^k$.
+   (When $m=0$, the basis is simply $\{1\}$.) In particular, $\mathcal{T}^m(V)$ is an $k$-vector space of dimension $n^m$.
 { #e91163}
 
 
