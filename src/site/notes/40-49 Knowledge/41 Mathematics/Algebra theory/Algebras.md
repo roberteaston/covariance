@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/algebras/","tags":["algebra_theory"],"updated":"2025-10-30T06:46:53-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/algebras/","tags":["algebra_theory"],"updated":"2025-10-30T14:03:08-07:00"}
 ---
 
 We've seen how the notion of a ring acting on an abelian group leads to the structure of a [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|module]]. Can a ring act on another ring? Or, to phrase the question a bit differently, if a ring $R$ acts on a module $M$, is it possible for $M$ to have a second operation that's both compatible with the given $R$-action and makes $M$ into a ring? These two questions lead to the following two equivalent definitions of a structure known as an *algebra*.
@@ -15,6 +15,10 @@ We've seen how the notion of a ring acting on an abelian group leads to the stru
 > for all $r\in R$ and $a_1, a_2\in A$.
 { #32e02b}
 
+
+We can think of the above condition as the formalization of the idea that "$R$ can act before or after multiplication." In other words, given elements $r\in R$ and $a_1, a_2\in A$, we can either multiply the elements in the algebra together first and then act by $r$, or act by $r$ *on one of the elements* and then multiply the result by the other element.
+
+In particular, notice that it looks symbolically like the element $r$ "commutes with" the elements of the algebra. This is not technically true, since the elements of the ring $R$ are not elements of the algebra $A$, but it justifies the condition in the ring-focused definition, below.
 
 >[!note] Definition of an algebra (via rings)
 >Let $R$ be a commutative ring. An **$R$-algebra** is a ring $A$ together with a ring morphism $f:R\to A$ whose image is contained in the center of $A$.

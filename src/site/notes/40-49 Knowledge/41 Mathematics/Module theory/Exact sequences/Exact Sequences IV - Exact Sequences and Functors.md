@@ -1,11 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2025-10-28T06:56:23-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2025-10-30T13:59:43-07:00"}
 ---
 
 We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
 - "hom-out" functors of the form $\operatorname{Hom}_{R\text{-{\bf Mod}}}(M,-)$
 - "hom-in" functors of the form $\operatorname{Hom}_{R\text{-{\bf Mod}}}(-,N)$
-- tensor product functors of the form $M\otimes_R -$
+- tensor product functors of the form $M\otimes_S -$
 
 ## The hom-out functor and projective modules
 ---
@@ -114,6 +114,9 @@ It can help to also have some examples of modules that are not projective. We le
 - The abelian group ${\bf Q}$ is not projective.
 - The quotient group ${\bf Q}/{\bf Z}$ is not projective.
 
+> [!info] Secret knowledge
+> The hom-out functor is a right adjoint (to a tensor product functor), and by a general property of adjoint functors it follows that it commutes with all limits (that exist in the domain category). For example, it automatically commutes with products. This also means the hom-out functor commutes with all finite limits, which happens to be equivalent to the functor being left exact.
+
 ## The hom-in functor and injective modules
 ---
 
@@ -221,6 +224,11 @@ We leave it to the motivated reader to prove the following:
 - The abelian group ${\bf Z}$ is not injective.
 - Any nonzero finitely generated abelian group is not injective.
 
+### Secret knowledge
+
+> [!info] Secret knowledge
+> The hom-in functor is also a right adjoint (to a tensor product functor), so by the same reasoning as with the hom-out functor it commutes with all limits and is automatically left exact.
+
 ## The tensor product functor and flat modules
 ---
 
@@ -300,6 +308,11 @@ In particular, free modules are flat.
 
 1. The abelian group ${\bf Z}_2$ is not flat.
 2. The quotient group ${\bf Q}/{\bf Z}$ is not flat (although it is injective).
+
+### Secret knowledge
+
+> [!info] Secret knowledge
+> The tensor product functor is a left adjoint (to a hom functor), and by a general property of adjoint functors it follows that it commutes with all colimits (that exist in the domain category). For example, it automatically commutes with coproducts (i.e., direct sums). This also means the tensor product functor commutes with all finite co limits, which happens to be equivalent to the functor being right exact.
 
 ## Suggested next notes
 ---
