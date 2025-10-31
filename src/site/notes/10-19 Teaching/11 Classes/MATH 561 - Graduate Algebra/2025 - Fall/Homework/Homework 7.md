@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-7/","updated":"2025-10-24T07:32:54-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-7/","updated":"2025-10-31T10:19:42-07:00"}
 ---
 
 ## Problem 1
@@ -115,6 +115,9 @@ Suppose $R$ is a commutative ring. Prove that:
 
 ## Problem 5
 ---
+
+> [!warning] Moved to next assignment!
+> Since we haven't covered symmetric algebras yet, this problem is being moved to the next homework assignment.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

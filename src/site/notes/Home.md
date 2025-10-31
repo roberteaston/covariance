@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties III - Yoneda's Lemma</a></div></div><div class="callout-content">
-<p dir="auto">Every man is like the company he is wont to keep.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                     | Last Updated               |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------- |
-| [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                                                                  | 2:03 PM - October 30, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]] | 1:59 PM - October 30, 2025 |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-30\|2025-10-30]]                                                                                 | 1:53 PM - October 30, 2025 |
+| Note                                                                                                                                                                     | Last Updated                |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 7\|Homework 7]]                                                                 | 10:19 AM - October 31, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                                                                  | 2:03 PM - October 30, 2025  |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]] | 1:59 PM - October 30, 2025  |
 
 { .block-language-dataview}
 
