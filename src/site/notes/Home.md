@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"> Eilenberg and Mac Lane in <em>Categories for the Working Mathematician</em> (p. 28) | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                     | Last Updated                |
-| -------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 8\|Homework 8]] | 2:50 PM - November 01, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 7\|Homework 7]] | 10:19 AM - October 31, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                  | 2:03 PM - October 30, 2025  |
+| Note                                                                                                                                          | Last Updated                |
+| --------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 8\|Homework 8]]                                      | 3:07 PM - November 01, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Rank and quotients\|Rank and quotients]]                                 | 3:06 PM - November 01, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Alternate characterization of rank\|Alternate characterization of rank]] | 3:06 PM - November 01, 2025 |
 
 { .block-language-dataview}
 
