@@ -127,7 +127,7 @@ Suppose $R$ is a commutative ring. Prove that:
 
 Suppose $R$ is a commutative ring. Prove that for each cyclic $R$-module $M$ we have $\mathcal{T}(M)\simeq\mathcal{S}(M)$; i.e., the tensor algebra is already commutative.
 
->[!info]- Hint
->Show the ideal $\mathcal{C}(M)$ is trivial.
+> [!info]- Hint
+> Show the ideal $\mathcal{C}(M)$ is trivial.
 
 </div></div>
