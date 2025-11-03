@@ -6,6 +6,7 @@ Below you can find the complete list of daily class summaries, beginning with th
 
 | Class Date                                                                               | Topics Covered                                                                                              |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-03\|2025-11-03]] | <ul><li>Tensor algebras</li><li>Symmetric algebras</li><li>Exterior algebras</li></ul>                      |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-31\|2025-10-31]] | <ul><li>Tensor algebras</li></ul>                                                                           |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-30\|2025-10-30]] | <ul><li>Algebras</li></ul>                                                                                  |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-10/2025-10-28\|2025-10-28]] | <ul><li>Exact sequences</li><li>Projective modules</li></ul>                                                |
