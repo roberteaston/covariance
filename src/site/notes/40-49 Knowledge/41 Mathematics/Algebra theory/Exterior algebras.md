@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2025-11-03T20:46:25-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2025-11-04T08:54:31-08:00"}
 ---
 
 ## Motivation
@@ -68,29 +68,29 @@ The first and last wedges are zero by construction. The claim thus follows.
 ## A universal property of the exterior algebra
 ---
 
-Like the tensor and symmetric algebras, the exterior algebra construction is indeed the object function of a functor left adjoint to a certain forgetful functor. Unlike the previous two constructions, however, the correct category to which we are forgetting is not so obvious. So instead let's first note the following.
+Like the tensor and symmetric algebras, the exterior algebra construction is indeed (the object function of) a functor left adjoint to a certain forgetful functor. Unlike the previous two constructions, however, the correct category from which we are forgetting is not so obvious. So instead let's first note the following.
 
-For each $R$-module $M$, define a functor $F_M:R\text{-{\bf Alg}}\to {\bf Set}$ as follows. On objects, define $F_M(A)$ to be the set of $R$-module morphisms $f:M\to U(A)$ that satisfy $f(m)^2 = 0$ in $A$ for every $m\in M$, where $U:R\text{-{\bf Alg}}\to R\text{-{\bf Mod}}$ is the forgetful functor. (I'll leave it to you to figure out the arrow function for this functor.)
+For each $R$-module $M$, define a functor $F_M:R\text{-{\bf Alg}}\to {\bf Set}$ as follows:
+- The object function: Let $U:R\text{-{\bf Alg}}\to R\text{-{\bf Mod}}$ denote the forgetful functor. For each $R$-algebra $A$, let $F_M(A)$ be the set of $R$-module morphisms $f:M\to U(A)$ that satisfy $f(m)^2 = 0$ in $A$ for every $m\in M$.
+- The arrow function: For each $R$-algebra morphism $\phi:A\to A'$, define $F_M(\phi):F_M(A)\to F_M(A')$ by "composition with $U(\phi)$". In other words, for each $R$-module morphism $f:M\to U(A)$ that satisfies $f(m)^2=0$ for all $m\in M$, let $F_M(\phi) = U(\phi)\circ f:M\to U(A')$.
 
-It turns out that the $R$-algebra $\bigwedge (M)$ represents the functor $F_M$, in the sense that there is a natural isomorphism of functors
+It turns out that the $R$-algebra $\bigwedge (M)$ represents the functor $F_M$, in the sense that there is a natural isomorphism
 
 $$\tau: \operatorname{Hom}_{R\text{-{\bf Alg}}}(\bigwedge(M),-)\overset{\sim}{\Rightarrow}  F_M.$$
 
-In other words, there are bijections
+In other words, there are natural bijections
 
-$$\tau_A:\operatorname{Hom}_{R\text{-{\bf Alg}}}(\bigwedge(M),A)\overset{\sim}{\to}  F_M(A),$$
+$$\tau_A:\operatorname{Hom}_{R\text{-{\bf Alg}}}(\bigwedge(M),A)\overset{\sim}{\to}  F_M(A).$$
 
-natural in $A\in R\text{-{\bf Alg}}$. More concretely, for every $R$-algebra $A$ and $R$-module morphism $f:M\to U(A)$ with $f(m)^2=0$ for all $m\in M$, there exists a unique $R$-algebra morphism $h:\bigwedge (M)\to A$ through which $f$ "factors", i.e., such that $f$ equals the composition of the inclusion of $M$ into $\bigwedge (M)$ (as the degree 1 component) followed by $h$ (really $U(h)$).
+More concretely, for every $R$-algebra $A$ and $R$-module morphism $f:M\to U(A)$ such that $f(m)^2=0$ for all $m\in M$, there exists a unique $R$-algebra morphism $h:\bigwedge (M)\to A$ through which $f$ "factors", i.e., such that $f$ equals the composition of the inclusion of $M$ into $\bigwedge (M)$ (as the degree 1 component) followed by $h$ (really $U(h)$).
 
-The informal (and technically incorrect) statement you usually see written is "Maps from $M$ to algebras $A$ with $a^2=0$ extend uniquely to maps from $\bigwedge (M)$."
+You usually see this property expressed informally as "Maps from $M$ to algebras $A$ with $a^2=0$ extend uniquely to maps from $\bigwedge (M)$."
 
 It's also true that this construction is functorial, in that we can define an "exterior algebra functor"
 
 $$\bigwedge :R\text{-{\bf Mod}}\to R\text{-{\bf Alg}}.$$
 
-However, this functor is not adjoint to any functor (that I know of).
-
-What is true is that you can define a new type of algebra, sometimes called a **super-commutative $R$-algebra**^[I've also seen them called graded-commutative superalgebras and other word-salad combinations.], and that our construction is really a functor from the category of $R$-modules to the category of super-commutative $R$-algebras, left adjoint to the evident forgetful functor from super-commutative $R$-algebras back to $R$-modules. But that's a bit too much for our current interests, so let's move on for now.
+However, this functor is not adjoint to any functor (that I know of). What is true is that you can define a new type of algebra, sometimes called a **super-commutative $R$-algebra**^[I've also seen them called graded-commutative superalgebras and other word-salad combinations.], and that our construction is really a functor from the category of $R$-modules to the category of super-commutative $R$-algebras, left adjoint to the evident forgetful functor from super-commutative $R$-algebras back to $R$-modules. But that's a bit too much for our current interests, so let's move on to some examples.
 
 
 ## Examples

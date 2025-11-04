@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-and-alternating-tensors/","tags":["algebra_theory"],"updated":"2025-11-03T15:36:50-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-and-alternating-tensors/","tags":["algebra_theory"],"updated":"2025-11-04T08:56:39-08:00"}
 ---
 
 ## An action of the symmetric group on $\mathcal{T}^k(M)$
@@ -26,11 +26,12 @@ For example, the elements $m\otimes m$ and $m_1\otimes m_2+m_2\otimes m_1$ are s
 
 The collection of symmetric $i$-tensors forms a submodule of $\mathcal{T}^i(M)$, as does the collection of alternating $i$-tensors. These submodules are denoted ... nothing. At least as far as I can tell, Dummit & Foote doesn't use any notation for them.
 
-One can prove that these submodules are stable under this action of $S_i$, hence there is an induced action on the quotient modules $\mathcal{S}^i(M)$ and $\bigwedge^i (M)$. Moreover, we have:
+One can prove there is also an induced action on the quotient modules $\mathcal{S}^i(M)$ and $\bigwedge^i (M)$. Moreover, we have:
 - $\sigma w = w$ for every $w\in \mathcal{S}^i(M)$
 - $\sigma w = \operatorname{sign}(\sigma)w$ for every $w\in \bigwedge^i(M)$
 
 These actions seem identical to that of $S_i$ on the submodules of $\mathcal{T}^i(M)$ consisting of the symmetric and alternating tensors, respectively. Let's investigate this a bit further.
+
 ## Symmetrization and skew-symmetrization
 ---
 
