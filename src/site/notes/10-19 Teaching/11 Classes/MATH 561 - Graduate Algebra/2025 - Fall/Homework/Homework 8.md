@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-8/","updated":"2025-11-01T15:07:54-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-8/","updated":"2025-11-04T13:47:50-08:00"}
 ---
 
 ## Problem 1
@@ -38,6 +38,9 @@ Suppose $R$ is a commutative ring and $M$ is a free $R$-module of rank $n$, i.e.
 
 ## Problem 3
 ---
+
+> [!warning] Problem removed!
+> For time reasons, we are skipping the notions of [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|symmetric and alternating tensors]]. As such, this problem is no longer relevant and should be skipped.
 
 
 <div class="transclusion internal-embed is-loaded"><div class="markdown-embed">

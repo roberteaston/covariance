@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-and-alternating-tensors/","tags":["algebra_theory"],"updated":"2025-11-04T08:56:39-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-and-alternating-tensors/","tags":["algebra_theory"],"updated":"2025-11-04T13:45:57-08:00"}
 ---
 
 ## An action of the symmetric group on $\mathcal{T}^k(M)$
