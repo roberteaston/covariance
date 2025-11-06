@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/direct-sums-and-injective-projective-flat/","updated":"2024-10-30T13:58:37-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/direct-sums-and-injective-projective-flat/","updated":"2025-11-06T08:37:39-08:00"}
 ---
 
 Let $R$ be a commutative ring (with unity) and let $M_1$ and $M_2$ be two $R$-modules. Prove that $M_1\oplus M_2$ is:
