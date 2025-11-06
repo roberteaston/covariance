@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2025-11-04T08:54:31-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2025-11-06T14:27:18-08:00"}
 ---
 
 ## Motivation
@@ -102,11 +102,9 @@ However, this functor is not adjoint to any functor (that I know of). What is tr
    
    is a basis for $\bigwedge^i (V)$. When $i>n$ the $R$-module $\bigwedge^i (V)$ is trivial.
    
-   This same statement is true more generally when $R$ is a commutative ring and $M$ is a free $R$-module of rank $n$.
-
-{ #51701e}
-
-1. Continuing the previous example, suppose $\phi:V\to V$ is any linear endomorphism of $V$. For every $i$ we then have a $k$-linear transformation
+   This same statement is true more generally when $R$ is a commutative ring and $M$ is a free $R$-module of rank $n$.^51701e
+   
+2. Continuing the previous example, suppose $\phi:V\to V$ is any linear endomorphism of $V$. For every $i$ we then have a $k$-linear transformation
    
    $$\bigwedge^i (\phi):\bigwedge^i(V)\to \bigwedge^i(V).$$
    
