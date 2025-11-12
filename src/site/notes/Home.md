@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf > page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
-<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"> Eilenberg and Mac Lane in <em>Categories for the Working Mathematician</em> (p. 28) | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
+<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                          | Last Updated                |
-| ------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-07\|2025-11-07]]                      | 2:21 PM - November 07, 2025 |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-06\|2025-11-06]]                      | 2:19 PM - November 07, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Rank and quotients\|Rank and quotients]] | 2:28 PM - November 06, 2025 |
+| Note                                                                                                       | Last Updated                 |
+| ---------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 10\|Homework 10]] | 1:05 PM - November 12, 2025  |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-10\|2025-11-10]]                   | 1:01 PM - November 12, 2025  |
+| [[50-59 Logs/51 Class summaries/2024 - Fall/MATH 561/2024-11/2024-11-15\|2024-11-15]]                   | 12:57 PM - November 12, 2025 |
 
 { .block-language-dataview}
 
@@ -128,7 +128,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences I - Illustrative Examples\|Exact Sequences I - Illustrative Examples]]                                                                                              | 6:46 AM - October 24, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]                                                                                                        | 2:38 PM - October 23, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]]                                                                            | 7:26 AM - October 24, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]                                                                              | 1:59 PM - October 30, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors\|Exact Sequences IV - Exact Sequences and Functors]]                                                                              | 6:39 AM - November 10, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]]                                                                                                                       | 2:25 PM - October 09, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]                                                                                                                                               | 2:17 PM - October 09, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Generators for modules and submodules\|Generators for modules and submodules]]                                                                                             | 2:31 PM - October 09, 2025  |

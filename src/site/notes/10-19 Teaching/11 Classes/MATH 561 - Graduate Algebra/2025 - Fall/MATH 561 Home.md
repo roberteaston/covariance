@@ -14,10 +14,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                                      |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-10\|2025-11-10]] | <ul><li>Free modules over a PID</li><li>The Fundamental Theorem for Modules over a PID</li></ul>    |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-07\|2025-11-07]] | <ul><li>Noetherian modules</li><li>Rank</li><li>Free rank</li><li>Free modules over a PID</li></ul> |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-06\|2025-11-06]] | <ul><li>Noetherian modules</li><li>Rank</li><li>Free rank</li><li>Free modules over a PID</li></ul> |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-04\|2025-11-04]] | <ul><li>Tensor algebras</li><li>Symmetric algebras</li><li>Exterior algebras</li></ul>              |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-03\|2025-11-03]] | <ul><li>Tensor algebras</li><li>Symmetric algebras</li><li>Exterior algebras</li></ul>              |
 
 { .block-language-dataview}
 
@@ -26,14 +26,15 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 Although the weekly assignments should be submitted digitally in Canvas, the assignments themselves are posted here. You can also see when the assignments were last updated, whether it were to correct mistakes, add hints, or post solutions.
 
-| Assignment                                                                                               | Due Date           | Last Updated                |
-| -------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 8\|Homework 8]] | November 09, 2025  | 1:47 PM - November 04, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 7\|Homework 7]] | November 02, 2025  | 8:37 AM - November 06, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 5\|Homework 5]] | October 19, 2025   | 9:29 AM - October 22, 2025  |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 4\|Homework 4]] | October 12, 2025   | 11:17 AM - October 13, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 3\|Homework 3]] | October 05, 2025   | 11:01 AM - October 09, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 2\|Homework 2]] | September 28, 2025 | 3:02 PM - October 04, 2025  |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 1\|Homework 1]] | September 21, 2025 | 3:02 PM - October 04, 2025  |
+| Assignment                                                                                                 | Due Date           | Last Updated                |
+| ---------------------------------------------------------------------------------------------------------- | ------------------ | --------------------------- |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 10\|Homework 10]] | November 23, 2025  | 1:05 PM - November 12, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 8\|Homework 8]]   | November 09, 2025  | 1:47 PM - November 04, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 7\|Homework 7]]   | November 02, 2025  | 8:37 AM - November 06, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 5\|Homework 5]]   | October 19, 2025   | 9:29 AM - October 22, 2025  |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 4\|Homework 4]]   | October 12, 2025   | 11:17 AM - October 13, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 3\|Homework 3]]   | October 05, 2025   | 11:01 AM - October 09, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 2\|Homework 2]]   | September 28, 2025 | 3:02 PM - October 04, 2025  |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 1\|Homework 1]]   | September 21, 2025 | 3:02 PM - October 04, 2025  |
 
 { .block-language-dataview}
