@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone (probably) | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">A natural transformation is a morphism between functors.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf > page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">Before functoriality, people lived in caves.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                       | Last Updated                |
-| ---------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 8\|Homework 8]]   | 1:17 PM - November 12, 2025 |
-| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 10\|Homework 10]] | 1:05 PM - November 12, 2025 |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-10\|2025-11-10]]                   | 1:01 PM - November 12, 2025 |
+| Note                                                                                                                                                        | Last Updated                |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-13\|2025-11-13]]                                                                    | 8:22 AM - November 14, 2025 |
+| [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation\|Rational Canonical Form III - Computation]] | 8:20 AM - November 14, 2025 |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Homework/Homework 8\|Homework 8]]                                                    | 1:42 PM - November 12, 2025 |
 
 { .block-language-dataview}
 
@@ -143,7 +143,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Quotient modules\|Quotient modules]]                                                                                                                                       | 10:47 AM - October 08, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form I - Definition\|Rational Canonical Form I - Definition]]                                                                                                 | 1:02 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form II - Additional Properties\|Rational Canonical Form II - Additional Properties]]                                                                         | 1:02 PM - March 31, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation\|Rational Canonical Form III - Computation]]                                                                                           | 1:02 PM - March 31, 2025    |
+> | [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation\|Rational Canonical Form III - Computation]]                                                                                           | 8:20 AM - November 14, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Submodules\|Submodules]]                                                                                                                                             | 10:36 AM - October 08, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Sums of submodules\|Sums of submodules]]                                                                                                                                   | 2:14 PM - October 08, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products I - Extending scalars\|Tensor Products I - Extending scalars]]                                                                                           | 6:48 AM - October 13, 2025  |
