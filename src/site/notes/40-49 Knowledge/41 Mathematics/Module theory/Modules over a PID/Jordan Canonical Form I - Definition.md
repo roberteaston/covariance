@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-i-definition/","tags":["module_theory"],"updated":"2025-03-31T12:59:50-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-i-definition/","tags":["module_theory"],"updated":"2025-11-14T10:59:45-08:00"}
 ---
 
 ## The Jordan Canonical Form
@@ -27,7 +27,7 @@ $$1,\overline{x}-\lambda, \ldots , (\overline{x}-\lambda)^{k-2},(\overline{x}-\l
 
 The matrix relating these elements to the standard $F$-basis $1,\overline{x},\ldots, \overline{x}^{k-2},\overline{x}^{k-1}$ is upper triangular with ones on the diagonal. In particular, that matrix has determinant $1$ and so is invertible, so it follows that the above list gives an $F$-basis for $F[x]/(x-\lambda)^k$. Noting that $x=\lambda+(x-\lambda)$ and $(\overline{x}-\lambda)^k=0$ in $F[x]/\langle (x-\lambda)^k\rangle$, observe that multiplication by $x$ acts as follows:
 
-$$\begin{align*} 1&\mapsto \overline{x} = \lambda\cdot 1+1\cdot (\overline{x}-\lambda)\\ \overline{x}-\lambda&\mapsto \overline{x}^2-\lambda\overline{x}=\lambda\cdot (\overline{x}-\lambda)+1\cdot (\overline{x}- \lambda)^2\\ &\vdots\\ (\overline{x}-\lambda)^{k-2}&\mapsto \lambda\cdot (\overline{x}-\lambda)^{k-2}+1\cdot (\overline{x}-\lambda)^{k-1}\\ (\overline{x}-\lambda)^{k-1}&\mapsto \lambda\cdot (\overline{x}-\lambda)^{k-1}. \end{align*}$$
+$$\begin{align*} 1&\mapsto \overline{x} = \lambda\cdot 1+1\cdot (\overline{x}-\lambda)\\ \overline{x}-\lambda&\mapsto \overline{x}^2-\lambda\overline{x}=\lambda\cdot (\overline{x}-\lambda)+1\cdot (\overline{x}- \lambda)^2\\ &\vdots\\ (\overline{x}-\lambda)^{k-2}&\mapsto \lambda\cdot (\overline{x}-\lambda)^{k-2}+1\cdot (\overline{x}-\lambda)^{k-1}\\ (\overline{x}-\lambda)^{k-1}&\mapsto \lambda\cdot (\overline{x}-\lambda)^{k-1}+1\cdot (\overline{x}-\lambda)^k = \lambda\cdot (\overline{x}-\lambda)^{k-1}. \end{align*}$$
 
 In other words, with respect to the new basis $\mathcal{B}=\{(\overline{x}-\lambda)^{k-1},\ldots, \overline{x}-\lambda, 1\}$, the matrix for multiplication by $x$ is
 

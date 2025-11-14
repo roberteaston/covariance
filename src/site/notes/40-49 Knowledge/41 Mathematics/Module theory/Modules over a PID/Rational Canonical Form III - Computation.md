@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-iii-computation/","tags":["module_theory"],"updated":"2025-11-14T08:57:42-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-iii-computation/","tags":["module_theory"],"updated":"2025-11-14T10:58:06-08:00"}
 ---
 
 We have a wonderful result about [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form I - Definition#The rational canonical form\|rational canonical forms]], but how do we actually *compute* the rational canonical form of a given square matrix? Fortunately, there is a very straightforward algorithm. Given an $n\times n$ matrix, $A$, both its invariant factors and the change-of-basis matrix needed to put $A$ into rational canonical form can be obtained from the computation of something called the *Smith normal form* for $A$.
@@ -27,16 +27,16 @@ We first quote (without proof^[To see a proof, check out Exercises 16-19 in Sect
 
 As a bonus, in computing the Smith normal form for $A$ it turns out that we can also deduce the change-of-basis matrix that will conjugate $A$ into rational canonical form. Although this will initially seem a bit strange, if we keep track of the *row* operations used to obtain the Smith normal form for $A$, then we can also write down a change-of-basis matrix, $P$, such that $P^{-1}AP$ is the rational canonical form for $A$. See pages Dummit & Foote for the full details, but here is a short summary:
 
-Begin with the identity matrix $I_n=P'$, and then for each *row* operation used to diagonalize the matrix $xI_n-A$, change the matrix $P'$ by the following rules:
+Begin with the identity matrix $I_n=:P'$, and then for each *row* operation used to put the matrix $xI_n-A$ into Smith normal form, change the matrix $P'$ by the following rules:
 { #de5ec5}
 
-1. If rows $i$ and $j$ are swapped in the computation of the Smith normal form for $A$, then swap columns $i$ and $j$ in $P'$.
+1. If rows $i$ and $j$ are swapped in the computation of the Smith normal form for $A$, then swap *columns* $j$ and $i$ in $P'$.
 2. If $R_i+p(x)R_j\mapsto R_i$ in the computation of the Smith normal form for $A$, then perform $C_j-p(A)C_i\mapsto C_j$ in $P'$. (Notice that the indices have switched!)
 3. If we multiply row $i$ by a unit $u$ in the computation of the Smith normal form for $A$, then multiply column $i$ by $u^{-1}$ in the computation of $P'$.
 
-Once we have computed the Smith normal form for $A$, we will be left with a matrix $P'$ for which the first $n-m$ columns are zero and the last $m$ columns are nonzero. These last nonzero columns correspond to $F[x]$-module generators for the summands corresponding to each invariant factor. In particular, there will be exactly one nonzero column in $P'$ for each invariant factor.
+By the end of our computations, we will be left with a matrix $P'$ for which the first $n-m$ columns are zero and the last $m$ columns are nonzero. These last nonzero columns correspond to $F[x]$-module generators for the summands for each invariant factor. In particular, there will be exactly one nonzero column in $P'$ for each invariant factor.
 
-Let ${\bf v}_i$ be the $i^{\text{th}}$ nonzero column vector in $P'$, so that ${\bf v}_i$ is the vector in $V$ that corresponds to the $F[x]$-module generator $1$ in $F[x]/\langle a_i(x)\rangle$. Since a full $F$-vector space basis for $F[x]/\langle a_i(x)\rangle$ is $\{1,\overline{x},\ldots, \overline{x}^{\deg(a(x))-1}\}$, the corresponding $F$-vector space basis for that invariant subspace of $V$ is $\{{\bf v}_i, A{\bf v}_i, \ldots, A^{\deg(a_i(x))-1}{\bf v}_i\}$. Do this for each nonzero column of $P'$. Listing the vectors produced (in this order) gives a desired change-of-basis matrix $P$.
+Let ${\bf v}_i$ be the $i^{\text{th}}$ nonzero column vector in $P'$, so that ${\bf v}_i$ is the vector in $V$ that corresponds to the $F[x]$-module generator $\overline{1}$ for $F[x]/\langle a_i(x)\rangle$. Since a full $F$-vector space basis for $F[x]/\langle a_i(x)\rangle$ is $\{1,\overline{x},\ldots, \overline{x}^{\deg(a(x))-1}\}$, the corresponding $F$-vector space basis for that invariant subspace of $V$ is $\{{\bf v}_i, A{\bf v}_i, \ldots, A^{\deg(a_i(x))-1}{\bf v}_i\}$. Do this for each nonzero column of $P'$. Listing the vectors produced (in this order) gives a desired change-of-basis matrix $P$.
 
 >[!warning] Warning
 >This auxiliary matrix $P'$ is not quite unique. The nonzero columns of $P'$ correspond to $F[x]$-module generators of the invariant summands. Those summands are cyclic as $F[x]$-modules, but the generators for those summands are only unique up to scaling by units.
@@ -65,6 +65,23 @@ For quick reference, the operations used were (in order):
 - $R_2-7R_3\mapsto R_2$
 - $R_2\leftrightarrow R_3$
 - $C_2\leftrightarrow C_3$
+
+> [!question] What's the strategy?
+> A fair question that we've left open is *how* did we come up with that sequence of row and column operations? It turns out that the diagonal entries in the Smith normal form are each the $\gcd$ of certain elements. Specifically, the first (i.e., top-left-most) diagonal entry $a_1$ in the Smith normal form is the $\gcd$ of all of the entries in the matrix $xI_n-A$.
+> 
+> In our example, we have
+> 
+> $$xI_3-A=\begin{bmatrix}x-2 & 2 & -14 \\ 0 & x-3 & 7 \\ 0 & 0 & x-2\end{bmatrix}$$
+> 
+> and so it's clear by inspection that the $\gcd$ of the entries of $xI_3-A$ is $1$. That's the initial goal, then, namely to use row and column operations (over ${\bf Q}[x]$) until we can get a $1$ in that $(1,1)$-entry. We then immediately wipe out all other entries in both the first column and first row. In our example, that leaves us with the matrix
+> 
+> $$\begin{bmatrix} 1 & 0 & 0 \\ 0 & -(x-2)(x-3) & 7(x-2) \\ 0 & 0 & x-2\end{bmatrix}$$
+> 
+> Now focus on the $2\times 2$ matrix obtained by omitting the first row and column. The second diagonal entry $a_2$ in the Smith normal form is the $\gcd$ of the entries in that $2\times 2$ matrix. In our case, this is evidently $x-2$. So we repeat the previous strategy, using row and column operations until we get $x-2$ in the $(2,2)$-entry of our matrix. At that point, we arrive at the matrix
+> 
+> $$\begin{bmatrix}1 & 0 & 0 \\ 0 & x-2 & 0 \\ 0 & 0 & (x-2)(x-3)\end{bmatrix}$$
+> 
+> and we're done.
 
 By our general theory, it follows that the invariant factors of $A$ are $a_1(x)=x-2$ and $a_2(x)=x^2-5x+6$. We can now conclude that the minimal polynomial of $A$ is $m_A(x)=x^2-5x+6=(x-2)(x-3)$, the characteristic polynomial of $A$ is $c_A(x)=(x-2)(x^2-5x+6)=(x-2)^2(x-3)$, and the rational canonical form of $A$ is
 $$R=\begin{bmatrix} 2 & 0 & 0 \\ 0 & 0 & -6 \\ 0 & 1 & 5\end{bmatrix}$$
@@ -111,14 +128,14 @@ Consider the $4\times 4$ matrix
 $$A=\begin{bmatrix}1 & 2 & -4 & 4 \\ 2 & -1 & 4 & -8 \\ 1 & 0 & 1 & -2 \\ 0 & 1 & -2 & 3 \end{bmatrix}$$
 It is not difficult to show that the characteristic polynomial of $A$ is $c_A(x)=(x-1)^4$, which gives four possibilities for the minimal polynomial of $A$, namely $m_A(x)=x-1, (x-1)^2, (x-1)^3, (x-1)^4$. It is then not too terrible to verify that $m_A(x)=(x-1)^2$, simply by noting $A-I_4\neq 0$ and verifying $(A-I_4)^2=0$. However, that leaves two possibilities for the invariant factors of $A$:
 $$x-1,x-1,(x-1)^2\quad \text{or}\quad (x-1)^2, (x-1)^2.$$
-On the other hand, diagonalizing the matrix $xI_4-A$ we eventually obtain
+On the other hand, computing the Smith normal form of the matrix $xI_4-A$ we eventually obtain
 $$\begin{bmatrix}1 & 0 & 0 & 0 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & (x-1)^2 & 0 \\ 0 & 0 & 0 & (x-1)^2 \end{bmatrix}.$$
-Thus, the invariant factors of $A$ are $a_1(x)=(x-1)^2$ and $a_2(x)=(x-1)^2$. It now follows that the rational canonical form of $A$ is
+Thus, the invariant factors of $A$ are $a_1(x)=(x-1)^2=x^2-2x+1$ and $a_2(x)=(x-1)^2=x^2-2x+1$. It now follows that the rational canonical form of $A$ is
 $$R=\begin{bmatrix}0 & -1 & 0 & 0 \\ 1 & 2 & 0 & 0 \\ 0 & 0 & 0 & -1 \\ 0 & 0 & 1 & 2\end{bmatrix}.$$
-Moreover, using the actual row and column operations used to diagonalize $xI_4-A$ allows us to compute a change-of-basis matrix. One first finds an auxiliary matrix, $P'$, to be
+Moreover, using the row operations used to compute the Smith normal form allows us to compute a change-of-basis matrix. We first compute the auxiliary matrix, $P'$, finding it to be
 $$P'=\begin{bmatrix}0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 1 \\ 0 & 0 & 0 & 0\\ 0 & 0 & 0 & 0 \end{bmatrix}$$
 
-From this, we can now compute a change-of-basis matrix, $P$, ultimately finding one to be
+From this, we can now compute a change-of-basis matrix, $P$, ultimately finding it to be
 $$P=\begin{bmatrix}1 & 1 & 0 & 2 \\ 0 & 2 & 1 & -1 \\ 0 & 1 & 0 & 0 \\ 0 & 0 & 0 & 1\end{bmatrix}$$
 See pages 485-486 of Dummit & Foote for the list of row and column operations used, and how they produce the matrix, $P$, above.
 
