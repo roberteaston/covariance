@@ -14,10 +14,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                                      |
 | ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-14\|2025-11-14]] | <ul><li>Rational canonical form</li></ul>                                                           |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-13\|2025-11-13]] | <ul><li>The Fundamental Theorem for Modules over a PID</li><li>Rational canonical form</li></ul>    |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-10\|2025-11-10]] | <ul><li>Free modules over a PID</li><li>The Fundamental Theorem for Modules over a PID</li></ul>    |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-07\|2025-11-07]] | <ul><li>Noetherian modules</li><li>Rank</li><li>Free rank</li><li>Free modules over a PID</li></ul> |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-06\|2025-11-06]] | <ul><li>Noetherian modules</li><li>Rank</li><li>Free rank</li><li>Free modules over a PID</li></ul> |
 
 { .block-language-dataview}
 

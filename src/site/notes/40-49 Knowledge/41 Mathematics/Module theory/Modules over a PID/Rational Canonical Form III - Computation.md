@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-iii-computation/","tags":["module_theory"],"updated":"2025-11-14T08:20:44-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-iii-computation/","tags":["module_theory"],"updated":"2025-11-14T08:57:42-08:00"}
 ---
 
 We have a wonderful result about [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form I - Definition#The rational canonical form\|rational canonical forms]], but how do we actually *compute* the rational canonical form of a given square matrix? Fortunately, there is a very straightforward algorithm. Given an $n\times n$ matrix, $A$, both its invariant factors and the change-of-basis matrix needed to put $A$ into rational canonical form can be obtained from the computation of something called the *Smith normal form* for $A$.
@@ -14,7 +14,7 @@ Suppose $A$ is an $n\times n$ matrix over a field $F$. Consider the $n\times n$ 
 
 We call these the **elementary row/column operations**. We will use these operations to transform $xI_n-A$ into a very particular form, in some ways analogous to the classic reduced row-echelon form.
 
-We first quote (without proof^[To see a proof, check out Exercises 16-19 in Section 12.1 and Exercises 21-25 in Section 12.2 of Dummit & Foote.]) the following fact.
+We first quote (without proof^[To see a proof, check out Exercises 16-19 in Section 12.1 and Exercises 22-25 in Section 12.2 of Dummit & Foote.]) the following fact.
 
 > [!summary] The Smith Normal Form
 > Let $A$ be an $n\times n$ matrix over a field $F$. Using the three elementary row and column operations above, the $n\times n$ matrix $xI_n-A$ can be put into the following diagonal form, called the **Smith normal form for $A$**:
