@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-ii-computation/","tags":["module_theory"],"updated":"2025-03-31T13:00:14-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-ii-computation/","tags":["module_theory"],"updated":"2025-11-14T12:13:07-08:00"}
 ---
 
 We have an [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation#The Smith normal form\|algorithm]] for computing the rational canonical form of a matrix. How about computing the Jordan canonical form? Well, there's at least a straightforward way to convert the rational canonical form to the Jordan canonical form.

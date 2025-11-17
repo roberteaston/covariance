@@ -1,11 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/daily-class-summaries/","updated":"2025-09-08T14:23:52-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/daily-class-summaries/","updated":"2025-11-17T15:04:19-08:00"}
 ---
 
 Below you can find the complete list of daily class summaries, beginning with the most recent class.
 
 | Class Date                                                                               | Topics Covered                                                                                              |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-17\|2025-11-17]] | <ul><li>Rational canonical form</li></ul>                                                                   |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-14\|2025-11-14]] | <ul><li>Rational canonical form</li></ul>                                                                   |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-13\|2025-11-13]] | <ul><li>The Fundamental Theorem for Modules over a PID</li><li>Rational canonical form</li></ul>            |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-10\|2025-11-10]] | <ul><li>Free modules over a PID</li><li>The Fundamental Theorem for Modules over a PID</li></ul>            |

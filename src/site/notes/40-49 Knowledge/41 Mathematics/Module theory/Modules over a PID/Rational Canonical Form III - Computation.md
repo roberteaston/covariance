@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-iii-computation/","tags":["module_theory"],"updated":"2025-11-14T10:58:06-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-iii-computation/","tags":["module_theory"],"updated":"2025-11-17T06:46:39-08:00"}
 ---
 
 We have a wonderful result about [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form I - Definition#The rational canonical form\|rational canonical forms]], but how do we actually *compute* the rational canonical form of a given square matrix? Fortunately, there is a very straightforward algorithm. Given an $n\times n$ matrix, $A$, both its invariant factors and the change-of-basis matrix needed to put $A$ into rational canonical form can be obtained from the computation of something called the *Smith normal form* for $A$.
