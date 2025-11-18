@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-ii-computation/","tags":["module_theory"],"updated":"2025-11-14T12:13:07-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-ii-computation/","tags":["module_theory"],"updated":"2025-11-18T10:12:01-08:00"}
 ---
 
 We have an [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation#The Smith normal form\|algorithm]] for computing the rational canonical form of a matrix. How about computing the Jordan canonical form? Well, there's at least a straightforward way to convert the rational canonical form to the Jordan canonical form.
@@ -23,7 +23,7 @@ are $F[x]$-module generators for the summands corresponding to the quotients
 
 $$F[x]/\langle (x-\lambda_1)^{\alpha_1}\rangle ,\ldots, F[x]/\langle (x-\lambda_s)^{\alpha_s}\rangle$$
 
-To see why this is true, first note that for each $i$ the polynomials $(x-\lambda_i)^{\alpha_i}$ and $\frac{a(x)}{(x-\lambda_i)^{{\alpha}_i}}$ are relatively prime; the former is the annihilator of the summand $F[x]/\langle x-\lambda_i)^{\alpha_i}\rangle$, while the latter is the annihilator of the complement of that summand in the invariant summand $F[x]/\langle a(x)\rangle$. As such, multiplication by $\frac{a(x)}{(x-\lambda_i)^{{\alpha}_i}}$ provides a surjective morphism $F[x]/\langle a(x)\rangle \to F[x]/\langle (x-\lambda_i)^{\alpha_i}\rangle$.
+To see why this is true, first note that for each $i$ the polynomials $(x-\lambda_i)^{\alpha_i}$ and $\frac{a(x)}{(x-\lambda_i)^{{\alpha}_i}}$ are relatively prime; the former is the annihilator of the summand $F[x]/\langle (x-\lambda_i)^{\alpha_i}\rangle$, while the latter is the annihilator of the complement of that summand in the invariant summand $F[x]/\langle a(x)\rangle$. As such, multiplication by $\frac{a(x)}{(x-\lambda_i)^{{\alpha}_i}}$ provides a surjective morphism $F[x]/\langle a(x)\rangle \to F[x]/\langle (x-\lambda_i)^{\alpha_i}\rangle$.
 
 For each one of these summands, if ${\bf w}=\frac{a(x)}{(x-\lambda)^{\alpha}}\cdot {\bf v}$ is the $F[x]$-module generator for the summand corresponding to $F[x]/\langle (x-\lambda)^{\alpha}\rangle$, then an $F$-vector space basis for that summand is
 

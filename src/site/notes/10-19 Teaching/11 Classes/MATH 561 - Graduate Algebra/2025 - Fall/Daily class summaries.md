@@ -6,6 +6,7 @@ Below you can find the complete list of daily class summaries, beginning with th
 
 | Class Date                                                                               | Topics Covered                                                                                              |
 | ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-18\|2025-11-18]] | <ul><li>Rational canonical form</li><li>Jordan canonical form</li></ul>                                     |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-17\|2025-11-17]] | <ul><li>Rational canonical form</li></ul>                                                                   |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-14\|2025-11-14]] | <ul><li>Rational canonical form</li></ul>                                                                   |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-13\|2025-11-13]] | <ul><li>The Fundamental Theorem for Modules over a PID</li><li>Rational canonical form</li></ul>            |
