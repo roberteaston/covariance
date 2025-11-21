@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/preadditive-categories/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:36:28-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/preadditive-categories/","tags":["category_theory/abelian_categories"],"updated":"2025-11-21T06:56:14-08:00"}
 ---
 
 > [!quote] [Wikipedia](https://en.wikipedia.org/wiki/Preadditive_category)
