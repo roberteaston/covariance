@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/study-guides/study-guide-for-final-exam/","updated":"2025-11-21T13:46:34-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/study-guides/study-guide-for-final-exam/","updated":"2025-11-24T11:25:17-08:00"}
 ---
 
 # Module Theory Problems
@@ -185,6 +185,7 @@ Determine all similarity classes of $2\times 2$ matrices over $\textbf{Q}$ of or
 
 # Category Theory Problems
 
+
 ## Problem 11
 
 
@@ -198,20 +199,39 @@ Suppose $C$ is a category and $f,g:a\to b$ are parallel morphisms in $C$ for whi
 </div></div>
 
 
+
 ---
 
 ## Problem 12
 
-> [!warning] Under construction!
-> This problem is currently under construction, but will be available soon.
+
+
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+Suppose $C$ is a category and $f,g:a\to b$ are parallel morphisms in $C$ for which a coequalizer $b\xrightarrow{h} \operatorname{Coeq}(f,g)$ exists. Prove that the arrow $h$ is an [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Special morphisms#Epimorphisms\|epimorphism]] in $C$.
+
+</div></div>
+
 
 ---
 
 ## Problem 13
 
 
-> [!warning] Under construction!
-> This problem is currently under construction, but will be available soon.
+<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
+
+
+
+
+Let $C$ be a category and let $i_C:{\bf 0}\to C$ denote the unique functor from the initial category ${\bf 0}$ to $C$. Also let  $z:{\bf 0}\to {\bf 1}$ denote the unique functor from the initial category ${\bf 0}$ to the terminal category ${\bf 1}$.
+
+Show that the right Kan extension of $i_C$ along $z$ exists if and only if $C$ has an terminal object, and that when either exists the functor $\operatorname{Ran}_z(i_C):{\bf 1}\to C$ is the functor corresponding to the terminal object under the equivalence $C^{\bf 1}\simeq C$.
+
+</div></div>
+
 
 
 ---
