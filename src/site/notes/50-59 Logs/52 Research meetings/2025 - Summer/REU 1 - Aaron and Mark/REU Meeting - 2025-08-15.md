@@ -41,4 +41,4 @@ We spent a good chunk of this meeting going over the slides for the "Share-Out" 
 
 Mac Lane, *Categories for the Working Mathematician*
 - Subobjects: See page 105 and onwards
-- Direct sums: See page 195 for the connection between direct sums and the more general notion of [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories#Biproducts\|biproducts]] in [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories\|additive categories]]
+- Direct sums: See page 195 for the connection between direct sums and the more general notion of [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Ab-categories#Biproducts\|biproducts]] in [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories\|additive categories]]

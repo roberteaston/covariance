@@ -51,7 +51,7 @@
 
 ### Basic structures
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories\|Preadditive categories]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Ab-categories\|Ab-categories]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories\|Additive categories]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|Abelian categories]]
 

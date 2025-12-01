@@ -96,7 +96,7 @@ Each of these aims is open-ended. Some things will be quickly and easily dealt w
  - [x] Translate the notations of submodules and direct sums of modules into the categories $\textbf{Vec}_F$ and $\textbf{Matr}_F$, and then extend the notions of *irreducible* and *indecomposable* to representations of a group into those categories.
 - [x] Read about the general categorical definitions of *subobjects* and *direct sums*.
 - [x] Investigate the notions of subobjects in the familiar categories ${\bf Set}$, ${\bf Vec}_F$ and ${\bf Top}$, and then extend the notions of *reducible* and *irreducible* representations to these new settings,
-- [x] Recall the definition of the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories#Biproducts\|biproduct]] in a preadditive category, and also scan the general info about the notion of *direct sum* over at [Wikipedia](https://en.wikipedia.org/wiki/Direct_sum). Then try to extend the notions of *decomposable* and *indecomposable* to ${\bf Vec}_F$ and ${\bf Top}$. What goes wrong with ${\bf Set}$?
+- [x] Recall the definition of the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Ab-categories#Biproducts\|biproduct]] in a preadditive category, and also scan the general info about the notion of *direct sum* over at [Wikipedia](https://en.wikipedia.org/wiki/Direct_sum). Then try to extend the notions of *decomposable* and *indecomposable* to ${\bf Vec}_F$ and ${\bf Top}$. What goes wrong with ${\bf Set}$?
 
 ### Induced Representations and Kan Extensions
 

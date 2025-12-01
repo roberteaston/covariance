@@ -317,7 +317,7 @@ In particular, free modules are flat.
 ## Suggested next notes
 ---
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories\|Preadditive categories]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Ab-categories\|Ab-categories]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Chain complexes\|Chain complexes]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas\|Diagram lemmas]]
 [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Noetherian modules\|Noetherian modules]]

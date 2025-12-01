@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:33:48-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2025-12-01T06:55:49-08:00"}
 ---
 
-Just as an additive category is a preadditive category with with [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories#^8369c0\|two additional properties]], an **abelian** category is an additive category with yet another two additional properties. Let's state the definition up front and then fill in the details:
+Just as an additive category is an ${\bf Ab}$-category with with [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories#^8369c0\|two additional properties]], an **abelian** category is an additive category with yet another two additional properties. Once again, let's state the definition up front and then fill in the details:
 
 >[!note] Definition of an abelian category
 >An **abelian category** is an additive category satisfying the following conditions:
@@ -20,7 +20,7 @@ We will define kernels and cokernels below, but for now we note the following fa
 
 The categories $\textbf{Ab}$ and $R\textbf{-Mod}$ (and many others) are abelian, with the usual kernels and cokernels.
 
-If $A$ is an abelian category, then so is any functor category $A^{\mathcal{J}}$. See [[Maclane - Categories for the Working Mathematician.pdf\|page 199 in Mac Lane]] for the short proof.
+If $A$ is an abelian category, then so is any functor category $A^{\mathcal{J}}$. See page 199 in Mac Lane's *Categories for the Working Mathematician* for the short proof.
 
 ### Examples of non-abelian additive categories
 

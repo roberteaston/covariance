@@ -28,10 +28,10 @@ For us, the takeway is that we will probably have a hard time extending the noti
 ---
 
 - Investigate the notions of subobjects in the familiar categories ${\bf Set}$, ${\bf Vec}_F$ and ${\bf Top}$, and then extend the notions of *reducible* and *irreducible* representations to these new settings.
-- Recall the definition of the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories#Biproducts\|biproduct]] in a preadditive category, and also scan the general info about the notion of *direct sum* over at [Wikipedia](https://en.wikipedia.org/wiki/Direct_sum). Then try to extend the notions of *decomposable* and *indecomposable* to ${\bf Vec}_F$ and ${\bf Top}$. What goes wrong with ${\bf Set}$?
+- Recall the definition of the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Ab-categories#Biproducts\|biproduct]] in a preadditive category, and also scan the general info about the notion of *direct sum* over at [Wikipedia](https://en.wikipedia.org/wiki/Direct_sum). Then try to extend the notions of *decomposable* and *indecomposable* to ${\bf Vec}_F$ and ${\bf Top}$. What goes wrong with ${\bf Set}$?
 
 ## References
 ---
 
-[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Preadditive categories\|Preadditive categories]]
+[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Ab-categories\|Ab-categories]]
 [Direct sum - Wikipedia](https://en.wikipedia.org/wiki/Direct_sum)
