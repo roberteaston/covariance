@@ -69,18 +69,9 @@ The submodule $M_i$ is called the **$p_i$-primary component of $M$**.
 
 
 
-Let $A$ be a finite abelian group of order $n>1$, let $p$ be a prime divisor of $n$, and let $p^{\alpha}$ be the largest power of $p$ dividing $n$. Prove that ${\bf Z}_{p^{\alpha}}\bigotimes_{\bf Z}A$ is isomorphic to the Sylow $p$-subgroups of $A$.
-
- >[!summary]- Hints
-> The abelian group $A$ is equal to the direct sum of its $p_i$-primary components
-> 
-> $A=A_1\bigoplus\cdots \bigoplus A_k.$
-> 
-> This is true by the Fundamental Theorem for Finite Abelian Groups (Elementary Divisor Form), which is a special case of our [[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Modules over a PID - The Fundamental Theorem#The Fundamental Theorem Elementary Divisor Form\|Fundamental Theorem for Finitely Generated Modules over a PID]] (in the case the ring is ${\bf Z}$). It's also true by [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Primes and annihilators\|another exercise]] (in the special case $R={\bf Z}$, $M=A$, and $a=n$).
->
-> In any case, you may use the fact that the $p_i$-primary component $A_i$ is the Sylow $p_i$-subgroup of $A$.
->
-> With this in mind, show that ${\bf Z}_{p^{\alpha}}\bigotimes_{\bf Z}A_i$ is $0$ when $p\neq p_i$ and is isomorphic to $A_i$ when $p=p_i$. Then use the fact that tensor product commutes with direct sums.
+ Let $A$ be an abelian group of order $n=p_1^{m_1}\cdots p_k^{m_k}>1$. It is a fact that for each prime divisor $p_i$ of $n$ the Sylow $p_i$-subgroup of $A$ is $A_{p_i} = \{a\in A\mid p_i^{m_i}\cdot a = 0_A\}$.
+ 1. Prove that $A \simeq A_{p_1}\bigoplus \cdots \bigoplus A_{p_k}$.
+ 2. Prove that for each prime $p_i$ we have ${\bf Z}_{p_i^{m_i}}\bigotimes_{\bf Z} A\simeq A_{p_i}$.
 
 </div></div>
 
@@ -110,12 +101,12 @@ Prove there is a ring isomorphism $\textbf{R}\bigotimes_{\textbf{Z}} \textbf{Z}[
 
 
 
-Suppose $R$ is an integral domain and $I\subseteq R$ is a principal ideal. Prove that the $R$-module $I\otimes_R I$ has no nonzero torsion elements.
+Suppose $R$ is an integral domain and $I\subseteq R$ is a principal ideal. Prove that the $R$-module $I\bigotimes_R I$ has no nonzero torsion elements.
 
 >[!summary]- Hints
->One option is to prove $I\otimes_R I\simeq R$ as $R$-modules. (Since $R$ is an integral domain it is torsion free as an $R$-module, so this proves the desired result.) To establish the desired isomorphism, let $a$ be a generator for $I$ and define the set map $I\times I\to R$ by $(ra,sa)\mapsto rs$. Verify the necessary properties to conclude that the map $I\otimes_R I\to R$ defined on simple tensors by $ra\otimes sa\mapsto rs$ is a well-defined $R$-module morphism. Then show that the $R$-module morphism $R\to I\otimes_R I$ defined by $r\mapsto r(a\otimes a)=(ra)\otimes a = a\otimes ra$ is the inverse morphism.
+>One option is to prove $I\bigotimes_R I\simeq R$ as $R$-modules. (Since $R$ is an integral domain it is torsion free as an $R$-module, so this proves the desired result.) To establish the desired isomorphism, let $a$ be a generator for $I$ and define the set map $I\times I\to R$ by $(ra,sa)\mapsto rs$. Verify the necessary properties to conclude that the map $I\bigotimes_R I\to R$ defined on simple tensors by $ra\otimes sa\mapsto rs$ is a well-defined $R$-module morphism. Then show that the $R$-module morphism $R\to I\bigotimes_R I$ defined by $r\mapsto r(a\otimes a)=(ra)\otimes a = a\otimes ra$ is the inverse morphism.
 >
->You could also try a direct approach, but be wary of the following trap: it's very difficult to decide when a tensor equals zero. In other words, if $m\otimes n$ is zero in some tensor product $M\otimes_R N$, there is in general no easy deduction one can make about $m$ or $n$. (The only general conclusion one can make is that for every balanced bilinear map $g:M\times N\to P$ one has $g(m,n)=0$.)
+>You could also try a direct approach, but be wary of the following trap: it's very difficult to decide when a tensor equals zero. In other words, if $m\otimes n$ is zero in some tensor product $M\bigotimes_R N$, there is in general no easy deduction one can make about $m$ or $n$. (The only general conclusion one can make is that for every balanced bilinear map $g:M\times N\to P$ one has $g(m,n)=0$.)
 
 </div></div>
 
