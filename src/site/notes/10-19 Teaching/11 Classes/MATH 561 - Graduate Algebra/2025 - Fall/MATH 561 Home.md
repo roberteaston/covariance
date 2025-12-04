@@ -14,10 +14,10 @@ Did you miss a class, or maybe just need a reminder about what we covered on a s
 
 | Class Date                                                                               | Topics Covered                                                                                                                                                                             |
 | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-12/2025-12-03\|2025-12-03]] | <ul><li>Double complexes</li></ul>                                                                                                                                                         |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-12/2025-12-02\|2025-12-02]] | <ul><li>Kernels</li><li>Cokernels</li><li>Monomorphisms</li><li>Epimorphisms</li><li>Chain complexes</li><li>Abelian categories</li><li>Exact sequences</li><li>Double complexes</li></ul> |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-12/2025-12-01\|2025-12-01]] | <ul><li>Preadditive categories</li><li>Additive categories</li><li>Abelian categories</li><li>Biproducts</li><li>Kernels</li><li>Cokernels</li></ul>                                       |
 | [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-21\|2025-11-21]] | <ul><li>Kan extensions</li><li>Limits and colimits</li><li>Adjoints</li></ul>                                                                                                              |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-20\|2025-11-20]] | <ul><li>Rational canonical form</li><li>Jordan canonical form</li></ul>                                                                                                                    |
 
 { .block-language-dataview}
 
