@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf > page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
-<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                      | Last Updated                |
-| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-12/2025-12-03\|2025-12-03]]                                                  | 1:56 PM - December 04, 2025 |
-| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Double complexes and mural maps\|Double complexes and mural maps]] | 6:40 AM - December 04, 2025 |
-| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-12/2025-12-01\|2025-12-01]]                                                  | 9:29 AM - December 03, 2025 |
+| Note                                                                                                                                         | Last Updated                 |
+| -------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]]                          | 3:38 PM - December 09, 2025  |
+| [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/2025 - Fall/Study Guides/Study Guide for Final Exam\|Study Guide for Final Exam]] | 10:13 AM - December 08, 2025 |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-12/2025-12-03\|2025-12-03]]                                                     | 1:56 PM - December 04, 2025  |
 
 { .block-language-dataview}
 
@@ -65,7 +65,7 @@
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints\|Properties of adjoints]]                                                                                                 | 12:39 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Special morphisms\|Special morphisms]]                                                                                                   | 2:21 PM - November 18, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Spectral sequences\|Spectral sequences]]                                                                                               | 12:37 PM - March 31, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]]                                                                                           | 12:37 PM - March 31, 2025    |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]]                                                                                           | 3:38 PM - December 09, 2025  |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal arrows and elements\|Universal arrows and elements]]                                                                       | 12:48 PM - March 31, 2025    |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                                           | 7:56 PM - October 07, 2025   |
 > | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]] | 3:08 PM - August 06, 2025    |
