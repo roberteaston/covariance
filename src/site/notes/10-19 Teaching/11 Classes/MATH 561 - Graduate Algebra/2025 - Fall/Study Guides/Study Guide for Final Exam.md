@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/study-guides/study-guide-for-final-exam/","updated":"2025-12-08T10:13:01-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/study-guides/study-guide-for-final-exam/","updated":"2025-12-10T07:51:09-08:00"}
 ---
 
-d# Module Theory Problems
+# Module Theory Problems
 
 ## Problem 1
 
