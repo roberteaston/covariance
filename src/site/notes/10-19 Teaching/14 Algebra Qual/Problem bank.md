@@ -13,9 +13,9 @@ Beginning with the September 2025 exam, all problems will be drawn from a public
 
 Template problems are available below:
 
-- [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in linear algebra\|Template problems in linear algebra]]
-- [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in group theory\|Template problems in group theory]]
-- [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Template problems in ring theory\|Template problems in ring theory]]
+- [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Template problems in linear algebra\|Template problems in linear algebra]]
+- [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Template problems in group theory\|Template problems in group theory]]
+- [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Template problems in ring theory\|Template problems in ring theory]]
 
 
 ## Pool problems
@@ -25,9 +25,9 @@ Template problems are available below:
 
 Pool problems are available at the links below:
 
-- [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in linear algebra\|Pool problems in linear algebra]]
-- [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in group theory\|Pool problems in group theory]]
-- [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Pool problems in ring theory\|Pool problems in ring theory]]
+- [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Pool problems in linear algebra\|Pool problems in linear algebra]]
+- [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Pool problems in group theory\|Pool problems in group theory]]
+- [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Pool problems in ring theory\|Pool problems in ring theory]]
 
 ## Related pages
 ---
