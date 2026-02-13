@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf &gt; page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
-<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Euripides | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties III - Yoneda's Lemma</a></div></div><div class="callout-content">
+<p dir="auto">Every man is like the company he is wont to keep.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                             | Last Updated                |
-| ---------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank\|The Problem Bank]]               | 9:28 AM - February 13, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|The Problem Bank (List)]] | 9:24 AM - February 13, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]                                                 | 8:58 AM - February 13, 2026 |
+| Note                                                                                                                                                           | Last Updated                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|The Problem Bank (List)]]                                               | 9:24 AM - February 13, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]                                                                                               | 8:58 AM - February 13, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/A condition ensuring diagonalizability\|A condition ensuring diagonalizability]] | 7:41 AM - February 13, 2026 |
 
 { .block-language-dataview}
 
