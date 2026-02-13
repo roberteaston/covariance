@@ -29,6 +29,11 @@ Pool problems are available at the links below:
 - [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Pool problems in group theory\|Pool problems in group theory]]
 - [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Pool problems in ring theory\|Pool problems in ring theory]]
 
+## Master lists
+---
+
+You can find a master list of all problems [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|here]]. If you would like a list with the problems themselves also embedded, see [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank\|here]].
+
 ## Related pages
 ---
 
