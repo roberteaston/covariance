@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                           | Last Updated                |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|The Problem Bank (List)]]                                               | 8:58 AM - February 13, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]                                                                                               | 8:58 AM - February 13, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/A condition ensuring diagonalizability\|A condition ensuring diagonalizability]] | 7:41 AM - February 13, 2026 |
+| Note                                                                                                             | Last Updated                |
+| ---------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank\|The Problem Bank]]               | 9:28 AM - February 13, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|The Problem Bank (List)]] | 9:24 AM - February 13, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]                                                 | 8:58 AM - February 13, 2026 |
 
 { .block-language-dataview}
 
