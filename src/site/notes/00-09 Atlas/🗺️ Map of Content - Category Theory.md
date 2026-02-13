@@ -22,7 +22,7 @@
 >[!quote] Serge Lang
 >In the forties and fifties (mostly in the works of Cartan, Eilenberg, MacLane, and Steenrod), it was realized that there was a systematic way of developing certain relations of linear algebra, depending only on fairly general constructions which were mostly arrow-theoretic, and were affectionately called abstract nonsense by Steenrod.
 >
->*My source:* [[Riehl - Category Theory in Context.pdf#page=10|Riehl]]
+>*My source:* [Riehl](/img/user/40-49%20Knowledge/44%20Textbooks/Riehl%20-%20Category%20Theory%20in%20Context.pdf)
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]
 [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]]

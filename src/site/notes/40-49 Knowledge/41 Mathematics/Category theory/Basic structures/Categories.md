@@ -8,7 +8,7 @@
 >[!quote] Serge Lang
 >In the forties and fifties (mostly in the works of Cartan, Eilenberg, MacLane, and Steenrod), it was realized that there was a systematic way of developing certain relations of linear algebra, depending only on fairly general constructions which were mostly arrow-theoretic, and were affectionately called abstract nonsense by Steenrod.
 >
->*My source:* [[Riehl - Category Theory in Context.pdf#page=10|Riehl]]
+>*My source:* [Riehl](/img/user/40-49%20Knowledge/44%20Textbooks/Riehl%20-%20Category%20Theory%20in%20Context.pdf)
 
 > [!quote] [Peter Freyd](https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense)
 > Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.
@@ -94,7 +94,7 @@ Since each object is uniquely associated with an identity arrow, in a small cate
 
 Will we worry about any of this? We will not. Instead, we will embrace the following quote:
 
-> [!quote] [[Riehl - Category Theory in Context.pdf#page=24|Emily Riehl]]
+> [!quote] [Emily Riehl](/img/user/40-49%20Knowledge/44%20Textbooks/Riehl%20-%20Category%20Theory%20in%20Context.pdf)
 > The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.
 
 

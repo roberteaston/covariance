@@ -18,7 +18,7 @@ Rather than dive straight into the technical definitions, I think it's more illu
 ## Examples in $\textbf{Set}$
 ---
 
-> [!quote] [[Riehl - Category Theory in Context.pdf#page=31|Eilenberg and Mac Lane]]
+> [!quote] [Eilenberg and Mac Lane](/img/user/40-49%20Knowledge/44%20Textbooks/Riehl%20-%20Category%20Theory%20in%20Context.pdf)
 > ...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.
 
 You encounter many constructions on sets as soon as you start studying set theory. Here we list a few, along with a "universal property" they satisfy.

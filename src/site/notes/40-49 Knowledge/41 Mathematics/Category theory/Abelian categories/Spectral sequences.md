@@ -150,12 +150,12 @@ It makes sense to ask how the right derived functor of the composition $G\circ F
 ## References
 ---
 
-[[Chow - You Could have Invented Spectral Sequences.pdf]]
-[[McCleary - A History of Spectral Sequences.pdf]]
-[[Bott-Tu - Differential Forms in Algebraic Topology.pdf]]
-[[Kato - Heart of Cohomology.pdf]]
-[[McCleary - A Users Guide to Spectral Sequences.pdf]]
-[[Vakil - Puzzlin Through Exact Sequences.pdf]]
+[Chow - You Could have Invented Spectral Sequences.pdf](/img/user/40-49%20Knowledge/45%20Papers/Chow%20-%20You%20Could%20have%20Invented%20Spectral%20Sequences.pdf)
+[McCleary - A History of Spectral Sequences.pdf](/img/user/40-49%20Knowledge/45%20Papers/McCleary%20-%20A%20History%20of%20Spectral%20Sequences.pdf)
+[Bott-Tu - Differential Forms in Algebraic Topology.pdf](/img/user/40-49%20Knowledge/44%20Textbooks/Bott-Tu%20-%20Differential%20Forms%20in%20Algebraic%20Topology.pdf)
+[Kato - Heart of Cohomology.pdf](/img/user/40-49%20Knowledge/44%20Textbooks/Kato%20-%20Heart%20of%20Cohomology.pdf)
+[McCleary - A Users Guide to Spectral Sequences.pdf](/img/user/40-49%20Knowledge/44%20Textbooks/McCleary%20-%20A%20Users%20Guide%20to%20Spectral%20Sequences.pdf)
+[Vakil - Puzzlin Through Exact Sequences.pdf](/img/user/40-49%20Knowledge/45%20Papers/Vakil%20-%20Puzzlin%20Through%20Exact%20Sequences.pdf)
 [[Vakil - The Rising Sea.pdf\|Vakil - The Rising Sea.pdf]]
 
 

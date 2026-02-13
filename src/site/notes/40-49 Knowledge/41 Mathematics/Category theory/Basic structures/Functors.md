@@ -36,7 +36,7 @@ You might wonder why functors between categories aren't simply called morphisms 
 ## Examples
 ---
 
-> [!quote] [[Riehl - Category Theory in Context.pdf#page=31|John Baez]]
+> [!quote] [John Baez](/img/user/40-49%20Knowledge/44%20Textbooks/Riehl%20-%20Category%20Theory%20in%20Context.pdf)
 > ...every sufficiently good analogy is yearning to become a functor.
 
 ### The power set functor(s)

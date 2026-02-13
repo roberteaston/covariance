@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/calculus/determining-constrained-extrema/","updated":"2024-07-21T19:34:38-07:00"}
 ---
 
->[!quote] Problem 5, Section 14.8, [[Stewart - Calculus - 8e.pdf|Stewart's Calculus, 8e]]
+>[!quote] Problem 5, Section 14.8, [Stewart's Calculus, 8e](/img/user/40-49%20Knowledge/44%20Textbooks/Stewart%20-%20Calculus%20-%208e.pdf)
 >Find the extreme values of the function $f(x,y)=xy$ subject to the constraint $4x^2+y^2=8$.
 
 Let $g(x,y)=4x^2+y^2$. The constrained critical points are those points that satisfy $g(x,y)=8$ and at which the gradient vectors $\nabla f$ and $\nabla g$ are parallel. So we first compute those gradient vectors:

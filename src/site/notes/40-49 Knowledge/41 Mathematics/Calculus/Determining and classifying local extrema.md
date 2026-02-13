@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/calculus/determining-and-classifying-local-extrema/","updated":"2024-07-21T19:34:34-07:00"}
 ---
 
->[!quote] Problem 7, Section 14.7, [[Stewart - Calculus - 8e.pdf|Stewart's Calculus, 8e]]
+>[!quote] Problem 7, Section 14.7, [Stewart's Calculus, 8e](/img/user/40-49%20Knowledge/44%20Textbooks/Stewart%20-%20Calculus%20-%208e.pdf)
 >Find the local maximum and minimum values and saddle points of the function $f(x,y)=(x-y)(1-xy)$.
 
 To make our lives easier, let's first multiply out the terms in $f$, to see that
