@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/the-problem-bank-list/","updated":"2026-02-13T08:21:05-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/the-problem-bank-list/","updated":"2026-02-13T08:39:13-08:00"}
 ---
 
 Below is the current master list of all problems in the Problem Bank.

@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone (probably) | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
-<p dir="auto">A natural transformation is a morphism between functors.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf &gt; page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
+<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                             | Last Updated                |
-| ---------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]                                                 | 8:27 AM - February 13, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank\|The Problem Bank]]               | 8:25 AM - February 13, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|The Problem Bank (List)]] | 8:21 AM - February 13, 2026 |
+| Note                                                                                                                                                           | Last Updated                |
+| -------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|The Problem Bank (List)]]                                               | 8:39 AM - February 13, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]                                                                                               | 8:27 AM - February 13, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/A condition ensuring diagonalizability\|A condition ensuring diagonalizability]] | 7:41 AM - February 13, 2026 |
 
 { .block-language-dataview}
 

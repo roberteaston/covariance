@@ -32,7 +32,7 @@ Pool problems are available at the links below:
 ## Master lists
 ---
 
-You can find a master list of all problems [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|here]]. If you would like a list with the problems themselves also embedded, see [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank\|here]].
+You can find a master list of all problems [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|here]]. (I'm working on a list with the problems embedded for easy viewing, but I'm having some web issues at the moment.)
 
 ## Related pages
 ---
