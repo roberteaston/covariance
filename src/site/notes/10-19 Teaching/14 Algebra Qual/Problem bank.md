@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/","updated":"2026-02-13T08:27:41-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/","updated":"2026-02-13T08:58:34-08:00"}
 ---
 
 Beginning with the September 2025 exam, all problems will be drawn from a public "problem bank." This bank contains two types of problems: **template problems** and **pool problems**.
@@ -32,7 +32,7 @@ Pool problems are available at the links below:
 ## Master lists
 ---
 
-You can find a master list of all problems [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|here]]. (I'm working on a list with the problems embedded for easy viewing, but I'm having some web issues at the moment.)
+You can find a master list of all problems [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/The Problem Bank (List)\|here]].
 
 ## Related pages
 ---
