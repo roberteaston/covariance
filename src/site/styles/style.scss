@@ -21,19 +21,19 @@
 }
 
 h1 {
-    color: black;
+    color: #ffef60;
 }
 
 h2 {
-    color: #0600FF;
+    color: #f06449;
 }
 
 h3 {
-    color: black;
+    color: #d4fcc3;
 }
 
 h4 {
-    color: black;
+    color: #72dcff;
 }
 
 button {
@@ -62,13 +62,6 @@ button {
     font-family: var(--font-default);
 }
 
-a.is-unresolved {
-    color: rgb(97 186 245 / 65%);
-}
-a {
-    text-decoration: underline;
-    color: var(--text-accent);
-}
 
 .font-bg {
     font-size: 92px;
