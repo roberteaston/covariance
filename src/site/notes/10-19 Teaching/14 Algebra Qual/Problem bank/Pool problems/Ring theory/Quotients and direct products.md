@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/quotients-and-direct-products/","tags":["ring_theory"],"updated":"2025-03-15T15:40:20-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/quotients-and-direct-products/","tags":["ring_theory"],"updated":"2025-03-15T15:40:20-07:00","dg-note-properties":{"last updated":"2025-03-15T15:40:20-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2023"]}}
 ---
 
 Let $R_1,\ldots, R_k$ be commutative rings, and set $R=R_1\times \cdots \times R_k$.

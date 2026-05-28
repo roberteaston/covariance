@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/a-group-isomorphic-to-an-internal-direct-product/","tags":["group_theory"],"updated":"2025-03-19T11:17:26-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/a-group-isomorphic-to-an-internal-direct-product/","tags":["group_theory"],"updated":"2025-03-19T11:17:26-07:00","dg-note-properties":{"last updated":"2025-03-19T11:17:26-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2016"]}}
 ---
 
 Suppose $G$ is a group that contains normal subgroups $H,K\unlhd G$ with $H\cap K=\{e\}$ and $HK=G$. Prove that $G\cong H\times K$.

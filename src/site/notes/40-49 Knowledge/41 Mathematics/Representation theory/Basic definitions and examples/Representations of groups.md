@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/representation-theory/basic-definitions-and-examples/representations-of-groups/","tags":["representation_theory"],"updated":"2025-07-08T09:26:18-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/representation-theory/basic-definitions-and-examples/representations-of-groups/","tags":["representation_theory"],"updated":"2025-07-08T09:26:18-07:00","dg-note-properties":{"references":null,"related":null,"last updated":"2025-07-08T09:26:18-07:00","tags":["representation_theory"]}}
 ---
 
 > [!warning] Warning

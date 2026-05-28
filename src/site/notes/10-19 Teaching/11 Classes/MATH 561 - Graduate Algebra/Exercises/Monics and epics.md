@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/monics-and-epics/","updated":"2025-09-20T14:12:05-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/monics-and-epics/","updated":"2025-09-20T14:12:05-07:00","dg-note-properties":{"type":"exercise","last updated":"2025-09-20T14:12:05-07:00"}}
 ---
 
 An arrow $f:a\to b$ in a category $C$ is called **monic** (or a **monomorphism**) if it is *left-cancellable*; i.e., if whenever $g_1, g_2: c\to a$ are arrows such that $f\circ g_1 = f\circ g_2$, then $g_1=g_2$.

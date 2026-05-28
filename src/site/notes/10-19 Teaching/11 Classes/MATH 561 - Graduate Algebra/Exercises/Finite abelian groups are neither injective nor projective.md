@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/finite-abelian-groups-are-neither-injective-nor-projective/","updated":"2025-10-24T07:31:39-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/finite-abelian-groups-are-neither-injective-nor-projective/","updated":"2025-10-24T07:31:39-07:00","dg-note-properties":{"type":"exercise","last updated":"2025-10-24T07:31:39-07:00"}}
 ---
 
 Let $A$ be a nonzero finite abelian group. Prove that:

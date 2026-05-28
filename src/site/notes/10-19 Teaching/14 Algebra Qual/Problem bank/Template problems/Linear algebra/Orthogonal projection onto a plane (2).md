@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/orthogonal-projection-onto-a-plane-2/","tags":["linear_algebra"],"updated":"2025-03-18T10:22:37-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/orthogonal-projection-onto-a-plane-2/","tags":["linear_algebra"],"updated":"2025-03-18T10:22:37-07:00","dg-note-properties":{"last updated":"2025-03-18T10:22:37-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Winter 2019"]}}
 ---
 
 Let $a, b \in {\bf R}$ and $T: {\bf R}^3 \to {\bf R}^3$ be the linear transformation that is orthogonal projection onto the plane $z=ax+by$ (with respect to the usual Euclidean inner-product on ${\bf R}^3$).

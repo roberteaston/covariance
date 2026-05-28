@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/working-modulo-11/","tags":["group_theory"],"updated":"2025-03-17T08:15:17-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/working-modulo-11/","tags":["group_theory"],"updated":"2025-03-17T08:15:17-07:00","dg-note-properties":{"last updated":"2025-03-17T08:15:17-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2021"]}}
 ---
 
 Let $n$ be a number between $0$ and $10$. Compute $n^{111}\pmod{11}$, expressing your answer as a number between $0$ and $10$. Give as detailed a proof as you can, justifying every step, no matter who trivial you think it is.

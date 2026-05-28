@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2021-06/","updated":"2025-03-17T09:00:59-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2021-06/","updated":"2025-03-17T09:00:59-07:00","dg-note-properties":{"last updated":"2025-03-17T09:00:59-07:00","given":"2021-06-05"}}
 ---
 
 ## Problem 1
@@ -52,7 +52,7 @@ Let $A_5$ denote the alternating group on a $5$-element set $\{1,2,3,4,5\}$. The
 
 Let ${\bf Z}[X]$ be the ring of polynomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the "evaluation at $1$" homomorphism
 
-$\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.\end{align*}$
+$$\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.\end{align*}$$
 
 1. Characterize $K$ as a set.
 2. Determine whether $K$ is a maximal ideal. Fully justify your conclusion.
@@ -60,7 +60,20 @@ $\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.\
 
 > [!info]- View $\LaTeX$ code
 > ```
-> Let ${\bf Z}[X]$ be the ring of polynmomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the ``evaluation at $1
+> Let ${\bf Z}[X]$ be the ring of polynmomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the ``evaluation at $1$'' homomorphism
+> \begin{align*}
+> 	\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\
+> 	f(X) &\mapsto [f(1)]_3.
+> \end{align*}
+> \begin{enumerate}[label=\alph*)]
+> 	\item Characterize $K$ as a set.
+> 	\item Determine whether $K$ is a maximal ideal. Fully justify your conclusion.
+> 	\item Determine whether $K$ is a principal ideal. Justify by either exhibiting a generator or proving that there isn't one.
+> \end{enumerate}
+> ```
+
+</div></div>
+
 ## Problem 4
 
 
@@ -94,36 +107,16 @@ Let $A=\begin{bmatrix} 0 & 0 & -2 \\ 1 & 2 & 1 \\ 1 & 0 & 3\end{bmatrix}$.
 
 
 Let ${\bf F}_9$ denote the field of nine elements.
-1. Show that each nonzero $a\in {\bf F}_9$ is a root of $X^3-1=(X-1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
+1. Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
 2. Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
 
 > [!info]- View $\LaTeX$ code
 > ```
 > Let ${\bf F}_9$ denote the field of nine elements.
 > \begin{enumerate}[label=\alph*)]
-> 	\item Show that each nonzero $a\in {\bf F}_9$ is a root of $X^3-1=(X-1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
+> 	\item Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
 > 	\item Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
 > \end{enumerate}
 > ```
 
 </div></div>
-' homomorphism
-> \begin{align*}
-> 	\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\
-> 	f(X) &\mapsto [f(1)]_3.
-> \end{align*}
-> \begin{enumerate}[label=\alph*)]
-> 	\item Characterize $K$ as a set.
-> 	\item Determine whether $K$ is a maximal ideal. Fully justify your conclusion.
-> 	\item Determine whether $K$ is a principal ideal. Justify by either exhibiting a generator or proving that there isn't one.
-> \end{enumerate}
-> ```
-
-</div></div>
-
-## Problem 4
-
-![[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Linear algebra/Diagonalization and matrix powers\|Diagonalization and matrix powers]]
-## Problem 5
-
-![[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Ring theory/The field with nine elements\|The field with nine elements]]

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/least-common-multiples/","updated":"2024-07-21T19:34:43-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/least-common-multiples/","updated":"2024-07-21T19:34:43-07:00","dg-note-properties":{"last updated":"2024-07-21T19:34:43-07:00"}}
 ---
 
 Setup: We're in a Euclidean domain $R$ and have elements $a,b\in R$.

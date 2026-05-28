@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/calculus/determining-and-classifying-local-extrema/","updated":"2024-07-21T19:34:34-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/calculus/determining-and-classifying-local-extrema/","updated":"2024-07-21T19:34:34-07:00","dg-note-properties":{"last updated":"2024-07-21T19:34:34-07:00"}}
 ---
 
 >[!quote] Problem 7, Section 14.7, [Stewart's Calculus, 8e](/img/user/40-49%20Knowledge/44%20Textbooks/Stewart%20-%20Calculus%20-%208e.pdf)

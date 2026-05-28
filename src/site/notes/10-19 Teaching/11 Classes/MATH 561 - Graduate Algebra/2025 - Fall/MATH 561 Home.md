@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/math-561-home/","updated":"2025-09-27T14:31:05-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/math-561-home/","updated":"2025-09-27T14:31:05-07:00","dg-note-properties":{"last updated":"2025-09-27T14:31:05-07:00"}}
 ---
 
 > [!quote] [Olaf](https://en.wikipedia.org/wiki/Olaf_(Frozen))

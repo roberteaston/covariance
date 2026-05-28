@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/groups-as-categories/","updated":"2025-10-04T14:41:38-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/groups-as-categories/","updated":"2025-10-04T14:41:38-07:00","dg-note-properties":{"type":"exercise","last updated":"2025-10-04T14:41:38-07:00"}}
 ---
 
 [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories#Groups as categories\|Recall]] that to any group  we can associate a category ${\bf B}G$ that has a unique object, an arrow for each element of $G$, and arrow composition given by the group law in $G$. (See a bit more [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories#Groups as categories\|here]].)

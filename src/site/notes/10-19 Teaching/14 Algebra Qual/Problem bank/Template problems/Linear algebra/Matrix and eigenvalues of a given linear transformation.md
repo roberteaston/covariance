@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/matrix-and-eigenvalues-of-a-given-linear-transformation/","tags":["linear_algebra"],"updated":"2025-03-17T08:36:08-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/matrix-and-eigenvalues-of-a-given-linear-transformation/","tags":["linear_algebra"],"updated":"2025-03-17T08:36:08-07:00","dg-note-properties":{"last updated":"2025-03-17T08:36:08-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Winter 2021"]}}
 ---
 
 Suppose $\{{\bf v}_1,{\bf v}_2,{\bf v}_3\}$ is a basis for ${\bf R}^3$ and $T:{\bf R}^3\to {\bf R}^3$ is a linear transformation satisfying the following:

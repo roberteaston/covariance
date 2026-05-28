@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/properties-of-the-center-of-a-group/","tags":["group_theory"],"updated":"2025-03-17T09:09:40-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/properties-of-the-center-of-a-group/","tags":["group_theory"],"updated":"2025-03-17T09:09:40-07:00","dg-note-properties":{"last updated":"2025-03-17T09:09:40-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2020"]}}
 ---
 
 Let $G$ be a finite group and $\operatorname{Z}(G)$ denote its center.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/irreducible-modules/","updated":"2025-10-09T13:36:00-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/irreducible-modules/","updated":"2025-10-09T13:36:00-07:00","dg-note-properties":{"type":"exercise","last updated":"2025-10-09T13:36:00-07:00"}}
 ---
 
 Suppose $R$ is a commutative ring. A nonzero $R$-module $M$ is called **irreducible** if it has no nonzero proper submodules.

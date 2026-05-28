@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/template-problems-in-linear-algebra/","updated":"2025-05-19T18:56:53-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/template-problems-in-linear-algebra/","updated":"2025-05-19T18:56:53-07:00","dg-note-properties":{"last updated":"2025-05-19T18:56:53-07:00"}}
 ---
 
 
@@ -91,7 +91,7 @@ Let $\operatorname{M}_n({\bf R})$ be the vector space of all $n \times n$ matric
 
 Let $V\subset {\bf R}^5$ be the subspace defined by the equation
 
-$x_1-2x_2+3x_3-4x_4+5x_5=0.$
+$$x_1-2x_2+3x_3-4x_4+5x_5=0.$$
 
 1. Find (with justification) a basis for $V$.
 2. Find (with justification) a basis for $V^{\perp}$, the subspace of ${\bf R}^5$ orthogonal to $V$ under the usual dot product.
@@ -306,7 +306,7 @@ Let $V=\{a_0+a_1\sqrt[3]{2}+a_2\sqrt[3]{4}\mid a_0, a_1, a_2\in {\bf Q}\}\subset
 
 Suppose $\{{\bf v}_1,{\bf v}_2,{\bf v}_3\}$ is a basis for ${\bf R}^3$ and $T:{\bf R}^3\to {\bf R}^3$ is a linear transformation satisfying the following:
 
-$\begin{align*} T({\bf v}_1) &= 4{\bf v}_1+2{\bf v}_2 \\ T({\bf v}_2) &= 5{\bf v}_2 \\ T({\bf v}_3) &= -2{\bf v}_1+4{\bf v}_2+5{\bf v}_3.\end{align*}$
+$$\begin{align*} T({\bf v}_1) &= 4{\bf v}_1+2{\bf v}_2 \\ T({\bf v}_2) &= 5{\bf v}_2 \\ T({\bf v}_3) &= -2{\bf v}_1+4{\bf v}_2+5{\bf v}_3.\end{align*}$$
 
 Determine the eigenvalues of $T$ and find a basis for each eigenspace.
 
@@ -334,7 +334,7 @@ Determine the eigenvalues of $T$ and find a basis for each eigenspace.
 
 Let$W\subset {\bf R}^5$ be the space spanned by the vectors
 
-$\left\{\begin{bmatrix} 1 \\ -2 \\ 0 \\ 2 \\ 1\end{bmatrix},\begin{bmatrix} -2 \\ 4 \\ -1 \\ 1 \\ 2\end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 2 \\ -2 \\1\end{bmatrix}\right\}.$
+$$\left\{\begin{bmatrix} 1 \\ -2 \\ 0 \\ 2 \\ 1\end{bmatrix},\begin{bmatrix} -2 \\ 4 \\ -1 \\ 1 \\ 2\end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 2 \\ -2 \\1\end{bmatrix}\right\}.$$
 
 1. Compute the dimension of $W$.
 2. Let $W^{\perp}=\{{\bf v}\in {\bf R}^5\,\mid\, {\bf v}\cdot {\bf w}=0\text{ for all }w\in W\}$. Determine the dimension of $W^{\perp}$, and explain how this following immediately from (a) using a theorem.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/properties-of-transpose/","tags":["linear_algebra"],"updated":"2025-03-17T09:30:15-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/properties-of-transpose/","tags":["linear_algebra"],"updated":"2025-03-17T09:30:15-07:00","dg-note-properties":{"last updated":"2025-03-17T09:30:15-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Winter 2020"]}}
 ---
 
 Let $A$ be a real $n\times n$ matrix and let $A^{\top}$ denote its transpose.

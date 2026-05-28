@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-4/","updated":"2025-10-13T11:17:29-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-4/","updated":"2025-10-13T11:17:29-07:00","dg-note-properties":{"last updated":"2025-10-13T11:17:29-07:00","cssclasses":null,"type":"exercise","due date":"2025-10-12"}}
 ---
 
 ## Problem 1
@@ -53,7 +53,7 @@ Let $J$ be the category with three objects and two non-identity arrows, visualiz
 > 
 > We now define a functor $P:\textbf{Set}^J\to \textbf{Set}$. To each object $F:J\to \textbf{Set}$ (which corresponds to a diagram $X\xrightarrow{f} Z \xleftarrow{g} Y$) we assign $P(F)=X\times_Z Y$. To each arrow $\tau:F\Rightarrow G$ we define the set map $P(\tau):X\times_Z Y\to X'\times_{Z'} Y'$ by $(x,y)\mapsto (\tau_a(x),\tau_c(y))$. Note that the commutativity of the above diagrams ensures that this map is well defined. Each pair $(x,y)\in X\times_Z Y$ satisfies $f(x)=g(y)$ and hence $\tau_c(f(x))=\tau_c(g(y))$. Commutativity of the above diagram then gives
 > 
-> $f'(\tau_a(x))=\tau_c(f(x))=\tau_c(g(y))=g'(\tau_b(y))$
+> $$f'(\tau_a(x))=\tau_c(f(x))=\tau_c(g(y))=g'(\tau_b(y))$$
 > 
 > and hence the pair $(\tau_a(x),\tau_b(y))$ is indeed an element of $X'\times_{Z'} Y'$.
 > 
@@ -71,7 +71,7 @@ Let $J$ be the category with three objects and two non-identity arrows, visualiz
 > 
 > So we do indeed have a functor $P:\mathbf{Set}^J\to \mathbf{Set}$ that sends each diagram $X\xrightarrow{f} Z \xleftarrow{g} Y$ in $\mathbf{Set}$ to the pullback set $X\times_Z Y$ of that diagram. We will show this functor is right adjoint to the diagonal functor $\Delta:\mathbf{Set}\to \mathbf{Set}^J$, which sends each set $C$ to the "constant diagram" $C\xrightarrow{1_C} C \xleftarrow{1_C} C$. To that end, we must establish a natural bijection
 > 
-> $\phi_{C,F}:\operatorname{Hom}_{\mathbf{Set}^J}(\Delta C, F)\xrightarrow{\sim}\operatorname{Hom}_{\mathbf{Set}}(C,P(F)).$
+> $$\phi_{C,F}:\operatorname{Hom}_{\mathbf{Set}^J}(\Delta C, F)\xrightarrow{\sim}\operatorname{Hom}_{\mathbf{Set}}(C,P(F)).$$
 > 
 > For each fixed set $C$ and diagram $F$ (corresponding to $X\xrightarrow{f} Z \xleftarrow{g} Y$), natural transformations $\tau:\Delta C\to F$ correspond to triples of set maps $\tau_a:C\to X$, $\tau_b:C\to Y$, $\tau_c:C\to Z$ giving commutative diagrams
 > 
@@ -275,7 +275,7 @@ Prove that any direct sum of free $R$-modules is free.
 > 
 > An informal proof is simply to note that for every set $Y$ we have $\displaystyle F(Y)\simeq \bigoplus_{y\in Y}R$. In particular,
 > 
-> $F(X)\simeq \bigoplus_{x\in X}R \simeq \bigoplus_{s\in S}\bigoplus_{x\in X_s}R \simeq \bigoplus_{s\in S}M_s.$
+> $$F(X)\simeq \bigoplus_{x\in X}R \simeq \bigoplus_{s\in S}\bigoplus_{x\in X_s}R \simeq \bigoplus_{s\in S}M_s.$$
 > 
 > The only point in the above chain of isomorphisms that is a bit informal is in the second isomorphism, which is really a consequence of the fact that the construction of direct sum (of $R$-modules) commutes with disjoint union (of sets).
 > 

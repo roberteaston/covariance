@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/torsion-z-modules/","updated":"2024-10-07T13:02:10-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/torsion-z-modules/","updated":"2024-10-07T13:02:10-07:00","dg-note-properties":{"type":"exercise","last updated":"2024-10-07T13:02:10-07:00"}}
 ---
 
 An $R$-module $M$ is called **torsion**^[Check [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Torsion submodules\|here]] for a reminder of what it means for an element in a module to be torsion.] if $\operatorname{Tor}(M)=M$.

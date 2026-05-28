@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/rotation-around-an-axis/","tags":["linear_algebra"],"updated":"2025-03-29T15:07:26-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/rotation-around-an-axis/","tags":["linear_algebra"],"updated":"2025-03-29T15:07:26-07:00","dg-note-properties":{"last updated":"2025-03-29T15:07:26-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2019"]}}
 ---
 
 Let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation that rotates counterclockwise around the $z$-axis by $\frac{2\pi}{3}$.

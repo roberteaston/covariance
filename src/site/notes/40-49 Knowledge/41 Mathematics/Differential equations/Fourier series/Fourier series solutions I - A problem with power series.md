@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-i-a-problem-with-power-series/","tags":["differential_equations"],"updated":"2025-08-02T15:38:07-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-i-a-problem-with-power-series/","tags":["differential_equations"],"updated":"2025-08-02T15:38:07-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-02T15:38:07-07:00","related":["[[Frobenius Series Solutions III - Frobenius theory]]"],"tags":["differential_equations"]}}
 ---
 
 > [!quote] Jean-Baptiste Joseph Fourier
@@ -35,11 +35,11 @@ The error in using that approximation generally depends on how far away from the
 
 Consider the example above, which is the Maclaurin series for the sine function. It is a theorem of calculus that this Maclaurin series perfectly matches the sine function for all real inputs. Moreover, whenever we approximate sine using the first few terms of its Maclaurin series, the resulting polynomial is the best possible approximation by a polynomial of that degree to the sine function near $x=0$. However, despite being the "best possible"^[What does "best possible" mean? That is an important question, and one that we will return to later.] approximation near $x=0$, these approximations rapidly transition from excellent to terrible as we stray away from $x=0$. This is readily apparent in the graphs below, which show the graph of sine together with its Taylor polynomial approximations of degrees one, three, and five.
 
-![taylorPolysForSine.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/taylorPolysForSine.png)
+![taylorPolysForSine.png\|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/taylorPolysForSine.png)
 
 If we zoom out, we can better see the scope of the problem:
 
-![taylorPolysForSineZoomOut.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/taylorPolysForSineZoomOut.png)
+![taylorPolysForSineZoomOut.png\|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/taylorPolysForSineZoomOut.png)
 
 The main issue is that the behavior of sine for large $x$ is very different from that of any polynomial. Sine is a periodic function, with values forever oscillating between -1 and 1. By contrast, every nonconstant polynomial is unbounded as $x$ grows large. So no polynomial of positive degree is a good approximation to the sine function for large $x$. This issue is not particular to the sine function. Any bounded function will have this issue, including every continuous periodic function. Is there a different type of series that is better suited to represent periodic functions?
 

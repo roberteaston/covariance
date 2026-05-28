@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/study-guides/study-guide-for-final-exam/","updated":"2025-12-10T07:51:09-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/study-guides/study-guide-for-final-exam/","updated":"2025-12-10T07:51:09-08:00","dg-note-properties":{"last updated":"2025-12-10T07:51:09-08:00","cssclasses":["clean-embeds"]}}
 ---
 
 # Module Theory Problems
@@ -29,7 +29,7 @@ Suppose $R$ is a ring, $M$ is a left $R$-module and $N_1\subseteq N_2\subseteq \
 
 Let $R$ be a ring, $M_1$ and $M_2$ be left $R$-modules, and $A_1\subseteq M_1$ and $A_2\subseteq M_2$ be submodules. Prove that $A_1\bigoplus A_2$ is (isomorphic to) a submodule of $M_1\bigoplus M_2$ and that there is an $R$-module isomorphism
 
-$\left(M_1\bigoplus M_2\right)/\left(A_1\bigoplus A_2\right)\simeq \left(M_1/A_1\right)\bigoplus \left(M_2/A_2\right).$
+$$\left(M_1\bigoplus M_2\right)/\left(A_1\bigoplus A_2\right)\simeq \left(M_1/A_1\right)\bigoplus \left(M_2/A_2\right).$$
 
 </div></div>
 
@@ -46,7 +46,7 @@ $\left(M_1\bigoplus M_2\right)/\left(A_1\bigoplus A_2\right)\simeq \left(M_1/A_1
 
 Suppose $R$ is a PID and $M$ is an $R$-module annihilated by a nonzero proper ideal $\langle a\rangle\subset R$. Let $a=p_1^{\alpha_1}\cdots p_k^{\alpha_k}$ be the prime factorization of $a$ in $R$, and let $M_i=\{m\in M\mid p_i^{\alpha_i}m=0\}$ be the annihilator of $p_i^{\alpha_i}$ in $M$. Prove that there is a direct sum $R$-module decomposition
 
-$M=M_1\bigoplus \cdots \bigoplus M_k.$
+$$M=M_1\bigoplus \cdots \bigoplus M_k.$$
 
 The submodule $M_i$ is called the **$p_i$-primary component of $M$**.
 
@@ -236,12 +236,12 @@ Show that the right Kan extension of $i_C$ along $z$ exists if and only if $C$ h
 
 
 Let $X=\{x_1,x_2,\ldots \}$ be any infinite countable set and let $M=F(X)$ be the free ${\bf Z}$-module (i.e., free abelian group) on $X$. Consider the following four set maps from $X$ to $M$, where for simplicity we simply list the images of the elements of $X$:
-$\begin{align*}
+$$\begin{align*}
 \phi_1:& (x_1,x_2,x_3,\ldots )\mapsto (x_1,x_3,x_5,\ldots)\\
 \phi_2:& (x_1,x_2,x_3,\ldots )\mapsto (x_2,x_4,x_6,\ldots)\\
 \psi_1:& (x_1,x_2,x_3,\ldots )\mapsto (x_1,0,x_2,0,\ldots)\\
 \psi_2:& (x_1,x_2,x_3,\ldots )\mapsto (0,x_1,0,x_2,\ldots)\\
-\end{align*}$
+\end{align*}$$
 Let $i_1, i_2, p_1, p_2:M\to M$ be the corresponding ${\bf Z}$-module morphisms.
 1. Prove that the diagram below is a biproduct diagram in ${\bf Ab}$:
    

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/matrix-and-characteristic-polynomial-for-a-given-linear-transformation/","tags":["linear_algebra"],"updated":"2025-03-19T10:51:59-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/matrix-and-characteristic-polynomial-for-a-given-linear-transformation/","tags":["linear_algebra"],"updated":"2025-03-19T10:51:59-07:00","dg-note-properties":{"last updated":"2025-03-19T10:51:59-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Spring 2017"]}}
 ---
 
 Let $V=\{a_0+a_1\sqrt[3]{2}+a_2\sqrt[3]{4}\mid a_0, a_1, a_2\in {\bf Q}\}\subseteq {\bf R}$. This set is a vector space over ${\bf Q}$.

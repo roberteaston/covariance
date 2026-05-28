@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/examples-of-adjoints/","tags":["category_theory"],"updated":"2025-10-07T21:00:09-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/examples-of-adjoints/","tags":["category_theory"],"updated":"2025-10-07T21:00:09-07:00","dg-note-properties":{"last updated":"2025-10-07T21:00:09-07:00","related":["[[Adjoints]]","[[Functors]]"],"tags":["category_theory"]}}
 ---
 
 ## Left adjoints of forgetful functors

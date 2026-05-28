@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/nilpotent-elements-in-a-ring/","tags":["ring_theory"],"updated":"2025-03-17T09:06:11-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/nilpotent-elements-in-a-ring/","tags":["ring_theory"],"updated":"2025-03-17T09:06:11-07:00","dg-note-properties":{"last updated":"2025-03-17T09:06:11-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2020"]}}
 ---
 
 Let $R$ be a commutative ring with 1. We say an element $n\in R$ is **nilpotent** if there exists a number $k\in {\bf N}$ such that $n^k=0$.

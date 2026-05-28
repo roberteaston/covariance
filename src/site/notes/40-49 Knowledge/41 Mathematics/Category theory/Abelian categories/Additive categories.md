@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2025-12-01T06:53:46-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/additive-categories/","tags":["category_theory/abelian_categories"],"updated":"2025-12-01T06:53:46-08:00","dg-note-properties":{"last updated":"2025-12-01T06:53:46-08:00","cssclasses":["clean-embeds"],"tags":["category_theory/abelian_categories"],"related":["[[Ab-categories]]","[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|Abelian categories]]"]}}
 ---
 
 As we [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Ab-categories#^b61743\|noted]], an ${\bf Ab}$-category is sometimes also called a **preadditive** category, suggesting that there is something called an *additive* category. Indeed:

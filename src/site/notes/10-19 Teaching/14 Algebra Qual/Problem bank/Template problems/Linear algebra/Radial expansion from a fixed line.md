@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/radial-expansion-from-a-fixed-line/","tags":["linear_algebra"],"updated":"2025-03-19T11:13:54-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/radial-expansion-from-a-fixed-line/","tags":["linear_algebra"],"updated":"2025-03-19T11:13:54-07:00","dg-note-properties":{"last updated":"2025-03-19T11:13:54-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Spring 2016"]}}
 ---
 
 Let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation that expands radially by a factor of three around the line parameterized by $L(t)=\begin{bmatrix} 2 \\ 2 \\ -1\end{bmatrix} t$, leaving the line itself fixed (viewed as a subspace).

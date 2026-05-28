@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/power-set-functors/","updated":"2025-09-18T10:42:33-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/power-set-functors/","updated":"2025-09-18T10:42:33-07:00","dg-note-properties":{"type":"exercise","last updated":"2025-09-18T10:42:33-07:00"}}
 ---
 
 There are two functors vying for the name "power set functor".

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2025-10-09T14:17:22-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/free-modules/","tags":["module_theory"],"updated":"2025-10-09T14:17:22-07:00","dg-note-properties":{"last updated":"2025-10-09T14:17:22-07:00","related":["[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Examples of free modules\|Examples of free modules]]","[[Generators for modules and submodules]]"],"tags":["module_theory"]}}
 ---
 
 ## Motivation

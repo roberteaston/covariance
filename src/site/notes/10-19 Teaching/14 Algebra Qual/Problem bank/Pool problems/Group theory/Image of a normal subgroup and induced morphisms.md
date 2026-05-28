@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/image-of-a-normal-subgroup-and-induced-morphisms/","tags":["group_theory"],"updated":"2025-03-17T08:05:06-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/image-of-a-normal-subgroup-and-induced-morphisms/","tags":["group_theory"],"updated":"2025-03-17T08:05:06-07:00","dg-note-properties":{"last updated":"2025-03-17T08:05:06-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Winter 2022"]}}
 ---
 
 Let $\sigma:G\to H$ be a group epimorphism. Let $N$ be a normal subgroup of $G$ and $K=\sigma(N)$, the image of $N$ in $H$.

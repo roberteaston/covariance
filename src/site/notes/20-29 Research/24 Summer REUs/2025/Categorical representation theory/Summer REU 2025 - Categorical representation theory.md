@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","tags":["category_theory","group_theory"],"updated":"2026-02-11T10:21:18-08:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/categorical-representation-theory/summer-reu-2025-categorical-representation-theory/","tags":["category_theory","group_theory"],"updated":"2026-02-11T10:21:18-08:00","dg-note-properties":{"last updated":"2026-02-11T10:21:18-08:00","kind":"Goal","due date":null,"Status":["In-progress"],"Priority":null,"tags":["category_theory","group_theory"],"cover":null,"description":null,"topics":null,"Parent":"[[Categorical representation theory]]","Project":["[[Categorical representation theory]]"]}}
 ---
 
 > [!quote] The tagline
@@ -108,11 +108,11 @@ Each of these aims is open-ended. Some things will be quickly and easily dealt w
 ---
 ### Aaron Boone
 aboone03@calpoly.edu
-![Boone, Aaron.jpeg|100](/img/user/90-99%20Meta/91%20Images/Headshots/Boone,%20Aaron.jpeg)
+![Boone, Aaron.jpeg\|100](/img/user/90-99%20Meta/91%20Images/Headshots/Boone,%20Aaron.jpeg)
 
 ### Mark Muzquiz
 mamuzqui@calpoly.edu
-![Muzquiz, Mark.jpeg|100](/img/user/90-99%20Meta/91%20Images/Headshots/Muzquiz,%20Mark.jpeg)
+![Muzquiz, Mark.jpeg\|100](/img/user/90-99%20Meta/91%20Images/Headshots/Muzquiz,%20Mark.jpeg)
 
 
 ## References

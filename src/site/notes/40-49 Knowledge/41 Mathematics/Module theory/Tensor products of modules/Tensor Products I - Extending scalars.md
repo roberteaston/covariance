@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2025-10-13T06:48:58-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-i-extending-scalars/","tags":["module_theory"],"updated":"2025-10-13T06:48:58-07:00","dg-note-properties":{"last updated":"2025-10-13T06:48:58-07:00","tags":["module_theory"],"related":["[[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products II - Tensor products of bimodules\|Tensor Products II - Tensor products of bimodules]]","[[Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product]]","[[Tensor Products IV - The Adjoint Property]]","[[Tensor algebras]]"]}}
 ---
 
 ## Extension of scalars

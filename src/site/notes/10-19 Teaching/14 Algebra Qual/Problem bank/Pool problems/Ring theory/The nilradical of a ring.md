@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/the-nilradical-of-a-ring/","tags":["ring_theory"],"updated":"2025-03-21T08:32:37-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/the-nilradical-of-a-ring/","tags":["ring_theory"],"updated":"2025-03-21T08:32:37-07:00","dg-note-properties":{"last updated":"2025-03-21T08:32:37-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2014"]}}
 ---
 
 Let $R$ be a commutative ring. The **nilradical** of $R$ is defined to be $N=\{r\in R\,|\, r^n=0\text{ for some }n\in {\bf N}\}$.

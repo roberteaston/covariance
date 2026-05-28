@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/properties-of-adjoints/","tags":["category_theory"],"updated":"2025-03-31T12:39:37-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/properties-of-adjoints/","tags":["category_theory"],"updated":"2025-03-31T12:39:37-07:00","dg-note-properties":{"last updated":"2025-03-31T12:39:37-07:00","related":["[[Adjoints]]","[[Universal Properties II - Commutative diagrams, cones and limits]]"],"tags":["category_theory"]}}
 ---
 
 We list the following two properties of adjoints without proof.

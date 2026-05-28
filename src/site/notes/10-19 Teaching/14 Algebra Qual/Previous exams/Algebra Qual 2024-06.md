@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2024-06/","updated":"2025-04-22T20:11:40-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2024-06/","updated":"2025-04-22T20:11:40-07:00","dg-note-properties":{"last updated":"2025-04-22T20:11:40-07:00","given":"2024-06-01"}}
 ---
 
 ## Problem 1
@@ -55,7 +55,7 @@ Let $S_n$ denote the symmetric group on $n$ letters.
 
 Let $R$ be a commutative ring with $1$, and $N$ the ideal
 
-$N=\{a\in R\,\mid\, a^n=0\text{ for some }n\}.$
+$$N=\{a\in R\,\mid\, a^n=0\text{ for some }n\}.$$
 
 Let $[b]$ be the image of $b\in R$ in $R/N$. Prove that if $[a]\in R/N$ and $[a]^m=0$ then $[a]=[0]$.
 

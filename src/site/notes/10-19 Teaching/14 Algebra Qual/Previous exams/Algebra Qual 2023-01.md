@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2023-01/","updated":"2025-04-22T20:10:38-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2023-01/","updated":"2025-04-22T20:10:38-07:00","dg-note-properties":{"last updated":"2025-04-22T20:10:38-07:00","given":"2023-01-21"}}
 ---
 
 ## Problem 1
@@ -12,7 +12,7 @@
 
 Let $G$ be a finite group and $n>1$ an integer such that $(ab)^n=a^n b^n$ for all $a,b\in G$. Let
 
-$G_n=\{c\in G\mid c^n=e\}\qquad\text{and}\qquad G^n=\{c^n\mid c\in G\}$
+$$G_n=\{c\in G\mid c^n=e\}\qquad\text{and}\qquad G^n=\{c^n\mid c\in G\}$$
 
 You may take for granted that these are subgroups. Prove that both $G_n$ and $G^n$ are normal in $G$, and $|G^n|=[G:G_n]$.
 

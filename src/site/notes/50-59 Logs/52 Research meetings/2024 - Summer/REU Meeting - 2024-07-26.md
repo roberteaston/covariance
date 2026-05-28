@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-26/","updated":"2024-08-06T14:11:39-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-07-26/","updated":"2024-08-06T14:11:39-07:00","dg-note-properties":{"last updated":"2024-08-06T14:11:39-07:00","date":"2024-07-26"}}
 ---
 
 This following is a brief summary of our research meeting on 2024-07-26.
@@ -12,7 +12,7 @@ Nicholas briefly illustrated an example (of a tropical conic of type $B_2$). Usi
 
 The finding was something very similar to this piece of investigations from my own work:
 
-![Screenshot 2024-07-26 at 11.52.42 AM.png|700](/img/user/90-99%20Meta/91%20Images/Tropical%20geometry/Screenshot%202024-07-26%20at%2011.52.42%20AM.png)
+![Screenshot 2024-07-26 at 11.52.42 AM.png\|700](/img/user/90-99%20Meta/91%20Images/Tropical%20geometry/Screenshot%202024-07-26%20at%2011.52.42%20AM.png)
 
 
 # Tasks for next meeting

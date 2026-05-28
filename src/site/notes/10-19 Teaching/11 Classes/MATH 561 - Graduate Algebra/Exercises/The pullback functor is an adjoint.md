@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/the-pullback-functor-is-an-adjoint/","updated":"2025-10-07T15:11:57-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/the-pullback-functor-is-an-adjoint/","updated":"2025-10-07T15:11:57-07:00","dg-note-properties":{"last updated":"2025-10-07T15:11:57-07:00","type":"exercise"}}
 ---
 
 Recall the notion of [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples#Pullbacks\|pullbacks]], which for the sake of this exercise we will only consider in the category $\textbf{Set}$.

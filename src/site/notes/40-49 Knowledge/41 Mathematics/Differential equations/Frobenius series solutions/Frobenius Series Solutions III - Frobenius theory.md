@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/frobenius-series-solutions/frobenius-series-solutions-iii-frobenius-theory/","tags":["differential_equations"],"updated":"2025-08-02T15:23:38-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/frobenius-series-solutions/frobenius-series-solutions-iii-frobenius-theory/","tags":["differential_equations"],"updated":"2025-08-02T15:23:38-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-02T15:23:38-07:00","related":["[[Frobenius Series Solutions II - Some illustrative examples]]"],"tags":["differential_equations"]}}
 ---
 
 Given how tedious it can be to search for Frobenius series solutions to a given differential equation, it would be nice to have some "forecasting" information that would let us know:

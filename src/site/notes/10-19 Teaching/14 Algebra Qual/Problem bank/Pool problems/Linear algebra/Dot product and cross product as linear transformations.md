@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/dot-product-and-cross-product-as-linear-transformations/","tags":["linear_algebra"],"updated":"2025-03-14T15:21:11-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/dot-product-and-cross-product-as-linear-transformations/","tags":["linear_algebra"],"updated":"2025-03-14T15:21:11-07:00","dg-note-properties":{"last updated":"2025-03-14T15:21:11-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2024"]}}
 ---
 
 Let ${\bf R}^3$ denote the $3$-dimensional vector space, and let ${\bf v}=(a,b,c)$ be a fixed nonzero vector. The maps $C:{\bf R}^3\to {\bf R}^3$ and $D:{\bf R}^3\to {\bf R}$ defined by $C({\bf w})={\bf v}\times {\bf w}$ and $D({\bf w})=({\bf v}\cdot {\bf w}){\bf v}$ are linear transformations.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-i-definition/","tags":["module_theory"],"updated":"2025-03-31T13:02:04-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-i-definition/","tags":["module_theory"],"updated":"2025-03-31T13:02:04-07:00","dg-note-properties":{"last updated":"2025-03-31T13:02:04-07:00","related":["[[Modules over a PID - The Fundamental Theorem]]","[[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form II - Additional Properties\|Rational Canonical Form II - Additional Properties]]","[[Rational Canonical Form III - Computation]]","[[Jordan Canonical Form I - Definition]]","[[Jordan Canonical Form II - Computation]]"],"tags":["module_theory"]}}
 ---
 
 ## The structure of $F[x]$-modules

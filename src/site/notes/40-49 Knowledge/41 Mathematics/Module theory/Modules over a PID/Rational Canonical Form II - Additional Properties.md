@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-ii-additional-properties/","tags":["module_theory"],"updated":"2025-03-31T13:02:24-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/rational-canonical-form-ii-additional-properties/","tags":["module_theory"],"updated":"2025-03-31T13:02:24-07:00","dg-note-properties":{"last updated":"2025-03-31T13:02:24-07:00","related":["[[Modules over a PID - The Fundamental Theorem]]","[[Rational Canonical Form I - Definition]]","[[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Rational Canonical Form III - Computation\|Rational Canonical Form III - Computation]]","[[Jordan Canonical Form I - Definition]]","[[Jordan Canonical Form II - Computation]]"],"tags":["module_theory"]}}
 ---
 
 The following are some additional properties of rational canonical forms.

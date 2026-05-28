@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/counting-morphisms-between-specified-groups/","tags":["group_theory"],"updated":"2025-03-21T08:05:47-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/counting-morphisms-between-specified-groups/","tags":["group_theory"],"updated":"2025-03-21T08:05:47-07:00","dg-note-properties":{"last updated":"2025-03-21T08:05:47-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2015"]}}
 ---
 
 Determine the number of group homomorphisms $\phi$ between the given groups. Here $K_4$ denotes the Klein four-group (also known as ${\bf Z}/2{\bf Z}\times {\bf Z}/2{\bf Z}$) and $S_3$ denotes the symmetric group on three elements.

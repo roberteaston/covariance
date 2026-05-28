@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/kan-extensions/kan-extensions/","tags":["category_theory"],"updated":"2025-11-24T11:12:27-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/kan-extensions/kan-extensions/","tags":["category_theory"],"updated":"2025-11-24T11:12:27-08:00","dg-note-properties":{"last updated":"2025-11-24T11:12:27-08:00","related":["[[Adjoints]]","[[Universal Properties III - Yoneda's Lemma]]","[[Universal Properties II - Commutative diagrams, cones and limits]]"],"tags":["category_theory"]}}
 ---
 
 > [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=66\|Saunders Mac Lane]]

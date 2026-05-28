@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-chases-without-elements/","tags":["category_theory/abelian_categories"],"updated":"2024-11-23T19:26:03-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-chases-without-elements/","tags":["category_theory/abelian_categories"],"updated":"2024-11-23T19:26:03-08:00","dg-note-properties":{"last updated":"2024-11-23T19:26:03-08:00","related":["[[Diagram lemmas]]"],"tags":["category_theory/abelian_categories"]}}
 ---
 
 

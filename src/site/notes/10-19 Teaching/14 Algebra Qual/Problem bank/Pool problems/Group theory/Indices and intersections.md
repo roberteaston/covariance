@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/indices-and-intersections/","tags":["group_theory"],"updated":"2025-03-19T11:01:26-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/indices-and-intersections/","tags":["group_theory"],"updated":"2025-03-19T11:01:26-07:00","dg-note-properties":{"last updated":"2025-03-19T11:01:26-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2016"]}}
 ---
 
 Suppose $A$ and $B$ are subgroups of a group $G$, and suppose $B$ is of finite index in $G$.

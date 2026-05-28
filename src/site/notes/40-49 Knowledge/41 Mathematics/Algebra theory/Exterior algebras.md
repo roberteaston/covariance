@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2025-11-06T14:27:18-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/exterior-algebras/","tags":["algebra_theory"],"updated":"2025-11-06T14:27:18-08:00","dg-note-properties":{"last updated":"2025-11-06T14:27:18-08:00","tags":["algebra_theory"],"related":["[[Algebras]]","[[Tensor algebras]]","[[Symmetric algebras]]","[[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]]"]}}
 ---
 
 ## Motivation

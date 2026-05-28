@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-iv-convolution-redux/","tags":["differential_equations"],"updated":"2025-08-25T08:42:19-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-iv-convolution-redux/","tags":["differential_equations"],"updated":"2025-08-25T08:42:19-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-25T08:42:19-07:00","related":["[[Laplace transform III - The Shifting Theorems]]"],"tags":["differential_equations"]}}
 ---
 
 Recall that for the Fourier transform we had

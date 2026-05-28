@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/quotient-modules/","tags":["module_theory"],"updated":"2025-10-08T10:47:56-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/quotient-modules/","tags":["module_theory"],"updated":"2025-10-08T10:47:56-07:00","dg-note-properties":{"references":["[Dummit & Foote: Section 10.2](/img/user/40-49%20Knowledge/44%20Textbooks/Dummit,%20Foote%20-%20Abstract%20Algebra%20-%203e.pdf)"],"last updated":"2025-10-08T10:47:56-07:00","related":["[[Module morphisms]]","[[Module morphisms and submodules]]"],"tags":["module_theory"]}}
 ---
 
 Since we've opened the door to studying subobjects, we can't shut that door before also allowing for the notion of quotient objects. (Don't blame me! I've already expressed my feelings on subobjects.)

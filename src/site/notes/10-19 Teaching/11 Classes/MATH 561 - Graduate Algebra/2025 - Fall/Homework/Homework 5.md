@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-5/","updated":"2025-10-22T09:29:31-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-5/","updated":"2025-10-22T09:29:31-07:00","dg-note-properties":{"last updated":"2025-10-22T09:29:31-07:00","cssclasses":null,"type":"exercise","due date":"2025-10-19"}}
 ---
 
 ## Problem 1
@@ -37,7 +37,7 @@ Your argument will prove that the two constructions are also not isomorphic as $
 > 
 > On the other hand, since [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property#An immediate consequence\|tensor product commutes with direct sums]], we have ${\bf R}$-module isomorphisms
 > 
-> ${\bf C}\otimes_{\bf R} {\bf C} \simeq {\bf C}\otimes_{\bf R}({\bf R}\oplus {\bf R})\simeq ({\bf C}\otimes_{\bf R}{\bf R})\oplus ({\bf C}\otimes_{\bf R}{\bf R})\simeq {\bf C}\oplus {\bf C}\simeq ({\bf R}\oplus {\bf R})\oplus ({\bf R}\oplus {\bf R})\simeq {\bf R}^4.$
+> $${\bf C}\otimes_{\bf R} {\bf C} \simeq {\bf C}\otimes_{\bf R}({\bf R}\oplus {\bf R})\simeq ({\bf C}\otimes_{\bf R}{\bf R})\oplus ({\bf C}\otimes_{\bf R}{\bf R})\simeq {\bf C}\oplus {\bf C}\simeq ({\bf R}\oplus {\bf R})\oplus ({\bf R}\oplus {\bf R})\simeq {\bf R}^4.$$
 > 
 > In the language of linear algebra, ${\bf C}\otimes_{\bf R} {\bf C}$ is isomorphic as a real vector space to ${\bf R}^4$, while ${\bf C}\otimes_{\bf C}{\bf C}$ is isomorphic as a real vector space to ${\bf R}^2$. Since isomorphisms of vector spaces preserve dimension, it follows that ${\bf C}\otimes_{\bf R} {\bf C}$ and ${\bf C}\otimes_{\bf C}{\bf C}$ cannot be isomorphic as ${\bf R}$-modules.
 
@@ -75,17 +75,17 @@ Suppose $D$ is an integral domain with quotient field^["Quotient field" is anoth
 > 
 > Now suppose $q\otimes m$ is a simple tensor with $q\in Q$ nonzero and $m\in M$. We can write $q=\frac{a}{d}$ for some $a,b\in D$ with $b$ nonzero, and we then have
 > 
-> $q\otimes m = \frac{a}{b}\otimes m = \left(\frac{1}{b}\cdot a\right)\otimes m = \frac{1}{b}\otimes am,$
+> $$q\otimes m = \frac{a}{b}\otimes m = \left(\frac{1}{b}\cdot a\right)\otimes m = \frac{1}{b}\otimes am,$$
 > 
 > so the result holds for $q\otimes m$.
 > 
 > Finally, suppose we take a general element of $Q\otimes_D M$, represented as a finite sum of the form $\displaystyle \sum_{i=1}^k q_i\otimes m_i$. Using the above argument, we can write each simple tensor in this sum in the form $q_i\otimes m_i = \frac{1}{b_i}\otimes m_i'$ for some $b_i\in D$ nonzero and $m_i'\in M$. Let $d$ be a least common multiple of the $b_i$ in $D$, so that for each $i$ we can write $\frac{1}{b_i}=\frac{c_i}{d}$ for some $c_i\in D$. We can then rewrite each simple tensor as
 > 
-> $\frac{1}{b_i}\otimes m_i'=\frac{c_i}{d}\otimes m_i'=\frac{1}{d}\otimes c_im_i'.$
+> $$\frac{1}{b_i}\otimes m_i'=\frac{c_i}{d}\otimes m_i'=\frac{1}{d}\otimes c_im_i'.$$
 > 
 > Using linearity, we then have
 > 
-> $\sum_{i=1}^n (q_i\otimes m_i) = \sum_{i=1}^n \left(\frac{1}{b_i}\otimes m_i'\right)=\sum_{i=1}^n \left(\frac{1}{d}\otimes c_im_i'\right) = \frac{1}{d}\otimes \sum_{i=1}^n c_im_i'=\frac{1}{d}\otimes m,$
+> $$\sum_{i=1}^n (q_i\otimes m_i) = \sum_{i=1}^n \left(\frac{1}{b_i}\otimes m_i'\right)=\sum_{i=1}^n \left(\frac{1}{d}\otimes c_im_i'\right) = \frac{1}{d}\otimes \sum_{i=1}^n c_im_i'=\frac{1}{d}\otimes m,$$
 > 
 > as desired.
 
@@ -119,7 +119,7 @@ Let $\{e_1,e_2\}$ be a basis for ${\bf R}^2$ as an ${\bf R}$-vector space. Show 
 > [!summary]- Solution
 > We [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property#Tensor products of free modules\|have seen]] that a basis for ${\bf R}^2\otimes {\bf R}^2$ as an ${\bf R}$-module is $\{e_1\otimes e_1, e_1\otimes e_2, e_2\otimes e_1, e_2\otimes e_2\}$. In particular, these four tensors are linearly independent over ${\bf R}$. Now suppose, towards a contradiction, that $e_1\otimes e_2+e_2\otimes e_1= v\otimes w$ for some $v,w\in {\bf R}^2$. Let's expand the right-hand side in terms of our basis. We have $v=a_1 e_1+ a_2e_2$ and $w=b_1e_1+b_2e_2$ for some unique real numbers $a_1, a_2, b_1, b_2\in {\bf R}$. We then have
 > 
-> $\begin{align*} v\otimes w &= (a_1 e_1+ a_2e_2)\otimes (b_1e_1+b_2e_2)\\ &= a_1b_1(e_1\otimes e_2)+a_1b_2(e_1\otimes e_2)+a_2b_1(e_2\otimes e_1)+a_2b_2(e_2\otimes e_2).\end{align*}$
+> $$\begin{align*} v\otimes w &= (a_1 e_1+ a_2e_2)\otimes (b_1e_1+b_2e_2)\\ &= a_1b_1(e_1\otimes e_2)+a_1b_2(e_1\otimes e_2)+a_2b_1(e_2\otimes e_1)+a_2b_2(e_2\otimes e_2).\end{align*}$$
 > 
 > Since the four tensors are a basis for our vector space, the equality $e_1\otimes e_2+e_2\otimes e_1= v\otimes w$ forces the following four equalities:
 > 1. $a_1b_1=0$
@@ -196,30 +196,30 @@ Define $i_1:R\to R\otimes S$ by $r\mapsto r\otimes 1_S$, and $i_2:S\to R\otimes 
 
 
 > [!summary]- Solution
-> 1. First observe that $i_1(r_1+r_2)=(r_1+r_2)\otimes 1_S = r_1\otimes 1_S+r_2\otimes 1_S = i_1(r)+i_2(r),$
+> 1. First observe that $$i_1(r_1+r_2)=(r_1+r_2)\otimes 1_S = r_1\otimes 1_S+r_2\otimes 1_S = i_1(r)+i_2(r),$$
    and also
-   $i_2(r_1r_2)=r_1r_2\otimes 1_S = r_1r_2\otimes 1_S\cdot 1_S=(r_1\otimes 1_S)\cdot (r_2\otimes 1_S)=i_1(r_1)\cdot i_1(r_2).$
+   $$i_2(r_1r_2)=r_1r_2\otimes 1_S = r_1r_2\otimes 1_S\cdot 1_S=(r_1\otimes 1_S)\cdot (r_2\otimes 1_S)=i_1(r_1)\cdot i_1(r_2).$$
    This prove $i_1$ is a ring morphism. The same argument, [mutatis mutandis](https://en.wikipedia.org/wiki/Mutatis_mutandis), proves that $i_2$ is a ring morphism.
 >   
 > 2. We need to prove that for every pair of ring morphisms $f:R\to T$, $g:S\to T$ there is a unique ring morphism $h:R\otimes S\to T$ through which $f$ and $g$ factor. So, suppose $f:R\to T$, $g:S\to T$ is a pair of ring morphisms. Define a set map $\phi:R\times S\to T$ by $\phi(r,s)=f(r)g(s)$. Observe that this is a bilinear map:
 >    
->    $\begin{align*} \phi((r_1,s)+(r_2,s))&=\phi(r_1+r_2,s)=f(r_1+r_2)g(s)\\ &= (f(r_1)+f(r_2))g(s)\\ &= f(r_1)g(s)+f(r_2)g(s)\\ &= \phi(r_1,s)+\phi(r_2,s) \end{align*}$
+>    $$\begin{align*} \phi((r_1,s)+(r_2,s))&=\phi(r_1+r_2,s)=f(r_1+r_2)g(s)\\ &= (f(r_1)+f(r_2))g(s)\\ &= f(r_1)g(s)+f(r_2)g(s)\\ &= \phi(r_1,s)+\phi(r_2,s) \end{align*}$$
 >    
->    and similarly $\phi((r,s_1)+(r,s_2))=\phi(r,s_1)+\phi(r,s_2).$
+>    and similarly $$\phi((r,s_1)+(r,s_2))=\phi(r,s_1)+\phi(r,s_2).$$
 >    
 >    By the universal property of the tensor product, we then have a corresponding ring morphism $h:R\otimes S\to T$ defined on simple tensors by $h(r\otimes s)=f(r)g(s)$. Then note that
 >    
->    $(h\circ i_1)(r)=h(r\otimes 1_S)=f(r)g(1_S)=f(r)1_T=f(r),$
+>    $$(h\circ i_1)(r)=h(r\otimes 1_S)=f(r)g(1_S)=f(r)1_T=f(r),$$
 >    
 >    so we indeed have $f=h\circ i_1$. We similarly have $g=h\circ i_2$, since
 >    
->    $(h\circ i_2)(s)=h(1_R\otimes s)=f(1_R)g(s)=1_Tg(s)=g(s).$
+>    $$(h\circ i_2)(s)=h(1_R\otimes s)=f(1_R)g(s)=1_Tg(s)=g(s).$$
 >    
 >    So we've shown $f$ and $g$ factor through $h$.
 >    
 >    As for uniqueness, suppose $h':R\otimes S\to T$ is another ring morphism such that $f$ and $g$ factor through $h'$. Then observe that
 >    
->    $\begin{align*} h'(r\otimes s) &= h'((r\otimes 1_S)\cdot (1_R\otimes s))\\ &=h'(r\otimes 1_S)\cdot h'(1_R\otimes s)\\ &=h'(i_1(r))\cdot h'(i_2(s))\\ &= f(r)g(s)\\ &=h(r\otimes s). \end{align*}$
+>    $$\begin{align*} h'(r\otimes s) &= h'((r\otimes 1_S)\cdot (1_R\otimes s))\\ &=h'(r\otimes 1_S)\cdot h'(1_R\otimes s)\\ &=h'(i_1(r))\cdot h'(i_2(s))\\ &= f(r)g(s)\\ &=h(r\otimes s). \end{align*}$$
 >    
 >    This proves uniqueness of $h$, which establishes that $R\otimes S$ (together with the ring morphisms $i_1,i_2$) satisfy the universal property of the coproduct of $R$ and $S$ (in the category of commutative rings).
 
@@ -268,11 +268,11 @@ Show that for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\ope
 > 
 > We first show $\operatorname{Hom}_S(M,N)$ is an abelian group. The addition in $\operatorname{Hom}_S(M,N)$ is defined by addition of outputs; i.e., for every pair of right $S$-module morphisms $f,g:M\to N$, we define $f+g:M\to N$ by $(f+g)(m)=f(m)+g(m)$. Of course, we need to verify this operation is well defined; i.e., that $f+g$ is still a right $S$-module morphism. It is additive because $f$ and $g$ are additive.
 > 
-> $\begin{align*} (f+g)(m_1+m_2)&=f(m_1+m_2)+g(m_1+m_2)\\ &= f(m_1)+f(m_2)+g(m_1)+g(m_2)\\ &= (f(m_1)+g(m_1))+(f(m_2)+g(m_2))\\ &= (f+g)(m_1)+(f+g)(m_2). \end{align*}$
+> $$\begin{align*} (f+g)(m_1+m_2)&=f(m_1+m_2)+g(m_1+m_2)\\ &= f(m_1)+f(m_2)+g(m_1)+g(m_2)\\ &= (f(m_1)+g(m_1))+(f(m_2)+g(m_2))\\ &= (f+g)(m_1)+(f+g)(m_2). \end{align*}$$
 > 
 > It is compatible with the right $S$-action because $f$ and $g$ are compatible with the right $S$-action:
 > 
-> $\begin{align*} (f+g)(m)\cdot s &= (f(m)+g(m))\cdot s\\ &= f(m)\cdot s+ g(m)\cdot s\\ &= f(ms)+g(ms)\\ &= (f+g)(ms). \end{align*}$
+> $$\begin{align*} (f+g)(m)\cdot s &= (f(m)+g(m))\cdot s\\ &= f(m)\cdot s+ g(m)\cdot s\\ &= f(ms)+g(ms)\\ &= (f+g)(ms). \end{align*}$$
 > 
 > So we have a well-defined binary operation on $\operatorname{Hom}_S(M,N)$. It is evidently commutative and associative, since addition in $N$ is commutative and associative. The zero map from $M$ to $N$ is a right $S$-module morphism, and it plays the role of the additive identity under this operation. Additive inverses are given via additive inverses of outputs; i.e., $(-f)(n)=-f(n)$. It is straightforward to verify $-f$ is indeed another right $S$-module morphism; let's skip checking that, at least.
 > 
@@ -282,31 +282,31 @@ Show that for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\ope
 > 
 > We define the left $R'$-action using the left $R'$-action on $N$, namely by defining $r'\cdot f$ as the function given by $(r'\cdot f)(m)=r'\cdot f(m)$. Once again, we need to verify this is well defined; i.e., the map $r'\cdot f$ is another right $S$-module morphism. The map $r'\cdot f$ is certainly additive:
 > 
-> $\begin{align*} (r'\cdot f)(m_1+m_2)&=r'\cdot f(m_1+m_2)\\ &= r'\cdot (f(m_1)+f(m_2))\\ &= r'\cdot f(m_1)+r'\cdot f(m_2)\\ &= (r'\cdot f)(m_1)+(r'\cdot f)(m_2). \end{align*}$
+> $$\begin{align*} (r'\cdot f)(m_1+m_2)&=r'\cdot f(m_1+m_2)\\ &= r'\cdot (f(m_1)+f(m_2))\\ &= r'\cdot f(m_1)+r'\cdot f(m_2)\\ &= (r'\cdot f)(m_1)+(r'\cdot f)(m_2). \end{align*}$$
 > 
 > It is still compatible with the right $S$-action:
 > 
-> $\begin{align*} (r'\cdot f)(m)\cdot s &= r'\cdot f(m)\cdot s\\ &= r'\cdot f(ms)\\ &= (r'\cdot f)(ms). \end{align*}$
+> $$\begin{align*} (r'\cdot f)(m)\cdot s &= r'\cdot f(m)\cdot s\\ &= r'\cdot f(ms)\\ &= (r'\cdot f)(ms). \end{align*}$$
 > 
 > So, $r'\cdot f$ is indeed another right $S$-module morphism from $M$ to $N$.
 > 
 > To verify this defines a left action of $R'$ on $\operatorname{Hom}_S(M,N)$, observe that we certainly have $1_{R'}\cdot f = f$, since for all $m\in M$ we have
 > 
-> $(1_{R'}\cdot f)(m) = 1_{R'}\cdot f(m) = f(m).$
+> $$(1_{R'}\cdot f)(m) = 1_{R'}\cdot f(m) = f(m).$$
 > 
 > Similarly, we have $(r_1'+r_2')\cdot f = r_1'\cdot f+r_2'\cdot f$, as
 > 
-> $\begin{align*} ((r_1'+r_2')\cdot f)(m)&=(r_1'+r_2')\cdot f(m)\\ &=r_1'\cdot f(m)+r_2'\cdot f(m)\\ &= (r_1'\cdot f)(m)+(r_2'\cdot f)(m). \end{align*}$
+> $$\begin{align*} ((r_1'+r_2')\cdot f)(m)&=(r_1'+r_2')\cdot f(m)\\ &=r_1'\cdot f(m)+r_2'\cdot f(m)\\ &= (r_1'\cdot f)(m)+(r_2'\cdot f)(m). \end{align*}$$
 > 
 > It is also compatible with our additive operation in $\operatorname{Hom}_S(M,N)$:
 > 
-> $\begin{align*} (r'\cdot (f_1+f_2))(m)&= r'\cdot (f_1+f_2)(m)\\ &= r'\cdot (f_1(m)+f_2(m))\\ &= r'\cdot f_1(m)+r'\cdot f_2(m)\\ &= (r'\cdot f_1)(m)+(r'\cdot f_2)(m)\\ &= (r'\cdot f_1+r'\cdot f_2)(m), \end{align*}$
+> $$\begin{align*} (r'\cdot (f_1+f_2))(m)&= r'\cdot (f_1+f_2)(m)\\ &= r'\cdot (f_1(m)+f_2(m))\\ &= r'\cdot f_1(m)+r'\cdot f_2(m)\\ &= (r'\cdot f_1)(m)+(r'\cdot f_2)(m)\\ &= (r'\cdot f_1+r'\cdot f_2)(m), \end{align*}$$
 > 
 > thus $r'\cdot (f_1+f_2)=r'\cdot f_1+r'\cdot f_2$.
 > 
 > Lastly, we should verify that $r'_1\cdot (r'_2\cdot f)=(r'_1r'_2)\cdot f$ for all $r'_1, r'_2\in R'$. To see this is true, observe that for every $m\in M$ we have
 > 
-> $(r'_1\cdot (r'_2\cdot f))(m)=r'_1\cdot ((r'_2\cdot f)(m)) = r'_1\cdot (r'_2\cdot f(m))=(r'_1r'_2)\cdot f(m) = (r'_1r'_2\cdot f)(m),$
+> $$(r'_1\cdot (r'_2\cdot f))(m)=r'_1\cdot ((r'_2\cdot f)(m)) = r'_1\cdot (r'_2\cdot f(m))=(r'_1r'_2)\cdot f(m) = (r'_1r'_2\cdot f)(m),$$
 > 
 > where the second-to-last equality holds by the fact that we have a left $R'$-action on $N$.
 > 
@@ -316,31 +316,31 @@ Show that for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\ope
 > 
 > The map $f\cdot r$ is additive:
 > 
-> $\begin{align*} (f\cdot r)(m_1+m_2)&=f(r(m_1+m_2))\\ &= f(rm_1+rm_2))\\ &= f(rm_1)+f(rm_2)\\ &= (f\cdot r)(m_1)+(f\cdot r)(m_2). \end{align*}$
+> $$\begin{align*} (f\cdot r)(m_1+m_2)&=f(r(m_1+m_2))\\ &= f(rm_1+rm_2))\\ &= f(rm_1)+f(rm_2)\\ &= (f\cdot r)(m_1)+(f\cdot r)(m_2). \end{align*}$$
 > 
 > It is still compatible with the right $S$-action:
 > 
-> $\begin{align*} (f\cdot r)(m)\cdot s &= f(rm)\cdot s\\ &= f(rms)\\ &= (f\cdot r)(ms). \end{align*}$
+> $$\begin{align*} (f\cdot r)(m)\cdot s &= f(rm)\cdot s\\ &= f(rms)\\ &= (f\cdot r)(ms). \end{align*}$$
 > 
 > So, $f\cdot r$ is indeed another right $S$-module morphism from $M$ to $N$.
 > 
 > To verify this defines a right action of $R$ on $\operatorname{Hom}_S(M,N)$, observe that we certainly have $f\cdot 1_R = f$, since for all $m\in M$ we have
 > 
-> $(f\cdot 1_R)(m) = f(1_R\cdot m) = f(m),$
+> $$(f\cdot 1_R)(m) = f(1_R\cdot m) = f(m),$$
 > 
 > and similarly $f\cdot (r_1+r_2) = f\cdot r_1+f\cdot r_2$, as
 > 
-> $\begin{align*} (f\cdot (r_1+r_2))(m)&=f((r_1+r_2)m)\\ &=f(r_1m+r_2m)\\ &=f(r_1m)+f(r_2m)\\ &=(f\cdot r_1)(m)+(f\cdot r_2)(m_2)\\ &= (f\cdot r_1+f\cdot r_2)(m). \end{align*}$
+> $$\begin{align*} (f\cdot (r_1+r_2))(m)&=f((r_1+r_2)m)\\ &=f(r_1m+r_2m)\\ &=f(r_1m)+f(r_2m)\\ &=(f\cdot r_1)(m)+(f\cdot r_2)(m_2)\\ &= (f\cdot r_1+f\cdot r_2)(m). \end{align*}$$
 > 
 > It is also compatible with our additive operation in $\operatorname{Hom}_S(M,N)$:
 > 
-> $\begin{align*} ((f_1+f_2)\cdot r)(m)&= (f_1+f_2)(rm)\\ &= f_1(rm)+f_2(rm)\\ &= (f_1\cdot r)(m)+(f_2\cdot r)(m)\\ &= (f_1\cdot r+f_2\cdot r)(m), \end{align*}$
+> $$\begin{align*} ((f_1+f_2)\cdot r)(m)&= (f_1+f_2)(rm)\\ &= f_1(rm)+f_2(rm)\\ &= (f_1\cdot r)(m)+(f_2\cdot r)(m)\\ &= (f_1\cdot r+f_2\cdot r)(m), \end{align*}$$
 > 
 > thus $(f_1+f_2)\cdot r = f_1\cdot r+f_2\cdot r$.
 > 
 > Finally, we should verify that $(f\cdot r_1)\cdot r_2 = f\cdot (r_1r_2)$ for all $r_1, r_2\in r$. To see this, observe that for every $m\in M$ we have
 > 
-> $((f\cdot r_1)\cdot r_2)(m)=(f\cdot r_1)(r_2m)=f(r_1(r_2m))=f((r_1r_2)m)=(f\cdot (r_1r_2))(m),$
+> $$((f\cdot r_1)\cdot r_2)(m)=(f\cdot r_1)(r_2m)=f(r_1(r_2m))=f((r_1r_2)m)=(f\cdot (r_1r_2))(m),$$
 > 
 > where the second-to-last equality holds by the fact that we have a left $R$-action on $M$.
 > 
@@ -348,11 +348,11 @@ Show that for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\ope
 > 
 > The last property we need to verify is that our two actions on $\operatorname{Hom}_S(M,N)$ are compatible. To that end, suppose $r'\in R$, $r\in R$, and $f\in \operatorname{Hom}_S(M,N)$. For every $m\in M$ we have
 > 
-> $(r'\cdot (f\cdot r))(m)=r'\cdot (f\cdot r)(m)=r'\cdot f(rm),$
+> $$(r'\cdot (f\cdot r))(m)=r'\cdot (f\cdot r)(m)=r'\cdot f(rm),$$
 > 
 > while
 > 
-> $((r'\cdot f)\cdot r)(m)=(r'\cdot f)(rm)=r'\cdot f(rm).$
+> $$((r'\cdot f)\cdot r)(m)=(r'\cdot f)(rm)=r'\cdot f(rm).$$
 > 
 > Thus, we do indeed have $r'\cdot (f\cdot r)=(r'\cdot f)\cdot r$.
 > 
@@ -381,13 +381,13 @@ Show that for each $(R,S)$-bimodule $M$ and $(R',S)$-bimodule $N$, the set $\ope
 
 Suppose $R, S$, and $T$ are rings (with unity), $M$ is an $(R,S)$-bimodule and $N$ is an $(S,T)$-bimodule.
 1. Define functors $F,G:(R,T)\text{-{\bf Bimod}}\to {\bf Set}$ such that on objects
-   $\begin{align*}
+   $$\begin{align*}
    F(P)&=\operatorname{Hom}_{(R,T)\text{-{\bf Bimod}}}(M\otimes_S N,P)\\
    G(P)&=\operatorname{Hom}_{(R,S)\text{-{\bf Bimod}}}(M,\operatorname{Hom}_{\text{{\bf Mod}-}T}(N,P)).
-   \end{align*}$
+   \end{align*}$$
    In other words, what are the maps on arrows?
 2. For every $(R,T)$-bimodule $P$ there is a set bijection
-   $\tau_P:\operatorname{Hom}_{(R,T)\text{-{\bf Bimod}}}(M\otimes_S N,P)\xrightarrow{\sim} \operatorname{Hom}_{(R,S)\text{-{\bf Bimod}}}(M,\operatorname{Hom}_{\text{{\bf Mod}-}T}(N,P)).$
+   $$\tau_P:\operatorname{Hom}_{(R,T)\text{-{\bf Bimod}}}(M\otimes_S N,P)\xrightarrow{\sim} \operatorname{Hom}_{(R,S)\text{-{\bf Bimod}}}(M,\operatorname{Hom}_{\text{{\bf Mod}-}T}(N,P)).$$
    See [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|these notes]] for the explicit description of the set map $\tau_P$, as well as the verification that $\tau_P$ is a bijection. In short, for each $(R,T)$-bimodule morphism $f:M\otimes_S N\to P$, $\tau_P(f)$ is the $(R,S)$-bimodule morphism $\tau_P(f):M\to \operatorname{Hom}_{\text{{\bf Mod}-}T}(N,P)$ that assigns to each $m\in M$ the right $T$-module morphism $n\mapsto f(m\otimes n)$.
    
    Show that these bijections $\tau_p$ define a natural transformation $\tau:F\Rightarrow G$. Since every $\tau_P$ is a bijection, we call $\tau$ a **natural isomorphism** between the functors $F$ and $G$.
@@ -408,23 +408,23 @@ Suppose $R, S$, and $T$ are rings (with unity), $M$ is an $(R,S)$-bimodule and $
 >    
 >    We next consider the functor $G$. Suppose $f:P_1\to P_2$ is an $(R,T)$-bimodule morphism. For each $(R,S)$-bimodule morphism $g:M\to \operatorname{Hom}_T(N,P_1)$, let's introduce the temporary notation $g_m$ for the right $T$-module morphism $g(m):N\to P_1$. In particular, note that composition with $f$ then yields a right $T$-module morphism $f\circ g_m:N\to P_2$. In other words, $f\circ g_m\in \operatorname{Hom}_T(N,P_2).$ It therefore makes sense to define a set map $M\to \operatorname{Hom}_T(N,P_2)$ by $m\mapsto f\circ g_m$. Again, in order to avoid getting overwhelmed by parentheses, let's denote this map by $(Gf)_g$. Of course, we need to verify that $(Gf)_g$ is actually an $(R,S)$-bimodule morphism. We first note that $g$ is a module morphism and hence additive:
 >    
->    $g_{m_1+m_2}=g(m_1+m_2)=g(m_1)+g(m_2)=g_{m_1}+g_{m_2}$
+>    $$g_{m_1+m_2}=g(m_1+m_2)=g(m_1)+g(m_2)=g_{m_1}+g_{m_2}$$
 >    
 >    Then we can observe that
 >    
->    $\begin{align*} (Gf)_g(m_1+m_2)&=f\circ g_{m_1+m_2}\\ &=f\circ (g_{m_1}+g_{m_2})\\ &=f\circ g_{m_1}+f\circ g_{m_2}\\ &= (Gf)_g(m_1)+(Gf)_g(m_2). \end{align*}$
+>    $$\begin{align*} (Gf)_g(m_1+m_2)&=f\circ g_{m_1+m_2}\\ &=f\circ (g_{m_1}+g_{m_2})\\ &=f\circ g_{m_1}+f\circ g_{m_2}\\ &= (Gf)_g(m_1)+(Gf)_g(m_2). \end{align*}$$
 >    
 >    We next verify $(Gf)_g$ is compatible with the left $R$-action. Observe that since both $f$ and $g$ are compatible with the left $R$-action we have
 >    
->    $\begin{align*} (Gf)_g(rm)&=f\circ g_{rm}\\ &= f\circ (g(rm))\\ &= f\circ (r\cdot g(m))\\ &=f\circ (r\cdot g_m)\\ &=r\cdot (f\circ g_m)\\&=r\cdot (Gf)_g(m). \end{align*}$
+>    $$\begin{align*} (Gf)_g(rm)&=f\circ g_{rm}\\ &= f\circ (g(rm))\\ &= f\circ (r\cdot g(m))\\ &=f\circ (r\cdot g_m)\\ &=r\cdot (f\circ g_m)\\&=r\cdot (Gf)_g(m). \end{align*}$$
 >    
 >    It is also compatible with the right $S$-action, once we recall that the right $S$ action on $\operatorname{Hom}_T(N,P)$ is by left multiplication on the inputs:
 >    
->    $\begin{align*} (Gf)_g(ms)&= f\circ g_{ms}\\ &= f\circ (g(ms))\\ &= f\circ (g(m)\cdot s)\\ &= f\circ (g_m\cdot s)\\ &= f\circ (g_m(s\cdot-))\\ &= (f\circ g_m)(s\cdot -)\\ &= (f\circ g_m)\cdot s\\ &= (Gf)_{g}(m)\cdot s. \end{align*}$
+>    $$\begin{align*} (Gf)_g(ms)&= f\circ g_{ms}\\ &= f\circ (g(ms))\\ &= f\circ (g(m)\cdot s)\\ &= f\circ (g_m\cdot s)\\ &= f\circ (g_m(s\cdot-))\\ &= (f\circ g_m)(s\cdot -)\\ &= (f\circ g_m)\cdot s\\ &= (Gf)_{g}(m)\cdot s. \end{align*}$$
 >    
 >    So, we've verified $(Gf)_g$ is indeed an $(R,S)$-bimodule morphism and hence we have defined a set map
 >    
->    $G(f):\operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P_1))\to \operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P_2))$
+>    $$G(f):\operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P_1))\to \operatorname{Hom}_{(R,S)}(M,\operatorname{Hom}_T(N,P_2))$$
 >    
 >    that given by $g\mapsto (Gf)_g$.
 >    
@@ -434,11 +434,11 @@ Suppose $R, S$, and $T$ are rings (with unity), $M$ is an $(R,S)$-bimodule and $
 >    
 >    Also, for each pair of composable $(R,T)$-bimodule morphisms $f_1:P_1\to P_2$ and $f_2:P_2\to P_3$, for every $(R,S)$-module morphism $g:M\to \operatorname{Hom}_T(N,P_1)$, and for every $m\in M$ we have
 >    
->    $G(f_2\circ f_1)_g(m)=(f_2\circ f_1)\circ g_m=f_2\circ (f_1\circ g_m)$
+>    $$G(f_2\circ f_1)_g(m)=(f_2\circ f_1)\circ g_m=f_2\circ (f_1\circ g_m)$$
 >    
 >    and
 >    
->    $(G(f_2)\circ G(f_1))_g(m)=G(f_2)_{G(f_1)_g}(m)=f_2\circ (G(f_1)_g(m))=f_2\circ (f_1\circ g_m)).$
+>    $$(G(f_2)\circ G(f_1))_g(m)=G(f_2)_{G(f_1)_g}(m)=f_2\circ (G(f_1)_g(m))=f_2\circ (f_1\circ g_m)).$$
 >    
 >    By associativity of composition we therefore have $G(f_2\circ f_1)_g=(G(f_2)\circ G(f_1))_g$, and as $g$ was arbitrary, this prove $G(f_2\circ f_1)= G(f_2)\circ G(f_1)$.
 >    

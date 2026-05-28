@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2025-10-07T20:45:45-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/adjoints/adjoints/","tags":["category_theory","quotes"],"updated":"2025-10-07T20:45:45-07:00","dg-note-properties":{"last updated":"2025-10-07T20:45:45-07:00","related":["[[Functors]]","[[Natural transformations]]","[[Universal Properties II - Commutative diagrams, cones and limits]]","[[40-49 Knowledge/41 Mathematics/Module theory/Constructions on modules/Free modules\|Free modules]]"],"tags":["category_theory","quotes"]}}
 ---
 
 > [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=117\|Saunders Mac Lane]]

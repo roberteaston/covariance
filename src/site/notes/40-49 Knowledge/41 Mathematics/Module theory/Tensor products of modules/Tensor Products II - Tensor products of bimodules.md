@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-ii-tensor-products-of-bimodules/","tags":["module_theory"],"updated":"2025-10-14T14:19:10-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-ii-tensor-products-of-bimodules/","tags":["module_theory"],"updated":"2025-10-14T14:19:10-07:00","dg-note-properties":{"last updated":"2025-10-14T14:19:10-07:00","related":["[[Tensor Products I - Extending scalars]]","[[Bimodules]]","[[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product\|Tensor Products III - Balanced Maps and a Universal Property of the Tensor Product]]","[[Tensor Products IV - The Adjoint Property]]"],"tags":["module_theory"]}}
 ---
 
 ## Motivation

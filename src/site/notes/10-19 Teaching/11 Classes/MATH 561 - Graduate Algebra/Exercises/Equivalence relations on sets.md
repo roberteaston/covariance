@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/equivalence-relations-on-sets/","updated":"2024-10-07T13:02:03-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/equivalence-relations-on-sets/","updated":"2024-10-07T13:02:03-07:00","dg-note-properties":{"type":"exercise","last updated":"2024-10-07T13:02:03-07:00"}}
 ---
 
 Suppose $E$ is an equivalence relation on a set $X$. Show that the usual set $X/E$ of equivalence classes can be described by a [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples#Coequalizers\|coequalizer]] in $\textbf{Set}$.

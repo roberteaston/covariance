@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/there-is-no-center-functor-on-grp/","updated":"2024-10-07T13:01:53-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/there-is-no-center-functor-on-grp/","updated":"2024-10-07T13:01:53-07:00","dg-note-properties":{"type":"exercise","last updated":"2024-10-07T13:01:53-07:00"}}
 ---
 
 Prove there does not exist a functor ${\bf Grp}\to {\bf Ab}$ with object function sending each group $G$ to its center.

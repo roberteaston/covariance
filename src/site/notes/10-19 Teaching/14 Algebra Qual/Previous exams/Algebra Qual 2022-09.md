@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2022-09/","updated":"2025-04-22T20:10:22-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2022-09/","updated":"2025-04-22T20:10:22-07:00","dg-note-properties":{"last updated":"2025-04-22T20:10:22-07:00","given":"2022-09-17"}}
 ---
 
 ## Problem 1
@@ -12,7 +12,7 @@
 
 Let $G$ be a group and $N$ a normal subgroup of $G$. Let $aN$ denote the left coset defined by $a\in G$, and consider the binary operation
 
-$G/N\times G/N\to G/N$
+$$G/N\times G/N\to G/N$$
 
 given by $(aN, bN)\mapsto abN$.
 
@@ -67,7 +67,7 @@ Let $C$ be a (possibly infinite) cyclic group, and let $\operatorname{Aut}(C)$ a
 
 Let $R$ be a commutative ring with $1$. The **characteristic** $\operatorname{char}(R)$ of $R$ is the unique integer $n\geq 0$ such that $\langle n\rangle \subset {\bf Z}$ is the kernel of the homomorphism $\theta:{\bf Z}\to R$ given by
 
-$\theta(m)=\begin{cases} \underbrace{1_R+\cdots +1_R}_{m}, & \text{ if }m\geq 0 \\ \underbrace{-1_R+\cdots+-1_R}_{|m|}, & \text{ if }m<0\end{cases}$
+$$\theta(m)=\begin{cases} \underbrace{1_R+\cdots +1_R}_{m}, & \text{ if }m\geq 0 \\ \underbrace{-1_R+\cdots+-1_R}_{|m|}, & \text{ if }m<0\end{cases}$$
 
 1. Prove that if $f:R\to S$ is a monomorphism of commutative rings with $1$, then $\operatorname{char}(R)=\operatorname{char}(S)$.
 2. Prove by given an example that $\operatorname{char}(R)$ is not always preserved by ring homomorphisms.
@@ -96,7 +96,7 @@ $\theta(m)=\begin{cases} \underbrace{1_R+\cdots +1_R}_{m}, & \text{ if }m\geq 0 
 
 Let$W\subset {\bf R}^5$ be the space spanned by the vectors
 
-$\left\{\begin{bmatrix} 1 \\ -2 \\ 0 \\ 2 \\ 1\end{bmatrix},\begin{bmatrix} -2 \\ 4 \\ -1 \\ 1 \\ 2\end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 2 \\ -2 \\1\end{bmatrix}\right\}.$
+$$\left\{\begin{bmatrix} 1 \\ -2 \\ 0 \\ 2 \\ 1\end{bmatrix},\begin{bmatrix} -2 \\ 4 \\ -1 \\ 1 \\ 2\end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 2 \\ -2 \\1\end{bmatrix}\right\}.$$
 
 1. Compute the dimension of $W$.
 2. Let $W^{\perp}=\{{\bf v}\in {\bf R}^5\,\mid\, {\bf v}\cdot {\bf w}=0\text{ for all }w\in W\}$. Determine the dimension of $W^{\perp}$, and explain how this following immediately from (a) using a theorem.

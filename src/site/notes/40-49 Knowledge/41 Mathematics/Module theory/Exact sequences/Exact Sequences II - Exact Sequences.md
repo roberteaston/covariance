@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-ii-exact-sequences/","tags":["module_theory"],"updated":"2025-10-23T14:38:04-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-ii-exact-sequences/","tags":["module_theory"],"updated":"2025-10-23T14:38:04-07:00","dg-note-properties":{"last updated":"2025-10-23T14:38:04-07:00","related":["[[Exact Sequences I - Illustrative Examples]]","[[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences\|Exact Sequences III - Morphisms of Exact Sequences]]"],"tags":["module_theory"]}}
 ---
 
 The idea of a relationship between a pair of morphisms through a common object (in this case, a module $M$) leads more generally to the notion of an *exact sequence*.

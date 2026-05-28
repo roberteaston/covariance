@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/special-types-of-rings/principal-ideal-domains-pi-ds/","tags":["ring_theory"],"updated":"2024-05-07T06:29:39-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/special-types-of-rings/principal-ideal-domains-pi-ds/","tags":["ring_theory"],"updated":"2024-05-07T06:29:39-07:00","dg-note-properties":{"last updated":"2024-05-07T06:29:39-07:00","tags":["ring_theory"]}}
 ---
 
 >[!note] Definition of principal ideal domain

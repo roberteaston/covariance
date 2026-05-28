@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/inner-automorphisms-of-an-alternating-group/","tags":["group_theory"],"updated":"2025-03-17T08:28:45-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/inner-automorphisms-of-an-alternating-group/","tags":["group_theory"],"updated":"2025-03-17T08:28:45-07:00","dg-note-properties":{"last updated":"2025-03-17T08:28:45-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2021"]}}
 ---
 
 Let $A_5$ denote the alternating group on a $5$-element set $\{1,2,3,4,5\}$. The set of automorphisms of $A_5$ form a group, denoted $\operatorname{Aut}(A_5)$. The group of **conjugations** of $A_5$, denoted $\operatorname{Conj}(A_5)$, is the subgroup of $\operatorname{Aut}(A_5)$ consisting of automorphisms of the form $\gamma_s:=s(-)s^{-1}$ where $s\in A_5$. Explicitly, $\gamma_s(x)=sxs^{-1}$ for any $x\in A_5$.

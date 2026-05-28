@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-iii-a-more-representative-example/","tags":["differential_equations"],"updated":"2025-07-29T08:21:24-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-iii-a-more-representative-example/","tags":["differential_equations"],"updated":"2025-07-29T08:21:24-07:00","dg-note-properties":{"references":[],"last updated":"2025-07-29T08:21:24-07:00","related":["[[Power Series Solutions II - First steps with power series]]"],"tags":["differential_equations"]}}
 ---
 
 ## A more representative example

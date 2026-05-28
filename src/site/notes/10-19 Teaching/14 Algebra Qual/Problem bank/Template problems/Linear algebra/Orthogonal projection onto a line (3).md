@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/orthogonal-projection-onto-a-line-3/","tags":["linear_algebra"],"updated":"2025-03-18T10:54:24-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/orthogonal-projection-onto-a-line-3/","tags":["linear_algebra"],"updated":"2025-03-18T10:54:24-07:00","dg-note-properties":{"last updated":"2025-03-18T10:54:24-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2017"]}}
 ---
 
 Let $L$ be the line $L$ parameterized by $L(t)=(2t,-3t,t)$ for $t\in {\bf R}$, and let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation that is orthogonal projection onto $L$.

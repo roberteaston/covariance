@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","tags":["category_theory"],"updated":"2025-08-25T08:38:44-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","tags":["category_theory"],"updated":"2026-04-19T19:13:21-07:00","dg-note-properties":{"last updated":"2026-04-19T19:13:21-07:00","kind":"Goal","due date":null,"Status":["In-progress"],"Priority":null,"tags":["category_theory"],"cover":null,"description":null,"topics":null,"Parent":"[[Project 'Single Arrow']]","Project":["[[Project 'Single Arrow']]"]}}
 ---
 
 
@@ -72,7 +72,7 @@ We are going to take that philosophy to the extreme, by attempting to recharacte
 
 ### Robert Easton
 rweaston@calpoly.edu
-![Me.jpg|100](/img/user/90-99%20Meta/91%20Images/Headshots/Me.jpg)
+![Me.jpg\|100](/img/user/90-99%20Meta/91%20Images/Headshots/Me.jpg)
 
 ### Liya Golden
 ligolden@calpoly.edu

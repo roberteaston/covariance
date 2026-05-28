@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/order-of-a-power-of-an-element/","tags":["group_theory"],"updated":"2025-09-10T12:40:21-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/order-of-a-power-of-an-element/","tags":["group_theory"],"updated":"2025-09-10T12:40:21-07:00","dg-note-properties":{"last updated":"2025-09-10T12:40:21-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2019"]}}
 ---
 
 Suppose $G$ is a cyclic group of finite order $n$, and $t\in G$ is a generator.

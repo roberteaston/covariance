@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/examples-of-free-modules/","tags":["module_theory"],"updated":"2025-10-09T14:25:16-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/constructions-on-modules/examples-of-free-modules/","tags":["module_theory"],"updated":"2025-10-09T14:25:16-07:00","dg-note-properties":{"last updated":"2025-10-09T14:25:16-07:00","related":["[[Free modules]]"],"tags":["module_theory"]}}
 ---
 
 Let's consider some specific examples of free modules.

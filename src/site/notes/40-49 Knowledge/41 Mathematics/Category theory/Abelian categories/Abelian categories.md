@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2025-12-01T06:55:49-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/abelian-categories/","tags":["category_theory/abelian_categories"],"updated":"2025-12-01T06:55:49-08:00","dg-note-properties":{"last updated":"2025-12-01T06:55:49-08:00","related":["[[Additive categories]]","[[Ab-categories]]"],"tags":["category_theory/abelian_categories"]}}
 ---
 
 Just as an additive category is an ${\bf Ab}$-category with with [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories#^8369c0\|two additional properties]], an **abelian** category is an additive category with yet another two additional properties. Once again, let's state the definition up front and then fill in the details:

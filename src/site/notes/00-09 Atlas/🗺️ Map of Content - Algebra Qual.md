@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-algebra-qual/","updated":"2025-04-02T14:47:20-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-algebra-qual/","updated":"2025-04-02T14:47:20-07:00","dg-note-properties":{"type":"MOC","last updated":"2025-04-02T14:47:20-07:00"}}
 ---
 
 ## Basic info

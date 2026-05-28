@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-1/","updated":"2025-10-04T15:02:15-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-1/","updated":"2025-10-04T15:02:15-07:00","dg-note-properties":{"last updated":"2025-10-04T15:02:15-07:00","cssclasses":null,"type":"exercise","due date":"2025-09-21"}}
 ---
 
 ## Problem 1
@@ -76,7 +76,7 @@ Dually, the arrow $f$ is called **epic** (or **epi**, or an **epimorphism**) if 
 >    Finally, suppose $f:X\to Y$ is surjective. Suppose $g_1, g_2:Y\to Z$ are two set maps such that $g_1\circ f = g_2\circ f$. Take any element $y\in Y$. Since $f$ is surjective, there exists some $x\in X$ with $f(x)=y$. We then have $g_1(y)=g_1(f(x))=(g_1\circ f)(x) = (g_2\circ f)(x)=g_2(y)$. Since $y\in Y$ was arbitrary, this proves $g_1=g_2$; i.e., $f$ is epic.
 > 1. Suppose an arrow $f:a\to b$ in a category $C$ is an isomorphism. Let $g:b\to a$ be the inverse arrow. To show $f$ is monic, suppose $h_1, h_2:c\to a$ are two arrows such that $f\circ h_1=f\circ h_2$. Composing both sides with $g$ then gives $g\circ (f\circ h_1)=g\circ (f\circ h_2)$. But now notice that
 >    
->    $g\circ (f\circ h_1) = (g\circ f)\circ h_1 = 1_a\circ h_1 = h_1.$
+>    $$g\circ (f\circ h_1) = (g\circ f)\circ h_1 = 1_a\circ h_1 = h_1.$$
 >    
 >    Similarly, $g\circ (f\circ h_2) = h_2$. We therefore have $h_1=h_2$, and so $f$ is indeed monic.
 >    
@@ -85,7 +85,7 @@ Dually, the arrow $f$ is called **epic** (or **epi**, or an **epimorphism**) if 
 >    
 >    The fact that $i$ is epic is more surprising and essentially boils down to the fact that ring morphisms from ${\bf Q}$ are entirely determined by their restriction to ${\bf Z}$. To see this in detail, suppose $g_1, g_2:{\bf Q}\to R$ are ring morphisms such that $g_1\circ i=g_2\circ i$ as ring morphisms ${\bf Z}\to R$. Take any element in ${\bf Q}$ and write it in the form $\frac{m}{n}$ with $m,n\in {\bf Z}$. Since each $g_i:{\bf Q}\to R$ is a ring morphism, we must have
 >    
->    $g_i\left(\frac{m}{n}\right) = g_i\left(\frac{m}{1}\cdot \frac{1}{n}\right)=g_i\left(\frac{m}{1}\right)g_i\left(\frac{n}{1}\right)^{-1}.$
+>    $$g_i\left(\frac{m}{n}\right) = g_i\left(\frac{m}{1}\cdot \frac{1}{n}\right)=g_i\left(\frac{m}{1}\right)g_i\left(\frac{n}{1}\right)^{-1}.$$
 >    
 >    Now note that $g_1\left(\frac{m}{1}\right)=g_1(i(m))=(g_1\circ i)(m)=(g_2\circ i)(m)=g_2\left(\frac{m}{1}\right).$ Combined with the above equality, it now immediately follows that $g_1\left(\frac{m}{n}\right)=g_2\left(\frac{m}{n}\right)$. Since the rational number $\frac{m}{n}$ was arbitrary, this proves $g_1=g_2$; i.e., $i$ is epic.
 
@@ -131,13 +131,13 @@ Verify that $\mathcal{P}$ and $\mathcal{P}'$ are indeed both functors. The first
 > 
 > Finally, suppose $f^{\text{op}}:X\to Y$ and $g^{\text{op}}:Y\to Z$ are composable arrows in ${\bf Set}^{\text{op}}$. Note that these arrows (by the definition of the opposite category ${\bf Set}^{\text{op}})$ correspond to set maps $f:Y\to X$ and $g:Z\to Y$, and also that $g^{\text{op}}\circ f^{\text{op}}=(f\circ g)^{\text{op}}:X\to Z$. Now fix any element $S\in \mathcal{P}'(X)$, i.e., subset $S\subseteq T$. Then we have
 > 
-> $\begin{align*}
+> $$\begin{align*}
 > \mathcal{P}'(g^{\text{op}}\circ f^{\text{op}})(S)&=\mathcal{P}'((f\circ g)^{\text{op}})(S)\\
 > &= (f\circ g)^{-1}(S)\\
 > &=g^{-1}(f^{-1}(S))\\
 > &=\mathcal{P}'(g^{\text{op}})(\mathcal{P}'(f^{\text{op}}(S))\\
 > & (\mathcal{P}'(g^{\text{op}})\circ \mathcal{P}'(f^{\text{op}}))(S).
-> \end{align*}$
+> \end{align*}$$
 > 
 > Here we used the easy fact from basic set theory that $(f\circ g)^{-1}(S)=g^{-1}(f^{-1}(S))$, which does feel a bit like cheating. In any case, since $S\in \mathcal{P}'(X)$ was arbitrary, this does indeed prove $\mathcal{P}'(g^{\text{op}}\circ f^{\text{op}}\mathcal{P}'(g^{\text{op}})\circ \mathcal{P}'(f^{\text{op}}.$ Thus, $\mathcal{P}'$ is indeed a functor.
 > 

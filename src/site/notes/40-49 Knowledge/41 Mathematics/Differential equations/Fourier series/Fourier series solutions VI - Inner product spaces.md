@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vi-inner-product-spaces/","tags":["differential_equations"],"updated":"2025-08-08T12:49:43-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vi-inner-product-spaces/","tags":["differential_equations"],"updated":"2025-08-08T12:49:43-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-08T12:49:43-07:00","related":["[[Fourier series solutions V - Computing some Fourier series]]"],"tags":["differential_equations"]}}
 ---
 
 > [!warning]

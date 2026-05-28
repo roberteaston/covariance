@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-vi-solving-differential-equations/","tags":["differential_equations"],"updated":"2025-08-19T15:20:04-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-vi-solving-differential-equations/","tags":["differential_equations"],"updated":"2025-08-19T15:20:04-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-19T15:20:04-07:00","related":["[[Fourier transform IV - Derivatives]]"],"tags":["differential_equations"]}}
 ---
 
 Let's try to use everything we know about the Fourier transform to solve some differential equations!

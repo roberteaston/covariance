@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/boolean-algebras/","tags":["ring_theory"],"updated":"2025-05-09T12:59:57-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/boolean-algebras/","tags":["ring_theory"],"updated":"2025-05-09T12:59:57-07:00","dg-note-properties":{"last updated":"2025-05-09T12:59:57-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Winter 2025"]}}
 ---
 
 A **Boolean algebra** is a ring $A$ with $1$ satisfying $x^2=x$ for all $x\in A$. Prove that in a Boolean algebra $A$:

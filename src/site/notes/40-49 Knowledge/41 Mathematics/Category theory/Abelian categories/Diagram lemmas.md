@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:34:59-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/diagram-lemmas/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:34:59-07:00","dg-note-properties":{"last updated":"2025-03-31T12:34:59-07:00","related":["[[Abelian categories]]","[[Chain complexes]]","[[Double complexes and mural maps]]","[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]]"],"tags":["category_theory/abelian_categories"]}}
 ---
 
 We can use the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]] (and the various mural maps) to quickly prove many of the named "diagram lemmas" one encounters in homological algebra (and elsewhere). This is just a sampling.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/annihilators/","updated":"2024-10-07T11:01:57-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/annihilators/","updated":"2024-10-07T11:01:57-07:00","dg-note-properties":{"type":"exercise","last updated":"2024-10-07T11:01:57-07:00"}}
 ---
 
 Suppose $R$ is a ring and $M$ is a left $R$-module.

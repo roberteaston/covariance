@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/special-types-of-rings/division-rings/","tags":["ring_theory"],"updated":"2025-07-15T09:54:47-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/special-types-of-rings/division-rings/","tags":["ring_theory"],"updated":"2025-07-15T09:54:47-07:00","dg-note-properties":{"last updated":"2025-07-15T09:54:47-07:00","tags":["ring_theory"],"related":["[[Rings]]"]}}
 ---
 
 ## Definition and examples

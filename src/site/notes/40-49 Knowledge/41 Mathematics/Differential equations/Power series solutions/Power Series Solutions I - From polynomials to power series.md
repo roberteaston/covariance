@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-i-from-polynomials-to-power-series/","tags":["differential_equations"],"updated":"2025-07-28T19:16:49-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-i-from-polynomials-to-power-series/","tags":["differential_equations"],"updated":"2025-07-28T19:16:49-07:00","dg-note-properties":{"references":[],"last updated":"2025-07-28T19:16:49-07:00","related":[],"tags":["differential_equations"]}}
 ---
 
 > [!quote] George Pólya

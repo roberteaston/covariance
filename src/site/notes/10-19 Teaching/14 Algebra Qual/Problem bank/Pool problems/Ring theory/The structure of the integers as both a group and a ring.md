@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/the-structure-of-the-integers-as-both-a-group-and-a-ring/","tags":["ring_theory"],"updated":"2025-03-17T08:19:18-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/the-structure-of-the-integers-as-both-a-group-and-a-ring/","tags":["ring_theory"],"updated":"2025-03-17T08:19:18-07:00","dg-note-properties":{"last updated":"2025-03-17T08:19:18-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2021"]}}
 ---
 
 Consider the additive group of integers ${\bf Z}$.

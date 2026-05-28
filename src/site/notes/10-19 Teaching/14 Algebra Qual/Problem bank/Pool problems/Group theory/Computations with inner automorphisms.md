@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/computations-with-inner-automorphisms/","tags":["group_theory"],"updated":"2025-03-15T15:45:18-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/computations-with-inner-automorphisms/","tags":["group_theory"],"updated":"2025-03-15T15:45:18-07:00","dg-note-properties":{"last updated":"2025-03-15T15:45:18-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2023"]}}
 ---
 
 Let $G$ be a group, and let $\operatorname{Aut}(G)$ denote the group of automorphisms of $G$. There is a homomorphism $\gamma:G\to \operatorname{Aut}(G)$ that takes $s\in G$ to the automorphism $\gamma_s$ defined by $\gamma_s(t)=sts^{-1}$.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-08-09/","updated":"2024-08-09T14:06:04-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2024-summer/reu-meeting-2024-08-09/","updated":"2024-08-09T14:06:04-07:00","dg-note-properties":{"last updated":"2024-08-09T14:06:04-07:00","date":"2024-08-09"}}
 ---
 
 Since the focus since our last meeting was to prepare for yesterday's "share out", we didn't cover any new developments in our current research. The only new thing mentioned was a feature called the "twisted product" for pairs of tropical polynomials, but that's something we'll talk about more when we focus on the second proposal, below.

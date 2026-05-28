@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/past-exams/","updated":"2025-04-22T20:44:38-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/past-exams/","updated":"2025-04-22T20:44:38-07:00","dg-note-properties":{"last updated":"2025-04-22T20:44:38-07:00"}}
 ---
 
 Looking for past exams? The official repository is available [here](https://math.calpoly.edu/degree-ms/sample-exams), although recent exams have also been recreated here and are linked below.

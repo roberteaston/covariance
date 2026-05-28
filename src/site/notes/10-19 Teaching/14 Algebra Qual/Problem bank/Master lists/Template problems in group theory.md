@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/template-problems-in-group-theory/","updated":"2025-03-29T15:01:31-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/template-problems-in-group-theory/","updated":"2025-03-29T15:01:31-07:00","dg-note-properties":{"last updated":"2025-03-29T15:01:31-07:00"}}
 ---
 
 

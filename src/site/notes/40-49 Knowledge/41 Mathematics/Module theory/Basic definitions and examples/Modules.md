@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2025-10-08T10:15:04-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/modules/","tags":["module_theory","quotes"],"updated":"2025-10-08T10:15:04-07:00","dg-note-properties":{"references":["[Dummit & Foote: Section 10.1](/img/user/40-49%20Knowledge/44%20Textbooks/Dummit,%20Foote%20-%20Abstract%20Algebra%20-%203e.pdf)"],"related":["[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Submodules\|Submodules]]","[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms\|Module morphisms]]"],"last updated":"2025-10-08T10:15:04-07:00","tags":["module_theory","quotes"]}}
 ---
 
 > [!quote] Everyone

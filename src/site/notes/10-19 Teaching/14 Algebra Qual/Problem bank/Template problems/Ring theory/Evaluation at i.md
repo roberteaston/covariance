@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/evaluation-at-i/","tags":["ring_theory"],"updated":"2025-03-19T10:57:21-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/evaluation-at-i/","tags":["ring_theory"],"updated":"2025-03-19T10:57:21-07:00","dg-note-properties":{"last updated":"2025-03-19T10:57:21-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2017"]}}
 ---
 
 Let $\varepsilon:{\bf R}[x]\to {\bf C}$ be the ring homomorphism that is evaluation at $i$, so $\varepsilon(f)=f(i)$. (Here $i$ denotes the complex number sometimes denoted $\sqrt{-1}$.)

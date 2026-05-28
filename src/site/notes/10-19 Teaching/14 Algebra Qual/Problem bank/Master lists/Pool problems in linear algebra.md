@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/pool-problems-in-linear-algebra/","updated":"2025-05-20T15:24:48-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/pool-problems-in-linear-algebra/","updated":"2025-05-20T15:24:48-07:00","dg-note-properties":{"last updated":"2025-05-20T15:24:48-07:00"}}
 ---
 
 
@@ -86,7 +86,7 @@ Suppose $V$ is a finite-dimensional real vector space and $T:V\to V$ is a linear
 
 Let $T:V\to V$ be a linear transformation on a finite-dimensional vector space. Prove that if $T^2=T$, then
 
-$V=\ker(T)\oplus \operatorname{im}(T).$
+$$V=\ker(T)\oplus \operatorname{im}(T).$$
 
 > [!info]- View $\LaTeX$ code
 > ```

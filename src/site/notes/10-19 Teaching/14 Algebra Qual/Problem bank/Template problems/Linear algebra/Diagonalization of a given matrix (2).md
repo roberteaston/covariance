@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/diagonalization-of-a-given-matrix-2/","tags":["linear_algebra"],"updated":"2025-03-17T09:07:51-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/diagonalization-of-a-given-matrix-2/","tags":["linear_algebra"],"updated":"2025-03-17T09:07:51-07:00","dg-note-properties":{"last updated":"2025-03-17T09:07:51-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2020"]}}
 ---
 
 Let $A=\begin{bmatrix} 6 & -2 & -1 \\ 10 & -3 & -2 \\ 0 & 0 & 1\end{bmatrix}$.

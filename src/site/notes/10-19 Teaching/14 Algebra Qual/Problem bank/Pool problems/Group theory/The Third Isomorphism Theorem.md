@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/the-third-isomorphism-theorem/","tags":["group_theory"],"updated":"2025-03-19T10:54:47-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/the-third-isomorphism-theorem/","tags":["group_theory"],"updated":"2025-03-19T10:54:47-07:00","dg-note-properties":{"last updated":"2025-03-19T10:54:47-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2017"]}}
 ---
 
 1. Suppose $N$ is a normal subgroup of a group $G$ and $\pi_N:G\to G/N$ is the usual projection homomorphism, defined by $\pi_N(g)=gN$. Prove that if $\phi:G\to H$ is any homomorphism with $N\leq \ker(\phi)$, then there exists a unique homomorphism $\psi:G/N\to H$ such that $\phi = \psi\circ \pi_N$. (You must explicitly define $\psi$, show it is well defined, show $\phi=\psi\circ\pi_N$, and show that $\psi$ is uniquely determined.)

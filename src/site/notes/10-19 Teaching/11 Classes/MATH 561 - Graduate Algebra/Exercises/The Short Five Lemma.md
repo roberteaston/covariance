@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/the-short-five-lemma/","updated":"2025-10-27T10:11:19-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/the-short-five-lemma/","updated":"2025-10-27T10:11:19-07:00","dg-note-properties":{"last updated":"2025-10-27T10:11:19-07:00","type":"exercise","cssclasses":[]}}
 ---
 
 Let $R$ be a ring (with unity) and suppose we have a [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences III - Morphisms of Exact Sequences#^9753c4\|morphism of short exact sequences]] of $R$-modules:

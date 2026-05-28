@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2015-03/","updated":"2025-03-21T08:22:28-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2015-03/","updated":"2025-03-21T08:22:28-07:00","dg-note-properties":{"last updated":"2025-03-21T08:22:28-07:00","given":"2015-03-14"}}
 ---
 
 ## Problem 1
@@ -57,7 +57,7 @@ Let $G$ be an abelian group and $G_T$ be the set of elements of finite order in 
 
 1. Suppose $I$ and $J$ are ideals in a commutative ring $R$ such that $R=I+J$. Prove that the map $f:R\to R/I\times R/J$ given by $f(x)=(x+I,x+J)$ induces the isomorphism
    
-   $R/IJ\cong R/I\times R/J.$
+   $$R/IJ\cong R/I\times R/J.$$
    
 2. Prove that $\left({\bf Z}/3{\bf Z}\right)[x]/(x^3-x^2-1)\cong \left({\bf Z}/3{\bf Z}\right)[x]/(x^3+x+1)$. (*Hint:* Use part (1).)
 
@@ -87,7 +87,7 @@ An element $r$ of a ring $R$ is said to be **idempotent** if $r^2=r$. Suppose th
 1. Prove that $1-e$ is also idempotent.
 2. Prove that $eR$ and $(1-e)R$ are both ideals in $R$ and that
    
-   $R\cong eR\times (1-e)R.$
+   $$R\cong eR\times (1-e)R.$$
    
 3. Prove that if $R$ has a unique maximal ideal, then the only idempotent elements in $R$ are 0 and 1.
 
@@ -118,7 +118,7 @@ An element $r$ of a ring $R$ is said to be **idempotent** if $r^2=r$. Suppose th
 
 Suppose $T$ is a linear transformation on a finite-dimensional complex inner-product space $V$. Let $I$ denote the identity transformation on $V$. The **numerical range** of $T$ is the subset of ${\bf C}$ defined by
 
-$\operatorname{W}(T)=\{\langle T(x),x\rangle \,|\, x\in V,\quad \|x\|=1\}.$
+$$\operatorname{W}(T)=\{\langle T(x),x\rangle \,|\, x\in V,\quad \|x\|=1\}.$$
 
 1. Show that $\operatorname{W}(T+cI)=\operatorname{W}(T)+c$ for every $c\in {\bf C}$.
 2. Show that $\operatorname{W}(cT)=c\operatorname{W}(T)$ for every $c\in {\bf C}$.

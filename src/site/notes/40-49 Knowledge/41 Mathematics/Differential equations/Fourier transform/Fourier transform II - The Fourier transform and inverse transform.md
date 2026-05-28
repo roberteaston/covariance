@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-ii-the-fourier-transform-and-inverse-transform/","tags":["differential_equations"],"updated":"2025-08-18T15:21:01-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-ii-the-fourier-transform-and-inverse-transform/","tags":["differential_equations"],"updated":"2025-08-18T15:21:01-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-18T15:21:01-07:00","related":["[[Fourier transform I - Pushing Fourier series to the limit]]"],"tags":["differential_equations"]}}
 ---
 
 Inspired by the [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform I - Pushing Fourier series to the limit#The takeaway\|previous example]] and ignoring any technical issues (such as convergence), we have been led to define the following:
@@ -50,7 +50,7 @@ If we believe the rectangle function $\Pi(t)$ is a "fundamental" function, then 
 
 So, we can now say $\mathcal{F}\Pi = \operatorname{sinc}$. Also, for reference, here's a bit of the graph of the $\operatorname{sinc}$ function:
 
-![sinc.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/sinc.png)
+![sinc.png\|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/sinc.png)
 
 We should note that in our build-up to the discovery of the Fourier transform, we also "proved" that the inverse Fourier transform of the $\operatorname{sinc}$ function is the rectangle function $\Pi$, i.e.,
 
@@ -72,7 +72,7 @@ $$\Lambda(t)=\begin{cases}1+t,&\text{ for }-1\leq t\leq 0\\1-t,&\text{ for }0<t\
 
 The graph of this function looks like a isosceles right triangle of height $1$ and base $2$ centered at the origin:
 
-![triangleFunction.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/triangleFunction.png)
+![triangleFunction.png\|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/triangleFunction.png)
 
 We have chosen to use the capital lambda symbol for this function's name because that Greek character also happens to look like a triangle.
 
@@ -111,7 +111,7 @@ $$f(t)=\begin{cases}e^{-t},&\text{ for }t\geq 0\\0,&\text{ otherwise}\end{cases}
 
 The graph of $f$ looks like
 
-![oneSidedExponentialDecay.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/oneSidedExponentialDecay.png)
+![oneSidedExponentialDecay.png\|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/oneSidedExponentialDecay.png)
 
 (We have not chosen a fun character to name this function, since there aren't any characters that look like the above graph.)
 
@@ -133,7 +133,7 @@ $$\begin{align*}
 
 Consider the classic Gaussian function $f(t)=e^{-\pi t^2}$, whose graph is the usual bell curve:
 
-![gaussian.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/gaussian.png)
+![gaussian.png\|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/gaussian.png)
 
 Note that the constant $\pi$ was chosen so that the area under the bell curve is exactly $1$, i.e.,
 

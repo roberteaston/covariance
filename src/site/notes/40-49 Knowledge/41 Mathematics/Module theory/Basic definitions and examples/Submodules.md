@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/submodules/","tags":["module_theory"],"updated":"2025-10-08T10:36:01-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/submodules/","tags":["module_theory"],"updated":"2025-10-08T10:36:01-07:00","dg-note-properties":{"references":["[Dummit & Foote: Section 10.1](/img/user/40-49%20Knowledge/44%20Textbooks/Dummit,%20Foote%20-%20Abstract%20Algebra%20-%203e.pdf)"],"last updated":"2025-10-08T10:36:01-07:00","related":["[[Modules]]","[[Module morphisms]]"],"tags":["module_theory"]}}
 ---
 
 I have certain opinions on whether subobjects should really be studied (at least early on in a theory, and possibly ever). While category theory can certainly be forced to incorporate such a notion, it always seems (at least to me) exactly like that: forcing the theory to accommodate a concept for which it was not naturally built. I've also yet to encounter a situation in which the notion of subobject was strictly necessary and couldn't be replaced by a closely related concept (e.g., simply a monic arrow).

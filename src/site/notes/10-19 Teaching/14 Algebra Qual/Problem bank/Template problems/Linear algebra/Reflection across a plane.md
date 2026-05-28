@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/reflection-across-a-plane/","tags":["linear_algebra"],"updated":"2025-03-21T08:40:26-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/reflection-across-a-plane/","tags":["linear_algebra"],"updated":"2025-03-21T08:40:26-07:00","dg-note-properties":{"last updated":"2025-03-21T08:40:26-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Spring 2014"]}}
 ---
 
 Let $a,b\in {\bf R}$ and $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation which is reflection across the plane $z=ax+by$.

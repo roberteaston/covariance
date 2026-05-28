@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/idempotent-elements-in-a-ring-2/","tags":["ring_theory"],"updated":"2025-03-21T08:15:07-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/idempotent-elements-in-a-ring-2/","tags":["ring_theory"],"updated":"2025-03-21T08:15:07-07:00","dg-note-properties":{"last updated":"2025-03-21T08:15:07-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2015"]}}
 ---
 
 An element $r$ of a ring $R$ is said to be **idempotent** if $r^2=r$. Suppose that $R$ is a commutative ring with unity containing an idempotent element $e$.

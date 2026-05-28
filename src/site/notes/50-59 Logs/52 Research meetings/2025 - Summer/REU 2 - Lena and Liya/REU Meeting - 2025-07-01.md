@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2025-summer/reu-2-lena-and-liya/reu-meeting-2025-07-01/","updated":"2025-07-08T09:34:21-07:00"}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2025-summer/reu-2-lena-and-liya/reu-meeting-2025-07-01/","updated":"2025-07-08T09:34:21-07:00","dg-note-properties":{"last updated":"2025-07-08T09:34:21-07:00"}}
 ---
 
 This following is a brief summary of our research meeting on 2025-07-01.

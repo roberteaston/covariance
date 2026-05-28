@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/tensor-product-of-projective-modules-is-projective/","updated":"2024-11-02T15:16:27-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/tensor-product-of-projective-modules-is-projective/","updated":"2024-11-02T15:16:27-07:00","dg-note-properties":{"type":"exercise","last updated":"2024-11-02T15:16:27-07:00"}}
 ---
 
 Suppose $R$ is a commutative ring. Prove that:

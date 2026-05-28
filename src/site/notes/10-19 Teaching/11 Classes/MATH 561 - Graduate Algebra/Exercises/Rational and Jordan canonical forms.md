@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/rational-and-jordan-canonical-forms/","updated":"2024-11-22T08:32:30-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/rational-and-jordan-canonical-forms/","updated":"2024-11-22T08:32:30-08:00","dg-note-properties":{"last updated":"2024-11-22T08:32:30-08:00","type":"exercise"}}
 ---
 
 Let $A$ be the $4\times 4$ matrix

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/comparing-cosets/","tags":["group_theory"],"updated":"2025-03-18T10:31:38-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/comparing-cosets/","tags":["group_theory"],"updated":"2025-03-18T10:31:38-07:00","dg-note-properties":{"last updated":"2025-03-18T10:31:38-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2018"]}}
 ---
 
 Suppose $G$ is a group, $H\leq G$ a subgroup, and $a,b\in G$. Prove that the following are equivalent:

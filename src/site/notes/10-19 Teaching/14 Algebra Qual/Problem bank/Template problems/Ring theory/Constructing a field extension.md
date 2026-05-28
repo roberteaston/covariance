@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/constructing-a-field-extension/","tags":["ring_theory"],"updated":"2025-03-21T08:31:01-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/constructing-a-field-extension/","tags":["ring_theory"],"updated":"2025-03-21T08:31:01-07:00","dg-note-properties":{"last updated":"2025-03-21T08:31:01-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2014"]}}
 ---
 
 Let $f(x)=x^3+x+1\in {\bf Z}_5[x]$.

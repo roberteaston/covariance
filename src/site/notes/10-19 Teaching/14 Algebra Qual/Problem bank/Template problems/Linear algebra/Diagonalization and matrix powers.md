@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/diagonalization-and-matrix-powers/","tags":["linear_algebra"],"updated":"2025-03-17T08:32:46-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/diagonalization-and-matrix-powers/","tags":["linear_algebra"],"updated":"2025-03-17T08:32:46-07:00","dg-note-properties":{"last updated":"2025-03-17T08:32:46-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Spring 2021"]}}
 ---
 
 Let $A=\begin{bmatrix} 0 & 0 & -2 \\ 1 & 2 & 1 \\ 1 & 0 & 3\end{bmatrix}$.

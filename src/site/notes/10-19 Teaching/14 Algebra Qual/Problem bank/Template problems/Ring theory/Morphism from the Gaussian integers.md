@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/morphism-from-the-gaussian-integers/","tags":["ring_theory"],"updated":"2025-03-15T15:42:24-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/morphism-from-the-gaussian-integers/","tags":["ring_theory"],"updated":"2025-03-15T15:42:24-07:00","dg-note-properties":{"last updated":"2025-03-15T15:42:24-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2023"]}}
 ---
 
 Let $i$ be the imaginary number, let ${\bf Z}[i]=\{a+bi\,\mid \, a,b\in {\bf Z}\}$, a principal ideal domain, and let ${\bf Z}_2$ be the finite ring of integers modulo 2.

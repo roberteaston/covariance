@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/diagonalization-of-a-given-matrix/","tags":["linear_algebra"],"updated":"2025-03-17T07:58:25-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/diagonalization-of-a-given-matrix/","tags":["linear_algebra"],"updated":"2025-03-17T07:58:25-07:00","dg-note-properties":{"last updated":"2025-03-17T07:58:25-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Spring 2022"]}}
 ---
 
 Let $A=\begin{bmatrix} 2 & -1 & -1 \\ 1 & 0 & -1 \\ 1 & -1 & 0\end{bmatrix}$.

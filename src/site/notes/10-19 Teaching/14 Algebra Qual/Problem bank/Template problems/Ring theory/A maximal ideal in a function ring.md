@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/a-maximal-ideal-in-a-function-ring/","tags":["ring_theory"],"updated":"2025-03-17T07:28:27-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/a-maximal-ideal-in-a-function-ring/","tags":["ring_theory"],"updated":"2025-03-17T07:28:27-07:00","dg-note-properties":{"last updated":"2025-03-17T07:28:27-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2023"]}}
 ---
 
 Let $\mathcal{C}([0,1])$ be the (commutative) ring of continuous, real-valued functions on the unit interval, and let

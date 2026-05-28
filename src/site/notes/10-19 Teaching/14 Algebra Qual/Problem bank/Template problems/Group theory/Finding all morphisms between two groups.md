@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/finding-all-morphisms-between-two-groups/","tags":["group_theory"],"updated":"2025-03-19T10:55:53-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/finding-all-morphisms-between-two-groups/","tags":["group_theory"],"updated":"2025-03-19T10:55:53-07:00","dg-note-properties":{"last updated":"2025-03-19T10:55:53-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2017"]}}
 ---
 
 Explicitly list all group homomorphisms $f: {\bf Z}/6{\bf Z} \to {\bf Z}/12{\bf Z}$.

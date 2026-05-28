@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/properties-of-the-annihilator/","tags":["ring_theory"],"updated":"2025-03-17T09:55:05-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/properties-of-the-annihilator/","tags":["ring_theory"],"updated":"2025-03-17T09:55:05-07:00","dg-note-properties":{"last updated":"2025-03-17T09:55:05-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2019"]}}
 ---
 
 Let $R$ be a commutative ring. For each nonempty subset $X\subseteq R$, the **annihilator** of $X$ is the set $\operatorname{ann}(X)=\{a\in R\mid ax=0\text{ for all }x\in X\}$.

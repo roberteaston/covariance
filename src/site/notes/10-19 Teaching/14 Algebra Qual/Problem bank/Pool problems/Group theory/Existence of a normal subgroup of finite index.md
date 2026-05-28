@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/existence-of-a-normal-subgroup-of-finite-index/","tags":["group_theory"],"updated":"2025-03-17T08:00:02-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/existence-of-a-normal-subgroup-of-finite-index/","tags":["group_theory"],"updated":"2025-03-17T08:00:02-07:00","dg-note-properties":{"last updated":"2025-03-17T08:00:02-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2022"]}}
 ---
 
 Let $N$ be a finite normal subgroup of $G$. Prove there is a normal subgroup $M$ of $G$ such that $[G:M]$ is finite and $nm=mn$ for all $n\in N$ and $m\in M$.

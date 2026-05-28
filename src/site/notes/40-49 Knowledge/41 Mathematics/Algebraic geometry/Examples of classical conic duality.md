@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebraic-geometry/examples-of-classical-conic-duality/","tags":["algebraic_geometry"],"updated":"2025-03-31T07:24:09-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebraic-geometry/examples-of-classical-conic-duality/","tags":["algebraic_geometry"],"updated":"2025-03-31T07:24:09-07:00","dg-note-properties":{"last updated":"2025-03-31T07:24:09-07:00","tags":["algebraic_geometry"]}}
 ---
 
 ## Example: The classic plane parabola

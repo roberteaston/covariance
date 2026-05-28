@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/computations-in-symmetric-groups/","tags":["group_theory"],"updated":"2025-03-14T15:17:24-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/computations-in-symmetric-groups/","tags":["group_theory"],"updated":"2025-03-14T15:17:24-07:00","dg-note-properties":{"last updated":"2025-03-14T15:17:24-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2024"]}}
 ---
 
 Let $S_n$ denote the symmetric group on $n$ letters.

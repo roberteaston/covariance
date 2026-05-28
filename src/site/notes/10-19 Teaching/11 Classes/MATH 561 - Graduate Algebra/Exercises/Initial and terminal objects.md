@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/initial-and-terminal-objects/","updated":"2025-09-20T14:11:21-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/initial-and-terminal-objects/","updated":"2025-09-20T14:11:21-07:00","dg-note-properties":{"type":"exercise","last updated":"2025-09-20T14:11:21-07:00"}}
 ---
 
 An object $i$ in a category $C$ is called **initial** if for every object $c\in C$ there exists a unique arrow $i\to c$; in other words, the hom-sets $\operatorname{Hom}_C(i,c)$ are all singleton sets.

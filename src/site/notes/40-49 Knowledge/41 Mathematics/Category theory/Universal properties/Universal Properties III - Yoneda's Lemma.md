@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-iii-yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2025-10-17T10:14:20-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-iii-yoneda-s-lemma/","tags":["category_theory","quotes"],"updated":"2025-10-17T10:14:20-07:00","dg-note-properties":{"last updated":"2025-10-17T10:14:20-07:00","related":["[[Universal Properties II - Commutative diagrams, cones and limits]]"],"tags":["category_theory","quotes"]}}
 ---
 
 > [!quote] Euripides

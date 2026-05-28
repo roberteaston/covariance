@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/exact-sequences-and-chain-homology/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:35:59-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/exact-sequences-and-chain-homology/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:35:59-07:00","dg-note-properties":{"last updated":"2025-03-31T12:35:59-07:00","related":["[[Abelian categories]]","[[Additive categories]]","[[Special morphisms]]","[[Chain complexes]]"],"tags":["category_theory/abelian_categories"]}}
 ---
 
 For each abelian category, $A$, we have defined another abelian category, $\operatorname{Ch}(A)$, whose objects are the chain complexes in $A$ and morphisms are the chain maps between such complexes. We also defined homology of such complexes, claiming it measures how close a complex is to being "exact" at each term.

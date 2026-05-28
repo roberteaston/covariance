@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/tensor-algebras/","tags":["algebra_theory"],"updated":"2025-11-02T19:42:11-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/tensor-algebras/","tags":["algebra_theory"],"updated":"2025-11-02T19:42:11-08:00","dg-note-properties":{"last updated":"2025-11-02T19:42:11-08:00","tags":["algebra_theory"],"related":["[[Algebras]]","[[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]","[[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]]","[[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]","[[Graded rings]]"]}}
 ---
 
 ## Motivation

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-7/","updated":"2025-11-06T08:37:57-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/homework/homework-7/","updated":"2025-11-06T08:37:57-08:00","dg-note-properties":{"last updated":"2025-11-06T08:37:57-08:00","cssclasses":null,"type":"exercise","due date":"2025-11-02"}}
 ---
 
 ## Problem 1
@@ -58,7 +58,7 @@ Prove:
 > 
 > So, let $\tilde{y}=y'-h_2(y_1)$. Then $g'(\tilde{y})=g(y'-h_2(y_1))=g(y')-g(h_2(y_1))=z'-z'=0$, so $\tilde{y}$ is in the kernel of $g'.$ Since the bottom row is exact at $Y'$, this implies $\tilde{y}$ is in the image of $f'$ and hence there is some $x'\in X'$ with $f'(x')=\tilde{y}$. Now $h_1$ is surjective so there is some $x\in X$ with $h_1(x)=x'$. Finally, we let $y=f(x)+y_1$. Then observe that
 > 
-> $h_2(y)=h_2(f(x))+h_2(y_1)=\tilde{y}+h_2(y_1)=y'.$
+> $$h_2(y)=h_2(f(x))+h_2(y_1)=\tilde{y}+h_2(y_1)=y'.$$
 > 
 > Thus, we've proven $h_2$ is surjective.
 
@@ -109,11 +109,11 @@ Let $R$ be a commutative ring (with unity) and let $M_1$ and $M_2$ be two $R$-mo
 >    
 >    By construction, we have
 >    
->    $(g\circ \psi)\circ i_1 = g\circ (\psi\circ i_1)=g\circ \psi_1 = \phi\circ i_1,$
+>    $$(g\circ \psi)\circ i_1 = g\circ (\psi\circ i_1)=g\circ \psi_1 = \phi\circ i_1,$$
 >    
 >    and similarly
 >    
->    $(g\circ \psi)\circ i_2 = g\circ (\psi\circ i_2)=g\circ \psi_2 = \phi\circ i_2.$
+>    $$(g\circ \psi)\circ i_2 = g\circ (\psi\circ i_2)=g\circ \psi_2 = \phi\circ i_2.$$
 >    
 >    By our universal property for $M_1\oplus M_2$, it follows that $g\circ \psi = \phi$. Thus, we've proven $M_1\oplus M_2$ is projective.
 >    
@@ -123,7 +123,7 @@ Let $R$ be a commutative ring (with unity) and let $M_1$ and $M_2$ be two $R$-mo
 >    
 >    Now let $\psi_1 = \psi\circ i_1$, where $i_1:M_1\to M_1\oplus M_2$ is the canonical injection. Then observe that
 >    
->    $\begin{align*} g\circ \psi_1 &= g\circ (\psi\circ i_1) \\ &= (g\circ \psi)\circ i_1 \\ &= (\phi\circ \pi)\circ i_1 \\ &= \phi\circ (\pi_1\circ i_1) \\ &= \phi\circ 1_{M_1} \\ &= \phi.\end{align*}$
+>    $$\begin{align*} g\circ \psi_1 &= g\circ (\psi\circ i_1) \\ &= (g\circ \psi)\circ i_1 \\ &= (\phi\circ \pi)\circ i_1 \\ &= \phi\circ (\pi_1\circ i_1) \\ &= \phi\circ 1_{M_1} \\ &= \phi.\end{align*}$$
 >    
 >    Thus, $M_1$ is indeed projective. The same argument, mutatis mutandis, proves $M_2$ is also projective.
 >    
@@ -137,11 +137,11 @@ Let $R$ be a commutative ring (with unity) and let $M_1$ and $M_2$ be two $R$-mo
 >    
 >    By construction, we have
 >    
->    $\pi_1\circ (\psi\circ g) = (\pi_1\circ \psi)\circ g = \psi_1\circ g = \pi_1\circ \phi,$
+>    $$\pi_1\circ (\psi\circ g) = (\pi_1\circ \psi)\circ g = \psi_1\circ g = \pi_1\circ \phi,$$
 >    
 >    and similarly
 >    
->    $\pi_2\circ (\psi\circ g) = (\pi_2\circ \psi)\circ g = \psi_2\circ g = \pi_2\circ \phi.$
+>    $$\pi_2\circ (\psi\circ g) = (\pi_2\circ \psi)\circ g = \psi_2\circ g = \pi_2\circ \phi.$$
 >    
 >    By our universal property for $M_1\times M_2\simeq M_1\oplus M_2$, it follows that $\psi \circ g = \phi$. Thus, we've proven $M_1\oplus M_2$ is injective.
 >    
@@ -151,21 +151,21 @@ Let $R$ be a commutative ring (with unity) and let $M_1$ and $M_2$ be two $R$-mo
 >    
 >    Now let $\psi_1 = \pi_1\circ \psi$. Then observe that
 >    
->    $\begin{align*}  \psi\circ g &= (\pi_1\circ \psi)\circ g \\ &= \pi_1\circ (\psi\circ g )\\ &= \pi_1\circ (i_1\circ \phi) \\ &= (\pi_1\circ i_1)\circ \phi \\ &= 1_{M_1}\circ \phi \\ &= \phi.\end{align*}$
+>    $$\begin{align*}  \psi\circ g &= (\pi_1\circ \psi)\circ g \\ &= \pi_1\circ (\psi\circ g )\\ &= \pi_1\circ (i_1\circ \phi) \\ &= (\pi_1\circ i_1)\circ \phi \\ &= 1_{M_1}\circ \phi \\ &= \phi.\end{align*}$$
 >    
 >    Thus, $M_1$ is indeed injective. The same argument, mutatis mutandis, proves $M_2$ is also injective.
 >    
 > 3. To make our lives easier, let's first make an observation. Let $f:J\to K$ be any morphism and consider the result of tensoring with $(M_1\oplus M_2)$ over $R$:
 >    
->    $(M_1\oplus M_2)\otimes_R J\xrightarrow{1_{M_1\oplus M_2}\otimes f} (M_1\oplus M_2)\otimes K$
+>    $$(M_1\oplus M_2)\otimes_R J\xrightarrow{1_{M_1\oplus M_2}\otimes f} (M_1\oplus M_2)\otimes K$$
 >    
 >    Recall that tensor product commutes with direct sum, and so the above morphism is naturally isomorphic to the morphism
 >    
->    $(M_1\otimes_R J)\oplus (M_2\otimes_R J)\xrightarrow{(1_{M_1}\otimes f)\oplus (1_{M_2}\otimes f)}  (M_1\otimes_R K)\oplus (M_2\otimes_R K)$
+>    $$(M_1\otimes_R J)\oplus (M_2\otimes_R J)\xrightarrow{(1_{M_1}\otimes f)\oplus (1_{M_2}\otimes f)}  (M_1\otimes_R K)\oplus (M_2\otimes_R K)$$
 >    
 >    An immediate consequence of a universal property of the direct sum is that the kernel of the above morphism is (isomorphic to ) the direct sum of the kernels of the component morphisms:
 >    
->    $\ker((1_{M_1}\otimes f)\oplus (1_{M_2}\otimes f)) \simeq \ker(1_{M_1}\otimes f)\oplus \ker(1_{M_2}\otimes f).$
+>    $$\ker((1_{M_1}\otimes f)\oplus (1_{M_2}\otimes f)) \simeq \ker(1_{M_1}\otimes f)\oplus \ker(1_{M_2}\otimes f).$$
 >    
 >    As a consequence, the morphism $(1_{M_1}\otimes f)\oplus (1_{M_2}\otimes f)$ is injective if and only if the morphisms $1_{M_1}\otimes f$ and $1_{M_2}\otimes f$ are both injective.
 >    
@@ -201,7 +201,7 @@ Let $A$ be a nonzero finite abelian group. Prove that:
 > 	- By the Fundamental Theorem of Finite Abelian Groups, $A$ has a direct summand of the form $\textbf{Z}_{p^k}$ for some prime $p$ and positive integer $k$
 > 	- By considering a certain short exact sequence of the form below, you can show $\textbf{Z}_{p^k}$ is neither injective nor surjective:
 > 	  
-> 	  $0\to p^k\textbf{Z}_{p^{2k}}\to \textbf{Z}_{p^{2k}}\to \textbf{Z}_{p^k}\to 0$
+> 	  $$0\to p^k\textbf{Z}_{p^{2k}}\to \textbf{Z}_{p^{2k}}\to \textbf{Z}_{p^k}\to 0$$
 
 
 
@@ -248,10 +248,10 @@ Suppose $R$ is a commutative ring. Prove that:
 > [!summary]- Solution
 > 1. Suppose $M$ and $N$ are free $R$-modules, say $M\simeq F(X)$ and $N\simeq F(Y)$ for some sets $X$ and $Y$. Recalling that $F(A)\simeq \bigoplus_{a\in A} R$ for any set $A$, and that tensor product commutes with direct sum, observe that
 >    
->    $\begin{align*} M\otimes_R N &\simeq  \left(\bigoplus_{x\in X}R\right)\otimes_R \left(\bigoplus_{y\in Y}R\right)\\ &\simeq \bigoplus_{x\in X} \left(R\otimes_R \left(\bigoplus_{y\in Y}R\right)\right)\\ &\simeq \bigoplus_{x\in X}\left(\bigoplus_{y\in Y}(R\otimes_R R)\right)\\ &\simeq \bigoplus_{(x,y)\in X\times Y} R\\ &\simeq \bigoplus_{z\in X\times Y} R\\ &\simeq F(X\times Y). \end{align*}$
+>    $$\begin{align*} M\otimes_R N &\simeq  \left(\bigoplus_{x\in X}R\right)\otimes_R \left(\bigoplus_{y\in Y}R\right)\\ &\simeq \bigoplus_{x\in X} \left(R\otimes_R \left(\bigoplus_{y\in Y}R\right)\right)\\ &\simeq \bigoplus_{x\in X}\left(\bigoplus_{y\in Y}(R\otimes_R R)\right)\\ &\simeq \bigoplus_{(x,y)\in X\times Y} R\\ &\simeq \bigoplus_{z\in X\times Y} R\\ &\simeq F(X\times Y). \end{align*}$$
 > 2. Suppose $M$ and $N$ are projective $R$-modules. By [[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences IV - Exact Sequences and Functors#^8dd436\|this]] characterization of projective modules, there exist isomorphisms of the form $F(X)\simeq M\oplus M'$ and $F(Y)\simeq N\oplus N'$ for some sets $X, Y$ and modules $M', N'$. Then observe that
 >    
->    $\begin{align*} F(X\sqcup Y) &\simeq F(X)\otimes_R F(Y) \\ &\simeq (M\oplus M')\otimes_R (N\oplus N') \\ &\simeq (M\otimes_R N)\oplus (M\otimes_R N')\oplus (M'\otimes_R N)\oplus (M'\otimes_R N').\end{align*}$
+>    $$\begin{align*} F(X\sqcup Y) &\simeq F(X)\otimes_R F(Y) \\ &\simeq (M\oplus M')\otimes_R (N\oplus N') \\ &\simeq (M\otimes_R N)\oplus (M\otimes_R N')\oplus (M'\otimes_R N)\oplus (M'\otimes_R N').\end{align*}$$
 >    
 >    So, $M\otimes_R N$ is isomorphic to a direct summand of a free module and hence is projective.
 

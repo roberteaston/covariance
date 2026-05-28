@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-ring-theory/","updated":"2025-03-29T15:24:52-07:00"}
+{"dg-publish":true,"permalink":"/00-09-atlas/map-of-content-ring-theory/","updated":"2025-03-29T15:24:52-07:00","dg-note-properties":{"type":"MOC","last updated":"2025-03-29T15:24:52-07:00"}}
 ---
 
 ## Basic structures

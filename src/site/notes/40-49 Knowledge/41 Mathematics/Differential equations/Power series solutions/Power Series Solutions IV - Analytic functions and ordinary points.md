@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-iv-analytic-functions-and-ordinary-points/","tags":["differential_equations"],"updated":"2025-07-31T09:04:45-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-iv-analytic-functions-and-ordinary-points/","tags":["differential_equations"],"updated":"2025-07-31T09:04:45-07:00","dg-note-properties":{"references":[],"last updated":"2025-07-31T09:04:45-07:00","related":["[[Power Series Solutions III - A more representative example]]"],"tags":["differential_equations"]}}
 ---
 
 Our goal in this not is to give some type of answer to the question "When can we find a power series solution to a differential equation?" We begin by recalling a few basic facts about power series. We then analyze the case of second-order, linear, homogeneous differential equations. As we will eventually see, that situation is already complicated enough.
@@ -15,7 +15,7 @@ $$
 
 A big part of Calculus III is building up the machinery to make sense of power series as functions. One of the central results is that a power series defines a function whose domain is always an interval centered at $x_0$, hence the name **center**. The radius $R$ of that interval of convergence is called the **radius of convergence** of the power series. If that radius is finite, then we are guaranteed that the series $P(x)$ converges absolutely for all values of $x$ in the open interval $(x_0-R,x_0+R)$. The series might or might not converge at the endpoints. That depends on the particular series.
 
-![intervalOfConvergence.png|300](/img/user/90-99%20Meta/91%20Images/Differential%20equations/intervalOfConvergence.png)
+![intervalOfConvergence.png\|300](/img/user/90-99%20Meta/91%20Images/Differential%20equations/intervalOfConvergence.png)
 
 Part of the usefulness of power series is that "most" functions can be represented by power series, at least locally. More precisely, we say a function  is **analytic at $x_0$** if it can be represented by a power series near , i.e., if there is a power series $P(x)$ centered at  such that $f(x)=P(x)$ for all  in some open interval  containing .
 
@@ -73,7 +73,7 @@ $$
 
 Using the quadratic formula, the poles of $f$ are at $x=2$ and $x=-1\pm i$. It follows that $f$ is analytic at every point except those three. In particular, it is analytic at 0 and the radius of convergence for the corresponding Taylor series is the minimum distance from 0 to those three poles.
 
-![poles.png|300](/img/user/90-99%20Meta/91%20Images/Differential%20equations/poles.png)
+![poles.png\|300](/img/user/90-99%20Meta/91%20Images/Differential%20equations/poles.png)
 
 Using the distance formula, the distances from 0 to those three poles are 2, $\sqrt{2}$, and $\sqrt{2}$, respectively, so the minimum distance from 0 to any of the poles is $\sqrt{2}$. By our above theorem, the Maclaurin series for $f$ thus has radius of convergence $R=\sqrt{2}$.
 

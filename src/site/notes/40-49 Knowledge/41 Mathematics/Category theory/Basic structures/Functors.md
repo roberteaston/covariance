@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2025-10-07T20:12:58-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functors/","tags":["category_theory","quotes"],"updated":"2025-10-07T20:12:58-07:00","dg-note-properties":{"references":["[[Maclane - Categories for the Working Mathematician.pdf#page=23|Categories for the Working Mathematician]]","[Category Theory in Context](/img/user/40-49%20Knowledge/44%20Textbooks/Riehl%20-%20Category%20Theory%20in%20Context.pdf)"],"last updated":"2025-10-07T20:12:58-07:00","related":[],"tags":["category_theory","quotes"]}}
 ---
 
 > [!quote] [[Vakil - The Rising Sea.pdf#page=25\|Brian Conrad]]

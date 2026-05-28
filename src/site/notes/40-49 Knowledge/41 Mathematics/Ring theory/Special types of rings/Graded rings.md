@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/special-types-of-rings/graded-rings/","tags":["ring_theory"],"updated":"2025-03-31T07:25:39-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/special-types-of-rings/graded-rings/","tags":["ring_theory"],"updated":"2025-03-31T07:25:39-07:00","dg-note-properties":{"last updated":"2025-03-31T07:25:39-07:00","tags":["ring_theory"],"related":["[[Tensor algebras]]"]}}
 ---
 
 ## Graded rings, morphisms and ideals

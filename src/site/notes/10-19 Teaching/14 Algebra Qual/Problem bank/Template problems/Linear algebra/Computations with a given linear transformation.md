@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/computations-with-a-given-linear-transformation/","tags":["linear_algebra"],"updated":"2025-03-18T10:34:17-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/computations-with-a-given-linear-transformation/","tags":["linear_algebra"],"updated":"2025-03-18T10:34:17-07:00","dg-note-properties":{"last updated":"2025-03-18T10:34:17-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2018"]}}
 ---
 
 Let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation defined by $T\left(\begin{bmatrix} x \\ y \\ z\end{bmatrix}\right) = \begin{bmatrix}  x+y \\ 2z-x \\ y+2z\end{bmatrix}$.

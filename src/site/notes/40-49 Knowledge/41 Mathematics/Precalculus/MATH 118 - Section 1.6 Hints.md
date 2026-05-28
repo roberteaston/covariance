@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/precalculus/math-118-section-1-6-hints/","updated":"2024-07-11T15:53:25-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/precalculus/math-118-section-1-6-hints/","updated":"2024-07-11T15:53:25-07:00","dg-note-properties":{"last updated":"2024-07-11T15:53:25-07:00"}}
 ---
 
 >[!summary] Exercise 45 in Section 1.6

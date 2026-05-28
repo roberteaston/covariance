@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/constructing-the-field-with-eight-elements/","tags":["ring_theory"],"updated":"2025-03-19T10:59:59-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/constructing-the-field-with-eight-elements/","tags":["ring_theory"],"updated":"2025-03-19T10:59:59-07:00","dg-note-properties":{"last updated":"2025-03-19T10:59:59-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2016"]}}
 ---
 
 1. Write down an irreducible cubic polynomial over ${\bf F}_2$.

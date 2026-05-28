@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodules/","tags":["#module_theory"],"updated":"2025-10-14T08:52:36-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodules/","tags":["#module_theory"],"updated":"2025-10-14T08:52:36-07:00","dg-note-properties":{"last updated":"2025-10-14T08:52:36-07:00","related":["[[Modules]]","[[Tensor Products II - Tensor products of bimodules]]","[[The 2-category of bimodules]]","[[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodule morphisms\|Bimodule morphisms]]"],"tags":["#module_theory"]}}
 ---
 
 ## Definition

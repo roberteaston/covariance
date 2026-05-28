@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2021-01/","updated":"2025-03-17T09:01:28-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2021-01/","updated":"2025-03-17T09:01:28-07:00","dg-note-properties":{"last updated":"2025-03-17T09:01:28-07:00","given":"2021-01-16"}}
 ---
 
 ## Problem 1
@@ -12,7 +12,7 @@
 
 Suppose $\{{\bf v}_1,{\bf v}_2,{\bf v}_3\}$ is a basis for ${\bf R}^3$ and $T:{\bf R}^3\to {\bf R}^3$ is a linear transformation satisfying the following:
 
-$\begin{align*} T({\bf v}_1) &= 4{\bf v}_1+2{\bf v}_2 \\ T({\bf v}_2) &= 5{\bf v}_2 \\ T({\bf v}_3) &= -2{\bf v}_1+4{\bf v}_2+5{\bf v}_3.\end{align*}$
+$$\begin{align*} T({\bf v}_1) &= 4{\bf v}_1+2{\bf v}_2 \\ T({\bf v}_2) &= 5{\bf v}_2 \\ T({\bf v}_3) &= -2{\bf v}_1+4{\bf v}_2+5{\bf v}_3.\end{align*}$$
 
 Determine the eigenvalues of $T$ and find a basis for each eigenspace.
 

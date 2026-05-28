@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/frobenius-series-solutions/frobenius-series-solutions-i-slightly-generalizing-power-series/","tags":["differential_equations"],"updated":"2025-07-30T15:30:23-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/frobenius-series-solutions/frobenius-series-solutions-i-slightly-generalizing-power-series/","tags":["differential_equations"],"updated":"2025-07-30T15:30:23-07:00","dg-note-properties":{"references":[],"last updated":"2025-07-30T15:30:23-07:00","related":["[[Power Series Solutions IV - Analytic functions and ordinary points]]"],"tags":["differential_equations"]}}
 ---
 
 ## Motivating examples

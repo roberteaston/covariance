@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iii-morphisms-of-exact-sequences/","tags":["module_theory"],"updated":"2025-10-24T07:26:26-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iii-morphisms-of-exact-sequences/","tags":["module_theory"],"updated":"2025-10-24T07:26:26-07:00","dg-note-properties":{"last updated":"2025-10-24T07:26:26-07:00","related":["[[Exact Sequences I - Illustrative Examples]]","[[Exact Sequences II - Exact Sequences]]","[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas\|Diagram lemmas]]"],"tags":["module_theory"]}}
 ---
 
 ## Motivation

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iii-series-representations-of-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-05T11:40:48-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iii-series-representations-of-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-05T11:40:48-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-05T11:40:48-07:00","related":["[[Fourier series solutions II - Periodic functions]]"],"tags":["differential_equations"]}}
 ---
 
 ## Representing periodic functions with sine functions

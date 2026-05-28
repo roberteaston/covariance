@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/stabilizer-of-a-coset/","tags":["group_theory"],"updated":"2025-03-17T09:52:24-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/stabilizer-of-a-coset/","tags":["group_theory"],"updated":"2025-03-17T09:52:24-07:00","dg-note-properties":{"last updated":"2025-03-17T09:52:24-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2019"]}}
 ---
 
 Let $G$ be a group and $H\leq G$ a subgroup. For each coset $aH$ of $H$ in $G$, define the set

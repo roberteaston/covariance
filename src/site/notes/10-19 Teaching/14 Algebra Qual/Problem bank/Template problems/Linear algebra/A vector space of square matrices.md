@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/a-vector-space-of-square-matrices/","tags":["linear_algebra"],"updated":"2025-03-17T07:37:43-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/a-vector-space-of-square-matrices/","tags":["linear_algebra"],"updated":"2025-03-17T07:37:43-07:00","dg-note-properties":{"last updated":"2025-03-17T07:37:43-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Winter 2023"]}}
 ---
 
 Let $\operatorname{M}_n({\bf R})$ be the vector space of all $n \times n$ matrices with real entries. We say that $A, B \in \operatorname{M}_n({\bf R})$ commute if $AB = BA$.

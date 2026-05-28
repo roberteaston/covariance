@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/sum-and-union-of-subspaces/","tags":["linear_algebra"],"updated":"2025-03-17T08:47:29-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/sum-and-union-of-subspaces/","tags":["linear_algebra"],"updated":"2025-03-17T08:47:29-07:00","dg-note-properties":{"last updated":"2025-03-17T08:47:29-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Winter 2021"]}}
 ---
 
 1. Give an explicit example (with proof) showing that the union of two subspaces (of a given vector space) is not necessarily a subspace.

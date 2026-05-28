@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/subgroups-of-a-group-of-even-order/","tags":["group_theory"],"updated":"2025-03-17T08:17:27-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/subgroups-of-a-group-of-even-order/","tags":["group_theory"],"updated":"2025-03-17T08:17:27-07:00","dg-note-properties":{"last updated":"2025-03-17T08:17:27-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2021"]}}
 ---
 
 Let $G$ be a group of order $2n$ for some positive integer $n > 1$.

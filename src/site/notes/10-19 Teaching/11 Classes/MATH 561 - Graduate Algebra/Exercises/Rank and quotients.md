@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/rank-and-quotients/","updated":"2025-11-06T14:28:17-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/rank-and-quotients/","updated":"2025-11-06T14:28:17-08:00","dg-note-properties":{"last updated":"2025-11-06T14:28:17-08:00","type":"exercise"}}
 ---
 
 Let $R$ be an integral domain, $M$ an $R$-module and $N$ a submodule of $M$. Prove that the rank of $M$ is the sum of the ranks of $N$ and $M/N$.

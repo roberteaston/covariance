@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-iii-the-shifting-theorems/","tags":["differential_equations"],"updated":"2025-08-22T13:17:30-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-iii-the-shifting-theorems/","tags":["differential_equations"],"updated":"2025-08-22T13:17:30-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-22T13:17:30-07:00","related":["[[Laplace transform II - The inverse Laplace transform]]"],"tags":["differential_equations"]}}
 ---
 
 With the Fourier transform, we had the [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform III - Properties of the Fourier transform#Shifting and stretching\|stretch-and-shift]] property that made computing Fourier transforms of slightly modified functions very easy, namely:

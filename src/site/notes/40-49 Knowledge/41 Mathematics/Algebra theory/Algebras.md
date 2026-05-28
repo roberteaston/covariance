@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/algebras/","tags":["algebra_theory"],"updated":"2025-10-30T14:03:08-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/algebras/","tags":["algebra_theory"],"updated":"2025-10-30T14:03:08-07:00","dg-note-properties":{"last updated":"2025-10-30T14:03:08-07:00","tags":["algebra_theory"],"related":["[[Modules]]"]}}
 ---
 
 We've seen how the notion of a ring acting on an abelian group leads to the structure of a [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules\|module]]. Can a ring act on another ring? Or, to phrase the question a bit differently, if a ring $R$ acts on a module $M$, is it possible for $M$ to have a second operation that's both compatible with the given $R$-action and makes $M$ into a ring? These two questions lead to the following two equivalent definitions of a structure known as an *algebra*.

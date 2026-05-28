@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functor-categories/","tags":["category_theory"],"updated":"2025-10-07T20:42:48-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/functor-categories/","tags":["category_theory"],"updated":"2025-10-07T20:42:48-07:00","dg-note-properties":{"last updated":"2025-10-07T20:42:48-07:00","related":["[[Categories]]","[[Functors]]","[[Natural transformations]]","[[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]"],"tags":["category_theory"]}}
 ---
 
 The establishment of [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|natural transformations]] between functors will allow us to formalize all sorts of concepts and informal definitions. First, let's see how they allow us to think of functors as objects worthy of study in and of themselves.

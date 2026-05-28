@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2016-09/","updated":"2025-03-19T11:13:44-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2016-09/","updated":"2025-03-19T11:13:44-07:00","dg-note-properties":{"last updated":"2025-03-19T11:13:44-07:00","given":"2016-09-17"}}
 ---
 
 ## Problem 1
@@ -74,7 +74,7 @@ Let $G$ be a group. Prove that $G$ is non-cyclic if and only if $G$ is the union
 
 Consider the following matrix:
 
-$A=\begin{bmatrix} 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 4 \\ 0 & 0 & 0 & 0\end{bmatrix}.$
+$$A=\begin{bmatrix} 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 4 \\ 0 & 0 & 0 & 0\end{bmatrix}.$$
 
 1. Determine the characteristic and minimal polynomials of $A$.
 2. Find a basis for ${\bf R}^4$ consisting of generalized eigenvectors of $A$.

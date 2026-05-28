@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/orthogonal-projection-and-scaling/","tags":["linear_algebra"],"updated":"2025-03-17T09:58:25-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/orthogonal-projection-and-scaling/","tags":["linear_algebra"],"updated":"2025-03-17T09:58:25-07:00","dg-note-properties":{"last updated":"2025-03-17T09:58:25-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Spring 2019"]}}
 ---
 
 Let $L$ be the line in ${\bf R}^2$ defined by $y=-3x$, and let $T:{\bf R}^2\to {\bf R}^2$ be the linear transformation that orthogonally projects onto $L$ and then stretches along $L$ by a factor of two.

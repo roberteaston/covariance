@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vii-solving-differential-equations-with-fourier-series/","tags":["differential_equations"],"updated":"2025-08-13T09:25:44-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-vii-solving-differential-equations-with-fourier-series/","tags":["differential_equations"],"updated":"2025-08-13T09:25:44-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-13T09:25:44-07:00","related":["[[Fourier series solutions VI - Inner product spaces]]"],"tags":["differential_equations"]}}
 ---
 
 Let's see how we can sometimes use Fourier series to help us solve differential equations, including some partial differential equations. We will give two real-world examples, both involving a concept known as *heat flow*. In both cases, we will be dealing with two-variable functions, where our two variables are position $x$ and time $t$. In the first example, our function will be periodic in position, while in the second example it will be periodic in time.
@@ -303,7 +303,7 @@ $$u(\sqrt{\pi/2},t)=e^{-\pi}\sin(2\pi t-\pi).$$
 
 Comparing the graph of this function with the graph of the surface temperature, we see the following:
 
-![cellarGraph.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/cellarGraph.png)
+![cellarGraph.png\|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/cellarGraph.png)
 
 
 In other words, the temperature four feet down:

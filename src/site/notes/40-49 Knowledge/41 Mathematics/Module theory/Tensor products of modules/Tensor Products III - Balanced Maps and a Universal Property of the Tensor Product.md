@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2025-10-17T06:51:43-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/tensor-products-of-modules/tensor-products-iii-balanced-maps-and-a-universal-property-of-the-tensor-product/","tags":["module_theory"],"updated":"2025-10-17T06:51:43-07:00","dg-note-properties":{"last updated":"2025-10-17T06:51:43-07:00","related":["[[Tensor Products I - Extending scalars]]","[[Tensor Products II - Tensor products of bimodules]]","[[Bimodules]]","[[Bimodule morphisms]]","[[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property\|Tensor Products IV - The Adjoint Property]]"],"tags":["module_theory"]}}
 ---
 
 ## Balanced maps

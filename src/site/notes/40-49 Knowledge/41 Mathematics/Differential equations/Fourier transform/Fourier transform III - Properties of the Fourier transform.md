@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-iii-properties-of-the-fourier-transform/","tags":["differential_equations"],"updated":"2025-08-19T09:52:50-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-iii-properties-of-the-fourier-transform/","tags":["differential_equations"],"updated":"2025-08-19T09:52:50-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-19T09:52:50-07:00","related":["[[Fourier transform II - The Fourier transform and inverse transform]]"],"tags":["differential_equations"]}}
 ---
 
 The Fourier transform (and inverse transform) enjoys a long list of very nice properties.
@@ -41,7 +41,7 @@ $$f^-(t)=f(-t).$$
 
 Note that we are not saying *inverse*, but *reverse*.  The graph of $f^-$ looks like the "reverse" of the graph of $f$, i.e., the reflection across the $y$-axis. For example, the image below shows that graph of a function $f(t)$ in red, and the graph of its reverse in blue:
 
-![signalReversal.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/signalReversal.png)
+![signalReversal.png\|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/signalReversal.png)
 
 ### Properties of signal reversal
 
@@ -156,7 +156,7 @@ In any case, the integral on the right-hand side is exactly the Fourier transfor
 
 Consider the function graphed below:
 
-![shiftStretchRect.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/shiftStretchRect.png)
+![shiftStretchRect.png\|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/shiftStretchRect.png)
 
 This looks like a shifted and stretched version of the graph of our usual rectangle function. It hasn't been altered vertically in any way, but the width of the above rectangle is $2$ (whereas the width of the usual rectangle is $1$) and its now centered at $t=3$ (whereas the usual rectangle is centered at $t=0$). We can now conclude that the above curve is defined by
 

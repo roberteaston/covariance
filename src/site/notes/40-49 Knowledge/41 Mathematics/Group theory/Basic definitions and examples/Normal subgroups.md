@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/group-theory/basic-definitions-and-examples/normal-subgroups/","tags":["group_theory"],"updated":"2025-03-31T07:25:12-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/group-theory/basic-definitions-and-examples/normal-subgroups/","tags":["group_theory"],"updated":"2025-03-31T07:25:12-07:00","dg-note-properties":{"last updated":"2025-03-31T07:25:12-07:00","tags":["group_theory"]}}
 ---
 
 ## Equivalent definitions

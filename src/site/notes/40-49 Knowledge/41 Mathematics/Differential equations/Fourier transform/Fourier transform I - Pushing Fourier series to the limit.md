@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-i-pushing-fourier-series-to-the-limit/","tags":["differential_equations"],"updated":"2025-08-18T14:45:04-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-i-pushing-fourier-series-to-the-limit/","tags":["differential_equations"],"updated":"2025-08-18T14:45:04-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-18T14:45:04-07:00","related":["[[Fourier series solutions III - Series representations of periodic functions]]"],"tags":["differential_equations"]}}
 ---
 
 We are about to discover the Fourier *transform* as the natural answer to the following:
@@ -70,11 +70,11 @@ Let's try answering this question in a particular (hopefully insightful) example
 
 Thinking like physicists for the moment, suppose we consider the simple situation of a "signal" that's "on" for one unit of time (say, $1$ second) and then "off" at all other times. We can model such a signal with a function that takes the value $1$ over an interval of length $1$, and then value $0$ everywhere else. It will turn out to make things slightly nicer numerically if we use the function that is $1$ on the interval $[-\frac{1}{2},\frac{1}{2}]$ and $0$ everywhere else. The graph of this function is
 
-![rectFunctionGraph1.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/rectFunctionGraph1.png)
+![rectFunctionGraph1.png\|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/rectFunctionGraph1.png)
 
 We can make this graph more visualizing appealing (and look more like an idealization of an actual, continuous signal) if we add dotted lines connecting the "jump" points:
 
-![rectFunctionGraph2.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/rectFunctionGraph2.png)
+![rectFunctionGraph2.png\|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/rectFunctionGraph2.png)
 
 We will follow the common convention and denote this function $\Pi(t)$, so that algebraically
 
@@ -86,11 +86,11 @@ It would be reasonable to call this the *square function*, as its graph resemble
 
 No matter what we call it, this function is decidedly *not* periodic. We can easily create periodic "versions" of this function, i.e., a function that is "on" for $1$ second bursts, periodically. For example, we might want a function that agreed with the above function on $[-1,1]$ but that was periodic with period $2$. In other words, suppose we considered the function $\Pi_2(t)$ whose graph looked like
 
-![Pi2.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/Pi2.png)
+![Pi2.png\|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/Pi2.png)
 
 Similarly, if we wanted a function that was "on" for $1$-second intervals every $4$ seconds, we could consider the function $\Pi_4(t)$ whose graph looked like
 
-![Pi4.png|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/Pi4.png)
+![Pi4.png\|900](/img/user/90-99%20Meta/91%20Images/Differential%20equations/Pi4.png)
 
 In general, for every $T > 1$ let's let $\Pi_T(t)$ denote the function that is periodic with period $T$ and takes the value $1$ on $[-\frac{1}{2},\frac{1}{2}]$. This function takes the value $1$ on every interval of the form $[kT-\frac{1}{2},kT+\frac{1}{2}]$, and is $0$ elsewhere.
 
@@ -127,7 +127,7 @@ $$\int_{-\infty}^{\infty} \frac{\sin(\pi s)}{\pi s}e^{2\pi its}\operatorname{d}s
 
 Ignoring questions of convergence, the conventional approach would be to subdivide the $s$-axis into little slices of equal length, say length $\Delta s = \frac{1}{T}$:
 
-![s-axisRiemannSum.excalidraw.png|900](/img/user/90-99%20Meta/93%20Excalidraw/Mathematics/S/s-axisRiemannSum.excalidraw.png)
+![s-axisRiemannSum.excalidraw.png\|900](/img/user/90-99%20Meta/93%20Excalidraw/Mathematics/S/s-axisRiemannSum.excalidraw.png)
 
 We would then evaluate the integrand at the values $s=\ldots,-\frac{2}{T},-\frac{1}{T},0,\frac{1}{T},\frac{2}{T},\ldots$, i.e., at all points of the form $s=\frac{n}{T}$ where $n\in {\bf Z}$. 
 

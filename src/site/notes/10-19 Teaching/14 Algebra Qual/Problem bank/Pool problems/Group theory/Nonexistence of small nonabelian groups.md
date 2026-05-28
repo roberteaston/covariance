@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/nonexistence-of-small-nonabelian-groups/","tags":["group_theory"],"updated":"2025-03-17T08:26:52-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/nonexistence-of-small-nonabelian-groups/","tags":["group_theory"],"updated":"2025-03-17T08:26:52-07:00","dg-note-properties":{"last updated":"2025-03-17T08:26:52-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2021"]}}
 ---
 
 Prove from the definition along that there are no nonabelian groups of order less than $5$.

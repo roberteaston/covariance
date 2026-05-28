@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-arrows-and-elements/","tags":["category_theory"],"updated":"2025-03-31T12:48:03-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-arrows-and-elements/","tags":["category_theory"],"updated":"2025-03-31T12:48:03-07:00","dg-note-properties":{"last updated":"2025-03-31T12:48:03-07:00","related":["[[Universal Properties I - Inspiring Examples]]"],"tags":["category_theory"]}}
 ---
 
 There are [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|examples]] scattered all throughout mathematics in which an object is constructed with certain special properties (usually in relation to some diagram or system of information) and then shown to be "special" in some way amongst the collection of all objects with such properties. Such an object is then usually granted a unique name, often with reference to the diagram of information from which that object was constructed.

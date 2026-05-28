@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2019-06/","updated":"2025-03-17T09:59:00-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2019-06/","updated":"2025-03-17T09:59:00-07:00","dg-note-properties":{"last updated":"2025-03-17T09:59:00-07:00","given":"2019-06-09"}}
 ---
 
 ## Problem 1
@@ -38,7 +38,7 @@ Let $L$ be the line in ${\bf R}^2$ defined by $y=-3x$, and let $T:{\bf R}^2\to {
 
 Let $G$ be a group and $H\leq G$ a subgroup. For each coset $aH$ of $H$ in $G$, define the set
 
-$G_{aH}=\{b\in G\,|\,baH=aH\}.$
+$$G_{aH}=\{b\in G\,|\,baH=aH\}.$$
 
 1. Prove that $G_{aH}$ is a subgroup of $G$.
 2. Suppose that $H$ is normal in $G$. Prove that $G_{aH}=H$.

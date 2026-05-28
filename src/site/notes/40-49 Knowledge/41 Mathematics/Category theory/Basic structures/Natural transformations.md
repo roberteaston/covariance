@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/natural-transformations/","tags":["category_theory","quotes"],"updated":"2025-10-07T20:38:06-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/basic-structures/natural-transformations/","tags":["category_theory","quotes"],"updated":"2025-10-07T20:38:06-07:00","dg-note-properties":{"references":["[[Maclane - Categories for the Working Mathematician.pdf#page=26|Categories for the Working Mathematician]]"],"last updated":"2025-10-07T20:38:06-07:00","related":["[[Functors]]"],"tags":["category_theory","quotes"]}}
 ---
 
 

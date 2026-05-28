@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/pool-problems-in-ring-theory/","updated":"2025-05-19T17:48:00-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/pool-problems-in-ring-theory/","updated":"2025-05-19T17:48:00-07:00","dg-note-properties":{"last updated":"2025-05-19T17:48:00-07:00"}}
 ---
 
 
@@ -121,7 +121,7 @@ Suppose $R$ is a ring such that $r^2=r$ for every element $r\in R$.
 
 Let $R$ be a commutative ring with $1$. The **characteristic** $\operatorname{char}(R)$ of $R$ is the unique integer $n\geq 0$ such that $\langle n\rangle \subset {\bf Z}$ is the kernel of the homomorphism $\theta:{\bf Z}\to R$ given by
 
-$\theta(m)=\begin{cases} \underbrace{1_R+\cdots +1_R}_{m}, & \text{ if }m\geq 0 \\ \underbrace{-1_R+\cdots+-1_R}_{|m|}, & \text{ if }m<0\end{cases}$
+$$\theta(m)=\begin{cases} \underbrace{1_R+\cdots +1_R}_{m}, & \text{ if }m\geq 0 \\ \underbrace{-1_R+\cdots+-1_R}_{|m|}, & \text{ if }m<0\end{cases}$$
 
 1. Prove that if $f:R\to S$ is a monomorphism of commutative rings with $1$, then $\operatorname{char}(R)=\operatorname{char}(S)$.
 2. Prove by given an example that $\operatorname{char}(R)$ is not always preserved by ring homomorphisms.
@@ -308,7 +308,7 @@ An element $r$ of a ring $R$ is said to be **idempotent** if $r^2=r$. Suppose th
 1. Prove that $1-e$ is also idempotent.
 2. Prove that $eR$ and $(1-e)R$ are both ideals in $R$ and that
    
-   $R\cong eR\times (1-e)R.$
+   $$R\cong eR\times (1-e)R.$$
    
 3. Prove that if $R$ has a unique maximal ideal, then the only idempotent elements in $R$ are 0 and 1.
 
@@ -593,7 +593,7 @@ Suppose $\phi:R\to S$ is a ring homomorphism, and $S$ has no (nonzero) zero-divi
 
 Let $R$ be a commutative ring with $1$, and $N$ the ideal
 
-$N=\{a\in R\,\mid\, a^n=0\text{ for some }n\}.$
+$$N=\{a\in R\,\mid\, a^n=0\text{ for some }n\}.$$
 
 Let $[b]$ be the image of $b\in R$ in $R/N$. Prove that if $[a]\in R/N$ and $[a]^m=0$ then $[a]=[0]$.
 

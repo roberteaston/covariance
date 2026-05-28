@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024-tropical-conic-duality/","updated":"2025-08-13T10:16:25-07:00"}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2024/summer-reu-2024-tropical-conic-duality/","updated":"2025-08-13T10:16:25-07:00","dg-note-properties":{"last updated":"2025-08-13T10:16:25-07:00"}}
 ---
 
 ## Meeting notes
@@ -74,4 +74,4 @@ The task list below will grow and change over the course of our project.
 ---
 
 Because of various technical issues, I cannot share the live version of the project timeline. As a workaround, I am embedding a snapshot of that timeline below. I'll make sure to update this snapshot whenever I update the timeline.
-![Project_Timeline.png|900](/img/user/90-99%20Meta/91%20Images/Tropical%20geometry/Project_Timeline.png)
+![Project_Timeline.png\|900](/img/user/90-99%20Meta/91%20Images/Tropical%20geometry/Project_Timeline.png)

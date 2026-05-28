@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/the-evaluation-map/","updated":"2024-10-07T13:02:29-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/the-evaluation-map/","updated":"2024-10-07T13:02:29-07:00","dg-note-properties":{"type":"exercise","last updated":"2024-10-07T13:02:29-07:00"}}
 ---
 
 Let $S$ be a fixed set. For each set $X$, let $X^S$ denote the set of all functions $h:S\to X$ in ${\bf Set}$.

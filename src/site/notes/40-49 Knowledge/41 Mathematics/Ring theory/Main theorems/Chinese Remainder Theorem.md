@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/main-theorems/chinese-remainder-theorem/","tags":["ring_theory"],"updated":"2025-07-15T09:26:45-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/ring-theory/main-theorems/chinese-remainder-theorem/","tags":["ring_theory"],"updated":"2025-07-15T09:26:45-07:00","dg-note-properties":{"last updated":"2025-07-15T09:26:45-07:00","tags":["ring_theory"]}}
 ---
 
 > [!summary] The Chinese Remainder Theorem

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/the-cyclic-group-of-order-2020/","tags":["group_theory"],"updated":"2025-03-17T09:11:23-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/the-cyclic-group-of-order-2020/","tags":["group_theory"],"updated":"2025-03-17T09:11:23-07:00","dg-note-properties":{"last updated":"2025-03-17T09:11:23-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2020"]}}
 ---
 
 Let $G$ be the additive group ${\bf Z}_{2020}$ and let $H\subseteq G$ be the subset consisting of those elements with order dividing 20.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/properties-of-boolean-rings/","tags":["ring_theory"],"updated":"2025-03-21T08:35:13-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/properties-of-boolean-rings/","tags":["ring_theory"],"updated":"2025-03-21T08:35:13-07:00","dg-note-properties":{"last updated":"2025-03-21T08:35:13-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2014"]}}
 ---
 
 Let $A$ be a commutative ring with unit. We call $A$ **Boolean** if $a^2=a$ for every $a\in A$. Prove that in a Boolean ring $A$ each of the following holds:

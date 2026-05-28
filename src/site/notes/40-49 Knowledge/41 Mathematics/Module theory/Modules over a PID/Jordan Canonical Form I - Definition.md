@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-i-definition/","tags":["module_theory"],"updated":"2025-11-14T10:59:45-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/modules-over-a-pid/jordan-canonical-form-i-definition/","tags":["module_theory"],"updated":"2025-11-14T10:59:45-08:00","dg-note-properties":{"last updated":"2025-11-14T10:59:45-08:00","related":["[[Modules over a PID - The Fundamental Theorem]]","[[Rational Canonical Form I - Definition]]","[[Rational Canonical Form II - Additional Properties]]","[[Rational Canonical Form III - Computation]]","[[40-49 Knowledge/41 Mathematics/Module theory/Modules over a PID/Jordan Canonical Form II - Computation\|Jordan Canonical Form II - Computation]]"],"tags":["module_theory"]}}
 ---
 
 ## The Jordan Canonical Form

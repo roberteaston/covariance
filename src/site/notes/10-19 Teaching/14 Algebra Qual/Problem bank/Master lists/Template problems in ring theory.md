@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/template-problems-in-ring-theory/","updated":"2025-03-29T15:01:40-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/template-problems-in-ring-theory/","updated":"2025-03-29T15:01:40-07:00","dg-note-properties":{"last updated":"2025-03-29T15:01:40-07:00"}}
 ---
 
 
@@ -10,7 +10,7 @@
 
 1. Suppose $I$ and $J$ are ideals in a commutative ring $R$ such that $R=I+J$. Prove that the map $f:R\to R/I\times R/J$ given by $f(x)=(x+I,x+J)$ induces the isomorphism
    
-   $R/IJ\cong R/I\times R/J.$
+   $$R/IJ\cong R/I\times R/J.$$
    
 2. Prove that $\left({\bf Z}/3{\bf Z}\right)[x]/(x^3-x^2-1)\cong \left({\bf Z}/3{\bf Z}\right)[x]/(x^3+x+1)$. (*Hint:* Use part (1).)
 
@@ -38,7 +38,7 @@
 
 Let $\mathcal{C}([0,1])$ be the (commutative) ring of continuous, real-valued functions on the unit interval, and let
 
-$M=\left\{f\in \mathcal{C}([0,1])\,\mid\, f\left(\frac{1}{2}\right)=0\right\}.$
+$$M=\left\{f\in \mathcal{C}([0,1])\,\mid\, f\left(\frac{1}{2}\right)=0\right\}.$$
 
 Prove that $M$ is a maximal ideal.
 
@@ -211,7 +211,7 @@ Let ${\bf Z}[i]=\{a+bi\,\mid \, a,b\in {\bf Z},\, i^2=-1\}$, a subring of ${\bf 
 
 Let ${\bf Z}_n$ be the ring of integers $\pmod{n}$. There is a ring homomorphism
 
-$\begin{align*} {\bf Z}_{28}&\to {\bf Z}_4\times {\bf Z}_7\\ [m]_{28}&\mapsto ([m]_4,[m]_7)\end{align*}$
+$$\begin{align*} {\bf Z}_{28}&\to {\bf Z}_4\times {\bf Z}_7\\ [m]_{28}&\mapsto ([m]_4,[m]_7)\end{align*}$$
 
 This is an isomorphism by the Chinese Remainder Theorem. Let ${\bf Z}_n^{\times}$ be the group of units of ${\bf Z}_n$. Prove that ${\bf Z}_{28}^{\times}$ is isomorphic to ${\bf Z}_4^{\times}\times {\bf Z}_7^{\times}$.
 
@@ -328,14 +328,14 @@ Let ${\bf Z}_2=\{0,1\}$ be the field of two elements. The quotient ring ${\bf Z}
 
 
 Let ${\bf F}_9$ denote the field of nine elements.
-1. Show that each nonzero $a\in {\bf F}_9$ is a root of $X^3-1=(X-1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
+1. Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
 2. Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
 
 > [!info]- View $\LaTeX$ code
 > ```
 > Let ${\bf F}_9$ denote the field of nine elements.
 > \begin{enumerate}[label=\alph*)]
-> 	\item Show that each nonzero $a\in {\bf F}_9$ is a root of $X^3-1=(X-1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
+> 	\item Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
 > 	\item Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
 > \end{enumerate}
 > ```
@@ -353,7 +353,7 @@ Let ${\bf F}_9$ denote the field of nine elements.
 
 Let ${\bf Z}[X]$ be the ring of polynomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the "evaluation at $1$" homomorphism
 
-$\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.\end{align*}$
+$$\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.\end{align*}$$
 
 1. Characterize $K$ as a set.
 2. Determine whether $K$ is a maximal ideal. Fully justify your conclusion.
@@ -361,15 +361,7 @@ $\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.\
 
 > [!info]- View $\LaTeX$ code
 > ```
-> Let ${\bf Z}[X]$ be the ring of polynmomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the ``evaluation at $1
-
-## Related pages
----
-
-[[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|Home for the Algebra Qual]]
-[[10-19 Teaching/14 Algebra Qual/Syllabus\|Exam syllabus]]
-[[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]
-[[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]' homomorphism
+> Let ${\bf Z}[X]$ be the ring of polynmomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the ``evaluation at $1$'' homomorphism
 > \begin{align*}
 > 	\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\
 > 	f(X) &\mapsto [f(1)]_3.
@@ -387,7 +379,7 @@ $\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.\
 ## Related pages
 ---
 
-[[The Algebra Qual|Home for the Algebra Qual]]
-[[Syllabus|Exam syllabus]]
-[[Problem bank]]
-[[Past exams]]
+[[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|Home for the Algebra Qual]]
+[[10-19 Teaching/14 Algebra Qual/Syllabus\|Exam syllabus]]
+[[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]
+[[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]

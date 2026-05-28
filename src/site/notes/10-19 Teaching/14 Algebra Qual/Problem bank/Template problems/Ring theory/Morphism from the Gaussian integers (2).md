@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/morphism-from-the-gaussian-integers-2/","tags":["ring_theory"],"updated":"2025-04-05T15:07:12-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/morphism-from-the-gaussian-integers-2/","tags":["ring_theory"],"updated":"2025-04-05T15:07:12-07:00","dg-note-properties":{"last updated":"2025-04-05T15:07:12-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2021"]}}
 ---
 
 Let $i\in {\bf C}$ be the usual root of unity, with $i^2=-1$, and let ${\bf Z}[i]=\{a+bi\mid a,b\in {\bf Z}\}$ be the ring of Gaussian integers.

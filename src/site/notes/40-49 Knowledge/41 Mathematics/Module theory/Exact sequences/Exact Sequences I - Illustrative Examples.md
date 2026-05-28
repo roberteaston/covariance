@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-i-illustrative-examples/","tags":["module_theory"],"updated":"2025-10-24T06:46:59-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-i-illustrative-examples/","tags":["module_theory"],"updated":"2025-10-24T06:46:59-07:00","dg-note-properties":{"last updated":"2025-10-24T06:46:59-07:00","related":["[[Exact Sequences I - Illustrative Examples]]","[[40-49 Knowledge/41 Mathematics/Module theory/Exact sequences/Exact Sequences II - Exact Sequences\|Exact Sequences II - Exact Sequences]]","[[Diagram lemmas]]"],"tags":["module_theory"]}}
 ---
 
 Before diving into the definition of an exact sequence (and morphisms of exact sequences), we examine a few illustrative examples.

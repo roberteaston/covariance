@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/study-guides/study-guide-for-midterm-exam/","updated":"2025-11-18T14:21:45-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/study-guides/study-guide-for-midterm-exam/","updated":"2025-11-18T14:21:45-08:00","dg-note-properties":{"last updated":"2025-11-18T14:21:45-08:00"}}
 ---
 
 The midterm exam problems will be very similar to some of the problems listed below. The exam will consist of approximately five such problems.
@@ -16,7 +16,7 @@ The midterm exam problems will be very similar to some of the problems listed be
 
 Let $R$ be a commutative ring (with unity). We have shown that for every $R$-module $M$ there is an $R$-module isomorphism $\operatorname{Hom}_{R\text{-{\bf Mod}}}(R,M)\simeq M$. Now show more generally that for each fixed positive integer $n$ there is also an $R$-module isomorphism
 
-$\operatorname{Hom}_{R\text{-{\bf Mod}}}\left(\bigoplus_{i=1}^n R, M\right)\simeq \bigoplus_{i=1}^n M.$
+$$\operatorname{Hom}_{R\text{-{\bf Mod}}}\left(\bigoplus_{i=1}^n R, M\right)\simeq \bigoplus_{i=1}^n M.$$
 
 </div></div>
 
@@ -33,7 +33,7 @@ $\operatorname{Hom}_{R\text{-{\bf Mod}}}\left(\bigoplus_{i=1}^n R, M\right)\sime
 
 Let $R$ be a commutative ring (with unity), $X$ a finite set and $F(X)$ the free $R$-module on $X$. Prove there is an $R$-module isomorphism
 
-$\operatorname{Hom}_{R\text{-{\bf Mod}}}(F(X),R)\simeq F(X).$
+$$\operatorname{Hom}_{R\text{-{\bf Mod}}}(F(X),R)\simeq F(X).$$
 
 </div></div>
 
@@ -52,7 +52,7 @@ $\operatorname{Hom}_{R\text{-{\bf Mod}}}(F(X),R)\simeq F(X).$
 
 Suppose $f:N\to P$ is a $(S,T)$-bimodule morphism.
 1. Show that for every $(R,S)$-bimodule $M$ there is an $(R,T)$-bimodule morphism
-   $1_M\otimes f:M\otimes_S N\to M\otimes_S P,$
+   $$1_M\otimes f:M\otimes_S N\to M\otimes_S P,$$
    defined on simple tensors by $m\otimes n\mapsto m\otimes f(n)$.
 
 2. Prove that if $f$ is surjective, then so is $1_M\otimes f$.
@@ -73,7 +73,7 @@ Suppose $f:N\to P$ is a $(S,T)$-bimodule morphism.
 
 
 Let $M_1$ and $M_2$ be $R$-modules and $A_1\subseteq M_1$ and $A_2\subseteq M_2$ be submodules. Prove that $A_1\times A_2$ is (isomorphic to) a submodule of $M_1\times M_2$ and that there is an $R$-module isomorphism
-$(M_1\times M_2)/(A_1\times A_2)\simeq (M_1/A_1)\times (M_2/A_2).$
+$$(M_1\times M_2)/(A_1\times A_2)\simeq (M_1/A_1)\times (M_2/A_2).$$
 
 </div></div>
 
@@ -175,7 +175,7 @@ To each category $C$ we can associate an **opposite** category $C^{\text{op}}$. 
    Such maps are sometimes called **contravariant functors** from $C$ to $D$, in which case our usual functors are called **covariant functors**.
 3. For each fixed object $b$ in a category $C$, show how to define a functor
    
-   $\operatorname{Hom}_C(-,b):C^{\text{op}}\to {\bf Set}.$
+   $$\operatorname{Hom}_C(-,b):C^{\text{op}}\to {\bf Set}.$$
    
    This functor is sometimes called the **contravariant hom-functor** (associated to the object $b$).
 

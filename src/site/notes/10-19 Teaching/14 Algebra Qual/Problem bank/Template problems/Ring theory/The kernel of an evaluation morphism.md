@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-kernel-of-an-evaluation-morphism/","tags":["ring_theory"],"updated":"2025-03-17T08:24:45-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-kernel-of-an-evaluation-morphism/","tags":["ring_theory"],"updated":"2025-03-17T08:24:45-07:00","dg-note-properties":{"last updated":"2025-03-17T08:24:45-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2021"]}}
 ---
 
 Let ${\bf Z}[X]$ be the ring of polynomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the "evaluation at $1$" homomorphism

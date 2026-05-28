@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/order-of-elements-in-a-symmetric-group/","tags":["group_theory"],"updated":"2025-03-17T08:02:13-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/order-of-elements-in-a-symmetric-group/","tags":["group_theory"],"updated":"2025-03-17T08:02:13-07:00","dg-note-properties":{"last updated":"2025-03-17T08:02:13-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2022"]}}
 ---
 
 Let $S_7$ denote the symmetric group.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2024-09/","updated":"2025-04-22T20:44:47-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2024-09/","updated":"2025-04-22T20:44:47-07:00","dg-note-properties":{"last updated":"2025-04-22T20:44:47-07:00","given":"2024-09-18"}}
 ---
 
 ## Problem 1
@@ -63,7 +63,7 @@ Suppose $\phi:R\to S$ is a ring homomorphism, and $S$ has no (nonzero) zero-divi
 
 Let $T:V\to V$ be a linear transformation on a finite-dimensional vector space. Prove that if $T^2=T$, then
 
-$V=\ker(T)\oplus \operatorname{im}(T).$
+$$V=\ker(T)\oplus \operatorname{im}(T).$$
 
 > [!info]- View $\LaTeX$ code
 > ```

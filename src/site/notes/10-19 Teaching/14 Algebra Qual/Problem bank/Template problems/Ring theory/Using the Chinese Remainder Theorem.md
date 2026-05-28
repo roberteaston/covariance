@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/using-the-chinese-remainder-theorem/","tags":["ring_theory"],"updated":"2025-03-21T08:12:48-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/using-the-chinese-remainder-theorem/","tags":["ring_theory"],"updated":"2025-03-21T08:12:48-07:00","dg-note-properties":{"last updated":"2025-03-21T08:12:48-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2015"]}}
 ---
 
 1. Suppose $I$ and $J$ are ideals in a commutative ring $R$ such that $R=I+J$. Prove that the map $f:R\to R/I\times R/J$ given by $f(x)=(x+I,x+J)$ induces the isomorphism

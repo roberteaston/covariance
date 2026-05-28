@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/boolean-rings-are-commutative/","tags":["ring_theory"],"updated":"2025-03-17T09:19:48-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/boolean-rings-are-commutative/","tags":["ring_theory"],"updated":"2025-03-17T09:19:48-07:00","dg-note-properties":{"last updated":"2025-03-17T09:19:48-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2020"]}}
 ---
 
 Suppose $R$ is a ring such that $r^2=r$ for every element $r\in R$.

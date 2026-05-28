@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/daily-class-summaries/","updated":"2025-11-17T15:04:19-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/2025-fall/daily-class-summaries/","updated":"2025-11-17T15:04:19-08:00","dg-note-properties":{"last updated":"2025-11-17T15:04:19-08:00"}}
 ---
 
 Below you can find the complete list of daily class summaries, beginning with the most recent class.

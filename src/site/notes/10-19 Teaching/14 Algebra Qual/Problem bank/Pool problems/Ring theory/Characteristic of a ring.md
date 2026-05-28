@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/characteristic-of-a-ring/","tags":["ring_theory"],"updated":"2025-03-17T07:52:31-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/characteristic-of-a-ring/","tags":["ring_theory"],"updated":"2025-03-17T07:52:31-07:00","dg-note-properties":{"last updated":"2025-03-17T07:52:31-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2022"]}}
 ---
 
 Let $R$ be a commutative ring with $1$. The **characteristic** $\operatorname{char}(R)$ of $R$ is the unique integer $n\geq 0$ such that $\langle n\rangle \subset {\bf Z}$ is the kernel of the homomorphism $\theta:{\bf Z}\to R$ given by

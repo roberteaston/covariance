@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-iv-derivatives/","tags":["differential_equations"],"updated":"2025-08-19T14:06:08-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-iv-derivatives/","tags":["differential_equations"],"updated":"2025-08-19T14:06:08-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-19T14:06:08-07:00","related":["[[Fourier transform III - Properties of the Fourier transform]]"],"tags":["differential_equations"]}}
 ---
 
 ## The Fourier transform and derivatives

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms-and-submodules/","tags":["module_theory"],"updated":"2025-10-08T10:43:24-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms-and-submodules/","tags":["module_theory"],"updated":"2025-10-08T10:43:24-07:00","dg-note-properties":{"references":["[Dummit & Foote: Section 10.1](/img/user/40-49%20Knowledge/44%20Textbooks/Dummit,%20Foote%20-%20Abstract%20Algebra%20-%203e.pdf)"],"last updated":"2025-10-08T10:43:24-07:00","related":["[[Submodules]]","[[Module morphisms]]"],"tags":["module_theory"]}}
 ---
 
 There is a tight connection between module morphisms and submodules.

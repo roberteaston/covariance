@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iv-computing-fourier-coefficients/","tags":["differential_equations"],"updated":"2025-08-06T15:17:33-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-iv-computing-fourier-coefficients/","tags":["differential_equations"],"updated":"2025-08-06T15:17:33-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-06T15:17:33-07:00","related":["[[Fourier series solutions III - Series representations of periodic functions]]"],"tags":["differential_equations"]}}
 ---
 
 We will now answer one of three main questions about Fourier series:

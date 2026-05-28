@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/normalizers-and-centralizers/","tags":["group_theory"],"updated":"2025-03-21T08:28:56-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/normalizers-and-centralizers/","tags":["group_theory"],"updated":"2025-03-21T08:28:56-07:00","dg-note-properties":{"last updated":"2025-03-21T08:28:56-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2014"]}}
 ---
 
 Let $G$ be a group and suppose $H\leq G$. The **normalizer** of $H$ in $G$ is defined to be $N(H)=\{g\in G\,|\, gH=Hg\}$ and the **centralizer** of $H$ in $G$ is defined to be $C(H)=\{g\in G\,|\,  gh=hg\text{ for all }h\in H\}$.

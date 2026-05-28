@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/pool-problems-in-group-theory/","updated":"2025-06-04T10:16:44-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/pool-problems-in-group-theory/","updated":"2025-06-04T10:16:44-07:00","dg-note-properties":{"last updated":"2025-06-04T10:16:44-07:00"}}
 ---
 
 
@@ -197,7 +197,7 @@ Let $G$ be a group and suppose $\operatorname{Aut}(G)$ is trivial.
 
 Let $G$ be a group and $a\in G$ be an element. Let $n\in {\bf N}$ be the smallest positive number such that $a^n=e$, where $e$ is the identity element. Show that the set
 
-$\{e,a,a^2,\ldots, a^{n-1}\}$
+$$\{e,a,a^2,\ldots, a^{n-1}\}$$
 
 contains no repetitions.
 
@@ -284,7 +284,7 @@ Let ${\bf Z}_n$ denote the cyclic group of order $n$. Suppose $m\in {\bf N}$ is 
 
 For a group $G$ and an element $g\in G$, the **centralizer** of $g$ in $G$ is the subgroup
 
-$C_G(g)=\{h\in G:hgh^{-1}=g\}.$
+$$C_G(g)=\{h\in G:hgh^{-1}=g\}.$$
 
 We say $g$ and $g’$ are **conjugate in $G$** if there exists an element $h\in G$ such that $g’=hgh^{-1}$.
 
@@ -320,7 +320,7 @@ Suppose $S_n$ is a symmetric group with $n\geq 4$, and $\sigma$ is one of the $(
 
 Let $G$ be a finite group and $n>1$ an integer such that $(ab)^n=a^n b^n$ for all $a,b\in G$. Let
 
-$G_n=\{c\in G\mid c^n=e\}\qquad\text{and}\qquad G^n=\{c^n\mid c\in G\}$
+$$G_n=\{c\in G\mid c^n=e\}\qquad\text{and}\qquad G^n=\{c^n\mid c\in G\}$$
 
 You may take for granted that these are subgroups. Prove that both $G_n$ and $G^n$ are normal in $G$, and $|G^n|=[G:G_n]$.
 
@@ -615,7 +615,7 @@ Let $G$ be a group and $H,K\mathrel{\unlhd}G$ be normal subgroups with $H\cap K=
 
 Let $G$ be a group and $N$ a normal subgroup of $G$. Let $aN$ denote the left coset defined by $a\in G$, and consider the binary operation
 
-$G/N\times G/N\to G/N$
+$$G/N\times G/N\to G/N$$
 
 given by $(aN, bN)\mapsto abN$.
 
@@ -930,7 +930,7 @@ Let $G$ be a group, $m\in {\bf N}$, and $g\in G$ be an element such that $g^m=e$
 
 Let $G$ be a group and $H\leq G$ a subgroup. For each coset $aH$ of $H$ in $G$, define the set
 
-$G_{aH}=\{b\in G\,|\,baH=aH\}.$
+$$G_{aH}=\{b\in G\,|\,baH=aH\}.$$
 
 1. Prove that $G_{aH}$ is a subgroup of $G$.
 2. Suppose that $H$ is normal in $G$. Prove that $G_{aH}=H$.

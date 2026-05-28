@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-v-solving-differential-equations/","tags":["differential_equations"],"updated":"2025-08-23T14:54:02-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/laplace-transform/laplace-transform-v-solving-differential-equations/","tags":["differential_equations"],"updated":"2025-08-23T14:54:02-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-23T14:54:02-07:00","related":["[[Laplace transform IV - Convolution redux]]"],"tags":["differential_equations"]}}
 ---
 
 Recall that, under some mild hypotheses, the Fourier transform had the following property when it came to take derivatives:

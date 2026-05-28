@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-ii-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-06T09:03:02-07:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-ii-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-06T09:03:02-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-06T09:03:02-07:00","related":["[[Fourier series solutions I - A problem with power series]]"],"tags":["differential_equations"]}}
 ---
 
 We begin by recalling the definitions and basic properties of periodic functions.
@@ -33,13 +33,13 @@ For reasons we will soon see, it can be useful to list all periods of a periodic
 
 The function $f(x)=\sin(x)$ is periodic with periods $T=2\pi, 4\pi, 6\pi, \ldots$
 
-![sin(x).png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/sin(x).png)
+![sin(x).png\|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/sin(x).png)
 
 ### Example
 
 The function $f(x)=\cos(\pi x)$ is periodic with periods $T=2, 4, 6, \ldots$
 
-![cos(pi_x).png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/cos(pi_x).png)
+![cos(pi_x).png\|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/cos(pi_x).png)
 
 > [!note]
 > Observe that if $f(x)$ is periodic with period $T$, then for each $a\neq 0$ the function $f(ax)$ is periodic with period $\frac{T}{|a|}$. Scaling the input by $a$ compresses the graph horizontally by a factor of $|a|$. (If $a<0$, it also reflects the graph across the $y$-axis.)
@@ -56,7 +56,7 @@ In other words, if we keep the other variables fixed, then $f$ is a periodic fun
 
 Consider the function $f(x,y)=\sin\left(2x+\frac{1}{2}y\right)$. This function is periodic in $x$ with fundamental period $\pi$, and also periodic in $y$ with fundamental period $4\pi$. It can be hard to see in the graph below, but try focusing on the grid lines. One set of lines is parallel to the $x$-axis, and the other to the $y$-axis. As you trace one of those lines, you're keeping one variable fixed while the other varies. Notice how the line rises and falls periodically, and how for one set of those lines the waves repeat more frequently than the other.
 
-![periodicMultivar.png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/periodicMultivar.png)
+![periodicMultivar.png\|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/periodicMultivar.png)
 
 ### Example
 
@@ -82,7 +82,7 @@ The answer to the first question might surprise you: a linear combination of per
 
 Consider the function $f(x)=\sin(x)+\sin(\pi x)$. Its graph is shown below. Observe that while the graph does have a "wavy" nature to it, it never actually repeats. The component functions  and  are forever out of sync. The first repeats after $2\pi$ units, $4\pi$ units, $6\pi$ units, etc., while the second repeats after 2 units, 4 units, 6 units, etc. The two functions never repeat at the same moment.
 
-![sin(x)-sin(pi_x).png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/sin(x)-sin(pi_x).png)
+![sin(x)-sin(pi_x).png\|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/sin(x)-sin(pi_x).png)
 
 Observe that when periods of the two component functions are very close, such as $T=2\pi$ (for the function $g(x)=\sin(x)$) and $T=6$ (for the function $h(x)=\sin(\pi x)$), we see that the graph of $f$ very nearly repeats. That's because the two functions are almost in sync at the point.
 
@@ -90,7 +90,7 @@ Observe that when periods of the two component functions are very close, such as
 
 Consider the function $f(x)=\sin(2x)-\cos(3x)$ is periodic with periods $T=2\pi, 4\pi, 6\pi, \ldots$. Note that the functions $\sin(2x)$ and $\cos(3x)$ have fundamental periods $\pi$ and $\frac{2\pi}{3}$, respectively.
 
-![sin(2x)-cos(3x).png|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/sin(2x)-cos(3x).png)
+![sin(2x)-cos(3x).png\|600](/img/user/90-99%20Meta/91%20Images/Differential%20equations/sin(2x)-cos(3x).png)
 
 ---
 

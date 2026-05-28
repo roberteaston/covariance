@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2023-06/","updated":"2025-04-22T20:10:52-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2023-06/","updated":"2025-04-22T20:10:52-07:00","dg-note-properties":{"last updated":"2025-04-22T20:10:52-07:00","given":"2023-06-03"}}
 ---
 
 ## Problem 1
@@ -63,7 +63,7 @@ Suppose $R$ is a PID (principal ideal domain). Prove that an ideal $I\subset R$ 
 
 Let $\mathcal{C}([0,1])$ be the (commutative) ring of continuous, real-valued functions on the unit interval, and let
 
-$M=\left\{f\in \mathcal{C}([0,1])\,\mid\, f\left(\frac{1}{2}\right)=0\right\}.$
+$$M=\left\{f\in \mathcal{C}([0,1])\,\mid\, f\left(\frac{1}{2}\right)=0\right\}.$$
 
 Prove that $M$ is a maximal ideal.
 

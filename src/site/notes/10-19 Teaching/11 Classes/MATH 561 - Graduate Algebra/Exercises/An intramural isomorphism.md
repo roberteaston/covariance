@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/an-intramural-isomorphism/","updated":"2024-11-30T15:27:24-08:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/an-intramural-isomorphism/","updated":"2024-11-30T15:27:24-08:00","dg-note-properties":{"type":"exercise","last updated":"2024-11-30T15:27:24-08:00"}}
 ---
 
 Suppose the diagram below is part of a double-complex in an abelian category and is vertically exact at $B$; i.e., $\ker(f)=0$:

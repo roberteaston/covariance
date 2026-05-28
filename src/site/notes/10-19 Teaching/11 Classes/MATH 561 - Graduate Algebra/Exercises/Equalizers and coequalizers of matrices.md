@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/equalizers-and-coequalizers-of-matrices/","updated":"2024-10-07T13:01:58-07:00"}
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/math-561-graduate-algebra/exercises/equalizers-and-coequalizers-of-matrices/","updated":"2024-10-07T13:01:58-07:00","dg-note-properties":{"type":"exercise","last updated":"2024-10-07T13:01:58-07:00"}}
 ---
 
 Suppose $F$ is a field and $A, B$ are two $m\times n$ matrices with entries in $F$. Recall that in the category $\textbf{Matr}_F$ these matrices correspond to two arrows $n\to m$.

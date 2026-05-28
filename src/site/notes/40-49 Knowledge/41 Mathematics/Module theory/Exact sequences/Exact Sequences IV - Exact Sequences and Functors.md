@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2025-11-10T06:39:24-08:00"}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/exact-sequences/exact-sequences-iv-exact-sequences-and-functors/","tags":["module_theory"],"updated":"2025-11-10T06:39:24-08:00","dg-note-properties":{"last updated":"2025-11-10T06:39:24-08:00","related":["[[Exact Sequences I - Illustrative Examples]]","[[Exact Sequences II - Exact Sequences]]","[[Universal Properties III - Yoneda's Lemma]]","[[Exact Sequences III - Morphisms of Exact Sequences]]"],"tags":["module_theory"]}}
 ---
 
 We would now like to consider how functors (say, from the category $R\textbf{-Mod}$ to another [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|abelian category]]) interact with chain complexes and exact sequences. Rather than dive into the general situation, we'll look at three specific functors that we've already been working with extensively:
@@ -248,7 +248,7 @@ We have [[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of module
 
 >[!summary] The tensor product commutes with direct sums
 >Suppose $M$ is an $(R,S)$-bimodule and $\{N_x\}_{x\in X}$ is a family of $(S,T)$-bimodules. Then there is a unique isomorphism of $(R,T)$-bimodules
-$M\otimes_S \left(\bigoplus_{x\in X} N_x\right)\simeq \bigoplus_{x\in X} \left(M\otimes_S N_i\right)$
+$$M\otimes_S \left(\bigoplus_{x\in X} N_x\right)\simeq \bigoplus_{x\in X} \left(M\otimes_S N_i\right)$$
 
 </div></div>
 
