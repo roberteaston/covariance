@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","tags":["category_theory"],"updated":"2026-04-19T19:13:21-07:00","dg-note-properties":{"last updated":"2026-04-19T19:13:21-07:00","kind":"Goal","due date":null,"Status":["In-progress"],"Priority":null,"tags":["category_theory"],"cover":null,"description":null,"topics":null,"Parent":"[[Project 'Single Arrow']]","Project":["[[Project 'Single Arrow']]"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2025/project-single-arrow/summer-reu-2025-project-arrow/","tags":["category_theory"],"updated":"2026-06-22T09:27:32-07:00","dg-note-properties":{"last updated":"2026-06-22T09:27:32-07:00","kind":"Goal","due date":null,"Status":["In-progress"],"Priority":null,"tags":["category_theory"],"cover":null,"description":null,"topics":null,"Parent":"[[Project 'Single Arrow']]","Project":["[[Project 'Single Arrow']]"]}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-field-with-nine-elements/","tags":["ring_theory"],"updated":"2026-05-28T11:10:53-07:00","dg-note-properties":{"last updated":"2026-05-28T11:10:53-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2021"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-field-with-nine-elements/","tags":["ring_theory"],"updated":"2026-05-28T19:43:08-07:00","dg-note-properties":{"last updated":"2026-05-28T19:43:08-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2021"]}}
 ---
 
 Let ${\bf F}_9$ denote the field of nine elements.
