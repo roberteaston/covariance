@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-06-25T09:45:27-07:00","dg-note-properties":{"last updated":"2026-06-25T09:45:27-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-06-25T11:02:01-07:00","dg-note-properties":{"last updated":"2026-06-25T11:02:01-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -30,19 +30,19 @@ Our project will break down into roughly three phases:
 
 *Tasks will be added after each meeting.*
 ### Classical Lie theory
-- [ ] Learn about classical Lie groups by reading Chapter 1 ("Matrix Lie Groups") in Hall and then check out the following exercises in Section 1.6:
-	- [ ] Exercise 1
-	- [ ] Exercise 2
-	- [ ] Exercise 3
-	- [ ] Exercise 7
-	- [ ] Exercise 11
-	- [ ] Exercise 16
-	- [ ] Exercise 17
-- [ ] Learn about the classical matrix exponential function by reading Chapter 2 ("The Matrix Exponential") in Hall and then check out the following exercises in Section 2.6:
-	- [ ] Exercise 2
-	- [ ] Exercise 4
-	- [ ] Exercise 8
-	- [ ] Exercise 9
+- [x] Learn about classical Lie groups by reading Chapter 1 ("Matrix Lie Groups") in Hall and then check out the following exercises in Section 1.6:
+	- [x] Exercise 1
+	- [x] Exercise 2
+	- [x] Exercise 3
+	- [x] Exercise 7
+	- [x] Exercise 11
+	- [x] Exercise 16
+	- [x] Exercise 17
+- [x] Learn about the classical matrix exponential function by reading Chapter 2 ("The Matrix Exponential") in Hall and then check out the following exercises in Section 2.6:
+	- [x] Exercise 2
+	- [x] Exercise 4
+	- [x] Exercise 8
+	- [x] Exercise 9
 - [ ] Learn about classical Lie algebras by reading Chapter 3 ("Lie Algebras") in Hall and then check out the following exercises in Section 3.9:
 	- [ ] Exercise 1
 	- [ ] Exercise 2
