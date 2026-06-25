@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-06-25T09:38:44-07:00","dg-note-properties":{"last updated":"2026-06-25T09:38:44-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-06-25T11:36:00-07:00","dg-note-properties":{"last updated":"2026-06-25T11:36:00-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -27,6 +27,16 @@ Last summer we saw how most of the basic structures of representation theory can
 *Tasks will be added after each meeting.*
 ### Classical character theory
 
+- [ ]  Read Section 18.3 in Dummit & Foote and check out the following exercises:
+	- [ ] Exercise 1
+	- [ ] Exercise 2
+	- [ ] Exercise 5
+	- [ ] Exercise 6
+	- [ ] Exercise 7
+	- [ ] Exercise 8
+	- [ ] Exercise 11
+	- [ ] Exercise 12
+	- [ ] Exercise 13
 
 
 
