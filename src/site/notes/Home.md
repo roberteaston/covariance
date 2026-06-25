@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                               | Last Updated            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical representation theory\|Summer REU 2026 - Categorical representation theory]] | 9:38 AM - June 25, 2026 |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-22\|REU Meeting - 2026-06-22]]                      | 9:38 AM - June 25, 2026 |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-25\|REU Meeting - 2026-06-25]]                      | 9:38 AM - June 25, 2026 |
+| Note                                                                                                                                   | Last Updated            |
+| -------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
+| [[40-49 Knowledge/41 Mathematics/Lie theory/Basic definitions and examples/The matrix exponential map\|The matrix exponential map]] | 9:47 AM - June 25, 2026 |
+| [[40-49 Knowledge/41 Mathematics/Lie theory/Basic definitions and examples/Lie algebras\|Lie algebras]]                             | 9:46 AM - June 25, 2026 |
+| [[40-49 Knowledge/41 Mathematics/Lie theory/Basic definitions and examples/Lie groups\|Lie groups]]                                 | 9:46 AM - June 25, 2026 |
 
 { .block-language-dataview}
 
