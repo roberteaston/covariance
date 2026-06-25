@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2026-summer/reu-2-mark/reu-meeting-2026-06-25/","updated":"2026-06-25T11:32:06-07:00","dg-note-properties":{"last updated":"2026-06-25T11:37:27-07:00","date":"2026-06-25"}}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2026-summer/reu-2-mark/reu-meeting-2026-06-25/","updated":"2026-06-25T11:37:27-07:00","dg-note-properties":{"last updated":"2026-06-25T11:37:27-07:00","date":"2026-06-25"}}
 ---
 
 This following is a brief summary of our research meeting on 2026-06-25.
