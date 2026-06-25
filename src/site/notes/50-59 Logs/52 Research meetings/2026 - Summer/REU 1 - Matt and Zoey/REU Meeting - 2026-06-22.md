@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2026-summer/reu-1-matt-and-zoey/reu-meeting-2026-06-22/","updated":"2026-06-22T10:43:59-07:00","dg-note-properties":{"last updated":"2026-06-22T10:43:59-07:00","date":"2026-06-22"}}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2026-summer/reu-1-matt-and-zoey/reu-meeting-2026-06-22/","updated":"2026-06-25T09:38:31-07:00","dg-note-properties":{"last updated":"2026-06-25T09:38:31-07:00","date":"2026-06-22"}}
 ---
 
 This following is a brief summary of our research meeting on 2026-06-22.
@@ -15,13 +15,13 @@ We outlined our basic plan for the summer, which roughly breaks down into three 
 ## Tasks for next meeting
 ---
 
-- [ ] Learn about classical Lie groups by reading Chapter 1 ("Matrix Lie Groups") in Hall
-	- [ ] Check out the following exercises in Section 1.6: 1, 2, 3, 7, 11, 16, 17
-- [ ] Learn about the classical matrix exponential function by reading Chapter 2 ("The Matrix Exponential") in Hall
-	- [ ] Check out the following exercises in Section 2.6: 2, 4, 8, 9
+- Learn about classical Lie groups by reading Chapter 1 ("Matrix Lie Groups") in Hall
+	- Check out the following exercises in Section 1.6: 1, 2, 3, 7, 11, 16, 17
+- Learn about the classical matrix exponential function by reading Chapter 2 ("The Matrix Exponential") in Hall
+	- Check out the following exercises in Section 2.6: 2, 4, 8, 9
 
 
 ## References
 ---
 
-*Lie groups, Lie algebras, and representations*, by Brian C. Hall
+Brian C. Hall, *Lie groups, Lie algebras, and representations* (Chapters 1 and 2)
