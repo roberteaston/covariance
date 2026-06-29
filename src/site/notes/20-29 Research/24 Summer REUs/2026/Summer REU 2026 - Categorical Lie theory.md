@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-06-25T11:02:01-07:00","dg-note-properties":{"last updated":"2026-06-25T11:02:01-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-06-29T15:10:05-07:00","dg-note-properties":{"last updated":"2026-06-29T15:10:05-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -21,6 +21,7 @@ Our project will break down into roughly three phases:
 
 | Meeting Date                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-29\|REU Meeting - 2026-06-29]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-25\|REU Meeting - 2026-06-25]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-22\|REU Meeting - 2026-06-22]] |
 
@@ -43,15 +44,18 @@ Our project will break down into roughly three phases:
 	- [x] Exercise 4
 	- [x] Exercise 8
 	- [x] Exercise 9
-- [ ] Learn about classical Lie algebras by reading Chapter 3 ("Lie Algebras") in Hall and then check out the following exercises in Section 3.9:
-	- [ ] Exercise 1
-	- [ ] Exercise 2
-	- [ ] Exercise 3
-	- [ ] Exercise 6
-	- [ ] Exercise 8
-	- [ ] Exercise 13
-	- [ ] Exercise 16
-	- [ ] Exercise 17
+- [x] Learn about classical Lie algebras by reading Chapter 3 ("Lie Algebras") in Hall and then check out the following exercises in Section 3.9:
+	- [x] Exercise 1
+	- [x] Exercise 2
+	- [x] Exercise 3
+	- [?] Exercise 6
+	- [x] Exercise 8
+	- [x] Exercise 13
+	- [x] Exercise 16
+	- [x] Exercise 17
+- [ ] Take our first steps beyond matrix Lie groups by reading the following in *Lie groups beyond an introduction* by Knapp:
+	- [ ] Chapter 1: Sections 3, 10, 14, and 17
+	- [ ] Chapter 3 (skim)
 
 ## The team
 ---
