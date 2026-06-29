@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-06-29T14:56:05-07:00","dg-note-properties":{"last updated":"2026-06-29T14:56:05-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-06-29T15:16:37-07:00","dg-note-properties":{"last updated":"2026-06-29T15:16:37-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -18,6 +18,7 @@ Last summer we saw how most of the basic structures of representation theory can
 
 | Meeting Date                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-06-29\|REU Meeting - 2026-06-29]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-06-25\|REU Meeting - 2026-06-25]] |
 
 { .block-language-dataview}
@@ -27,16 +28,21 @@ Last summer we saw how most of the basic structures of representation theory can
 *Tasks will be added after each meeting.*
 ### Classical character theory
 
-- [ ]  Read Section 18.3 in Dummit & Foote and check out the following exercises:
-	- [ ] Exercise 1
-	- [ ] Exercise 2
-	- [ ] Exercise 5
-	- [ ] Exercise 6
-	- [ ] Exercise 7
-	- [ ] Exercise 8
-	- [ ] Exercise 11
+- [x]  Read Section 18.3 in Dummit & Foote and check out the following exercises:
+	- [x] Exercise 1
+	- [x] Exercise 2
+	- [x] Exercise 5
+	- [x] Exercise 6
+	- [x] Exercise 7
+	- [x] Exercise 8
+	- [x] Exercise 11
 	- [ ] Exercise 12
 	- [ ] Exercise 13
+- [ ] Read Section 18.2 in Dummit & Foote and check out the following exercises:
+	- [ ] Exercise 1
+	- [ ] Exercise 5
+	- [ ] Exercise 8
+	- [ ] Exercise 11
 
 
 

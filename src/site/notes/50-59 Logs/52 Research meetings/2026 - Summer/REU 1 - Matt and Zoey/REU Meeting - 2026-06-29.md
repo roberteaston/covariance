@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2026-summer/reu-1-matt-and-zoey/reu-meeting-2026-06-29/","updated":"2026-06-29T15:09:00-07:00","dg-note-properties":{"last updated":"2026-06-29T15:10:14-07:00","date":"2026-06-29"}}
+{"dg-publish":true,"permalink":"/50-59-logs/52-research-meetings/2026-summer/reu-1-matt-and-zoey/reu-meeting-2026-06-29/","updated":"2026-06-29T15:10:14-07:00","dg-note-properties":{"last updated":"2026-06-29T15:10:14-07:00","date":"2026-06-29"}}
 ---
 
 This following is a brief summary of our research meeting on 2026-06-29.
