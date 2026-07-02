@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-02T09:56:41-07:00","dg-note-properties":{"last updated":"2026-07-02T09:56:41-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-02T11:37:57-07:00","dg-note-properties":{"last updated":"2026-07-02T11:37:57-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -39,15 +39,26 @@ Last summer we saw how most of the basic structures of representation theory can
 	- [x] Exercise 11
 	- [ ] Exercise 12
 	- [ ] Exercise 13
-- [ ] Read Section 18.2 in Dummit & Foote and check out the following exercises:
-	- [ ] Exercise 1
-	- [ ] Exercise 5
-	- [ ] Exercise 8
-	- [ ] Exercise 11
+- [x] Read Section 18.2 in Dummit & Foote and check out the following exercises:
+	- [x] Exercise 1
+	- [x] Exercise 5
+	- [x] Exercise 8
+	- [x] Exercise 11
 
-### Characters from a categorical perspective
+### Categorical trace
 
-- [ ] Learn about the generalization of the trace of a square matrix to that of the **categorical trace**
+- [ ] Learn about **dualizable** objects in monoidal categories. (One reference is [here](https://ncatlab.org/nlab/show/dualizable+object))
+- [ ] Learn about the notion of a **categorical trace**. (A short reference is at [Wikipedia](https://en.wikipedia.org/wiki/Categorical_trace). A longer reference is this [paper](https://arxiv.org/pdf/1107.6032) by Ponto and Shulman.)
+- [ ] Verify the following claims:
+	- [ ] In the category of representations $\textbf{Rep}(G)$, the monoidal unit ${\bf 1}$ is the trivial representation $k$.
+	- [ ] The endomorphisms of the trivial representation are just scalars: $\operatorname{End}(k) \cong k$.
+	- [ ] Taking the categorical trace of an endomorphism of a representation yields a scalar, which precisely recovers the value of the character.
+
+### Categorical characters
+
+- [ ] Skim through [this nLab page](https://ncatlab.org/nlab/show/action+of+a+monoidal+category) about actions on monoidal categories.
+- [ ] Try to make sense of this claim from Gemini:![Screenshot 2026-07-02 at 11.36.20 AM.png](/img/user/90-99%20Meta/95%20Attachments/Screenshot%202026-07-02%20at%2011.36.20%20AM.png)
+- [ ] Check out this [paper by Kapranov and Ganter](https://www.sciencedirect.com/science/article/pii/S0001870807003027)
 
 
 ## The team
