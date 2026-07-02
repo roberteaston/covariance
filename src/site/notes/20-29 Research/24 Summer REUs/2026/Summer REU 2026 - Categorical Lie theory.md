@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-06-29T15:10:05-07:00","dg-note-properties":{"last updated":"2026-06-29T15:10:05-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-02T09:55:15-07:00","dg-note-properties":{"last updated":"2026-07-02T09:55:15-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -21,6 +21,7 @@ Our project will break down into roughly three phases:
 
 | Meeting Date                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-02\|REU Meeting - 2026-07-02]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-29\|REU Meeting - 2026-06-29]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-25\|REU Meeting - 2026-06-25]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-22\|REU Meeting - 2026-06-22]] |
@@ -31,6 +32,7 @@ Our project will break down into roughly three phases:
 
 *Tasks will be added after each meeting.*
 ### Classical Lie theory
+
 - [x] Learn about classical Lie groups by reading Chapter 1 ("Matrix Lie Groups") in Hall and then check out the following exercises in Section 1.6:
 	- [x] Exercise 1
 	- [x] Exercise 2
@@ -53,9 +55,35 @@ Our project will break down into roughly three phases:
 	- [x] Exercise 13
 	- [x] Exercise 16
 	- [x] Exercise 17
-- [ ] Take our first steps beyond matrix Lie groups by reading the following in *Lie groups beyond an introduction* by Knapp:
-	- [ ] Chapter 1: Sections 3, 10, 14, and 17
-	- [ ] Chapter 3 (skim)
+- [x] Take our first steps beyond matrix Lie groups by reading the following in *Lie groups beyond an introduction* by Knapp:
+	- [x] Chapter 1: Sections 3, 10, 14, and 17
+	- [x] Chapter 3 (skim)
+
+### Monoidal and Cartesian categories
+
+- [ ] Learn about monoidal categories by reading Sections 1 of Chapters VII and XI in Mac Lane's *Categories for the Working Mathematician*. Then try the following exercises at the end Section 1 in Chapter VII:
+	- [ ] Exercise 4
+	- [ ] Exercise 5
+- [ ] Find two monoidal structures on the category of sets
+- [ ] Suppose a category $C$ has a all finite products and a terminal object. Construct a monoid structure on $C$
+- [ ] Look up the definition of a **Cartesian monoidal category**
+- [ ] For each of the following familiar categories, determine if it is Cartesian monoidal:
+	- [ ] $\textbf{Group}$
+	- [ ] $\textbf{Ab}$
+	- [ ] $\textbf{Ring}$
+	- [ ] $\textbf{CRing}$
+	- [ ] $R\textbf{-Mod}$, using the tensor product
+	- [ ] $R\textbf{-Mod}$, using the Cartesian product
+	- [ ] $\textbf{Field}$
+	- [ ] $\textbf{Diff}$, the category of smooth manifolds
+
+### A categorical definition of a Lie group
+
+- [ ] Look up the definition of a **group object** in a Cartesian monoidal category
+- [ ] Show groups (as classically defined) are precisely group objects in the category of sets
+- [ ] What is a group object in the category of abelian groups?
+- [ ] What is a group object in the category of groups?
+- [ ] Show that Lie groups are precisely groups objects in the category of smooth manifolds
 
 ## The team
 ---

@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" rel="noopener nofollow" class="external-link" href="https://mathoverflow.net/questions/111005/historical-questions-on-the-term-general-abstract-nonsense" target="_blank">Peter Freyd</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">Perhaps the purpose of categorical algebra is to show that which is trivial is trivially trivial.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf &gt; page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                               | Last Updated            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-06-29\|REU Meeting - 2026-06-29]]                               | 3:17 PM - June 29, 2026 |
-| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical representation theory\|Summer REU 2026 - Categorical representation theory]] | 3:16 PM - June 29, 2026 |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-29\|REU Meeting - 2026-06-29]]                      | 3:10 PM - June 29, 2026 |
+| Note                                                                                                                                               | Last Updated             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-02\|REU Meeting - 2026-07-02]]                      | 10:18 AM - July 02, 2026 |
+| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical representation theory\|Summer REU 2026 - Categorical representation theory]] | 9:56 AM - July 02, 2026  |
+| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical Lie theory\|Summer REU 2026 - Categorical Lie theory]]                       | 9:55 AM - July 02, 2026  |
 
 { .block-language-dataview}
 

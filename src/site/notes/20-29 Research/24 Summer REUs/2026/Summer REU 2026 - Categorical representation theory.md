@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-06-29T15:16:37-07:00","dg-note-properties":{"last updated":"2026-06-29T15:16:37-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-02T09:56:41-07:00","dg-note-properties":{"last updated":"2026-07-02T09:56:41-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -18,6 +18,7 @@ Last summer we saw how most of the basic structures of representation theory can
 
 | Meeting Date                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-02\|REU Meeting - 2026-07-02]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-06-29\|REU Meeting - 2026-06-29]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-06-25\|REU Meeting - 2026-06-25]] |
 
@@ -44,6 +45,9 @@ Last summer we saw how most of the basic structures of representation theory can
 	- [ ] Exercise 8
 	- [ ] Exercise 11
 
+### Characters from a categorical perspective
+
+- [ ] Learn about the generalization of the trace of a square matrix to that of the **categorical trace**
 
 
 ## The team
