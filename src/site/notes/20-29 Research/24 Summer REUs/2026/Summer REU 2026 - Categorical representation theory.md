@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-02T11:37:57-07:00","dg-note-properties":{"last updated":"2026-07-02T11:37:57-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-09T11:57:15-07:00","dg-note-properties":{"last updated":"2026-07-09T11:57:15-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -18,6 +18,7 @@ Last summer we saw how most of the basic structures of representation theory can
 
 | Meeting Date                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-09\|REU Meeting - 2026-07-09]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-02\|REU Meeting - 2026-07-02]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-06-29\|REU Meeting - 2026-06-29]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-06-25\|REU Meeting - 2026-06-25]] |
@@ -47,18 +48,23 @@ Last summer we saw how most of the basic structures of representation theory can
 
 ### Categorical trace
 
-- [ ] Learn about **dualizable** objects in monoidal categories. (One reference is [here](https://ncatlab.org/nlab/show/dualizable+object))
-- [ ] Learn about the notion of a **categorical trace**. (A short reference is at [Wikipedia](https://en.wikipedia.org/wiki/Categorical_trace). A longer reference is this [paper](https://arxiv.org/pdf/1107.6032) by Ponto and Shulman.)
-- [ ] Verify the following claims:
-	- [ ] In the category of representations $\textbf{Rep}(G)$, the monoidal unit ${\bf 1}$ is the trivial representation $k$.
-	- [ ] The endomorphisms of the trivial representation are just scalars: $\operatorname{End}(k) \cong k$.
-	- [ ] Taking the categorical trace of an endomorphism of a representation yields a scalar, which precisely recovers the value of the character.
+- [x] Learn about **dualizable** objects in monoidal categories. (One reference is [here](https://ncatlab.org/nlab/show/dualizable+object))
+- [x] Learn about the notion of a **categorical trace**. (A short reference is at [Wikipedia](https://en.wikipedia.org/wiki/Categorical_trace). A longer reference is this [paper](https://arxiv.org/pdf/1107.6032) by Ponto and Shulman.)
+- [x] Verify the following claims:
+	- [x] In the category of representations $\textbf{Rep}(G)$, the monoidal unit ${\bf 1}$ is the trivial representation $k$.
+	- [x] The endomorphisms of the trivial representation are just scalars: $\operatorname{End}(k) \cong k$.
+	- [x] Taking the categorical trace of an endomorphism of a representation yields a scalar, which precisely recovers the value of the character.
 
 ### Categorical characters
 
 - [ ] Skim through [this nLab page](https://ncatlab.org/nlab/show/action+of+a+monoidal+category) about actions on monoidal categories.
 - [ ] Try to make sense of this claim from Gemini:![Screenshot 2026-07-02 at 11.36.20 AM.png](/img/user/90-99%20Meta/95%20Attachments/Screenshot%202026-07-02%20at%2011.36.20%20AM.png)
 - [ ] Check out this [paper by Kapranov and Ganter](https://www.sciencedirect.com/science/article/pii/S0001870807003027)
+
+### Tannaka duality
+
+- [ ] Learn about Tannaka duality by skimming through [this nLab page](https://ncatlab.org/nlab/show/Tannaka+duality)
+- [ ] Explain how Tannaka duality can be viewed as a consequence of the enriched Yoneda lemma (in enriched category theory)
 
 
 ## The team
