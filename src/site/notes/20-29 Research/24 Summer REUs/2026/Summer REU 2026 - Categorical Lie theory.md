@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-13T09:49:49-07:00","dg-note-properties":{"last updated":"2026-07-13T09:49:49-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-13T14:41:00-07:00","dg-note-properties":{"last updated":"2026-07-13T14:41:00-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -81,12 +81,12 @@ Our project will break down into roughly three phases:
 
 ### A categorical definition of a Lie group
 
-- [ ] Look up the definition of a **group object** in a Cartesian monoidal category
-- [ ] Show groups (as classically defined) are precisely group objects in the category of sets
-- [ ] What is a group object in the category of abelian groups?
-- [ ] What is a group object in the category of groups?
-- [ ] What is a group object in the category of sets if we use the disjoint union for our monoidal product?
-- [ ] Show that Lie groups are precisely groups objects in the category of smooth manifolds
+- [x] Look up the definition of a **group object** in a Cartesian monoidal category
+- [x] Show groups (as classically defined) are precisely group objects in the category of sets
+- [x] What is a group object in the category of abelian groups? (*An abelian group*)
+- [x] What is a group object in the category of groups? (*Again, an abelian group)*
+- [x] What is a group object in the category of sets if we use the disjoint union for our monoidal product? (*The diagrams required for the unit, inversion, etc. don't make sense if the monoidal product isn't the usual (Cartesian) product*)
+- [x] Show that Lie groups are precisely groups objects in the category of smooth manifolds
 
 ### Properties of the category of Lie groups
 

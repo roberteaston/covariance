@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-09T11:57:15-07:00","dg-note-properties":{"last updated":"2026-07-09T11:57:15-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-13T14:39:17-07:00","dg-note-properties":{"last updated":"2026-07-13T14:39:17-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -18,6 +18,7 @@ Last summer we saw how most of the basic structures of representation theory can
 
 | Meeting Date                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-13\|REU Meeting - 2026-07-13]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-09\|REU Meeting - 2026-07-09]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-02\|REU Meeting - 2026-07-02]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-06-29\|REU Meeting - 2026-06-29]] |
@@ -57,9 +58,10 @@ Last summer we saw how most of the basic structures of representation theory can
 
 ### Categorical characters
 
-- [ ] Skim through [this nLab page](https://ncatlab.org/nlab/show/action+of+a+monoidal+category) about actions on monoidal categories.
-- [ ] Try to make sense of this claim from Gemini:![Screenshot 2026-07-02 at 11.36.20 AM.png](/img/user/90-99%20Meta/95%20Attachments/Screenshot%202026-07-02%20at%2011.36.20%20AM.png)
-- [ ] Check out this [paper by Kapranov and Ganter](https://www.sciencedirect.com/science/article/pii/S0001870807003027)
+- [x] Skim through [this nLab page](https://ncatlab.org/nlab/show/action+of+a+monoidal+category) about actions on monoidal categories.
+- [x] Try to make sense of this claim from Gemini:![Screenshot 2026-07-02 at 11.36.20 AM.png](/img/user/90-99%20Meta/95%20Attachments/Screenshot%202026-07-02%20at%2011.36.20%20AM.png)
+- [x] Check out this [paper by Kapranov and Ganter](https://www.sciencedirect.com/science/article/pii/S0001870807003027)
+- [ ] Unwind the definition of *categorical characteristic*
 
 ### Tannaka duality
 
