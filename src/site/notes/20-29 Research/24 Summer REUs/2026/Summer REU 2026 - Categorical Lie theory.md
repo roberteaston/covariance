@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-13T14:41:00-07:00","dg-note-properties":{"last updated":"2026-07-13T14:41:00-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-16T10:25:34-07:00","dg-note-properties":{"last updated":"2026-07-16T10:25:34-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -21,6 +21,7 @@ Our project will break down into roughly three phases:
 
 | Meeting Date                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-16\|REU Meeting - 2026-07-16]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-13\|REU Meeting - 2026-07-13]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-09\|REU Meeting - 2026-07-09]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-02\|REU Meeting - 2026-07-02]] |
@@ -90,7 +91,26 @@ Our project will break down into roughly three phases:
 
 ### Properties of the category of Lie groups
 
-- [ ] Investigate whether the category of Lie groups has (or does not have) each of the following categorical properties:
+- [x] Investigate whether the category of Lie groups has (or does not have) each of the following categorical properties:
+	- [x] Has a terminal object? (Yes, the trivial Lie group.)
+	- [x] Has an initial object? (Yes, the trivial Lie group.)
+	- [x] Has a null object? (Yes, the trivial Lie group.)
+	- [x] Has finite products? (Yes.)
+	- [x] Has all products? (No.)
+	- [x] Has pullbacks? (Yes.)
+	- [x] Has finite coproducts? (No.)
+	- [x] Has all coproducts? (No.)
+	- [x] Has pushouts? (No.)
+	- [x] Has equalizers? (Yes.)
+	- [x] Has kernels? (Yes.)
+	- [x] Has quotients? (Yes.)
+	- [x] Has an analogue of the First Isomorphism Theorem? (Yes.)
+	- [x] Is an additive category? (No.)
+	- [x] Is an abelian category? (No.)
+
+### Properties of the category of Lie algebras
+
+- [ ] Investigate whether the category of Lie algebras has (or does not have) each of the following categorical properties:
 	- [ ] Has a terminal object?
 	- [ ] Has an initial object?
 	- [ ] Has a null object?
@@ -106,6 +126,18 @@ Our project will break down into roughly three phases:
 	- [ ] Has an analogue of the First Isomorphism Theorem?
 	- [ ] Is an additive category?
 	- [ ] Is an abelian category?
+
+### Important functors
+
+#### Universal enveloping algebras
+*Coming soon!*
+
+#### Free Lie algebras
+*Coming soon!*
+
+#### The Lie functor
+*Coming soon!*
+
 
 ## The team
 ---

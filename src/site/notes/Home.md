@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf &gt; page=66" data-href="Maclane - Categories for the Working Mathematician.pdf#page=66" href="Maclane - Categories for the Working Mathematician.pdf#page=66" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
+<p dir="auto">The general fact of the uniqueness of the universal arrows implies the uniqueness of the ... object, up to a unique isomorphism (who wants more?).</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                               | Last Updated            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-13\|REU Meeting - 2026-07-13]]                      | 2:45 PM - July 13, 2026 |
-| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical Lie theory\|Summer REU 2026 - Categorical Lie theory]]                       | 2:41 PM - July 13, 2026 |
-| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical representation theory\|Summer REU 2026 - Categorical representation theory]] | 2:39 PM - July 13, 2026 |
+| Note                                                                                                                                               | Last Updated             |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-16\|REU Meeting - 2026-07-16]]                               | 1:33 PM - July 16, 2026  |
+| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical representation theory\|Summer REU 2026 - Categorical representation theory]] | 1:32 PM - July 16, 2026  |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-16\|REU Meeting - 2026-07-16]]                      | 11:02 AM - July 16, 2026 |
 
 { .block-language-dataview}
 
