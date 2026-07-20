@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-16T13:32:51-07:00","dg-note-properties":{"last updated":"2026-07-16T13:32:51-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-20T09:41:50-07:00","dg-note-properties":{"last updated":"2026-07-20T09:41:50-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -40,8 +40,8 @@ Last summer we saw how most of the basic structures of representation theory can
 	- [x] Exercise 7
 	- [x] Exercise 8
 	- [x] Exercise 11
-	- [ ] Exercise 12
-	- [ ] Exercise 13
+	- [?] Exercise 12
+	- [?] Exercise 13
 - [x] Read Section 18.2 in Dummit & Foote and check out the following exercises:
 	- [x] Exercise 1
 	- [x] Exercise 5

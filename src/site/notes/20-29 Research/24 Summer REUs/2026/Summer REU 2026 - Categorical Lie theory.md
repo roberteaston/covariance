@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-16T10:25:34-07:00","dg-note-properties":{"last updated":"2026-07-16T10:25:34-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-20T14:18:50-07:00","dg-note-properties":{"last updated":"2026-07-20T14:18:50-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -21,6 +21,7 @@ Our project will break down into roughly three phases:
 
 | Meeting Date                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-20\|REU Meeting - 2026-07-20]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-16\|REU Meeting - 2026-07-16]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-13\|REU Meeting - 2026-07-13]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-09\|REU Meeting - 2026-07-09]] |
@@ -111,29 +112,39 @@ Our project will break down into roughly three phases:
 ### Properties of the category of Lie algebras
 
 - [ ] Investigate whether the category of Lie algebras has (or does not have) each of the following categorical properties:
-	- [ ] Has a terminal object?
-	- [ ] Has an initial object?
-	- [ ] Has a null object?
-	- [ ] Has finite products?
-	- [ ] Has all products?
-	- [ ] Has pullbacks?
-	- [ ] Has finite coproducts?
-	- [ ] Has all coproducts?
-	- [ ] Has pushfowards?
-	- [ ] Has equalizers?
-	- [ ] Has kernels?
-	- [ ] Has quotients?
-	- [ ] Has an analogue of the First Isomorphism Theorem?
-	- [ ] Is an additive category?
-	- [ ] Is an abelian category?
+	- [x] Has a terminal object? (Yes, the trivial Lie algebra.)
+	- [x] Has an initial object? (Yes, the trivial Lie algebra.)
+	- [x] Has a null object? (Yes, the trivial Lie algebra.)
+	- [x] Has finite products? (Yes, with component-wise brackets.)
+	- [x] Has all products? (Yep!)
+	- [x] Has pullbacks? (Yes.)
+	- [x] Has equalizers? (Yes.)
+	- [x] Has kernels? (Yes.)
+	- [x] Has finite coproducts? (Yes, but we need some stuff below to make sense of this.)
+	- [x] Has all coproducts? (Yes, but we need some stuff below to make sense of this.)
+	- [x] Has pushouts? (Yes, but we need some stuff below to make sense of this.)
+	- [x] Has quotients? (Yes. Needed the concept of a *Lie ideal*. Check kernels are ideals.)
+	- [x] Has an analogue of the First Isomorphism Theorem? (Yep!)
+	- [x] Is an additive category? (No.)
+	- [x] Is an abelian category? (No, but close. It's *semi-abelian*.)
+	- [ ] Is an enriched category?
 
 ### Important functors
 
-#### Universal enveloping algebras
-*Coming soon!*
-
 #### Free Lie algebras
-*Coming soon!*
+
+Let $U:{\bf LieAlg}_k\to {\bf Vec}_k$ be the forgetful functor that sends each Lie algebra over $k$ to its underlying $k$-vector space, i.e., forgets the bracket operation.
+ - [ ] It turns out that the functor $U$ has a left adjoint, $F:{\bf Vec}_k\to {\bf LieAlg}_k$. What does this mean?
+ - [ ] Given a $k$-vector space $V$, describe the Lie algebra $F(V)$. (This is called the *free Lie algebra* on the vector space $V$.)
+
+#### Universal enveloping algebras
+
+Let ${\bf AssocAlg}_k$ be the category of (unital) associative $k$-algebras, and let $V:{\bf AssocAlg}_k\to {\bf LieAlg}_k$ be the functor that sends each associative $k$-algebra $A$ to the Lie algebra whose vector space is the underlying vector space of $A$ (i.e., forget the multiplication in general, but remember the addition and multiplication by elements of the base field, $k$) and with bracket defined by $[x,y]:=xy-yx$.
+- [ ] Verify that $V(A)$ is indeed a Lie algebra over $k$.
+- [ ] What is the arrow map of the functor $V$?
+- [ ] It turns out the functor $V$ has a left adjoint, $U:{\bf LieAlg}_k\to {\bf AssocAlg}_k$. What does this mean?
+- [ ] Give a Lie algebra $\mathfrak{g}$, describe the Lie algebra $U(\mathfrak{g})$. (This is called the *universal enveloping algebra* of $\mathfrak{g}$.)
+- [ ] Look up some properties of the universal enveloping algebra, e.g., how is $\mathfrak{g}$ related to $U(\mathfrak{g})$?
 
 #### The Lie functor
 *Coming soon!*
