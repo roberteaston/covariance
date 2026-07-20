@@ -111,7 +111,7 @@ Our project will break down into roughly three phases:
 
 ### Properties of the category of Lie algebras
 
-- [ ] Investigate whether the category of Lie algebras has (or does not have) each of the following categorical properties:
+- [x] Investigate whether the category of Lie algebras has (or does not have) each of the following categorical properties:
 	- [x] Has a terminal object? (Yes, the trivial Lie algebra.)
 	- [x] Has an initial object? (Yes, the trivial Lie algebra.)
 	- [x] Has a null object? (Yes, the trivial Lie algebra.)
@@ -127,7 +127,7 @@ Our project will break down into roughly three phases:
 	- [x] Has an analogue of the First Isomorphism Theorem? (Yep!)
 	- [x] Is an additive category? (No.)
 	- [x] Is an abelian category? (No, but close. It's *semi-abelian*.)
-	- [ ] Is an enriched category?
+	- [x] Is an enriched category?
 
 ### Important functors
 
