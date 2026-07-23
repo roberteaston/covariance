@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-20T14:18:50-07:00","dg-note-properties":{"last updated":"2026-07-20T14:18:50-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-23T09:02:12-07:00","dg-note-properties":{"last updated":"2026-07-23T09:02:12-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -134,15 +134,15 @@ Our project will break down into roughly three phases:
 #### Free Lie algebras
 
 Let $U:{\bf LieAlg}_k\to {\bf Vec}_k$ be the forgetful functor that sends each Lie algebra over $k$ to its underlying $k$-vector space, i.e., forgets the bracket operation.
- - [ ] It turns out that the functor $U$ has a left adjoint, $F:{\bf Vec}_k\to {\bf LieAlg}_k$. What does this mean?
- - [ ] Given a $k$-vector space $V$, describe the Lie algebra $F(V)$. (This is called the *free Lie algebra* on the vector space $V$.)
+ - [ ] It turns out that the functor $U$ has a left adjoint, $L:{\bf Vec}_k\to {\bf LieAlg}_k$. What does this mean?
+ - [ ] Given a $k$-vector space $V$, describe the Lie algebra $L(V)$. (This is called the *free Lie algebra* on the vector space $V$.)
 
 #### Universal enveloping algebras
 
-Let ${\bf AssocAlg}_k$ be the category of (unital) associative $k$-algebras, and let $V:{\bf AssocAlg}_k\to {\bf LieAlg}_k$ be the functor that sends each associative $k$-algebra $A$ to the Lie algebra whose vector space is the underlying vector space of $A$ (i.e., forget the multiplication in general, but remember the addition and multiplication by elements of the base field, $k$) and with bracket defined by $[x,y]:=xy-yx$.
-- [ ] Verify that $V(A)$ is indeed a Lie algebra over $k$.
-- [ ] What is the arrow map of the functor $V$?
-- [ ] It turns out the functor $V$ has a left adjoint, $U:{\bf LieAlg}_k\to {\bf AssocAlg}_k$. What does this mean?
+Let ${\bf AssocAlg}_k$ be the category of (unital) associative $k$-algebras, and let $G:{\bf AssocAlg}_k\to {\bf LieAlg}_k$ be the functor that sends each associative $k$-algebra $A$ to the Lie algebra whose vector space is the underlying vector space of $A$ (i.e., forget the multiplication in general, but remember the addition and multiplication by elements of the base field, $k$) and with bracket defined by $[x,y]:=xy-yx$.
+- [ ] Verify that $G(A)$ is indeed a Lie algebra over $k$.
+- [ ] What is the arrow map of the functor $G$?
+- [ ] It turns out the functor $G$ has a left adjoint, $U:{\bf LieAlg}_k\to {\bf AssocAlg}_k$. What does this mean?
 - [ ] Give a Lie algebra $\mathfrak{g}$, describe the Lie algebra $U(\mathfrak{g})$. (This is called the *universal enveloping algebra* of $\mathfrak{g}$.)
 - [ ] Look up some properties of the universal enveloping algebra, e.g., how is $\mathfrak{g}$ related to $U(\mathfrak{g})$?
 
