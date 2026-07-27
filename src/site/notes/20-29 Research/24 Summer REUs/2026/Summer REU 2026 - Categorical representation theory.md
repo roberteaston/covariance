@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-27T09:08:05-07:00","dg-note-properties":{"last updated":"2026-07-27T09:08:05-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-27T15:00:46-07:00","dg-note-properties":{"last updated":"2026-07-27T15:00:46-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -18,6 +18,7 @@ Last summer we saw how most of the basic structures of representation theory can
 
 | Meeting Date                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-27\|REU Meeting - 2026-07-27]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-23\|REU Meeting - 2026-07-23]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-16\|REU Meeting - 2026-07-16]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-13\|REU Meeting - 2026-07-13]] |
@@ -67,8 +68,9 @@ Last summer we saw how most of the basic structures of representation theory can
 
 ### Tannaka duality
 
-- [ ] Learn about Tannaka duality by skimming through [this nLab page](https://ncatlab.org/nlab/show/Tannaka+duality)
-- [ ] Explain how Tannaka duality can be viewed as a consequence of the enriched Yoneda lemma (in enriched category theory)
+- [x] Learn about Tannaka duality by skimming through [this nLab page](https://ncatlab.org/nlab/show/Tannaka+duality)
+- [x] Learn about categorical *ends*
+- [ ] Explain how Tannaka's reconstruction theorem is "just enriched Yoneda in slight disguise"
 
 
 ## The team

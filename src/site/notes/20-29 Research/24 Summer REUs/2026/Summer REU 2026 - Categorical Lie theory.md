@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-27T10:20:32-07:00","dg-note-properties":{"last updated":"2026-07-27T10:20:32-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-27T13:43:01-07:00","dg-note-properties":{"last updated":"2026-07-27T13:43:01-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -166,7 +166,7 @@ A popular question you'll be asked often is "What are some applications of Lie g
 - [ ] What does Lie's Third Theorem say about this functor?
 - [ ] What is the adjoint representation of a group, $G$?
 - [ ] If $G\to \operatorname{Gl}(\mathfrak{g})$ is the adjoint representation of $G$, how do we get a Lie algebra morphism $\mathfrak{g}\to \mathfrak{gl(g)}$?
-- [ ] Read a bit about Tannaka-Krein duality, at least for (Lie) groups
+- [ ] Read a bit about Tannaka-Krein duality, at least for (Lie) groups.
 
 ## The team
 ---
