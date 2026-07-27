@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-23T09:16:13-07:00","dg-note-properties":{"last updated":"2026-07-23T09:16:13-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-27T10:20:32-07:00","dg-note-properties":{"last updated":"2026-07-27T10:20:32-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -21,6 +21,7 @@ Our project will break down into roughly three phases:
 
 | Meeting Date                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-27\|REU Meeting - 2026-07-27]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-23\|REU Meeting - 2026-07-23]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-20\|REU Meeting - 2026-07-20]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-16\|REU Meeting - 2026-07-16]] |
@@ -130,7 +131,7 @@ Our project will break down into roughly three phases:
 	- [x] Is an abelian category? (No, but close. It's *semi-abelian*.)
 	- [x] Is an enriched category?
 
-### Important functors
+### Important functors: Part I
 
 #### Free Lie algebras
 
@@ -147,17 +148,25 @@ Let ${\bf AssocAlg}_k$ be the category of (unital) associative $k$-algebras, and
 - [x] Give a Lie algebra $\mathfrak{g}$, describe the Lie algebra $U(\mathfrak{g})$. (This is called the *universal enveloping algebra* of $\mathfrak{g}$.)
 - [x] Look up some properties of the universal enveloping algebra, e.g., how is $\mathfrak{g}$ related to $U(\mathfrak{g})$?
 
-#### The Lie functor
-*Coming soon!*
-
 ### Aside: Applications of Lie theory
 
 A popular question you'll be asked often is "What are some applications of Lie groups?" So let's make sure to have some answers ready for that! Find some specific applications of Lie theory. Some possible places to look are:
-- [ ] Particle physics
-- [ ] Relativity
-- [ ] Quantum computing
-- [ ] Machine learning
-- [ ] Robotics (including robot vision)
+- [x] Particle physics
+- [x] Relativity
+- [x] Quantum computing
+- [x] Machine learning
+- [x] Robotics (including robot vision)
+
+### Important functors: Part II
+
+#### The Lie functor
+
+- [ ] Describe a functor ${\bf LieGrp}\to {\bf LieAlg}$. Make sure to describe both the object function and the arrow function.
+- [ ] Does this functor have any nice properties; e.g., does it preserve products?
+- [ ] What does Lie's Third Theorem say about this functor?
+- [ ] What is the adjoint representation of a group, $G$?
+- [ ] If $G\to \operatorname{Gl}(\mathfrak{g})$ is the adjoint representation of $G$, how do we get a Lie algebra morphism $\mathfrak{g}\to \mathfrak{gl(g)}$?
+- [ ] Read a bit about Tannaka-Krein duality, at least for (Lie) groups
 
 ## The team
 ---
