@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-27T15:00:46-07:00","dg-note-properties":{"last updated":"2026-07-27T15:00:46-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-07-29T14:23:06-07:00","dg-note-properties":{"last updated":"2026-07-29T14:23:06-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -18,6 +18,7 @@ Last summer we saw how most of the basic structures of representation theory can
 
 | Meeting Date                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-29\|REU Meeting - 2026-07-29]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-27\|REU Meeting - 2026-07-27]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-23\|REU Meeting - 2026-07-23]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-16\|REU Meeting - 2026-07-16]] |
@@ -59,7 +60,7 @@ Last summer we saw how most of the basic structures of representation theory can
 	- [x] The endomorphisms of the trivial representation are just scalars: $\operatorname{End}(k) \cong k$.
 	- [x] Taking the categorical trace of an endomorphism of a representation yields a scalar, which precisely recovers the value of the character.
 
-### Categorical characters
+### Categorical characters: Part I
 
 - [x] Skim through [this nLab page](https://ncatlab.org/nlab/show/action+of+a+monoidal+category) about actions on monoidal categories.
 - [x] Try to make sense of this claim from Gemini:![Screenshot 2026-07-02 at 11.36.20 AM.png](/img/user/90-99%20Meta/95%20Attachments/Screenshot%202026-07-02%20at%2011.36.20%20AM.png)
@@ -70,9 +71,11 @@ Last summer we saw how most of the basic structures of representation theory can
 
 - [x] Learn about Tannaka duality by skimming through [this nLab page](https://ncatlab.org/nlab/show/Tannaka+duality)
 - [x] Learn about categorical *ends*
-- [ ] Explain how Tannaka's reconstruction theorem is "just enriched Yoneda in slight disguise"
+- [x] Explain how Tannaka's reconstruction theorem is "just enriched Yoneda in slight disguise"
 
+### Categorical characters: Part II
 
+- [ ] With our new knowledge, try to express classical characters from a purely categorical perspective
 ## The team
 ---
 ### Mark Muzquiz

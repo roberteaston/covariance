@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-27T13:43:01-07:00","dg-note-properties":{"last updated":"2026-07-27T13:43:01-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-07-29T14:18:54-07:00","dg-note-properties":{"last updated":"2026-07-29T14:18:54-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -21,6 +21,7 @@ Our project will break down into roughly three phases:
 
 | Meeting Date                                                                                                                  |
 | ----------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-29\|REU Meeting - 2026-07-29]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-27\|REU Meeting - 2026-07-27]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-23\|REU Meeting - 2026-07-23]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-20\|REU Meeting - 2026-07-20]] |
@@ -161,12 +162,12 @@ A popular question you'll be asked often is "What are some applications of Lie g
 
 #### The Lie functor
 
-- [ ] Describe a functor ${\bf LieGrp}\to {\bf LieAlg}$. Make sure to describe both the object function and the arrow function.
-- [ ] Does this functor have any nice properties; e.g., does it preserve products?
-- [ ] What does Lie's Third Theorem say about this functor?
-- [ ] What is the adjoint representation of a group, $G$?
-- [ ] If $G\to \operatorname{Gl}(\mathfrak{g})$ is the adjoint representation of $G$, how do we get a Lie algebra morphism $\mathfrak{g}\to \mathfrak{gl(g)}$?
-- [ ] Read a bit about Tannaka-Krein duality, at least for (Lie) groups.
+- [x] Describe a functor ${\bf LieGrp}\to {\bf LieAlg}$. Make sure to describe both the object function and the arrow function.
+- [x] Does this functor have any nice properties; e.g., does it preserve products?
+- [x] What does Lie's Third Theorem say about this functor?
+- [x] What is the adjoint representation of a group, $G$?
+- [x] If $G\to \operatorname{Gl}(\mathfrak{g})$ is the adjoint representation of $G$, how do we get a Lie algebra morphism $\mathfrak{g}\to \mathfrak{gl(g)}$?
+- [x] Read a bit about Tannaka-Krein duality, at least for (Lie) groups.
 
 ## The team
 ---
