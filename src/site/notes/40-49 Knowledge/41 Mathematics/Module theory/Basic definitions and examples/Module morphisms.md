@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms/","tags":["module_theory"],"updated":"2025-10-08T10:28:18-07:00","dg-note-properties":{"references":["[[Dummit, Foote - Abstract Algebra - 3e.pdf#page=358|Dummit & Foote: Section 10.2]]"],"last updated":"2025-10-08T10:28:18-07:00","related":["[[Modules]]","[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules\|Module morphisms and submodules]]"],"tags":["module_theory"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/basic-definitions-and-examples/module-morphisms/","tags":["module_theory"],"updated":"2025-10-08T10:28:18-07:00","dg-note-properties":{"references":["[[Dummit, Foote - Abstract Algebra - 3e.pdf#page=358|Dummit & Foote: Section 10.2]]"],"last updated":"2025-10-08T10:28:18-07:00","related":["[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules]]","[[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Module morphisms and submodules]]"],"tags":["module_theory"]}}
 ---
 
 As we will see, the road to understanding modules is through understanding the connections between modules, i.e., the maps between modules.

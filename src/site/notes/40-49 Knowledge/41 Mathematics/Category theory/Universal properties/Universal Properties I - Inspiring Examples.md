@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-i-inspiring-examples/","tags":["category_theory","quotes"],"updated":"2025-10-07T19:56:27-07:00","dg-note-properties":{"last updated":"2025-10-07T19:56:27-07:00","related":["[[Universal arrows and elements]]","[[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]]"],"tags":["category_theory","quotes"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/universal-properties/universal-properties-i-inspiring-examples/","tags":["category_theory","quotes"],"updated":"2025-10-07T19:56:27-07:00","dg-note-properties":{"last updated":"2025-10-07T19:56:27-07:00","related":["[[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal arrows and elements]]","[[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits]]"],"tags":["category_theory","quotes"]}}
 ---
 
 > [!quote] [[Maclane - Categories for the Working Mathematician.pdf#page=66\|Saunders Mac Lane]]

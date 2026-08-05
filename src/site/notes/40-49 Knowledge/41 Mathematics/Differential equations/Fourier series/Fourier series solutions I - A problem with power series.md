@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-i-a-problem-with-power-series/","tags":["differential_equations"],"updated":"2025-08-02T15:38:07-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-02T15:38:07-07:00","related":["[[Frobenius Series Solutions III - Frobenius theory]]"],"tags":["differential_equations"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-i-a-problem-with-power-series/","tags":["differential_equations"],"updated":"2025-08-02T15:38:07-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-02T15:38:07-07:00","related":["[[40-49 Knowledge/41 Mathematics/Differential equations/Frobenius series solutions/Frobenius Series Solutions III - Frobenius theory]]"],"tags":["differential_equations"]}}
 ---
 
 > [!quote] Jean-Baptiste Joseph Fourier

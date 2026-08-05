@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf &gt; page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
+<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                               | Last Updated            |
-| -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------- |
-| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical representation theory\|Summer REU 2026 - Categorical representation theory]] | 2:23 PM - July 29, 2026 |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-29\|REU Meeting - 2026-07-29]]                               | 2:23 PM - July 29, 2026 |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-29\|REU Meeting - 2026-07-29]]                      | 2:21 PM - July 29, 2026 |
+| Note                                                                                                                                               | Last Updated              |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-08-05\|REU Meeting - 2026-08-05]]                               | 1:16 PM - August 05, 2026 |
+| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical representation theory\|Summer REU 2026 - Categorical representation theory]] | 1:15 PM - August 05, 2026 |
+| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical Lie theory\|Summer REU 2026 - Categorical Lie theory]]                       | 1:10 PM - August 05, 2026 |
 
 { .block-language-dataview}
 

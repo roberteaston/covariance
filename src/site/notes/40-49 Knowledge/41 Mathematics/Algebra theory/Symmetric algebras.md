@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-algebras/","tags":["algebra_theory"],"updated":"2025-11-02T19:39:49-08:00","dg-note-properties":{"last updated":"2025-11-02T19:39:49-08:00","tags":["algebra_theory"],"related":["[[Algebras]]","[[Tensor algebras]]","[[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]","[[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]]","[[Graded rings]]"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/algebra-theory/symmetric-algebras/","tags":["algebra_theory"],"updated":"2025-11-02T19:39:49-08:00","dg-note-properties":{"last updated":"2025-11-02T19:39:49-08:00","tags":["algebra_theory"],"related":["[[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras]]","[[40-49 Knowledge/41 Mathematics/Algebra theory/Tensor algebras]]","[[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras]]","[[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors]]","[[40-49 Knowledge/41 Mathematics/Ring theory/Special types of rings/Graded rings]]"]}}
 ---
 
 ## Motivation

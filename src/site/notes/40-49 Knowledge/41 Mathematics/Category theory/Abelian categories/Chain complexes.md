@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/chain-complexes/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:34:32-07:00","dg-note-properties":{"last updated":"2025-03-31T12:34:32-07:00","related":["[[Additive categories]]","[[Abelian categories]]"],"tags":["category_theory/abelian_categories"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/category-theory/abelian-categories/chain-complexes/","tags":["category_theory/abelian_categories"],"updated":"2025-03-31T12:34:32-07:00","dg-note-properties":{"last updated":"2025-03-31T12:34:32-07:00","related":["[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories]]","[[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories]]"],"tags":["category_theory/abelian_categories"]}}
 ---
 
 ## Definitions

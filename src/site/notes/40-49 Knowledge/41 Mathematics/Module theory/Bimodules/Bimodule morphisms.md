@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodule-morphisms/","tags":["#module_theory"],"updated":"2025-10-13T13:02:54-07:00","dg-note-properties":{"last updated":"2025-10-13T13:02:54-07:00","related":["[[Bimodules]]","[[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/The 2-category of bimodules\|The 2-category of bimodules]]","[[Tensor Products IV - The Adjoint Property]]"],"tags":["#module_theory"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/module-theory/bimodules/bimodule-morphisms/","tags":["#module_theory"],"updated":"2025-10-13T13:02:54-07:00","dg-note-properties":{"last updated":"2025-10-13T13:02:54-07:00","related":["[[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/Bimodules]]","[[40-49 Knowledge/41 Mathematics/Module theory/Bimodules/The 2-category of bimodules]]","[[40-49 Knowledge/41 Mathematics/Module theory/Tensor products of modules/Tensor Products IV - The Adjoint Property]]"],"tags":["#module_theory"]}}
 ---
 
 ## Definition

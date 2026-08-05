@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-iv-analytic-functions-and-ordinary-points/","tags":["differential_equations"],"updated":"2025-07-31T09:04:45-07:00","dg-note-properties":{"references":[],"last updated":"2025-07-31T09:04:45-07:00","related":["[[Power Series Solutions III - A more representative example]]"],"tags":["differential_equations"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/power-series-solutions/power-series-solutions-iv-analytic-functions-and-ordinary-points/","tags":["differential_equations"],"updated":"2025-07-31T09:04:45-07:00","dg-note-properties":{"references":[],"last updated":"2025-07-31T09:04:45-07:00","related":["[[40-49 Knowledge/41 Mathematics/Differential equations/Power series solutions/Power Series Solutions III - A more representative example]]"],"tags":["differential_equations"]}}
 ---
 
 Our goal in this not is to give some type of answer to the question "When can we find a power series solution to a differential equation?" We begin by recalling a few basic facts about power series. We then analyze the case of second-order, linear, homogeneous differential equations. As we will eventually see, that situation is already complicated enough.

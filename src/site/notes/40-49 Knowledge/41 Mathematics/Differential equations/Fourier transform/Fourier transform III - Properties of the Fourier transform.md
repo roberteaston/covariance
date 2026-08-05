@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-iii-properties-of-the-fourier-transform/","tags":["differential_equations"],"updated":"2025-08-19T09:52:50-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-19T09:52:50-07:00","related":["[[Fourier transform II - The Fourier transform and inverse transform]]"],"tags":["differential_equations"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-iii-properties-of-the-fourier-transform/","tags":["differential_equations"],"updated":"2025-08-19T09:52:50-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-19T09:52:50-07:00","related":["[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform II - The Fourier transform and inverse transform]]"],"tags":["differential_equations"]}}
 ---
 
 The Fourier transform (and inverse transform) enjoys a long list of very nice properties.

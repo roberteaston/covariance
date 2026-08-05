@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-ii-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-06T09:03:02-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-06T09:03:02-07:00","related":["[[Fourier series solutions I - A problem with power series]]"],"tags":["differential_equations"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-series/fourier-series-solutions-ii-periodic-functions/","tags":["differential_equations"],"updated":"2025-08-06T09:03:02-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-06T09:03:02-07:00","related":["[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions I - A problem with power series]]"],"tags":["differential_equations"]}}
 ---
 
 We begin by recalling the definitions and basic properties of periodic functions.

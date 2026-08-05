@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-ii-the-fourier-transform-and-inverse-transform/","tags":["differential_equations"],"updated":"2025-08-18T15:21:01-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-18T15:21:01-07:00","related":["[[Fourier transform I - Pushing Fourier series to the limit]]"],"tags":["differential_equations"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-ii-the-fourier-transform-and-inverse-transform/","tags":["differential_equations"],"updated":"2025-08-18T15:21:01-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-18T15:21:01-07:00","related":["[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform I - Pushing Fourier series to the limit]]"],"tags":["differential_equations"]}}
 ---
 
 Inspired by the [[40-49 Knowledge/41 Mathematics/Differential equations/Fourier transform/Fourier transform I - Pushing Fourier series to the limit#The takeaway\|previous example]] and ignoring any technical issues (such as convergence), we have been led to define the following:

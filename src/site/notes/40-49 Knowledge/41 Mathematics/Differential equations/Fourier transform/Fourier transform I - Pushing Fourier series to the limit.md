@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-i-pushing-fourier-series-to-the-limit/","tags":["differential_equations"],"updated":"2025-08-18T14:45:04-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-18T14:45:04-07:00","related":["[[Fourier series solutions III - Series representations of periodic functions]]"],"tags":["differential_equations"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/differential-equations/fourier-transform/fourier-transform-i-pushing-fourier-series-to-the-limit/","tags":["differential_equations"],"updated":"2025-08-18T14:45:04-07:00","dg-note-properties":{"references":[],"last updated":"2025-08-18T14:45:04-07:00","related":["[[40-49 Knowledge/41 Mathematics/Differential equations/Fourier series/Fourier series solutions III - Series representations of periodic functions]]"],"tags":["differential_equations"]}}
 ---
 
 We are about to discover the Fourier *transform* as the natural answer to the following:
