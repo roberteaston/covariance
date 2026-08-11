@@ -1,16 +1,19 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2025-06-04T10:17:28-07:00","dg-note-properties":{"last updated":"2025-06-04T10:17:28-07:00"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2026-08-11T09:14:30-07:00","dg-note-properties":{"last updated":"2026-08-11T09:14:30-07:00"}}
 ---
 
 ## Most recent update
 ---
 
-**June 4, 2025**
-- Added the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Centralizers in symmetric groups\|Centralizers in symmetric groups]] to the problem bank.
+**August 11, 2026**
+- Removed the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Normality and the operation on cosets (defunct)\|Normality and the operation on cosets (defunct)]] from the Problem Bank.
 
 
 ## Earlier updates
 ---
+
+**June 4, 2025**
+- Added the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Centralizers in symmetric groups\|Centralizers in symmetric groups]] to the problem bank.
 
 **May 26, 2025**
 - Removed the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Existence of an identity element in a group\|Existence of an identity element in a group]] from the Problem Bank. It was similar to, but more awkward than [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Ring theory/Existence of an identity element in a finite ring\|Existence of an identity element in a finite ring]].
@@ -30,7 +33,7 @@
 **April 29, 2025**
 - Relaxed a condition in the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Image of the identity is the identity\|Image of the identity is the identity]]. The original version assumed $\phi$ was an isomorphism of groups, but the desired result only requires $\phi$ to be a (homo)morphism.
 
-**April 22, 2025
+**April 22, 2025**
 - Added dates for all exams given since Spring 2022
 
 **April 5, 2025**

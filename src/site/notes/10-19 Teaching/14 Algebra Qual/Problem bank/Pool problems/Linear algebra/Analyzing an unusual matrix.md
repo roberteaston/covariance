@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/analyzing-an-unusual-matrix/","tags":["linear_algebra"],"updated":"2025-03-17T08:14:16-07:00","dg-note-properties":{"last updated":"2025-03-17T08:14:16-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2021"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/analyzing-an-unusual-matrix/","tags":["linear_algebra"],"updated":"2026-08-11T09:12:09-07:00","dg-note-properties":{"last updated":"2026-08-11T09:12:09-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2021"],"redacted":true}}
 ---
 
 Let $a$ and $b$ be real numbers and let $A\in {\bf R}^{3\times 3}$ with each diagonal entry equal to $a$ and each off-diagonal entry equal to $b$.

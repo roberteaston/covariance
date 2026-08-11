@@ -1,33 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/template-problems-in-ring-theory/","updated":"2025-03-29T15:01:40-07:00","dg-note-properties":{"last updated":"2025-03-29T15:01:40-07:00"}}
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/using-the-chinese-remainder-theorem/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-1. Suppose $I$ and $J$ are ideals in a commutative ring $R$ such that $R=I+J$. Prove that the map $f:R\to R/I\times R/J$ given by $f(x)=(x+I,x+J)$ induces the isomorphism
-   
-   $$R/IJ\cong R/I\times R/J.$$
-   
-2. Prove that $\left({\bf Z}/3{\bf Z}\right)[x]/(x^3-x^2-1)\cong \left({\bf Z}/3{\bf Z}\right)[x]/(x^3+x+1)$. (*Hint:* Use part (1).)
-
-> [!info]- View $\LaTeX$ code
-> ```
-> \begin{enumerate}
-> 	\item Suppose $I$ and $J$ are ideals in a commutative ring $R$ such that $R=I+J$. Prove that the map $f:R\to R/I\times R/J$ given by $f(x)=(x+I,x+J)$ induces the isomorphism
-> 	\[
-> 		R/IJ\cong R/I\times R/J.
-> 	\]
-> 	\item Prove that $\left({\bf Z}/3{\bf Z}\right)[x]/(x^3-x^2-1)\cong \left({\bf Z}/3{\bf Z}\right)[x]/(x^3+x+1)$. ({\itshape Hint:} Use part (a).)
-> \end{enumerate}
-> ```
-
-</div></div>
-
-
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/template-problems-in-ring-theory/","updated":"2026-08-11T09:19:18-07:00","dg-note-properties":{"last updated":"2026-08-11T09:19:18-07:00"}}
 ---
 
 
@@ -204,6 +176,55 @@ Let ${\bf Z}[i]=\{a+bi\,\mid \, a,b\in {\bf Z},\, i^2=-1\}$, a subring of ${\bf 
 ---
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-field-with-eight-elements/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+Let ${\bf Z}_2=\{0,1\}$ be the field of two elements. The quotient ring ${\bf Z}_2[x]/\langle x^3+x+1\rangle$ is a field of cardinality 8, containing ${\bf Z}_2$. Let $\pi:{\bf Z}_2[x]\to {\bf Z}_2[x]/\langle x^3+x+1\rangle$ be the natural projection.
+1. Write down a set of eight distinct coset representatives for the elements of this field.
+2. Determine the multiplicative inverse of $\pi(x)$ in terms of your coset representatives.
+
+> [!info]- View $\LaTeX$ code
+> ```
+> Let ${\bf Z}_2=\{0,1\}$ be the field of two elements. The quotient ring ${\bf Z}_2[x]/\langle x^3+x+1\rangle$ is a field of cardinality 8, containing ${\bf Z}_2$. Let $\pi:{\bf Z}_2[x]\to {\bf Z}_2[x]/\langle x^3+x+1\rangle$ be the natural projection.
+> \begin{enumerate}[label=\alph*)]
+> 	\item Write down a set of eight distinct coset representatives for the elements of this field.
+> 	\item Determine the multiplicative inverse of $\pi(x)$ in terms of your coset representatives.
+> \end{enumerate}
+> ```
+
+</div></div>
+
+
+---
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-field-with-nine-elements/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+Let ${\bf F}_9$ denote the field of nine elements.
+1. Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
+2. Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
+
+> [!info]- View $\LaTeX$ code
+> ```
+> Let ${\bf F}_9$ denote the field of nine elements.
+> \begin{enumerate}[label=\alph*)]
+> 	\item Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
+> 	\item Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
+> \end{enumerate}
+> ```
+
+</div></div>
+
+
+
+---
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/group-of-units-of-a-product/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -241,6 +262,39 @@ Let $k\subset K$ be fields, and let $k[X]$ be the polynomial ring in one variabl
 > [!info]- View $\LaTeX$ code
 > ```
 > Let $k\subset K$ be fields, and let $k[X]$ be the polynomial ring in one variable with coefficients in $k$. The {\bfseries evaluation} at $z\in K$  is a ring homomorphism $\varepsilon:k[X]\to K$ defined by $\varepsilon(f(X))=f(z)$. Prove that if $\varepsilon$ is not injective, then $\varepsilon(k[X])$ is a field.
+> ```
+
+</div></div>
+
+
+---
+
+
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-kernel-of-an-evaluation-morphism/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+Let ${\bf Z}[X]$ be the ring of polynomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the "evaluation at $1$" homomorphism
+
+$$\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.\end{align*}$$
+
+1. Characterize $K$ as a set.
+2. Determine whether $K$ is a maximal ideal. Fully justify your conclusion.
+3. Determine whether $K$ is a principal ideal. Justify by either exhibiting a generator or proving that there isn't one.
+
+> [!info]- View $\LaTeX$ code
+> ```
+> Let ${\bf Z}[X]$ be the ring of polynmomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the ``evaluation at $1$'' homomorphism
+> \begin{align*}
+> 	\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\
+> 	f(X) &\mapsto [f(1)]_3.
+> \end{align*}
+> \begin{enumerate}[label=\alph*)]
+> 	\item Characterize $K$ as a set.
+> 	\item Determine whether $K$ is a maximal ideal. Fully justify your conclusion.
+> 	\item Determine whether $K$ is a principal ideal. Justify by either exhibiting a generator or proving that there isn't one.
+> \end{enumerate}
 > ```
 
 </div></div>
@@ -298,78 +352,25 @@ Let $i\in {\bf C}$ be the usual root of unity, with $i^2=-1$, and let ${\bf Z}[i
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-field-with-eight-elements/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/using-the-chinese-remainder-theorem/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-Let ${\bf Z}_2=\{0,1\}$ be the field of two elements. The quotient ring ${\bf Z}_2[x]/\langle x^3+x+1\rangle$ is a field of cardinality 8, containing ${\bf Z}_2$. Let $\pi:{\bf Z}_2[x]\to {\bf Z}_2[x]/\langle x^3+x+1\rangle$ be the natural projection.
-1. Write down a set of eight distinct coset representatives for the elements of this field.
-2. Determine the multiplicative inverse of $\pi(x)$ in terms of your coset representatives.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> Let ${\bf Z}_2=\{0,1\}$ be the field of two elements. The quotient ring ${\bf Z}_2[x]/\langle x^3+x+1\rangle$ is a field of cardinality 8, containing ${\bf Z}_2$. Let $\pi:{\bf Z}_2[x]\to {\bf Z}_2[x]/\langle x^3+x+1\rangle$ be the natural projection.
-> \begin{enumerate}[label=\alph*)]
-> 	\item Write down a set of eight distinct coset representatives for the elements of this field.
-> 	\item Determine the multiplicative inverse of $\pi(x)$ in terms of your coset representatives.
-> \end{enumerate}
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-field-with-nine-elements/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Let ${\bf F}_9$ denote the field of nine elements.
-1. Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
-2. Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
+1. Suppose $I$ and $J$ are ideals in a commutative ring $R$ such that $R=I+J$. Prove that the map $f:R\to R/I\times R/J$ given by $f(x)=(x+I,x+J)$ induces the isomorphism
+   
+   $$R/IJ\cong R/I\times R/J.$$
+   
+2. Prove that $\left({\bf Z}/3{\bf Z}\right)[x]/(x^3-x^2-1)\cong \left({\bf Z}/3{\bf Z}\right)[x]/(x^3+x+1)$. (*Hint:* Use part (1).)
 
 > [!info]- View $\LaTeX$ code
 > ```
-> Let ${\bf F}_9$ denote the field of nine elements.
-> \begin{enumerate}[label=\alph*)]
-> 	\item Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
-> 	\item Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
-> \end{enumerate}
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-kernel-of-an-evaluation-morphism/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Let ${\bf Z}[X]$ be the ring of polynomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the "evaluation at $1$" homomorphism
-
-$$\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.\end{align*}$$
-
-1. Characterize $K$ as a set.
-2. Determine whether $K$ is a maximal ideal. Fully justify your conclusion.
-3. Determine whether $K$ is a principal ideal. Justify by either exhibiting a generator or proving that there isn't one.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> Let ${\bf Z}[X]$ be the ring of polynmomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the ``evaluation at $1$'' homomorphism
-> \begin{align*}
-> 	\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\
-> 	f(X) &\mapsto [f(1)]_3.
-> \end{align*}
-> \begin{enumerate}[label=\alph*)]
-> 	\item Characterize $K$ as a set.
-> 	\item Determine whether $K$ is a maximal ideal. Fully justify your conclusion.
-> 	\item Determine whether $K$ is a principal ideal. Justify by either exhibiting a generator or proving that there isn't one.
+> \begin{enumerate}
+> 	\item Suppose $I$ and $J$ are ideals in a commutative ring $R$ such that $R=I+J$. Prove that the map $f:R\to R/I\times R/J$ given by $f(x)=(x+I,x+J)$ induces the isomorphism
+> 	\[
+> 		R/IJ\cong R/I\times R/J.
+> 	\]
+> 	\item Prove that $\left({\bf Z}/3{\bf Z}\right)[x]/(x^3-x^2-1)\cong \left({\bf Z}/3{\bf Z}\right)[x]/(x^3+x+1)$. ({\itshape Hint:} Use part (a).)
 > \end{enumerate}
 > ```
 

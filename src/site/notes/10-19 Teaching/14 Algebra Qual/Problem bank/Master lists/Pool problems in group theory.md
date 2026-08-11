@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/pool-problems-in-group-theory/","updated":"2025-06-04T10:16:44-07:00","dg-note-properties":{"last updated":"2025-06-04T10:16:44-07:00"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/pool-problems-in-group-theory/","updated":"2026-08-11T09:17:26-07:00","dg-note-properties":{"last updated":"2026-08-11T09:17:26-07:00"}}
 ---
 
 
@@ -129,31 +129,6 @@ Let $G$ be a group and suppose $\operatorname{Aut}(G)$ is trivial.
 > 	\item Show that $G$ is abelian.
 > 	\item Show that for any abelian group $H$, the {\bfseries inversion map} $\phi(h)=h^{-1}$ is an automorphism.
 > 	\item Use parts (a) and (b) above to show that $g^2$ is the identity element for every $g\in G$.
-> \end{enumerate}
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/the-third-isomorphism-theorem/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-1. Suppose $N$ is a normal subgroup of a group $G$ and $\pi_N:G\to G/N$ is the usual projection homomorphism, defined by $\pi_N(g)=gN$. Prove that if $\phi:G\to H$ is any homomorphism with $N\leq \ker(\phi)$, then there exists a unique homomorphism $\psi:G/N\to H$ such that $\phi = \psi\circ \pi_N$. (You must explicitly define $\psi$, show it is well defined, show $\phi=\psi\circ\pi_N$, and show that $\psi$ is uniquely determined.)
-2. Prove the:
-   **Third Isomorphism Theorem.** If $M, N\unlhd G$ with $N\leq M$, then $(G/N)/(M/N)\cong G/M$.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> \begin{enumerate}[label=\alph*)]
-> 	\item Suppose $N$ is a normal subgroup of a group $G$ and $\pi_N:G\to G/N$ is the usual projection homomorphism, defined by $\pi_N(g)=gN$. Prove that if $\phi:G\to H$ is any homomorphism with $N\leq \ker(\phi)$, then there exists a unique homomorphism $\psi:G/N\to H$ such that $\phi = \psi\circ \pi_N$. (You must explicitly define $\psi$, show it is well defined, show $\phi=\psi\circ\pi_N$, and show that $\psi$ is uniquely determined.)
-> 	\item Prove the:
-> 		\medskip
-> 		{\bfseries Third Isomorphism Theorem.} If $M, N\unlhd G$ with $N\leq M$, then $(G/N)/(M/N)\cong G/M$.
 > \end{enumerate}
 > ```
 
@@ -554,6 +529,24 @@ Prove that $\operatorname{Inn}(G)$ is isomorphic to $G/Z(G)$, where $Z(G)$ is th
 ---
 
 
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/the-integers-as-a-subgroup-of-the-rationals/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+
+
+
+
+The additive group ${\bf Z}=({\bf Z},+)$ of rational integers is a subgroup of the additive group ${\bf Q}=({\bf Q},+)$. Show that ${\bf Z}$ has infinite index in ${\bf Q}$.
+
+> [!info]- View $\LaTeX$ code
+> ```
+> The additive group ${\bf Z}=({\bf Z},+)$ of rational integers is a subgroup of the additive group ${\bf Q}=({\bf Q},+)$. Show that ${\bf Z}$ has infinite index in ${\bf Q}$.
+> ```
+
+</div></div>
+
+
+---
+
+
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/nonexistence-of-a-simple-group-of-a-given-order/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -633,24 +626,6 @@ given by $(aN, bN)\mapsto abN$.
 > 	\item Show the operation is well defined.
 > 	\item Show the operation is well defined only if the subgroup $N$ is normal.
 > \end{enumerate}
-> ```
-
-</div></div>
-
-
----
-
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/normality-and-the-operation-on-cosets-defunct/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-Let $G$ be a group, $H\leq G$ a subgroup that is not normal. Prove there exist cosets $Ha$ and $Hb$ such that $HaHb\neq Hab$.
-
-> [!info]- View $\LaTeX$ code
-> ```
-> Let $G$ be a group, $H\leq G$ a subgroup that is not normal. Prove there exist cosets $Ha$ and $Hb$ such that $HaHb\neq Hab$.
 > ```
 
 </div></div>
@@ -977,16 +952,23 @@ Let $G$ be a group of order $2n$ for some positive integer $n > 1$.
 ---
 
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/the-integers-as-a-subgroup-of-the-rationals/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
+<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/the-third-isomorphism-theorem/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
-The additive group ${\bf Z}=({\bf Z},+)$ of rational integers is a subgroup of the additive group ${\bf Q}=({\bf Q},+)$. Show that ${\bf Z}$ has infinite index in ${\bf Q}$.
+1. Suppose $N$ is a normal subgroup of a group $G$ and $\pi_N:G\to G/N$ is the usual projection homomorphism, defined by $\pi_N(g)=gN$. Prove that if $\phi:G\to H$ is any homomorphism with $N\leq \ker(\phi)$, then there exists a unique homomorphism $\psi:G/N\to H$ such that $\phi = \psi\circ \pi_N$. (You must explicitly define $\psi$, show it is well defined, show $\phi=\psi\circ\pi_N$, and show that $\psi$ is uniquely determined.)
+2. Prove the:
+   **Third Isomorphism Theorem.** If $M, N\unlhd G$ with $N\leq M$, then $(G/N)/(M/N)\cong G/M$.
 
 > [!info]- View $\LaTeX$ code
 > ```
-> The additive group ${\bf Z}=({\bf Z},+)$ of rational integers is a subgroup of the additive group ${\bf Q}=({\bf Q},+)$. Show that ${\bf Z}$ has infinite index in ${\bf Q}$.
+> \begin{enumerate}[label=\alph*)]
+> 	\item Suppose $N$ is a normal subgroup of a group $G$ and $\pi_N:G\to G/N$ is the usual projection homomorphism, defined by $\pi_N(g)=gN$. Prove that if $\phi:G\to H$ is any homomorphism with $N\leq \ker(\phi)$, then there exists a unique homomorphism $\psi:G/N\to H$ such that $\phi = \psi\circ \pi_N$. (You must explicitly define $\psi$, show it is well defined, show $\phi=\psi\circ\pi_N$, and show that $\psi$ is uniquely determined.)
+> 	\item Prove the:
+> 		\medskip
+> 		{\bfseries Third Isomorphism Theorem.} If $M, N\unlhd G$ with $N\leq M$, then $(G/N)/(M/N)\cong G/M$.
+> \end{enumerate}
 > ```
 
 </div></div>
