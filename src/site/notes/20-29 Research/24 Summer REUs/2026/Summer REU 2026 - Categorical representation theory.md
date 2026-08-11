@@ -18,6 +18,7 @@ Last summer we saw how most of the basic structures of representation theory can
 
 | Meeting Date                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-08-11\|REU Meeting - 2026-08-11]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-08-05\|REU Meeting - 2026-08-05]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-29\|REU Meeting - 2026-07-29]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-27\|REU Meeting - 2026-07-27]] |

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-08-05T13:10:32-07:00","dg-note-properties":{"last updated":"2026-08-05T13:10:32-07:00","tags":["category_theory","lie_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-lie-theory/","tags":["category_theory","lie_theory"],"updated":"2026-08-11T10:54:52-07:00","dg-note-properties":{"last updated":"2026-08-11T10:54:52-07:00","tags":["category_theory","lie_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -19,20 +19,21 @@ Our project will break down into roughly three phases:
 ## Meeting notes
 ---
 
-| Meeting Date                                                                                                                      |
-| --------------------------------------------------------------------------------------------------------------------------------- |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-29 1\|REU Meeting - 2026-07-29 1]] |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-29\|REU Meeting - 2026-07-29]]     |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-27\|REU Meeting - 2026-07-27]]     |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-23\|REU Meeting - 2026-07-23]]     |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-20\|REU Meeting - 2026-07-20]]     |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-16\|REU Meeting - 2026-07-16]]     |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-13\|REU Meeting - 2026-07-13]]     |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-09\|REU Meeting - 2026-07-09]]     |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-02\|REU Meeting - 2026-07-02]]     |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-29\|REU Meeting - 2026-06-29]]     |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-25\|REU Meeting - 2026-06-25]]     |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-22\|REU Meeting - 2026-06-22]]     |
+| Meeting Date                                                                                                                  |
+| ----------------------------------------------------------------------------------------------------------------------------- |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-08-11\|REU Meeting - 2026-08-11]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-08-05\|REU Meeting - 2026-08-05]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-29\|REU Meeting - 2026-07-29]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-27\|REU Meeting - 2026-07-27]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-23\|REU Meeting - 2026-07-23]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-20\|REU Meeting - 2026-07-20]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-16\|REU Meeting - 2026-07-16]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-13\|REU Meeting - 2026-07-13]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-09\|REU Meeting - 2026-07-09]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-07-02\|REU Meeting - 2026-07-02]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-29\|REU Meeting - 2026-06-29]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-25\|REU Meeting - 2026-06-25]] |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-06-22\|REU Meeting - 2026-06-22]] |
 
 { .block-language-dataview}
 
@@ -172,22 +173,23 @@ A popular question you'll be asked often is "What are some applications of Lie g
 
 ### Other important results and questions
 
-- [ ] What are Lie’s three theorems?
-- [ ] Can a given group G always be equipped with a Lie group structure? Can it be equipped with different Lie group structures?
-- [ ] Which topological spaces can be equipped with a Lie group structure?
-- [ ] Can non-isomorphic Lie groups have isomorphic Lie algebras?
-- [ ] What is Lie integration?
-- [ ] Is there a classification of all Lie groups?
+- [x] What are Lie’s three theorems?
+- [x] Can a given group G always be equipped with a Lie group structure? Can it be equipped with different Lie group structures?
+- [x] Which topological spaces can be equipped with a Lie group structure?
+- [x] Can non-isomorphic Lie groups have isomorphic Lie algebras?
+- [x] What is Lie integration?
+- [x] Is there a classification of all Lie groups?
 
 ### Wrap-up and future research
 
-- [ ] Briefly investigate some of the ideas below, any of which could be an avenue for future research:
+- [x] Briefly investigate some of the ideas below, any of which could be an avenue for future research:
 	- Lie algebra objects (analogous to group objects internal to a Cartesian closed category)
 	- Lie groupoids and Lie algebroids (Maybe even just starting with groupoids and the idea of “oidification”)
 	- Higher “dimensional” versions of Lie’s three theorems, e.g., analogues for Lie groupoids, Lie 2-groups, etc.
 	- The Lie operad (which also involves learning what an operad is)
-- [ ] Write up what we've learned and done this summer
-- [ ] Start planning the poster
+- [x] Write up what we've learned and done this summer
+- [x] Create an amazing seven-minute presentation
+- [x] Start planning the poster
 
 ## The team
 ---

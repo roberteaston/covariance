@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Maclane - Categories for the Working Mathematician.pdf &gt; page=117" data-href="Maclane - Categories for the Working Mathematician.pdf#page=117" href="Maclane - Categories for the Working Mathematician.pdf#page=117" class="internal-link" target="_blank" rel="noopener nofollow">Saunders Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" href="40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints.md" class="internal-link" target="_blank" rel="noopener nofollow">Adjoints</a></div></div><div class="callout-content">
-<p dir="auto">...good general theory does not search for the maximum generality, but for the right generality.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
+<p dir="auto">A module is just a vector space over a ring.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                     | Last Updated              |
-| ---------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Template problems in ring theory\|Template problems in ring theory]]       | 9:19 AM - August 11, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Pool problems in group theory\|Pool problems in group theory]]             | 9:17 AM - August 11, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Master lists/Template problems in linear algebra\|Template problems in linear algebra]] | 9:16 AM - August 11, 2026 |
+| Note                                                                                                                          | Last Updated               |
+| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical Lie theory\|Summer REU 2026 - Categorical Lie theory]]  | 10:54 AM - August 11, 2026 |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-08-11\|REU Meeting - 2026-08-11]] | 10:54 AM - August 11, 2026 |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-08-11\|REU Meeting - 2026-08-11]]          | 9:44 AM - August 11, 2026  |
 
 { .block-language-dataview}
 
