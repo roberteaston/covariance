@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-08-05T13:15:50-07:00","dg-note-properties":{"last updated":"2026-08-05T13:15:50-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
+{"dg-publish":true,"permalink":"/20-29-research/24-summer-re-us/2026/summer-reu-2026-categorical-representation-theory/","tags":["category_theory","representation_theory"],"updated":"2026-08-13T10:39:22-07:00","dg-note-properties":{"last updated":"2026-08-13T10:39:22-07:00","Status":["In-progress"],"tags":["category_theory","representation_theory"]}}
 ---
 
 > [!quote] The tagline
@@ -18,7 +18,6 @@ Last summer we saw how most of the basic structures of representation theory can
 
 | Meeting Date                                                                                                         |
 | -------------------------------------------------------------------------------------------------------------------- |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-08-11\|REU Meeting - 2026-08-11]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-08-05\|REU Meeting - 2026-08-05]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-29\|REU Meeting - 2026-07-29]] |
 | [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-07-27\|REU Meeting - 2026-07-27]] |
@@ -81,10 +80,10 @@ Last summer we saw how most of the basic structures of representation theory can
 
 ### Wrap-up: Final thoughts
 
-- [ ] Try to explain in your own words how the classical isomorphism of $G$ with its character group is replaced/generalized by Tannaka duality
-- [ ] "Prove" that result by adapting our "enriched Yoneda" proof of Tannaka
-- [ ] Continue writing up what we've learned/done
-- [ ] Think about the poster
+- [x] Try to explain in your own words how the classical isomorphism of $G$ with its character group is replaced/generalized by Tannaka duality
+- [x] "Prove" that result by adapting our "enriched Yoneda" proof of Tannaka
+- [x] Continue writing up what we've learned/done
+- [x] Think about the poster
 
 ## The team
 ---

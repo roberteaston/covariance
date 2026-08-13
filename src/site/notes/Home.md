@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" data-href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" href="40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules.md" class="internal-link" target="_blank" rel="noopener nofollow">Modules</a></div></div><div class="callout-content">
-<p dir="auto">A module is just a vector space over a ring.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"> Eilenberg and Mac Lane in <em>Categories for the Working Mathematician</em> (p. 28) | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
+<p dir="auto">..."category" has been defined in order to be able to define "functor" and "functor" has been defined in order to be able to define "natural transformation."</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                          | Last Updated               |
-| ----------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
-| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical Lie theory\|Summer REU 2026 - Categorical Lie theory]]  | 10:54 AM - August 11, 2026 |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-08-11\|REU Meeting - 2026-08-11]] | 10:54 AM - August 11, 2026 |
-| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 2 - Mark/REU Meeting - 2026-08-11\|REU Meeting - 2026-08-11]]          | 9:44 AM - August 11, 2026  |
+| Note                                                                                                                                               | Last Updated               |
+| -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------- |
+| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical representation theory\|Summer REU 2026 - Categorical representation theory]] | 10:39 AM - August 13, 2026 |
+| [[20-29 Research/24 Summer REUs/2026/Summer REU 2026 - Categorical Lie theory\|Summer REU 2026 - Categorical Lie theory]]                       | 10:54 AM - August 11, 2026 |
+| [[50-59 Logs/52 Research meetings/2026 - Summer/REU 1 - Matt and Zoey/REU Meeting - 2026-08-11\|REU Meeting - 2026-08-11]]                      | 10:54 AM - August 11, 2026 |
 
 { .block-language-dataview}
 
