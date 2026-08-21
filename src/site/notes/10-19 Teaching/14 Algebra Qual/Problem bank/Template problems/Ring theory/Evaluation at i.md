@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/evaluation-at-i/","tags":["ring_theory"],"updated":"2025-03-19T10:57:21-07:00","dg-note-properties":{"last updated":"2025-03-19T10:57:21-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2017"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/evaluation-at-i/","tags":["ring_theory"],"updated":"2026-08-21T14:05:26-07:00","dg-note-properties":{"last updated":"2026-08-21T14:05:26-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2017"]}}
 ---
 
 Let $\varepsilon:{\bf R}[x]\to {\bf C}$ be the ring homomorphism that is evaluation at $i$, so $\varepsilon(f)=f(i)$. (Here $i$ denotes the complex number sometimes denoted $\sqrt{-1}$.)
-
-1. Prove that $\ker(\varepsilon)=(x^2+1)\subseteq {\bf R}[x]$.
-2. Prove that $(x^2+1)$ is a maximal ideal in ${\bf R}[x]$.
+(a) Prove that $\ker(\varepsilon)=(x^2+1)\subseteq {\bf R}[x]$.
+(b) Prove that $(x^2+1)$ is a maximal ideal in ${\bf R}[x]$.
 
 > [!info]- View $\LaTeX$ code
 > ```

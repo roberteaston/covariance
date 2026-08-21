@@ -248,10 +248,9 @@ Let $P_3$ be the real vector space of all real polynomials of degree three or le
 
 
 Let $V=\{a_0+a_1\sqrt[3]{2}+a_2\sqrt[3]{4}\mid a_0, a_1, a_2\in {\bf Q}\}\subseteq {\bf R}$. This set is a vector space over ${\bf Q}$.
-
-1. Verify $V$ is closed under product (using the usual product operation in ${\bf R}$).
-2. Let $T:V\to V$ be the linear transformation defined by $T(v)=(\sqrt[3]{2}+\sqrt[3]{4}) v$. Find the matrix that represents $T$ with respect to the basis $\{1,\sqrt[3]{2},\sqrt[3]{4}\}$ for $V$.
-3. Determine the characteristic polynomial for $T$.
+(a) Verify $V$ is closed under product (using the usual product operation in ${\bf R}$).
+(b) Let $T:V\to V$ be the linear transformation defined by $T(v)=(\sqrt[3]{2}+\sqrt[3]{4}) v$. Find the matrix that represents $T$ with respect to the basis $\{1,\sqrt[3]{2},\sqrt[3]{4}\}$ for $V$.
+(c) Determine the characteristic polynomial for $T$.
 
 > [!info]- View $\LaTeX$ code
 > ```

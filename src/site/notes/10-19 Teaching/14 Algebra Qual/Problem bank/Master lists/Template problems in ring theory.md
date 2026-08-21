@@ -132,9 +132,8 @@ Let $f(x)=x^3+x+1\in {\bf Z}_5[x]$.
 
 
 Let $\varepsilon:{\bf R}[x]\to {\bf C}$ be the ring homomorphism that is evaluation at $i$, so $\varepsilon(f)=f(i)$. (Here $i$ denotes the complex number sometimes denoted $\sqrt{-1}$.)
-
-1. Prove that $\ker(\varepsilon)=(x^2+1)\subseteq {\bf R}[x]$.
-2. Prove that $(x^2+1)$ is a maximal ideal in ${\bf R}[x]$.
+(a) Prove that $\ker(\varepsilon)=(x^2+1)\subseteq {\bf R}[x]$.
+(b) Prove that $(x^2+1)$ is a maximal ideal in ${\bf R}[x]$.
 
 > [!info]- View $\LaTeX$ code
 > ```
