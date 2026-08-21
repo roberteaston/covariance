@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf &gt; page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener nofollow">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
-<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner">Everyone (probably) | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations.md" class="internal-link" target="_blank" rel="noopener nofollow">Natural transformations</a></div></div><div class="callout-content">
+<p dir="auto">A natural transformation is a morphism between functors.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                               | Last Updated              |
-| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2014-03\|Algebra Qual 2014-03]]                                    | 1:35 PM - August 21, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2016-09\|Algebra Qual 2016-09]]                                    | 1:33 PM - August 21, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/Projections and adjoints\|Projections and adjoints]] | 1:32 PM - August 21, 2026 |
+| Note                                                                                                                                                                                       | Last Updated              |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Linear algebra/Bases for a subspace and its orthogonal complement\|Bases for a subspace and its orthogonal complement]] | 1:44 PM - August 21, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2018-06\|Algebra Qual 2018-06]]                                                                                            | 1:44 PM - August 21, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2017-09\|Algebra Qual 2017-09]]                                                                                            | 1:39 PM - August 21, 2026 |
 
 { .block-language-dataview}
 

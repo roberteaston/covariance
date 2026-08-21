@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2014-09/","updated":"2026-08-21T13:13:25-07:00","dg-note-properties":{"last updated":"2026-08-21T13:13:25-07:00","given":"2014-09-20"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/previous-exams/algebra-qual-2014-09/","updated":"2026-08-21T13:35:34-07:00","dg-note-properties":{"last updated":"2026-08-21T13:35:34-07:00","given":"2014-09-20"}}
 ---
 
 1. Let $G$ be a finite abelian group of odd order. Let $\phi:G\to G$ be the function defined by $\phi(g)=g^2$ for all $g\in G$. Prove that $\phi$ is an automorphism.

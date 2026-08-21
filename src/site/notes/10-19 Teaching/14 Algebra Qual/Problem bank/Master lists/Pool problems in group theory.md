@@ -400,10 +400,9 @@ Let $G$ be an abelian group and $G_T$ be the set of elements of finite order in 
 
 
 Suppose $G$ is a finite group of even order.
-
-1. Prove that an element in $G$ has order dividing 2 if and only if it is its own inverse.
-2. Prove that the number of elements in $G$ of order 2 is odd.
-3. Use (2) to show $G$ must contain a subgroup of order 2.
+	(a) Prove that an element in $G$ has order dividing 2 if and only if it is its own inverse.
+	(b) Prove that the number of elements in $G$ of order 2 is odd.
+	(c) Use (2) to show $G$ must contain a subgroup of order 2.
 
 > [!info]- View $\LaTeX$ code
 > ```

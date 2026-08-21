@@ -63,8 +63,8 @@ Let $V\subset {\bf R}^5$ be the subspace defined by the equation
 
 $$x_1-2x_2+3x_3-4x_4+5x_5=0.$$
 
-1. Find (with justification) a basis for $V$.
-2. Find (with justification) a basis for $V^{\perp}$, the subspace of ${\bf R}^5$ orthogonal to $V$ under the usual dot product.
+(a) Find (with justification) a basis for $V$.
+(b) Find (with justification) a basis for $V^{\perp}$, the subspace of ${\bf R}^5$ orthogonal to $V$ under the usual dot product.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -414,11 +414,10 @@ Let $T:{\bf R}^3\to {\bf R}^3$ be the orthogonal projection to a $1$-dimensional
 
 
 Let $L$ be the line $L$ parameterized by $L(t)=(2t,-3t,t)$ for $t\in {\bf R}$, and let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation that is orthogonal projection onto $L$.
-
-1. Describe $\operatorname{ker}(T)$ and $\operatorname{im}(T)$, either implicitly (using equations in $x,y,z$) or parametrically.
-2. List the eigenvalues of $T$ and their geometric multiplicities.
-3. Find a basis for each eigenspace of $T$.
-4. Let $A$ be the matrix for $T$ with respect to the standard basis. Find a diagonal matrix $B$ and an invertible matrix $S$ such that $B=S^{-1}AS$. (You do not have to compute $A$.)
+	(a) Describe $\operatorname{ker}(T)$ and $\operatorname{im}(T)$, either implicitly (using equations in $x,y,z$) or parametrically.
+	(b) List the eigenvalues of $T$ and their geometric multiplicities.
+	(c) Find a basis for each eigenspace of $T$.
+	(d) Let $A$ be the matrix for $T$ with respect to the standard basis. Find a diagonal matrix $B$ and an invertible matrix $S$ such that $B=S^{-1}AS$. (You do not have to compute $A$.)
 
 > [!info]- View $\LaTeX$ code
 > ```
