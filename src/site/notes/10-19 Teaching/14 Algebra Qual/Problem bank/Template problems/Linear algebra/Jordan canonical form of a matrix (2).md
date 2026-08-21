@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/jordan-canonical-form-of-a-matrix-2/","tags":["linear_algebra"],"updated":"2026-08-11T09:11:14-07:00","dg-note-properties":{"last updated":"2026-08-11T09:11:14-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2015"],"redacted":true}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/jordan-canonical-form-of-a-matrix-2/","tags":["linear_algebra"],"updated":"2026-08-21T13:26:40-07:00","dg-note-properties":{"last updated":"2026-08-21T13:26:40-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2015"],"redacted":true}}
 ---
 
 Let $A=\begin{bmatrix} -2 & 1 & -1 \\ 5 & -2 & 2 \\ 7 & -3 & 3\end{bmatrix}$.
-
-1. Find the characteristic polynomial and the minimal polynomial of $A$.
-2. Find the Jordan canonical form of the matrix $A$.
+	(a) Find the characteristic polynomial and the minimal polynomial of $A$.
+	(b) Find the Jordan canonical form of the matrix $A$.
 
 > [!info]- View $\LaTeX$ code
 > ```

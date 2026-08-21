@@ -373,10 +373,9 @@ Suppose $R$ is a PID (principal ideal domain). Prove that an ideal $I\subset R$ 
 
 
 Let $R$ be a commutative ring.
-
-1. Prove that the set $N$ of all nilpotent elements of $R$ is an ideal.
-2. Prove that $R/N$ is a ring with no nonzero nilpotent elements.
-3. Show that $N$ is contained in every prime ideal of $R$.
+	(a) Prove that the set $N$ of all nilpotent elements of $R$ is an ideal.
+	(b) Prove that $R/N$ is a ring with no nonzero nilpotent elements.
+	(c) Show that $N$ is contained in every prime ideal of $R$.
 
 > [!info]- View $\LaTeX$ code
 > ```

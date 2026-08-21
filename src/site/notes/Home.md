@@ -12,11 +12,11 @@
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                                                   | Last Updated              |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2015-03\|Algebra Qual 2015-03]]                                                                        | 1:22 PM - August 21, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/Numerical range of a linear transformation\|Numerical range of a linear transformation]] | 1:22 PM - August 21, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Ring theory/Idempotent elements in a ring (2)\|Idempotent elements in a ring (2)]]                      | 1:21 PM - August 21, 2026 |
+| Note                                                                                                                               | Last Updated              |
+| ---------------------------------------------------------------------------------------------------------------------------------- | ------------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2014-03\|Algebra Qual 2014-03]]                                    | 1:35 PM - August 21, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2016-09\|Algebra Qual 2016-09]]                                    | 1:33 PM - August 21, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/Projections and adjoints\|Projections and adjoints]] | 1:32 PM - August 21, 2026 |
 
 { .block-language-dataview}
 

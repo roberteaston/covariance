@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/projections-and-adjoints/","tags":["linear_algebra"],"updated":"2026-08-11T09:11:30-07:00","dg-note-properties":{"last updated":"2026-08-11T09:11:30-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2016"],"redacted":true}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/projections-and-adjoints/","tags":["linear_algebra"],"updated":"2026-08-21T13:32:11-07:00","dg-note-properties":{"last updated":"2026-08-21T13:32:11-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2016"],"redacted":true}}
 ---
 
 Let $V$ be a vector space and $T:V\to V$ be a linear transformation.
-
-1. Prove that if $T$ is a projection (i.e., $T^2=T$), then $V$ can be decomposed into the internal direct sum $V=\operatorname{null}(T)\oplus \operatorname{range}(T)$.
-2. Suppose $V$ is an inner product space and $T^*$ is the adjoint of $T$ with respect to the inner product. Show that $\operatorname{null}(T^*)$ is the orthogonal complement of $\operatorname{range}(T)$.
-3. Suppose $V$ is an inner product space and $T$ is an orthogonal projection, i.e., a projection for which the null space and range are orthogonal. Show that $T$ is self adjoint.
+	(a) Prove that if $T$ is a projection (i.e., $T^2=T$), then $V$ can be decomposed into the internal direct sum $V=\operatorname{null}(T)\oplus \operatorname{range}(T)$.
+	(b) Suppose $V$ is an inner product space and $T^*$ is the adjoint of $T$ with respect to the inner product. Show that $\operatorname{null}(T^*)$ is the orthogonal complement of $\operatorname{range}(T)$.
+	(c) Suppose $V$ is an inner product space and $T$ is an orthogonal projection, i.e., a projection for which the null space and range are orthogonal. Show that $T$ is self adjoint.
 
 > [!info]- View $\LaTeX$ code
 > ```

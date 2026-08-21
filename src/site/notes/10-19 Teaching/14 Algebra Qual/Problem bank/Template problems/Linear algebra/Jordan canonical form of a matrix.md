@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/jordan-canonical-form-of-a-matrix/","tags":["linear_algebra"],"updated":"2026-08-11T09:07:51-07:00","dg-note-properties":{"last updated":"2026-08-11T09:07:51-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2016"],"redacted":true}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/jordan-canonical-form-of-a-matrix/","tags":["linear_algebra"],"updated":"2026-08-21T13:31:43-07:00","dg-note-properties":{"last updated":"2026-08-21T13:31:43-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2016"],"redacted":true}}
 ---
 
 Consider the following matrix:
 
 $$A=\begin{bmatrix} 0 & 1 & 0 & 0 \\ 0 & 0 & 1 & 0 \\ 0 & 0 & 0 & 4 \\ 0 & 0 & 0 & 0\end{bmatrix}.$$
-
-1. Determine the characteristic and minimal polynomials of $A$.
-2. Find a basis for ${\bf R}^4$ consisting of generalized eigenvectors of $A$.
-3. Find an invertible matrix $S$ such that $S^{-1}AS$ is in Jordan canonical form.
-4. Determine a Jordan canonical form of $A$.
+	(a) Determine the characteristic and minimal polynomials of $A$.
+	(b) Find a basis for ${\bf R}^4$ consisting of generalized eigenvectors of $A$.
+	(c) Find an invertible matrix $S$ such that $S^{-1}AS$ is in Jordan canonical form.
+	(d) Determine a Jordan canonical form of $A$.
 
 > [!info]- View $\LaTeX$ code
 > ```

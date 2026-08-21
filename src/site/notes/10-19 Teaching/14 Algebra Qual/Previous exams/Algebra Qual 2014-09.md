@@ -9,7 +9,7 @@
 	(b) Prove that $C(H)$ is a normal subgroup of $N(H)$ and that $N(H)/C(H)$ is isomorphic to a subgroup of $\operatorname{Aut}(H)$.
 
 3. Let $V$ denote the real vector space of polynomials in $x$ of degree at most 3. Let $\mathcal{B}=\{1, x, x^2, x^3\}$ be a basis for $V$ and $T:V\to V$ be the function defined by $T(f(x))=f(x)+f'(x)$.
-	( a) Prove that $T$ is a linear transformation.
+	(a) Prove that $T$ is a linear transformation.
 	(b) Find $[T]_{\mathcal{B}}$, the matrix representation for $T$ in terms of the basis $\mathcal{B}$.
 	(c) Is $T$ diagonalizable? If yes, find a matrix $A$ so that $A[T]_{\mathcal{B}}A^{-1}$ is diagonal, otherwise explain why $T$ is not diagonalizable.
 

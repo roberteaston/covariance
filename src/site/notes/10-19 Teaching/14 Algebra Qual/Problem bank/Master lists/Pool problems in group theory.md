@@ -486,9 +486,8 @@ Suppose $G_1$ and $G_2$ are groups, with identity elements $e_1$ and $e_2$, resp
 
 
 Suppose $A$ and $B$ are subgroups of a group $G$, and suppose $B$ is of finite index in $G$.
-
-1. Show that the index of $A\cap B\leq A$ is finite, and in fact $|A:A\cap B|\leq |G:B|$. *Hint:* Find a set map $A/A\cap B\to G/B$.
-2. Prove that equality holds in (a) if and only if $G=AB$.
+	(a) Show that the index of $A\cap B\leq A$ is finite, and in fact $|A:A\cap B|\leq |G:B|$. *Hint:* Find a set map $A/A\cap B\to G/B$.
+	(b) Prove that equality holds in (a) if and only if $G=AB$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -879,8 +878,8 @@ Let $G$ be a group, $m\in {\bf N}$, and $g\in G$ be an element such that $g^m=e$
 
 
 
-1. Show that if $G$ is any group (not necessarily finite) and $H$ is a subgroup, then $G$ is a disjoint union of left cosets of $H$.
-2. State and prove Lagrange's Theorem for finite groups.
+(a) Show that if $G$ is any group (not necessarily finite) and $H$ is a subgroup, then $G$ is a disjoint union of left cosets of $H$.
+(b) State and prove Lagrange's Theorem for finite groups.
 
 > [!info]- View $\LaTeX$ code
 > ```

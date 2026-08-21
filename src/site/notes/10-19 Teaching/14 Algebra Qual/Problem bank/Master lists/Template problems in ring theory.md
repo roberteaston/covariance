@@ -35,9 +35,8 @@ Prove that $M$ is a maximal ideal.
 
 
 Let $z\in {\bf C}$ be a complex number and let $\epsilon_z:{\bf R}[x]\to {\bf C}$ be the evaluation homomorphism given by $\epsilon_z(p)=p(z)$ for each $p\in {\bf R}[x]$.
-
-1. Show that $\ker(\epsilon_z)$ is a prime ideal.
-2. Compute $\ker(\epsilon_{1+i}), \operatorname{im}(\epsilon_{1+i})$ and then state the conclusion of the First Isomorphism Theorem applied to the homomorphism $\epsilon_{1+i}$.
+	(a) Show that $\ker(\epsilon_z)$ is a prime ideal.
+	(b) Compute $\ker(\epsilon_{1+i}), \operatorname{im}(\epsilon_{1+i})$ and then state the conclusion of the First Isomorphism Theorem applied to the homomorphism $\epsilon_{1+i}$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -110,8 +109,8 @@ Let $f(x)=x^3+x+1\in {\bf Z}_5[x]$.
 
 
 
-1. Write down an irreducible cubic polynomial over ${\bf F}_2$.
-2. Construct a field with exactly eight elements and write down its multiplication table.
+(a) Write down an irreducible cubic polynomial over ${\bf F}_2$.
+(b) Construct a field with exactly eight elements and write down its multiplication table.
 
 > [!info]- View $\LaTeX$ code
 > ```

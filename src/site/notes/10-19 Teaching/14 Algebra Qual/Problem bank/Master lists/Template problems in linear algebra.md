@@ -519,9 +519,8 @@ Let $T:{\bf R}^3\to {\bf R}^3$ be the orthogonal projection onto the plane $z=x+
 
 
 Let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation that expands radially by a factor of three around the line parameterized by $L(t)=\begin{bmatrix} 2 \\ 2 \\ -1\end{bmatrix} t$, leaving the line itself fixed (viewed as a subspace).
-
-1. Find an eigenbasis for $T$ and provide the matrix representation of $T$ with respect to that basis.
-2. Provide the matrix representation of $T$ with respect to the standard basis.
+	(a) Find an eigenbasis for $T$ and provide the matrix representation of $T$ with respect to that basis.
+	(b) Provide the matrix representation of $T$ with respect to the standard basis.
 
 > [!info]- View $\LaTeX$ code
 > ```
