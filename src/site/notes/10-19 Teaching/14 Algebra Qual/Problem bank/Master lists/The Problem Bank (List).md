@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/the-problem-bank-list/","updated":"2026-08-11T09:10:35-07:00","dg-note-properties":{"last updated":"2026-08-11T09:10:35-07:00"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/master-lists/the-problem-bank-list/","updated":"2026-08-21T15:13:05-07:00","dg-note-properties":{"last updated":"2026-08-21T15:13:05-07:00"}}
 ---
 
 Below is the current master list of all problems in the Problem Bank. For a quick view of any problem, simply hover your mouse over the link.
 
-| Problem                                                                                                                                                                                                                            | Problem Type                      |
+| Problem                                                                                                                                                                                                                            | Field of Mathematics              |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
 | [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Linear algebra/A condition ensuring diagonalizability\|A condition ensuring diagonalizability]]                                                                     | <ul><li>#linear_algebra</li></ul> |
 | [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/A condition to be non-cyclic\|A condition to be non-cyclic]]                                                                                           | <ul><li>#group_theory</li></ul>   |

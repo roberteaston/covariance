@@ -1,16 +1,21 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2026-08-18T09:32:05-07:00","dg-note-properties":{"last updated":"2026-08-18T09:32:05-07:00"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/changelog/","updated":"2026-08-21T15:26:56-07:00","dg-note-properties":{"last updated":"2026-08-21T15:26:56-07:00"}}
 ---
 
 ## Most recent update
 ---
 
-**August 11, 2026**
-- Removed the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Normality and the operation on cosets (defunct)\|Normality and the operation on cosets (defunct)]] from the Problem Bank.
+**August 21, 2026**
+- The manner in which the previous exams are encoded has changed. Previously, the exams were recreated in this wiki by embedding those problems in the Problem Bank asked on that exam. Consequently, if a problem in the Problem Bank were edited or removed, that change was reflected on the exam page. To alleviate this issue, the old exams are now hard-coded separate from the Problem Bank.
+- Language has been added to make it clear that problems from the Problem Bank may appear with minor variation on actual exams.
+- Minor typographical tweaks.
 
 
 ## Earlier updates
 ---
+
+**August 11, 2026**
+- Removed the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Normality and the operation on cosets (defunct)\|Normality and the operation on cosets (defunct)]] from the Problem Bank.
 
 **June 4, 2025**
 - Added the problem [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/Centralizers in symmetric groups\|Centralizers in symmetric groups]] to the problem bank.

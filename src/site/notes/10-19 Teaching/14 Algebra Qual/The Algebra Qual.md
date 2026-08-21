@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/the-algebra-qual/","updated":"2025-04-04T14:59:42-07:00","dg-note-properties":{"last updated":"2025-04-04T14:59:42-07:00"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/the-algebra-qual/","updated":"2026-08-21T15:17:04-07:00","dg-note-properties":{"last updated":"2026-08-21T15:17:04-07:00"}}
 ---
 
 Welcome to the unofficial home for all things related to the Qualifying Exam in Algebra (aka "The Algebra Qual") at California Polytechnic State University, San Luis Obispo. The Algebra Qual consists of five problems covering three main subfields of abstract algebra, namely:
@@ -17,10 +17,10 @@ Each problem is graded for correctness and clarity of presentation, and is worth
 Beginning with the September 2025 exam, all problems will be drawn from a public problem bank. This bank contains two types of problems: **template problems** and **pool problems**.
 
 **Template problems** are generally computational with easily adjustable specifics. These types of problems are especially prevalent in linear algebra. Examples include problems such as:
-- analyzing a geometrically-given linear transformation for specific properties, such as eigenvalues or diagonalizability; e.g., see [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Linear algebra/Projection onto a plane\|March 2025 (Problem 5)]] or [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Linear algebra/Orthogonal projection and scaling\|Spring 2019 (Problem 1)]]
-- counting the number of morphisms between two specific groups; e.g., see [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Group theory/Finding all morphisms between two groups\|Spring 2017 (Problem 4)]] or [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Group theory/Counting morphisms between specified groups\|Fall 2015 (Problem 1)]]
+- analyzing a geometrically-defined linear transformation for specific properties, such as eigenvalues or diagonalizability; e.g., see [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Linear algebra/Projection onto a plane\|Projection onto a plane]] or [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Linear algebra/Orthogonal projection and scaling\|Orthogonal projection and scaling]]
+- counting the number of morphisms between two specific groups; e.g., see [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Group theory/Finding all morphisms between two groups\|Finding all morphisms between two groups]] or [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Group theory/Counting morphisms between specified groups\|Counting morphisms between specified groups]]
 
-**Pool problems** make up the rest of the problem bank, and include all problems that are not easily adjustable. These problems, when chosen, will usually be asked as is.^[Allowing for minor changes to improve clarity, streamline the question, etc.]
+**Pool problems** make up the rest of the problem bank and include all problems that are not easily adjustable. These problems, when chosen, may be asked with minor changes; e.g., to improve clarity, streamline the question, or amplify the result.
 
 For additional information about the problem bank, including links to the actual problems, click [[10-19 Teaching/14 Algebra Qual/Problem bank\|here]].
 
@@ -34,7 +34,7 @@ I don't know exactly when this exam officially came into existence, but the earl
 - Exactly six exams contain only a single problem in group theory, namely the exams on December 1988, March 1992, March 2000, November 2000, March 2001 and March 2005.
 - Only two exams have contained three problems on the same topic. The May 1991 exam contained three problems in group theory, while the March 2001 exam contained three problems in ring theory.
 
-If you would like to see these old exams, the official repository is available [here](https://math.calpoly.edu/degree-ms/sample-exams). Recent exams have also been recreated [[10-19 Teaching/14 Algebra Qual/Past exams\|here]].
+If you would like to see these old exams, many have also been recreated [[10-19 Teaching/14 Algebra Qual/Past exams\|here]].
 
 ## Related pages
 ---
