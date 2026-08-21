@@ -49,7 +49,7 @@ Now let's consider a singleton set $X=\{x\}$. The universal property for $F(\{x\
 
 $$\phi_{\{x\},M}:\operatorname{Hom}_{R\text{-{\bf Mod}}}(F(\{x\}), M)\to \operatorname{Hom}_{\textbf{Set}}(\{x\},U(M))\simeq U(M)$$
 
-This type of property might look familiar. [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercise Solutions/Hom(R,M) is M - Solution\|We've seen]] that $\operatorname{Hom}_{R\text{-{\bf Mod}}}(R,M)\simeq M$ as an $R$-module (at least for commutative rings; for general rings there's at least an isomorphism of abelian groups). This is strong evidence that we likely must have $F(\{x\})\simeq R$.
+This type of property might look familiar. [[10-19 Teaching/11 Classes/Legacy (Quarter system)/MATH 561 - Graduate Algebra/Exercise Solutions/Hom(R,M) is M - Solution\|We've seen]] that $\operatorname{Hom}_{R\text{-{\bf Mod}}}(R,M)\simeq M$ as an $R$-module (at least for commutative rings; for general rings there's at least an isomorphism of abelian groups). This is strong evidence that we likely must have $F(\{x\})\simeq R$.
 
 Finally, suppose $X$ is a general set. We will eventually see that left adjoints commute with colimits; e.g., disjoint unions in ${\bf Set}$, direct sums in $R\text{-{\bf Mod}}$, etc. Once we know this, we can immediately deduce that for any set  we must have
   

@@ -1,15 +1,14 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/numerical-range-of-a-linear-transformation/","tags":["linear_algebra"],"updated":"2026-08-11T09:11:23-07:00","dg-note-properties":{"last updated":"2026-08-11T09:11:23-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Spring 2015"],"redacted":true}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/linear-algebra/numerical-range-of-a-linear-transformation/","tags":["linear_algebra"],"updated":"2026-08-21T13:22:33-07:00","dg-note-properties":{"last updated":"2026-08-21T13:22:33-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Spring 2015"],"redacted":true}}
 ---
 
 Suppose $T$ is a linear transformation on a finite-dimensional complex inner-product space $V$. Let $I$ denote the identity transformation on $V$. The **numerical range** of $T$ is the subset of ${\bf C}$ defined by
 
 $$\operatorname{W}(T)=\{\langle T(x),x\rangle \,|\, x\in V,\quad \|x\|=1\}.$$
-
-1. Show that $\operatorname{W}(T+cI)=\operatorname{W}(T)+c$ for every $c\in {\bf C}$.
-2. Show that $\operatorname{W}(cT)=c\operatorname{W}(T)$ for every $c\in {\bf C}$.
-3. Show that the eigenvalues of $T$ are contained in $\operatorname{W}(T)$.
-4. Let $\mathcal{B}$ be an orthonormal basis for $V$. Show that the diagonal entries of $[T]_{\mathcal{B}}$ are contained in $\operatorname{W}(T)$.
+	(a) Show that $\operatorname{W}(T+cI)=\operatorname{W}(T)+c$ for every $c\in {\bf C}$.
+	(b) Show that $\operatorname{W}(cT)=c\operatorname{W}(T)$ for every $c\in {\bf C}$.
+	(c) Show that the eigenvalues of $T$ are contained in $\operatorname{W}(T)$.
+	(d) Let $\mathcal{B}$ be an orthonormal basis for $V$. Show that the diagonal entries of $[T]_{\mathcal{B}}$ are contained in $\operatorname{W}(T)$.
 
 > [!info]- View $\LaTeX$ code
 > ```

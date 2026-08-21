@@ -106,9 +106,9 @@ Suppose $k$ is a field. If $V$ is an $k$-vector space and $T:V\to V$ is a $k$-li
 
 ### Passing to quotient rings
 
-Suppose $M$ is an $R$-module and $I\subseteq R$ is a two-sided ideal of $R$ that [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Annihilators\|annihilates]] $M$, i.e., $im=0$ for all $i\in I$ and $m\in M$. Then we can define an $R/I$-module structure on $M$ in the obvious way: $(r+I)m = rm$ for $r\in R$ and $m\in M$. (You should verify that the "annihilation" condition is needed to ensure this action is well defined.)
+Suppose $M$ is an $R$-module and $I\subseteq R$ is a two-sided ideal of $R$ that [[10-19 Teaching/11 Classes/Legacy (Quarter system)/MATH 561 - Graduate Algebra/Exercises/Annihilators\|annihilates]] $M$, i.e., $im=0$ for all $i\in I$ and $m\in M$. Then we can define an $R/I$-module structure on $M$ in the obvious way: $(r+I)m = rm$ for $r\in R$ and $m\in M$. (You should verify that the "annihilation" condition is needed to ensure this action is well defined.)
 
-For example, if $M$ is a finite abelian group of order $n$, then $nm=0$ for every $m\in M$, i.e., the ideal $\langle n\rangle\subseteq {\bf Z}$ [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Annihilators\|annihilates]] $M$. We can therefore also view $M$ as a $({\bf Z}/n{\bf Z})$-module.
+For example, if $M$ is a finite abelian group of order $n$, then $nm=0$ for every $m\in M$, i.e., the ideal $\langle n\rangle\subseteq {\bf Z}$ [[10-19 Teaching/11 Classes/Legacy (Quarter system)/MATH 561 - Graduate Algebra/Exercises/Annihilators\|annihilates]] $M$. We can therefore also view $M$ as a $({\bf Z}/n{\bf Z})$-module.
 
 ### The zero module
 

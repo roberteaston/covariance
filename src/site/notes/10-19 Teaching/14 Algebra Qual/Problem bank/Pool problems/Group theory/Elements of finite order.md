@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/elements-of-finite-order/","tags":["group_theory"],"updated":"2025-03-21T08:19:02-07:00","dg-note-properties":{"last updated":"2025-03-21T08:19:02-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2015"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/elements-of-finite-order/","tags":["group_theory"],"updated":"2026-08-21T13:19:18-07:00","dg-note-properties":{"last updated":"2026-08-21T13:19:18-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2015"]}}
 ---
 
 Let $G$ be an abelian group and $G_T$ be the set of elements of finite order in $G$.
-
-1. Prove that $G_T$ is a subgroup of $G$.
-2. Prove that every non-identity element of $G/G_T$ has infinite order.
-3. Characterize the elements of $G_T$ when $G={\bf R}/{\bf Z}$, where ${\bf R}$ is the additive group of real numbers.
+	(a) Prove that $G_T$ is a subgroup of $G$.
+	(b) Prove that every non-identity element of $G/G_T$ has infinite order.
+	(c) Characterize the elements of $G_T$ when $G={\bf R}/{\bf Z}$, where ${\bf R}$ is the additive group of real numbers.
 
 > [!info]- View $\LaTeX$ code
 > ```

@@ -372,10 +372,9 @@ Let $G$ be a group, and let $\operatorname{Aut}(G)$ denote the group of automorp
 
 
 Let $G$ be an abelian group and $G_T$ be the set of elements of finite order in $G$.
-
-1. Prove that $G_T$ is a subgroup of $G$.
-2. Prove that every non-identity element of $G/G_T$ has infinite order.
-3. Characterize the elements of $G_T$ when $G={\bf R}/{\bf Z}$, where ${\bf R}$ is the additive group of real numbers.
+	(a) Prove that $G_T$ is a subgroup of $G$.
+	(b) Prove that every non-identity element of $G/G_T$ has infinite order.
+	(c) Characterize the elements of $G_T$ when $G={\bf R}/{\bf Z}$, where ${\bf R}$ is the additive group of real numbers.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -665,9 +664,8 @@ Let $H$ be a subgroup of a group $G$. The **normalizer** of $H$ in $G$ is the se
 
 
 Let $G$ be a group and suppose $H\leq G$. The **normalizer** of $H$ in $G$ is defined to be $N(H)=\{g\in G\,|\, gH=Hg\}$ and the **centralizer** of $H$ in $G$ is defined to be $C(H)=\{g\in G\,|\,  gh=hg\text{ for all }h\in H\}$.
-
-1. Prove that $N(H)$ is a subgroup of $G$.
-2. Prove that $C(H)$ is a normal subgroup of $N(H)$ and that $N(H)/C(H)$ is isomorphic to a subgroup of $\operatorname{Aut}(H)$.
+	(a) Prove that $N(H)$ is a subgroup of $G$.
+	(b) Prove that $C(H)$ is a normal subgroup of $N(H)$ and that $N(H)/C(H)$ is isomorphic to a subgroup of $\operatorname{Aut}(H)$.
 
 > [!info]- View $\LaTeX$ code
 > ```

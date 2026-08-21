@@ -44,7 +44,7 @@ You might wonder why functors between categories aren't simply called morphisms 
 One of the first constructions you usually see in set theory is that of the *power set*. Indeed, it is usually part of the very axioms of set theory. This construction is the object map of a functor. The **power set functor** $\mathcal{P}:{\bf Set}\to {\bf Set}$ is defined as follows:
 - Objects: To each set $X$ we assign its power set $\mathcal{P}(X)$, i.e., the set of all subsets of $X$
 - Arrows: To each set map $f:X\to Y$, we assign the set map $\mathcal{P}(f):\mathcal{P}(X)\to \mathcal{P}(Y)$ defined by sending a subset $S\subseteq X$ to its image $f(S)\subseteq Y$.
-You should [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/Power set functors\|verify for yourself]] that these maps satisfy the [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors#^a05956\|properties]] of a functor.
+You should [[10-19 Teaching/11 Classes/Legacy (Quarter system)/MATH 561 - Graduate Algebra/Exercises/Power set functors\|verify for yourself]] that these maps satisfy the [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors#^a05956\|properties]] of a functor.
 
 There is also a "contravariant" power set functor that is defined identically on objects, but associates to each set map $f:X\to Y$ the *inverse image* set map $f^*:\mathcal{P}(Y)\to \mathcal{P}(X)$ defined by sending a subset $T\subseteq Y$ to its inverse image $f^{-1}(T)\subseteq X$. This is really a functor ${\bf Set}^{\text{op}}\to {\bf Set}$.
 
@@ -86,7 +86,7 @@ The abelianization functor is [[40-49 Knowledge/41 Mathematics/Category theory/A
 
 ### A non-functor
 
-Although nearly every common construction in algebra is the object function of a functor, there are a few notable exceptions. One such is the assignment to each group $G$ its center $\operatorname{Z}(G)$. Intuitively, this assignment is not (the object function of) a functor because a morphism $G\to H$ can carry an element in the center of $G$ to one not in the center of $H$, and hence we do *not* have an induced morphism $\operatorname{Z}(G)\to \operatorname{Z}(H)$. For precise details, check out [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/There is no 'center' functor on Grp\|this exercise]].
+Although nearly every common construction in algebra is the object function of a functor, there are a few notable exceptions. One such is the assignment to each group $G$ its center $\operatorname{Z}(G)$. Intuitively, this assignment is not (the object function of) a functor because a morphism $G\to H$ can carry an element in the center of $G$ to one not in the center of $H$, and hence we do *not* have an induced morphism $\operatorname{Z}(G)\to \operatorname{Z}(H)$. For precise details, check out [[10-19 Teaching/11 Classes/Legacy (Quarter system)/MATH 561 - Graduate Algebra/Exercises/There is no 'center' functor on Grp\|this exercise]].
 
 The fact that the center construction is *not* functorial is a big hint that we're probably thinking about it "incorrectly." For a bit of insight into what is "really" going on, see [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations#The center of a group\|here]].
 

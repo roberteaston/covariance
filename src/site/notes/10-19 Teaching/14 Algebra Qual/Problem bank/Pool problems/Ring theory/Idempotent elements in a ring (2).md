@@ -1,15 +1,13 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/idempotent-elements-in-a-ring-2/","tags":["ring_theory"],"updated":"2025-03-21T08:15:07-07:00","dg-note-properties":{"last updated":"2025-03-21T08:15:07-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2015"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/idempotent-elements-in-a-ring-2/","tags":["ring_theory"],"updated":"2026-08-21T13:21:40-07:00","dg-note-properties":{"last updated":"2026-08-21T13:21:40-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2015"]}}
 ---
 
 An element $r$ of a ring $R$ is said to be **idempotent** if $r^2=r$. Suppose that $R$ is a commutative ring with unity containing an idempotent element $e$.
-
-1. Prove that $1-e$ is also idempotent.
-2. Prove that $eR$ and $(1-e)R$ are both ideals in $R$ and that
-   
-   $$R\cong eR\times (1-e)R.$$
-   
-3. Prove that if $R$ has a unique maximal ideal, then the only idempotent elements in $R$ are 0 and 1.
+	(a) Prove that $1-e$ is also idempotent.
+	(b) Prove that $eR$ and $(1-e)R$ are both ideals in $R$ and that
+	
+	$$R\cong eR\times (1-e)R.$$
+	(c) Prove that if $R$ has a unique maximal ideal, then the only idempotent elements in $R$ are 0 and 1.
 
 > [!info]- View $\LaTeX$ code
 > ```

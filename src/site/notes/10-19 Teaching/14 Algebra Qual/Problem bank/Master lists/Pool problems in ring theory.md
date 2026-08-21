@@ -304,13 +304,11 @@ Let $R$ be a commutative ring with 1 and suppose $e\in R$ is **idempotent**, i.e
 
 
 An element $r$ of a ring $R$ is said to be **idempotent** if $r^2=r$. Suppose that $R$ is a commutative ring with unity containing an idempotent element $e$.
-
-1. Prove that $1-e$ is also idempotent.
-2. Prove that $eR$ and $(1-e)R$ are both ideals in $R$ and that
-   
-   $$R\cong eR\times (1-e)R.$$
-   
-3. Prove that if $R$ has a unique maximal ideal, then the only idempotent elements in $R$ are 0 and 1.
+	(a) Prove that $1-e$ is also idempotent.
+	(b) Prove that $eR$ and $(1-e)R$ are both ideals in $R$ and that
+	
+	$$R\cong eR\times (1-e)R.$$
+	(c) Prove that if $R$ has a unique maximal ideal, then the only idempotent elements in $R$ are 0 and 1.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -618,9 +616,8 @@ Let $[b]$ be the image of $b\in R$ in $R/N$. Prove that if $[a]\in R/N$ and $[a]
 
 
 Let $R$ be a commutative ring. The **nilradical** of $R$ is defined to be $N=\{r\in R\,|\, r^n=0\text{ for some }n\in {\bf N}\}$.
-
-1. Prove that $N$ is an ideal of $R$.
-2. Prove that $N$ is contained in the intersection of all prime ideals of $R$.
+	(a) Prove that $N$ is an ideal of $R$.
+	(b) Prove that $N$ is contained in the intersection of all prime ideals of $R$.
 
 > [!info]- View $\LaTeX$ code
 > ```

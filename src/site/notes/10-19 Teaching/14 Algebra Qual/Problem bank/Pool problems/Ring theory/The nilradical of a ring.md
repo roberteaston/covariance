@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/the-nilradical-of-a-ring/","tags":["ring_theory"],"updated":"2025-03-21T08:32:37-07:00","dg-note-properties":{"last updated":"2025-03-21T08:32:37-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2014"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/the-nilradical-of-a-ring/","tags":["ring_theory"],"updated":"2026-08-21T13:13:37-07:00","dg-note-properties":{"last updated":"2026-08-21T13:13:37-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2014"]}}
 ---
 
 Let $R$ be a commutative ring. The **nilradical** of $R$ is defined to be $N=\{r\in R\,|\, r^n=0\text{ for some }n\in {\bf N}\}$.
-
-1. Prove that $N$ is an ideal of $R$.
-2. Prove that $N$ is contained in the intersection of all prime ideals of $R$.
+	(a) Prove that $N$ is an ideal of $R$.
+	(b) Prove that $N$ is contained in the intersection of all prime ideals of $R$.
 
 > [!info]- View $\LaTeX$ code
 > ```

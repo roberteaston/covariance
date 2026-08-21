@@ -85,10 +85,9 @@ Let ${\bf Z}\left[\sqrt{2}\right]=\left\{a+b\sqrt{2}\,|\, a,b\in {\bf Z}\right\}
 
 
 Let $f(x)=x^3+x+1\in {\bf Z}_5[x]$.
-
-1. Prove that $f(x)$ is irreducible.
-2. Prove that $\langle f(x)\rangle$ is a maximal ideal.
-3. What is the cardinality of ${\bf Z}_5[x]/\langle f(x)\rangle$? Justify.
+	(a) Prove that $f(x)$ is irreducible.
+	(b) Prove that $\langle f(x)\rangle$ is a maximal ideal.
+	(c) What is the cardinality of ${\bf Z}_5[x]/\langle f(x)\rangle$? Justify.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -357,11 +356,11 @@ Let $i\in {\bf C}$ be the usual root of unity, with $i^2=-1$, and let ${\bf Z}[i
 
 
 
-1. Suppose $I$ and $J$ are ideals in a commutative ring $R$ such that $R=I+J$. Prove that the map $f:R\to R/I\times R/J$ given by $f(x)=(x+I,x+J)$ induces the isomorphism
+(a) Suppose $I$ and $J$ are ideals in a commutative ring $R$ such that $R=I+J$. Prove that the map $f:R\to R/I\times R/J$ given by $f(x)=(x+I,x+J)$ induces the isomorphism
    
    $$R/IJ\cong R/I\times R/J.$$
-   
-2. Prove that $\left({\bf Z}/3{\bf Z}\right)[x]/(x^3-x^2-1)\cong \left({\bf Z}/3{\bf Z}\right)[x]/(x^3+x+1)$. (*Hint:* Use part (1).)
+
+(b) Prove that $\left({\bf Z}/3{\bf Z}\right)[x]/(x^3-x^2-1)\cong \left({\bf Z}/3{\bf Z}\right)[x]/(x^3+x+1)$. (*Hint:* Use part (a).)
 
 > [!info]- View $\LaTeX$ code
 > ```

@@ -57,7 +57,7 @@ The commutativity condition on morphisms of sequences has some surprising conseq
 { #be3450}
 
 
-The proof of this lemma is a good [[10-19 Teaching/11 Classes/MATH 561 - Graduate Algebra/Exercises/The Short Five Lemma\|exercise]] in "diagram chasing."
+The proof of this lemma is a good [[10-19 Teaching/11 Classes/Legacy (Quarter system)/MATH 561 - Graduate Algebra/Exercises/The Short Five Lemma\|exercise]] in "diagram chasing."
 
 If you're wondering if there's a "Long Five Lemma", the answer is yes. There are actually many named "diagram lemmas", such as the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas#^8cd8d2\|Four Lemma]], the [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas#^71068d\|Five Lemma]] and the famous [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas#^179f58\|Snake Lemma]]. All of these diagrams (and many, many more) are corollaries of perhaps the greatest diagram lemma of them all: [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]].
 

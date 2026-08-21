@@ -1,0 +1,32 @@
+---
+{"dg-publish":true,"permalink":"/10-19-teaching/11-classes/legacy-quarter-system/math-561-graduate-algebra/2025-fall/math-561-home/","updated":"2025-09-27T14:31:05-07:00","dg-note-properties":{"last updated":"2025-09-27T14:31:05-07:00"}}
+---
+
+> [!quote] [Olaf](https://en.wikipedia.org/wiki/Olaf_(Frozen))
+> This will all make sense when I am older.
+
+We're older now, so it's time things make sense. This wiki is an attempt move at least one step in that direction, by collecting together all of the information we'll be discovering on our journey this quarter through module theory and category theory. Everything should be treated as a work-in-progress, with notes changing and updating frequently.^[At the top of each page you should see a timestamp indicating the last time that page was updated.] Feel free to peruse at your leisure.
+
+## Recent class summaries
+---
+
+Did you miss a class, or maybe just need a reminder about what we covered on a specific day? Check out our daily class summaries. Below you can find the four most recent classes. The full collection of summaries is available [[10-19 Teaching/11 Classes/Legacy (Quarter system)/MATH 561 - Graduate Algebra/2025 - Fall/Daily class summaries\|here]].
+
+| Class Date                                                                               | Topics Covered                                                                                                                                                                             |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-12/2025-12-03\|2025-12-03]] | <ul><li>Double complexes</li></ul>                                                                                                                                                         |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-12/2025-12-02\|2025-12-02]] | <ul><li>Kernels</li><li>Cokernels</li><li>Monomorphisms</li><li>Epimorphisms</li><li>Chain complexes</li><li>Abelian categories</li><li>Exact sequences</li><li>Double complexes</li></ul> |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-12/2025-12-01\|2025-12-01]] | <ul><li>Preadditive categories</li><li>Additive categories</li><li>Abelian categories</li><li>Biproducts</li><li>Kernels</li><li>Cokernels</li></ul>                                       |
+| [[50-59 Logs/51 Class summaries/2025 - Fall/MATH 561/2025-11/2025-11-21\|2025-11-21]] | <ul><li>Kan extensions</li><li>Limits and colimits</li><li>Adjoints</li></ul>                                                                                                              |
+
+{ .block-language-dataview}
+
+## Homework assignments
+---
+
+Although the weekly assignments should be submitted digitally in Canvas, the assignments themselves are posted here. You can also see when the assignments were last updated, whether it were to correct mistakes, add hints, or post solutions.
+
+| Assignment | Due Date | Last Updated |
+| ---------- | -------- | ------------ |
+
+{ .block-language-dataview}

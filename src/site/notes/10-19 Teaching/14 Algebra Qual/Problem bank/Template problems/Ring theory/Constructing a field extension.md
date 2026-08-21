@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/constructing-a-field-extension/","tags":["ring_theory"],"updated":"2025-03-21T08:31:01-07:00","dg-note-properties":{"last updated":"2025-03-21T08:31:01-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2014"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/constructing-a-field-extension/","tags":["ring_theory"],"updated":"2026-08-21T13:13:19-07:00","dg-note-properties":{"last updated":"2026-08-21T13:13:19-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2014"]}}
 ---
 
 Let $f(x)=x^3+x+1\in {\bf Z}_5[x]$.
-
-1. Prove that $f(x)$ is irreducible.
-2. Prove that $\langle f(x)\rangle$ is a maximal ideal.
-3. What is the cardinality of ${\bf Z}_5[x]/\langle f(x)\rangle$? Justify.
+	(a) Prove that $f(x)$ is irreducible.
+	(b) Prove that $\langle f(x)\rangle$ is a maximal ideal.
+	(c) What is the cardinality of ${\bf Z}_5[x]/\langle f(x)\rangle$? Justify.
 
 > [!info]- View $\LaTeX$ code
 > ```
