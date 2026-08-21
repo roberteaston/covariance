@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/quotients-and-direct-products/","tags":["ring_theory"],"updated":"2026-08-11T09:12:46-07:00","dg-note-properties":{"last updated":"2026-08-11T09:12:46-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2023"],"redacted":true}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/quotients-and-direct-products/","tags":["ring_theory"],"updated":"2026-08-21T15:03:15-07:00","dg-note-properties":{"last updated":"2026-08-21T15:03:15-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2023"],"redacted":true}}
 ---
 
 Let $R_1,\ldots, R_k$ be commutative rings, and set $R=R_1\times \cdots \times R_k$.
-1. Let $I_j\subset R_j$ be ideals, and put $I=I_1\times \cdots \times I_k$. Use the First Isomorphism Theorem to prove that $R/I\simeq R_1/I_1\times \cdots \times R_k/I_k$.
-2. Prove the prime ideals of $R$ have the form $R_1\times \cdots \times R_{j-1}\times P_j\times R_{j+1}\times \cdots \times R_k$ where $P_j\subset R_j$ is a prime ideal for $1\leq j\leq k$. (Omit the proof that this is an ideal.)
+(a) Let $I_j\subset R_j$ be ideals, and put $I=I_1\times \cdots \times I_k$. Use the First Isomorphism Theorem to prove that $R/I\simeq R_1/I_1\times \cdots \times R_k/I_k$.
+(b) Prove the prime ideals of $R$ have the form $R_1\times \cdots \times R_{j-1}\times P_j\times R_{j+1}\times \cdots \times R_k$ where $P_j\subset R_j$ is a prime ideal for $1\leq j\leq k$. (Omit the proof that this is an ideal.)
 
 > [!info]- View $\LaTeX$ code
 > ```

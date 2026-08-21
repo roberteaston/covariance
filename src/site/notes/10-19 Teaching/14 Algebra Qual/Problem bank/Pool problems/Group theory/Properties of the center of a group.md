@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/properties-of-the-center-of-a-group/","tags":["group_theory"],"updated":"2025-03-17T09:09:40-07:00","dg-note-properties":{"last updated":"2025-03-17T09:09:40-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2020"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/properties-of-the-center-of-a-group/","tags":["group_theory"],"updated":"2026-08-21T14:45:02-07:00","dg-note-properties":{"last updated":"2026-08-21T14:45:02-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Fall 2020"]}}
 ---
 
 Let $G$ be a finite group and $\operatorname{Z}(G)$ denote its center.
-
-1. Prove that if $G/\operatorname{Z}(G)$ is cyclic, then $G$ is abelian.
-2. Prove that if $G$ is nonabelian, then $|\operatorname{Z}(G)|\leq \frac{1}{4}|G|$.
+(a) Prove that if $G/\operatorname{Z}(G)$ is cyclic, then $G$ is abelian.
+(b) Prove that if $G$ is nonabelian, then $|\operatorname{Z}(G)|\leq \frac{1}{4}|G|$.
 
 > [!info]- View $\LaTeX$ code
 > ```

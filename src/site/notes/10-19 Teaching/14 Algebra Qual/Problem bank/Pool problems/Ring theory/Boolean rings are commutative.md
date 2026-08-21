@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/boolean-rings-are-commutative/","tags":["ring_theory"],"updated":"2025-03-17T09:19:48-07:00","dg-note-properties":{"last updated":"2025-03-17T09:19:48-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2020"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/boolean-rings-are-commutative/","tags":["ring_theory"],"updated":"2026-08-21T14:42:53-07:00","dg-note-properties":{"last updated":"2026-08-21T14:42:53-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2020"]}}
 ---
 
 Suppose $R$ is a ring such that $r^2=r$ for every element $r\in R$.
-
-1. Prove $r=-r$ for every element $r\in R$.
-2. Show $R$ must be commutative. *Hint:* Consider $(a+b)^2$.
+(a) Prove $r=-r$ for every element $r\in R$.
+(b) Show $R$ must be commutative. *Hint:* Consider $(a+b)^2$.
 
 > [!info]- View $\LaTeX$ code
 > ```

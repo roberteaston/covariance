@@ -8,8 +8,8 @@
 
 
 
-1. Give an explicit example (with proof) showing that the union of two subspaces (of a given vector space) is not necessarily a subspace.
-2. Suppose $U_1$ and $U_2$ are subspaces of a vector space $V$. Recall that their **sum** is defined to be the set $U_1+U_2 =\left\{u_1+u_2\,\mid \, u_1\in U_1, u_2\in U_2\right\}$. Prove $U_1+U_2$ is a subspace of $V$ containing $U_1$ and $U_2$.
+(a) Give an explicit example (with proof) showing that the union of two subspaces (of a given vector space) is not necessarily a subspace.
+(b) Suppose $U_1$ and $U_2$ are subspaces of a vector space $V$. Recall that their **sum** is defined to be the set $U_1+U_2 =\left\{u_1+u_2\,\mid \, u_1\in U_1, u_2\in U_2\right\}$. Prove $U_1+U_2$ is a subspace of $V$ containing $U_1$ and $U_2$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -108,9 +108,9 @@ $$V=\ker(T)\oplus \operatorname{im}(T).$$
 
 
 Let ${\bf R}^3$ denote the $3$-dimensional vector space, and let ${\bf v}=(a,b,c)$ be a fixed nonzero vector. The maps $C:{\bf R}^3\to {\bf R}^3$ and $D:{\bf R}^3\to {\bf R}$ defined by $C({\bf w})={\bf v}\times {\bf w}$ and $D({\bf w})=({\bf v}\cdot {\bf w}){\bf v}$ are linear transformations.
-1. Determine the eigenvalues of $C$ and $D$.
-2. Determine the eigenspaces of $C$ and $D$ as subspaces of ${\bf R}^3$, in terms of $a, b, c$.
-3. Find a matrix for $C$ with respect to the standard basis. 
+(a) Determine the eigenvalues of $C$ and $D$.
+(b) Determine the eigenspaces of $C$ and $D$ as subspaces of ${\bf R}^3$, in terms of $a, b, c$.
+(c) Find a matrix for $C$ with respect to the standard basis. 
 
 Show all work and explain reasoning.
 
@@ -139,9 +139,8 @@ Show all work and explain reasoning.
 
 
 Suppose $A$ is a real $n\times n$ matrix that satisfies $A^2 {\bf v} = 2A{\bf v}$ for every ${\bf v}\in {\bf R}^n$.
-
-1. Show that the only possible eigenvalues of $A$ are 0 and 2.
-2. For each $\lambda\in {\bf R}$, let $E_{\lambda}$ denote the $\lambda$-eigenspace of $A$, i.e., $E_{\lambda} = \{{\bf v}\in {\bf R}^n\mid A{\bf v}=\lambda {\bf v}\}$. Prove that ${\bf R}^n = E_0\oplus E_2$. (*Hint:* For every vector ${\bf v}$ one can write ${\bf v}=({\bf v}-\frac{1}{2}A{\bf v})+\frac{1}{2}A{\bf v}$.)
+(a) Show that the only possible eigenvalues of $A$ are 0 and 2.
+(b) For each $\lambda\in {\bf R}$, let $E_{\lambda}$ denote the $\lambda$-eigenspace of $A$, i.e., $E_{\lambda} = \{{\bf v}\in {\bf R}^n\mid A{\bf v}=\lambda {\bf v}\}$. Prove that ${\bf R}^n = E_0\oplus E_2$. (*Hint:* For every vector ${\bf v}$ one can write ${\bf v}=({\bf v}-\frac{1}{2}A{\bf v})+\frac{1}{2}A{\bf v}$.)
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -236,9 +235,8 @@ Suppose $V$ is a vector space, and ${\bf v}_1, {\bf v}_2, \ldots, {\bf v}_n$ are
 
 
 Let $M_4({\bf R})$ denote the 16-dimensional real vector space of $4\times 4$ matrices with real entries, in which the vectors are represented as matrices. Let $T:M_4({\bf R})\to M_4({\bf R})$ be the linear transformation defined by $T(A)=A-A^{\top}$.
-
-1. Determine the dimension of $\operatorname{ker}(T)$.
-2. Determine the dimension of $\operatorname{im}(T)$.
+(a) Determine the dimension of $\operatorname{ker}(T)$.
+(b) Determine the dimension of $\operatorname{im}(T)$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -261,9 +259,8 @@ Let $M_4({\bf R})$ denote the 16-dimensional real vector space of $4\times 4$ ma
 
 
 Let $A$ be a real $n\times n$ matrix and let $A^{\top}$ denote its transpose.
-
-1. Prove that $(A{\bf v})\cdot {\bf w}= {\bf v}\cdot (A^{\top}{\bf w})$ for all vectors ${\bf v},{\bf w}\in {\bf R}^n$. *Hint:* Recall that the dot product ${\bf u}\cdot {\bf v}$ equals the matrix product ${\bf u}^{\top}{\bf v}$.
-2. Suppose now $A$ is also symmetric, i.e., that $A^{\top} = A$. Also suppose ${\bf v}$ and ${\bf w}$ are eigenvectors of $A$ with different eigenvalues. Prove that ${\bf v}$ and ${\bf w}$ are orthogonal.
+(a) Prove that $(A{\bf v})\cdot {\bf w}= {\bf v}\cdot (A^{\top}{\bf w})$ for all vectors ${\bf v},{\bf w}\in {\bf R}^n$. *Hint:* Recall that the dot product ${\bf u}\cdot {\bf v}$ equals the matrix product ${\bf u}^{\top}{\bf v}$.
+(b) Suppose now $A$ is also symmetric, i.e., that $A^{\top} = A$. Also suppose ${\bf v}$ and ${\bf w}$ are eigenvectors of $A$ with different eigenvalues. Prove that ${\bf v}$ and ${\bf w}$ are orthogonal.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -286,9 +283,8 @@ Let $A$ be a real $n\times n$ matrix and let $A^{\top}$ denote its transpose.
 
 
 A real $n\times n$ matrix $A$ is called **skew-symmetric** if $A^{\top}=-A$. Let $V_n$ be the set of all skew-symmetric matrices in $\operatorname{M}_n({\bf R})$. Recall that $\operatorname{M}_n({\bf R})$ is an $n^2$-dimensional ${\bf R}$-vector space with standard basis $\left\{e_{ij}\,|\, 1\leq i,j\leq n\right\}$, where $e_{ij}$ is the $n\times n$ matrix with a 1 in the $(i,j)$-position and zeros everywhere else.
-
-1. Show $V_n$ is a subspace of $\operatorname{M}_n({\bf R})$.
-2. Find an ordered basis $\mathcal{B}$ for the space $V_3$ of all skew-symmetric $3\times 3$ matrices.
+(a) Show $V_n$ is a subspace of $\operatorname{M}_n({\bf R})$.
+(b) Find an ordered basis $\mathcal{B}$ for the space $V_3$ of all skew-symmetric $3\times 3$ matrices.
 
 > [!info]- View $\LaTeX$ code
 > ```

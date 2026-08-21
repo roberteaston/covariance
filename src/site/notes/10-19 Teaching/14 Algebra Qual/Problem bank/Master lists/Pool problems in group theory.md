@@ -117,10 +117,9 @@ Let $G$ be the group of upper-triangular real matrices $\begin{bmatrix} a & b \\
 
 
 Let $G$ be a group and suppose $\operatorname{Aut}(G)$ is trivial.
-
-1. Show that $G$ is abelian.
-2. Show that for any abelian group $H$, the **inversion map** $\phi(h)=h^{-1}$ is an automorphism.
-3. Use parts (1) and (2) above to show that $g^2$ is the identity element for every $g\in G$.
+(a) Show that $G$ is abelian.
+(b) Show that for any abelian group $H$, the **inversion map** $\phi(h)=h^{-1}$ is an automorphism.
+(c) Use parts (a) and (b) above to show that $g^2$ is the identity element for every $g\in G$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -233,9 +232,8 @@ Let $G$ be a group with exactly two conjugacy classes. Prove that $G$ is abelian
 
 
 Let ${\bf Z}_n$ denote the cyclic group of order $n$. Suppose $m\in {\bf N}$ is relatively prime to $n$. Define the function $\mu_m:{\bf Z}_n\to {\bf Z}_n$ by $\mu_m[a]_n=[ma]_n$.
-
-1. Prove that the map $\mu_m$ is a well-defined automorphism of ${\bf Z}_n$.
-2. Prove that any automorphism of ${\bf Z}_n$ has the form $\mu_m$ for some $m$.
+(a) Prove that the map $\mu_m$ is a well-defined automorphism of ${\bf Z}_n$.
+(b) Prove that any automorphism of ${\bf Z}_n$ has the form $\mu_m$ for some $m$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -320,10 +318,9 @@ You may take for granted that these are subgroups. Prove that both $G_n$ and $G^
 
 
 Suppose $G$ is a group, $H\leq G$ a subgroup, and $a,b\in G$. Prove that the following are equivalent:
-
-1. $aH=bH$
-2. $b\in aH$
-3. $b^{-1}a\in H$
+(a) $aH=bH$
+(b) $b\in aH$
+(c) $b^{-1}a\in H$
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -347,8 +344,8 @@ Suppose $G$ is a group, $H\leq G$ a subgroup, and $a,b\in G$. Prove that the fol
 
 
 Let $G$ be a group, and let $\operatorname{Aut}(G)$ denote the group of automorphisms of $G$. There is a homomorphism $\gamma:G\to \operatorname{Aut}(G)$ that takes $s\in G$ to the automorphism $\gamma_s$ defined by $\gamma_s(t)=sts^{-1}$.
-1. Prove rigorously, possibly with induction, that is $\gamma_s(t)=t^b$, then $\gamma_{s^n}(t)=t^{b^n}$.
-2. Suppose $s\in G$ has order 5, and $sts^{-1}=t^2$. Find the order of $t$. Justify your answer.
+(a) Prove rigorously, possibly with induction, that is $\gamma_s(t)=t^b$, then $\gamma_{s^n}(t)=t^{b^n}$.
+(b) Suppose $s\in G$ has order 5, and $sts^{-1}=t^2$. Find the order of $t$. Justify your answer.
 
 
 > [!info]- View $\LaTeX$ code
@@ -608,9 +605,8 @@ Let $G$ be a group and $N$ a normal subgroup of $G$. Let $aN$ denote the left co
 $$G/N\times G/N\to G/N$$
 
 given by $(aN, bN)\mapsto abN$.
-
-1. Show the operation is well defined.
-2. Show the operation is well defined only if the subgroup $N$ is normal.
+(a) Show the operation is well defined.
+(b) Show the operation is well defined only if the subgroup $N$ is normal.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -637,9 +633,8 @@ given by $(aN, bN)\mapsto abN$.
 
 
 Let $H$ be a subgroup of a group $G$. The **normalizer** of $H$ in $G$ is the set ${\bf N}_G(H)=\{g\in G\,\mid\, gH=Hg\}$.
-
-1. Prove ${\bf N}_G(H)$ is a subgroup of $G$ containing $H$.
-2. Prove ${\bf N}_G(H)$ is the largest subgroup of $G$ in which $H$ is normal.
+(a) Prove ${\bf N}_G(H)$ is a subgroup of $G$ containing $H$.
+(b) Prove ${\bf N}_G(H)$ is the largest subgroup of $G$ in which $H$ is normal.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -686,9 +681,8 @@ Let $G$ be a group and suppose $H\leq G$. The **normalizer** of $H$ in $G$ is de
 
 
 Suppose $G$ is a cyclic group of finite order $n$, and $t\in G$ is a generator.
-
-1. Give a positive integer $d$ such that $t^{-1}=t^d$.
-2. Let $c$ be an integer and let $m=\gcd(n,c)$. Prove that the order of $t^c$ is $\frac{n}{m}$.
+(a) Give a positive integer $d$ such that $t^{-1}=t^d$.
+(b) Let $c$ be an integer and let $m=\gcd(n,c)$. Prove that the order of $t^c$ is $\frac{n}{m}$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -783,10 +777,9 @@ Let $G$ be a group, and $H, K$ be subgroups of $G$. Let $HK=\{hk\,\mid \, h\in H
 
 
 Suppose $G$ is a nontrivial finite group and $H,K\mathrel{\unlhd}G$ are normal subgroups with $\gcd(|H|,|K|)=1$.
-
-1. Define a nontrivial group homomorphism $\phi:G\to G/H\times G/K$
-2. Prove $G$ is isomorphic to a subgroup of $G/H\times G/K$.
-3. Suppose $\gcd(m,n)=1$. Prove ${\bf Z}_{mn}\cong {\bf Z}_m\times {\bf Z}_n$.
+(a) Define a nontrivial group homomorphism $\phi:G\to G/H\times G/K$.
+(b) Prove $G$ is isomorphic to a subgroup of $G/H\times G/K$.
+(c) Suppose $\gcd(m,n)=1$. Prove ${\bf Z}_{mn}\cong {\bf Z}_m\times {\bf Z}_n$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -810,9 +803,8 @@ Suppose $G$ is a nontrivial finite group and $H,K\mathrel{\unlhd}G$ are normal s
 
 
 Suppose $G$ is a group, $H$ and $K$ are normal subgroups of $G$, and $H\leq K$.
-
-1. Define a group homomorphism from $K$ to $G/H$.
-2. Compute the kernel of the homomorphism in (a), and apply the First Isomorphism Theorem.
+(a) Define a group homomorphism from $K$ to $G/H$.
+(b) Compute the kernel of the homomorphism in (a), and apply the First Isomorphism Theorem.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -835,9 +827,8 @@ Suppose $G$ is a group, $H$ and $K$ are normal subgroups of $G$, and $H\leq K$.
 
 
 Let $G$ be a finite group and $\operatorname{Z}(G)$ denote its center.
-
-1. Prove that if $G/\operatorname{Z}(G)$ is cyclic, then $G$ is abelian.
-2. Prove that if $G$ is nonabelian, then $|\operatorname{Z}(G)|\leq \frac{1}{4}|G|$.
+(a) Prove that if $G/\operatorname{Z}(G)$ is cyclic, then $G$ is abelian.
+(b) Prove that if $G$ is nonabelian, then $|\operatorname{Z}(G)|\leq \frac{1}{4}|G|$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -903,8 +894,8 @@ Let $G$ be a group and $H\leq G$ a subgroup. For each coset $aH$ of $H$ in $G$, 
 
 $$G_{aH}=\{b\in G\,|\,baH=aH\}.$$
 
-1. Prove that $G_{aH}$ is a subgroup of $G$.
-2. Suppose that $H$ is normal in $G$. Prove that $G_{aH}=H$.
+(a) Prove that $G_{aH}$ is a subgroup of $G$.
+(b) Suppose that $H$ is normal in $G$. Prove that $G_{aH}=H$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -930,8 +921,8 @@ $$G_{aH}=\{b\in G\,|\,baH=aH\}.$$
 
 
 Let $G$ be a group of order $2n$ for some positive integer $n > 1$.
-1. Prove there exists a subgroup $K$ of $G$ of order $2$.
-2. Suppose $K$ in (a) is a *normal* subgroup. Prove that $K$ is contained in the center $\operatorname{Z}(G)$. (Recall $\operatorname{Z}(G)=\{a\in G\mid ab=ba\text{ for all }b\in G\}$.)
+(a) Prove there exists a subgroup $K$ of $G$ of order $2$.
+(b) Suppose $K$ in (a) is a *normal* subgroup. Prove that $K$ is contained in the center $\operatorname{Z}(G)$. (Recall $\operatorname{Z}(G)=\{a\in G\mid ab=ba\text{ for all }b\in G\}$.)
 
 > [!info]- View $\LaTeX$ code
 > ```

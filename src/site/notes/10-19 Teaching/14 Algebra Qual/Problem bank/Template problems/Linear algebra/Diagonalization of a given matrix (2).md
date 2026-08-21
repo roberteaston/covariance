@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/diagonalization-of-a-given-matrix-2/","tags":["linear_algebra"],"updated":"2025-03-17T09:07:51-07:00","dg-note-properties":{"last updated":"2025-03-17T09:07:51-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2020"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/diagonalization-of-a-given-matrix-2/","tags":["linear_algebra"],"updated":"2026-08-21T14:44:35-07:00","dg-note-properties":{"last updated":"2026-08-21T14:44:35-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Fall 2020"]}}
 ---
 
 Let $A=\begin{bmatrix} 6 & -2 & -1 \\ 10 & -3 & -2 \\ 0 & 0 & 1\end{bmatrix}$.
-
-1. Find bases for the eigenspaces of $A$.
-2. Determine if $A$ is diagonalizable. If so, give an invertible matrix $P$ and diagonal matrix $D$ such that $P^{-1}AP=D$. If not, explain why not.
+(a) Find bases for the eigenspaces of $A$.
+(b) Determine if $A$ is diagonalizable. If so, give an invertible matrix $P$ and diagonal matrix $D$ such that $P^{-1}AP=D$. If not, explain why not.
 
 > [!info]- View $\LaTeX$ code
 > ```

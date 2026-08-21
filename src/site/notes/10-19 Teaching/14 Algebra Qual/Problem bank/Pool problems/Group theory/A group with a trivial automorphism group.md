@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/a-group-with-a-trivial-automorphism-group/","tags":["group_theory"],"updated":"2025-03-18T10:24:52-07:00","dg-note-properties":{"last updated":"2025-03-18T10:24:52-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Winter 2019"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/group-theory/a-group-with-a-trivial-automorphism-group/","tags":["group_theory"],"updated":"2026-08-21T14:30:53-07:00","dg-note-properties":{"last updated":"2026-08-21T14:30:53-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Winter 2019"]}}
 ---
 
 Let $G$ be a group and suppose $\operatorname{Aut}(G)$ is trivial.
-
-1. Show that $G$ is abelian.
-2. Show that for any abelian group $H$, the **inversion map** $\phi(h)=h^{-1}$ is an automorphism.
-3. Use parts (1) and (2) above to show that $g^2$ is the identity element for every $g\in G$.
+(a) Show that $G$ is abelian.
+(b) Show that for any abelian group $H$, the **inversion map** $\phi(h)=h^{-1}$ is an automorphism.
+(c) Use parts (a) and (b) above to show that $g^2$ is the identity element for every $g\in G$.
 
 > [!info]- View $\LaTeX$ code
 > ```

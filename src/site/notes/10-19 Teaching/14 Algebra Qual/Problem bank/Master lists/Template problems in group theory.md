@@ -45,9 +45,9 @@ Let $n$ be a number between $0$ and $10$. Compute $n^{111}\pmod{11}$, expressing
 
 
 Let $S_n$ denote the symmetric group on $n$ letters.
-1. Is the element $(1\,2\,3\,4)(2\,5\,3\,4\,6)(1\,5\,3\,2\,4\,7)\in S_7$ even or odd? Indicate your reasoning.
-2. Find the order of $(1\,3\,4)(2\,4\,3)(1\,3\,4)\in S_4$. Show all work.
-3. Write $(1\,5\,2\,3)(2\,1\,3\,4)(1\,5\,2\,3)^{-1}\in S_5$ in disjoint cycle form. Show all work.
+(a) Is the element $(1\,2\,3\,4)(2\,5\,3\,4\,6)(1\,5\,3\,2\,4\,7)\in S_7$ even or odd? Indicate your reasoning.
+(b) Find the order of $(1\,3\,4)(2\,4\,3)(1\,3\,4)\in S_4$. Show all work.
+(c) Write $(1\,5\,2\,3)(2\,1\,3\,4)(1\,5\,2\,3)^{-1}\in S_5$ in disjoint cycle form. Show all work.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -155,8 +155,8 @@ Explicitly list all group homomorphisms $f: {\bf Z}/6{\bf Z} \to {\bf Z}/12{\bf 
 
 
 Let $C$ be a (possibly infinite) cyclic group, and let $\operatorname{Aut}(C)$ and $\operatorname{Inn}(C)$ be the groups of automorphisms and inner automorphisms, respectively. (Recall an automorphism $\gamma$ is **inner** if it is given by conjugation: $\gamma(b)=aba^{-1}$ for some $a\in C$.)
-1. Describe $\operatorname{Aut}(C)$ and $\operatorname{Inn(C)}$ in familiar terms, as groups you would study in a first algebra course. Prove your result. (*Hint:* Where do generators go?)
-2. Write $\operatorname{Aut}({\bf Z}_{12})$ down explicitly, giving its generic name and computing the order of every element. Show all work.
+(a) Describe $\operatorname{Aut}(C)$ and $\operatorname{Inn(C)}$ in familiar terms, as groups you would study in a first algebra course. Prove your result. (*Hint:* Where do generators go?)
+(b) Write $\operatorname{Aut}({\bf Z}_{12})$ down explicitly, giving its generic name and computing the order of every element. Show all work.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -179,8 +179,8 @@ Let $C$ be a (possibly infinite) cyclic group, and let $\operatorname{Aut}(C)$ a
 
 
 Let $A_5$ denote the alternating group on a $5$-element set $\{1,2,3,4,5\}$. The set of automorphisms of $A_5$ form a group, denoted $\operatorname{Aut}(A_5)$. The group of **conjugations** of $A_5$, denoted $\operatorname{Conj}(A_5)$, is the subgroup of $\operatorname{Aut}(A_5)$ consisting of automorphisms of the form $\gamma_s:=s(-)s^{-1}$ where $s\in A_5$. Explicitly, $\gamma_s(x)=sxs^{-1}$ for any $x\in A_5$.
-1. Prove that the function $\gamma:A_5\to \operatorname{Conj}(A_5)$, taking $s\in A_5$ to $\gamma_s$, is a surjective homomorphism.
-2. Prove that $A_5$ is isomorphic to $\operatorname{Conj}(A_5)$.
+(a) Prove that the function $\gamma:A_5\to \operatorname{Conj}(A_5)$, taking $s\in A_5$ to $\gamma_s$, is a surjective homomorphism.
+(b) Prove that $A_5$ is isomorphic to $\operatorname{Conj}(A_5)$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -221,10 +221,10 @@ Suppose $H$ is a group of order 15. Prove there does not exist a nontrivial grou
 
 
 Let $S_7$ denote the symmetric group.
-1. Give an example of two non-conjugate elements of $S_7$ that have the same order.
-2. If $g\in S_7$ has maximal order, what is the order of $g$?
-3. Does the element $g$ that you found in part (2) lie in $A_7$? Fully justify your answer.
-4. Determine whether the set $\{h\in S_7\mid |h|=|g|\}$ is a single conjugacy class in $S_7$, where $g$ is the element you found in part (2).
+(a) Give an example of two non-conjugate elements of $S_7$ that have the same order.
+(b) If $g\in S_7$ has maximal order, what is the order of $g$?
+(c) Does the element $g$ that you found in part (b) lie in $A_7$? Fully justify your answer.
+(d) Determine whether the set $\{h\in S_7\mid |h|=|g|\}$ is a single conjugacy class in $S_7$, where $g$ is the element you found in part (b).
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -249,9 +249,8 @@ Let $S_7$ denote the symmetric group.
 
 
 Let $G$ be the additive group ${\bf Z}_{2020}$ and let $H\subseteq G$ be the subset consisting of those elements with order dividing 20.
-
-1. Prove $H$ is a subgroup of $G$.
-2. Find an explicit generator for $H$ and determine its order.
+(a) Prove $H$ is a subgroup of $G$.
+(b) Find an explicit generator for $H$ and determine its order.
 
 > [!info]- View $\LaTeX$ code
 > ```

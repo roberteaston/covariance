@@ -36,8 +36,8 @@ Let $V$ denote the real vector space of polynomials in $x$ of degree at most 3. 
 
 
 Let $\operatorname{M}_n({\bf R})$ be the vector space of all $n \times n$ matrices with real entries. We say that $A, B \in \operatorname{M}_n({\bf R})$ commute if $AB = BA$.
-1. Fix $A \in \operatorname{M}_n({\bf R})$. Prove that the set of all matrices in $\operatorname{M}_n({\bf R})$ that commute with $A$ is a subspace of $\operatorname{M}_n({\bf R})$.
-2. Let $A=\begin{bmatrix} 1 & 1 \\ 1 & 1  \end{bmatrix}\in \operatorname{M}_2({\bf R})$ and let $W\subseteq \operatorname{M}_2({\bf R})$ be the subspace of all matrices of $\operatorname{M}_2({\bf R})$ that commute with $A$. Find a basis of $W$. 
+(a) Fix $A \in \operatorname{M}_n({\bf R})$. Prove that the set of all matrices in $\operatorname{M}_n({\bf R})$ that commute with $A$ is a subspace of $\operatorname{M}_n({\bf R})$.
+(b) Let $A=\begin{bmatrix} 1 & 1 \\ 1 & 1  \end{bmatrix}\in \operatorname{M}_2({\bf R})$ and let $W\subseteq \operatorname{M}_2({\bf R})$ be the subspace of all matrices of $\operatorname{M}_2({\bf R})$ that commute with $A$. Find a basis of $W$. 
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -90,10 +90,9 @@ $$x_1-2x_2+3x_3-4x_4+5x_5=0.$$
 
 
 Let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation defined by $T\left(\begin{bmatrix} x \\ y \\ z\end{bmatrix}\right) = \begin{bmatrix}  x+y \\ 2z-x \\ y+2z\end{bmatrix}$.
-
-1. Find the matrix that represents $T$ with respect to the standard basis for ${\bf R}^3$.
-2. Find a basis for the kernel of $T$.
-3. Determine the rank of $T$.
+(a) Find the matrix that represents $T$ with respect to the standard basis for ${\bf R}^3$.
+(b) Find a basis for the kernel of $T$.
+(c) Determine the rank of $T$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -118,8 +117,8 @@ Let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation defined by $T\left(\
 
 Let $A=\begin{bmatrix} 0 & 0 & -2 \\ 1 & 2 & 1 \\ 1 & 0 & 3\end{bmatrix}$.
 
-1. Determine whether $A$ is diagonalizable, and if so, give its diagonal form along with a diagonalizing matrix.
-2. Compute $A^{42}$. Remember to show all work.
+(a) Determine whether $A$ is diagonalizable, and if so, give its diagonal form along with a diagonalizing matrix.
+(b) Compute $A^{42}$. Remember to show all work.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -143,9 +142,9 @@ Let $A=\begin{bmatrix} 0 & 0 & -2 \\ 1 & 2 & 1 \\ 1 & 0 & 3\end{bmatrix}$.
 
 Let $A=\begin{bmatrix} 2 & -1 & -1 \\ 1 & 0 & -1 \\ 1 & -1 & 0\end{bmatrix}$.
 
-1. Compute the characteristic polynomial $p_A(x)$ of $A$. It has integer roots.
-2. For each eigenvalue $\lambda$ of $A$, find a basis for the eigenspace $E_{\lambda}$.
-3. Determine if $A$ is diagonalizable. If so, give matrices $P$ and $B$ such that $P^{-1}AP=B$ and $B$ is diagonal. If no, explain carefully why $A$ is not diagonalizable.
+(a) Compute the characteristic polynomial $p_A(x)$ of $A$. It has integer roots.
+(b) For each eigenvalue $\lambda$ of $A$, find a basis for the eigenspace $E_{\lambda}$.
+(c) Determine if $A$ is diagonalizable. If so, give matrices $P$ and $B$ such that $P^{-1}AP=B$ and $B$ is diagonal. If no, explain carefully why $A$ is not diagonalizable.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -169,9 +168,8 @@ Let $A=\begin{bmatrix} 2 & -1 & -1 \\ 1 & 0 & -1 \\ 1 & -1 & 0\end{bmatrix}$.
 
 
 Let $A=\begin{bmatrix} 6 & -2 & -1 \\ 10 & -3 & -2 \\ 0 & 0 & 1\end{bmatrix}$.
-
-1. Find bases for the eigenspaces of $A$.
-2. Determine if $A$ is diagonalizable. If so, give an invertible matrix $P$ and diagonal matrix $D$ such that $P^{-1}AP=D$. If not, explain why not.
+(a) Find bases for the eigenspaces of $A$.
+(b) Determine if $A$ is diagonalizable. If so, give an invertible matrix $P$ and diagonal matrix $D$ such that $P^{-1}AP=D$. If not, explain why not.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -194,10 +192,9 @@ Let $A=\begin{bmatrix} 6 & -2 & -1 \\ 10 & -3 & -2 \\ 0 & 0 & 1\end{bmatrix}$.
 
 
 Let $W\subset {\bf R}^5$ be the subspace spanned by the set of vectors $\{\langle 1,-2,0,2,-1\rangle,\langle -2,4,-1,1,2\rangle,\langle 0,1,2,-2,1\rangle\}$.
-
-1. Compute the dimension of $W$.
-2. Determine the dimension of $W^\perp$, the perpendicular subspace in ${\bf R}^5$.
-3. Find a basis for $W^\perp$.
+(a) Compute the dimension of $W$.
+(b) Determine the dimension of $W^\perp$, the perpendicular subspace in ${\bf R}^5$.
+(c) Find a basis for $W^\perp$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -221,10 +218,9 @@ Let $W\subset {\bf R}^5$ be the subspace spanned by the set of vectors $\{\langl
 
 
 Let $P_3$ be the real vector space of all real polynomials of degree three or less. Define $L:P_3\to P_3$ by $L(p(x))=p(x)+p(-x)$.
-
-1. Prove $L$ is a linear transformation.
-2. Find a basis for the null space of $L$.
-3. Compute the dimension of the image of $L$.
+(a) Prove $L$ is a linear transformation.
+(b) Find a basis for the null space of $L$.
+(c) Compute the dimension of the image of $L$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -305,9 +301,9 @@ Let$W\subset {\bf R}^5$ be the space spanned by the vectors
 
 $$\left\{\begin{bmatrix} 1 \\ -2 \\ 0 \\ 2 \\ 1\end{bmatrix},\begin{bmatrix} -2 \\ 4 \\ -1 \\ 1 \\ 2\end{bmatrix}, \begin{bmatrix} 0 \\ 1 \\ 2 \\ -2 \\1\end{bmatrix}\right\}.$$
 
-1. Compute the dimension of $W$.
-2. Let $W^{\perp}=\{{\bf v}\in {\bf R}^5\,\mid\, {\bf v}\cdot {\bf w}=0\text{ for all }w\in W\}$. Determine the dimension of $W^{\perp}$, and explain how this following immediately from (a) using a theorem.
-3. Find a basis for $W^{\perp}$.
+(a) Compute the dimension of $W$.
+(b) Let $W^{\perp}=\{{\bf v}\in {\bf R}^5\,\mid\, {\bf v}\cdot {\bf w}=0\text{ for all }w\in W\}$. Determine the dimension of $W^{\perp}$, and explain how this following immediately from (a) using a theorem.
+(c) Find a basis for $W^{\perp}$.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -334,10 +330,9 @@ $$\left\{\begin{bmatrix} 1 \\ -2 \\ 0 \\ 2 \\ 1\end{bmatrix},\begin{bmatrix} -2 
 
 
 Let $L$ be the line in ${\bf R}^2$ defined by $y=-3x$, and let $T:{\bf R}^2\to {\bf R}^2$ be the linear transformation that orthogonally projects onto $L$ and then stretches along $L$ by a factor of two.
-
-1. Find the eigenvalues and an eigenbasis $\mathcal{B}$ for $T$.
-2. Determine the matrix for $T$ with respect to the basis $\mathcal{B}$.
-3. Determine the matrix for $T$ with respect to the standard basis.
+(a) Find the eigenvalues and an eigenbasis $\mathcal{B}$ for $T$.
+(b) Determine the matrix for $T$ with respect to the basis $\mathcal{B}$.
+(c) Determine the matrix for $T$ with respect to the standard basis.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -361,9 +356,9 @@ Let $L$ be the line in ${\bf R}^2$ defined by $y=-3x$, and let $T:{\bf R}^2\to {
 
 
 Let $T:{\bf R}^3\to {\bf R}^3$ be the orthogonal projection to a $1$-dimensional linear subspace $L\subset {\bf R}^3$.
-1. List the eigenvalues of $T$.
-2. Write the characteristic polynomial $p_T(x)$ for $T$.
-3. Is $T$ diagonalizable? Briefly justify your answer.
+(a) List the eigenvalues of $T$.
+(b) Write the characteristic polynomial $p_T(x)$ for $T$.
+(c) Is $T$ diagonalizable? Briefly justify your answer.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -387,9 +382,9 @@ Let $T:{\bf R}^3\to {\bf R}^3$ be the orthogonal projection to a $1$-dimensional
 
 
 Let $T:{\bf R}^3\to {\bf R}^3$ be the orthogonal projection to a $1$-dimensional linear subspace $L\subset {\bf R}^3$.
-1. List the eigenvalues of $T$.
-2. Write the characteristic polynomial $p_T(x)$ for $T$.
-3. Is $T$ diagonalizable? Justify your answer.
+(a) List the eigenvalues of $T$.
+(b) Write the characteristic polynomial $p_T(x)$ for $T$.
+(c) Is $T$ diagonalizable? Justify your answer.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -441,8 +436,8 @@ Let $L$ be the line $L$ parameterized by $L(t)=(2t,-3t,t)$ for $t\in {\bf R}$, a
 
 
 Let $T:{\bf R}^4\to {\bf R}^4$ be orthogonal projection to the $2$-dimensional plane $P$ spanned by the vectors ${\bf v}=(2,0,1,0)$ and ${\bf w}=(-1,0,2,0)$.
-1. Find (with proof) all eigenvalues and eigenvectors, along with their geometric and algebraic multiplicities.
-2. Find the matrix representing $T$ with respect to the standard basis. Is this matrix diagonalizable? Why or why not?
+(a) Find (with proof) all eigenvalues and eigenvectors, along with their geometric and algebraic multiplicities.
+(b) Find the matrix representing $T$ with respect to the standard basis. Is this matrix diagonalizable? Why or why not?
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -465,10 +460,9 @@ Let $T:{\bf R}^4\to {\bf R}^4$ be orthogonal projection to the $2$-dimensional p
 
 
 Let $a, b \in {\bf R}$ and $T: {\bf R}^3 \to {\bf R}^3$ be the linear transformation that is orthogonal projection onto the plane $z=ax+by$ (with respect to the usual Euclidean inner-product on ${\bf R}^3$).
-
-1. Find the eigenvalues of $T$ and bases for the corresponding eigenspaces.
-2. Is $T$ diagonalizable? Justify.
-3. What is the characteristic polynomial of $T$?
+(a) Find the eigenvalues of $T$ and bases for the corresponding eigenspaces.
+(b) Is $T$ diagonalizable? Justify.
+(c) What is the characteristic polynomial of $T$?
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -492,8 +486,8 @@ Let $a, b \in {\bf R}$ and $T: {\bf R}^3 \to {\bf R}^3$ be the linear transforma
 
 
 Let $T:{\bf R}^3\to {\bf R}^3$ be the orthogonal projection onto the plane $z=x+y$, with respect to the standard Euclidean inner product.
-1. Write the matrix representation of $T$ with respect to the standard basis.
-2. Is $T$ diagonalizable? Justify your answer.
+(a) Write the matrix representation of $T$ with respect to the standard basis.
+(b) Is $T$ diagonalizable? Justify your answer.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -572,11 +566,10 @@ Let $a,b\in {\bf R}$ and $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation
 
 
 Let $T:{\bf R}^3\to {\bf R}^3$ be the linear transformation that rotates counterclockwise around the $z$-axis by $\frac{2\pi}{3}$.
-
-1. Write the matrix for $T$ with respect to the standard basis $\left\{\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix},\begin{bmatrix} 0 \\ 1 \\ 0\end{bmatrix},\begin{bmatrix} 0 \\ 0 \\ 1\end{bmatrix}\right\}$.
-2. Write the matrix for $T$ with respect to the basis $\left\{\begin{bmatrix} \frac{\sqrt{3}}{2} \\ -\frac{1}{2} \\ 0 \end{bmatrix},\begin{bmatrix} 0 \\ 1 \\ 0\end{bmatrix},\begin{bmatrix} 0 \\ 0 \\ 1\end{bmatrix}\right\}$.
-3. Determine all (complex) eigenvalues of $T$.
-4. Is $T$ diagonalizable over ${\bf C}$? Justify your answer.
+(a) Write the matrix for $T$ with respect to the standard basis $\left\{\begin{bmatrix} 1 \\ 0 \\ 0 \end{bmatrix},\begin{bmatrix} 0 \\ 1 \\ 0\end{bmatrix},\begin{bmatrix} 0 \\ 0 \\ 1\end{bmatrix}\right\}$.
+(b) Write the matrix for $T$ with respect to the basis $\left\{\begin{bmatrix} \frac{\sqrt{3}}{2} \\ -\frac{1}{2} \\ 0 \end{bmatrix},\begin{bmatrix} 0 \\ 1 \\ 0\end{bmatrix},\begin{bmatrix} 0 \\ 0 \\ 1\end{bmatrix}\right\}$.
+(c) Determine all (complex) eigenvalues of $T$.
+(d) Is $T$ diagonalizable over ${\bf C}$? Justify your answer.
 
 > [!info]- View $\LaTeX$ code
 > ```

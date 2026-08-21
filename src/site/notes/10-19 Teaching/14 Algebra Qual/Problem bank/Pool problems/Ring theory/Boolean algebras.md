@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/boolean-algebras/","tags":["ring_theory"],"updated":"2026-08-17T15:42:22-07:00","dg-note-properties":{"last updated":"2026-08-17T15:42:22-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Winter 2025"],"redacted":true}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/boolean-algebras/","tags":["ring_theory"],"updated":"2026-08-21T15:08:51-07:00","dg-note-properties":{"last updated":"2026-08-21T15:08:51-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Winter 2025"],"redacted":true}}
 ---
 
 A **Boolean algebra** is a ring $A$ with $1$ satisfying $x^2=x$ for all $x\in A$. Prove that in a Boolean algebra $A$:
-1. $2x=0$ for all $x\in A$.
-2. Every nonzero prime ideal $\mathfrak{p}$ is maximal, and $A/\mathfrak{p}$ is a field with two elements.
+(a) $2x=0$ for all $x\in A$.
+(b) Every nonzero prime ideal $\mathfrak{p}$ is maximal, and $A/\mathfrak{p}$ is a field with two elements.
 
 > [!info]- View $\LaTeX$ code
 > ```

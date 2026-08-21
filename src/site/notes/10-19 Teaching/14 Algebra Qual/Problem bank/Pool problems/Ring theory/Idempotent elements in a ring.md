@@ -1,12 +1,11 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/idempotent-elements-in-a-ring/","tags":["ring_theory"],"updated":"2025-03-17T09:04:09-07:00","dg-note-properties":{"last updated":"2025-03-17T09:04:09-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2020"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/idempotent-elements-in-a-ring/","tags":["ring_theory"],"updated":"2026-08-21T14:45:38-07:00","dg-note-properties":{"last updated":"2026-08-21T14:45:38-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2020"]}}
 ---
 
 Let $R$ be a commutative ring with 1 and suppose $e\in R$ is **idempotent**, i.e., satisfies $e^2=e$.
-
-1. Prove that $1-e$ is also idempotent.
-2. Suppose $e\neq 0, 1$. Show that $Re$ and $R(1-e)$ are proper ideals of $R$.
-3. Prove there is an isomorphism $R\cong Re\times R(1-e)$.
+(a) Prove that $1-e$ is also idempotent.
+(b) Suppose $e\neq 0, 1$. Show that $Re$ and $R(1-e)$ are proper ideals of $R$.
+(c) Prove there is an isomorphism $R\cong Re\times R(1-e)$.
 
 > [!info]- View $\LaTeX$ code
 > ```

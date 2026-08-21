@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/orthogonal-projection-onto-a-plane/","tags":["linear_algebra"],"updated":"2025-03-14T15:17:58-07:00","dg-note-properties":{"last updated":"2025-03-14T15:17:58-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Spring 2024"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/linear-algebra/orthogonal-projection-onto-a-plane/","tags":["linear_algebra"],"updated":"2026-08-21T15:06:12-07:00","dg-note-properties":{"last updated":"2026-08-21T15:06:12-07:00","type":null,"tags":["linear_algebra"],"appeared on exam":["Spring 2024"]}}
 ---
 
 Let $T:{\bf R}^4\to {\bf R}^4$ be orthogonal projection to the $2$-dimensional plane $P$ spanned by the vectors ${\bf v}=(2,0,1,0)$ and ${\bf w}=(-1,0,2,0)$.
-1. Find (with proof) all eigenvalues and eigenvectors, along with their geometric and algebraic multiplicities.
-2. Find the matrix representing $T$ with respect to the standard basis. Is this matrix diagonalizable? Why or why not?
+(a) Find (with proof) all eigenvalues and eigenvectors, along with their geometric and algebraic multiplicities.
+(b) Find the matrix representing $T$ with respect to the standard basis. Is this matrix diagonalizable? Why or why not?
 
 > [!info]- View $\LaTeX$ code
 > ```

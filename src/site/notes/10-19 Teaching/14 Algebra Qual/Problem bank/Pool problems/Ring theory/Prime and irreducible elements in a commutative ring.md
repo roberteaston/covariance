@@ -1,11 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/prime-and-irreducible-elements-in-a-commutative-ring/","tags":["ring_theory"],"updated":"2025-03-18T10:29:55-07:00","dg-note-properties":{"last updated":"2025-03-18T10:29:55-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2018"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/pool-problems/ring-theory/prime-and-irreducible-elements-in-a-commutative-ring/","tags":["ring_theory"],"updated":"2026-08-21T14:29:06-07:00","dg-note-properties":{"last updated":"2026-08-21T14:29:06-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Fall 2018"]}}
 ---
 
 Let $R$ be a commutative ring with unity.
-
-1. Define what it means for an element in $R$ to be **prime**, and also what it means for an element to be **irreducible**.
-2. Prove that if $R$ is an integral domain, then every prime element is irreducible.
+(a) Define what it means for an element in $R$ to be **prime**, and also what it means for an element to be **irreducible**.
+(b) Prove that if $R$ is an integral domain, then every prime element is irreducible.
 
 > [!info]- View $\LaTeX$ code
 > ```

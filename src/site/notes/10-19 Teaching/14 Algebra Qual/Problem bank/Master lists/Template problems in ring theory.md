@@ -179,8 +179,8 @@ Let ${\bf Z}[i]=\{a+bi\,\mid \, a,b\in {\bf Z},\, i^2=-1\}$, a subring of ${\bf 
 
 
 Let ${\bf Z}_2=\{0,1\}$ be the field of two elements. The quotient ring ${\bf Z}_2[x]/\langle x^3+x+1\rangle$ is a field of cardinality 8, containing ${\bf Z}_2$. Let $\pi:{\bf Z}_2[x]\to {\bf Z}_2[x]/\langle x^3+x+1\rangle$ be the natural projection.
-1. Write down a set of eight distinct coset representatives for the elements of this field.
-2. Determine the multiplicative inverse of $\pi(x)$ in terms of your coset representatives.
+(a) Write down a set of eight distinct coset representatives for the elements of this field.
+(b) Determine the multiplicative inverse of $\pi(x)$ in terms of your coset representatives.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -203,8 +203,8 @@ Let ${\bf Z}_2=\{0,1\}$ be the field of two elements. The quotient ring ${\bf Z}
 
 
 Let ${\bf F}_9$ denote the field of nine elements.
-1. Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
-2. Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
+(a) Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
+(b) Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -276,9 +276,9 @@ Let ${\bf Z}[X]$ be the ring of polynomials with integer coefficients, and let $
 
 $$\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.\end{align*}$$
 
-1. Characterize $K$ as a set.
-2. Determine whether $K$ is a maximal ideal. Fully justify your conclusion.
-3. Determine whether $K$ is a principal ideal. Justify by either exhibiting a generator or proving that there isn't one.
+(a) Characterize $K$ as a set.
+(b) Determine whether $K$ is a maximal ideal. Fully justify your conclusion.
+(c) Determine whether $K$ is a principal ideal. Justify by either exhibiting a generator or proving that there isn't one.
 
 > [!info]- View $\LaTeX$ code
 > ```
@@ -306,8 +306,8 @@ $$\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.
 
 
 Let $i$ be the imaginary number, let ${\bf Z}[i]=\{a+bi\,\mid \, a,b\in {\bf Z}\}$, a principal ideal domain, and let ${\bf Z}_2$ be the finite ring of integers modulo 2.
-1. Define a ring homomorphism from ${\bf Z}[i]\to {\bf Z}_2$. You must prove it is a ring homomorphism.
-2. Find, with proof, a generator for the kernel of your ring homomorphism.
+(a) Define a ring homomorphism from ${\bf Z}[i]\to {\bf Z}_2$. You must prove it is a ring homomorphism.
+(b) Find, with proof, a generator for the kernel of your ring homomorphism.
 
 
 > [!info]- View $\LaTeX$ code
@@ -331,8 +331,8 @@ Let $i$ be the imaginary number, let ${\bf Z}[i]=\{a+bi\,\mid \, a,b\in {\bf Z}\
 
 
 Let $i\in {\bf C}$ be the usual root of unity, with $i^2=-1$, and let ${\bf Z}[i]=\{a+bi\mid a,b\in {\bf Z}\}$ be the ring of Gaussian integers.
-1. Prove that there exists a (nonzero) ring homomorphism ${\bf Z}[i]\to {\bf Z}_5$.
-2. Compute the kernel of your homomorphism explicitly, and state the conclusion given by the First Isomorphism Theorem.
+(a) Prove that there exists a (nonzero) ring homomorphism ${\bf Z}[i]\to {\bf Z}_5$.
+(b) Compute the kernel of your homomorphism explicitly, and state the conclusion given by the First Isomorphism Theorem.
 
 > [!info]- View $\LaTeX$ code
 > ```

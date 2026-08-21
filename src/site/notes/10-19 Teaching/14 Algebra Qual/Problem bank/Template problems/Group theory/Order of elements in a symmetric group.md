@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/order-of-elements-in-a-symmetric-group/","tags":["group_theory"],"updated":"2025-03-17T08:02:13-07:00","dg-note-properties":{"last updated":"2025-03-17T08:02:13-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2022"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/group-theory/order-of-elements-in-a-symmetric-group/","tags":["group_theory"],"updated":"2026-08-21T14:55:03-07:00","dg-note-properties":{"last updated":"2026-08-21T14:55:03-07:00","type":null,"tags":["group_theory"],"appeared on exam":["Spring 2022"]}}
 ---
 
 Let $S_7$ denote the symmetric group.
-1. Give an example of two non-conjugate elements of $S_7$ that have the same order.
-2. If $g\in S_7$ has maximal order, what is the order of $g$?
-3. Does the element $g$ that you found in part (2) lie in $A_7$? Fully justify your answer.
-4. Determine whether the set $\{h\in S_7\mid |h|=|g|\}$ is a single conjugacy class in $S_7$, where $g$ is the element you found in part (2).
+(a) Give an example of two non-conjugate elements of $S_7$ that have the same order.
+(b) If $g\in S_7$ has maximal order, what is the order of $g$?
+(c) Does the element $g$ that you found in part (b) lie in $A_7$? Fully justify your answer.
+(d) Determine whether the set $\{h\in S_7\mid |h|=|g|\}$ is a single conjugacy class in $S_7$, where $g$ is the element you found in part (b).
 
 > [!info]- View $\LaTeX$ code
 > ```

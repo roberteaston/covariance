@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf &gt; page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">John Baez</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">...every sufficiently good analogy is yearning to become a functor.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf &gt; page=31" data-href="Riehl - Category Theory in Context.pdf#page=31" href="Riehl - Category Theory in Context.pdf#page=31" class="internal-link" target="_blank" rel="noopener nofollow">Eilenberg and Mac Lane</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" href="40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples.md" class="internal-link" target="_blank" rel="noopener nofollow">Universal Properties I - Inspiring Examples</a></div></div><div class="callout-content">
+<p dir="auto">...whenever new abstract objects are constructed in a specified way out of given ones, it is advisable to regard the construction of the corresponding induced mappings on these objects as an integral part of their definition.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                                                                                       | Last Updated              |
-| ------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2017-03\|Algebra Qual 2017-03]]                                            | 2:05 PM - August 21, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Ring theory/Evaluation at i\|Evaluation at i]]                          | 2:05 PM - August 21, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Group theory/The Third Isomorphism Theorem\|The Third Isomorphism Theorem]] | 2:05 PM - August 21, 2026 |
+| Note                                                                                                                                 | Last Updated              |
+| ------------------------------------------------------------------------------------------------------------------------------------ | ------------------------- |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Template problems/Linear algebra/Projection onto a plane\|Projection onto a plane]] | 3:09 PM - August 21, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Problem bank/Pool problems/Ring theory/Boolean algebras\|Boolean algebras]]                      | 3:08 PM - August 21, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Previous exams/Algebra Qual 2025-01\|Algebra Qual 2025-01]]                                      | 3:08 PM - August 21, 2026 |
 
 { .block-language-dataview}
 

@@ -1,10 +1,10 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-field-with-nine-elements/","tags":["ring_theory"],"updated":"2026-05-28T19:43:08-07:00","dg-note-properties":{"last updated":"2026-05-28T19:43:08-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2021"]}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/template-problems/ring-theory/the-field-with-nine-elements/","tags":["ring_theory"],"updated":"2026-08-21T14:50:02-07:00","dg-note-properties":{"last updated":"2026-08-21T14:50:02-07:00","type":null,"tags":["ring_theory"],"appeared on exam":["Spring 2021"]}}
 ---
 
 Let ${\bf F}_9$ denote the field of nine elements.
-1. Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
-2. Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
+(a) Show that each nonzero $a\in {\bf F}_9$ is a root of $X^8-1=(X-1)(X+1)(X^2+1)(X^4+1)\in {\bf F}_3[X]$.
+(b) Use the Pigeonhole Principle to prove that ${\bf F}_9$ has an element of multiplicative order 8. (Include a proof that the Pigeonhole Principle applies.)
 
 > [!info]- View $\LaTeX$ code
 > ```
