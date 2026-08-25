@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/the-algebra-qual/","updated":"2026-08-21T15:17:04-07:00","dg-note-properties":{"last updated":"2026-08-21T15:17:04-07:00"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/the-algebra-qual/","updated":"2026-08-25T12:34:53-07:00","dg-note-properties":{"last updated":"2026-08-25T12:34:53-07:00"}}
 ---
 
 Welcome to the unofficial home for all things related to the Qualifying Exam in Algebra (aka "The Algebra Qual") at California Polytechnic State University, San Luis Obispo. The Algebra Qual consists of five problems covering three main subfields of abstract algebra, namely:
@@ -43,4 +43,3 @@ If you would like to see these old exams, many have also been recreated [[10-19 
 [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]
 [[10-19 Teaching/14 Algebra Qual/Notation Key\|Notation Key]]
 [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]
-[[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]

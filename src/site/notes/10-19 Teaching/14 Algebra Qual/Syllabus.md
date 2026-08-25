@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2026-08-21T15:17:52-07:00","dg-note-properties":{"last updated":"2026-08-21T15:17:52-07:00"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/syllabus/","updated":"2026-08-25T12:34:48-07:00","dg-note-properties":{"last updated":"2026-08-25T12:34:48-07:00"}}
 ---
 
 ## Topics covered
@@ -95,4 +95,3 @@ The material is found in a large number of texts, and is approached in a rather 
 [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]
 [[10-19 Teaching/14 Algebra Qual/Notation Key\|Notation Key]]
 [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]
-[[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]

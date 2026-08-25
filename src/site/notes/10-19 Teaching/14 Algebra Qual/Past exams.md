@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/past-exams/","updated":"2026-08-21T12:29:26-07:00","dg-note-properties":{"last updated":"2026-08-21T12:29:26-07:00"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/past-exams/","updated":"2026-08-25T12:36:08-07:00","dg-note-properties":{"last updated":"2026-08-25T12:36:08-07:00"}}
 ---
 
-Looking for past exams? The official repository is available [here](https://math.calpoly.edu/degree-ms/sample-exams), although recent exams have also been recreated here and are linked below.
+Looking for past exams? I am working on collecting copies of the actual historical exams (i.e., the original PDFs), but for now the most recent exams have been recreated here:
 
 | Exam                                                                                            | Date Given         |
 | ----------------------------------------------------------------------------------------------- | ------------------ |
@@ -45,4 +45,3 @@ Looking for past exams? The official repository is available [here](https://math
 [[10-19 Teaching/14 Algebra Qual/Syllabus\|Exam syllabus]]
 [[10-19 Teaching/14 Algebra Qual/Notation Key\|Notation Key]]
 [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]
-[[10-19 Teaching/14 Algebra Qual/Changelog\|Changelog]]
