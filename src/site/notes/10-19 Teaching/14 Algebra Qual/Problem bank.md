@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/","updated":"2026-08-25T12:34:42-07:00","dg-note-properties":{"last updated":"2026-08-25T12:34:42-07:00"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/problem-bank/","updated":"2026-08-25T12:47:29-07:00","dg-note-properties":{"last updated":"2026-08-25T12:47:29-07:00"}}
 ---
 
 Beginning with the September 2025 exam, all problems will be drawn from a public "problem bank." This bank contains two types of problems: **template problems** and **pool problems**.
@@ -21,7 +21,7 @@ Template problems are available below:
 ## Pool problems
 ---
 
-**Pool problems** make up the rest of the problem bank and include all problems that are not easily adjustable. These problems, when chosen, will usually be asked as is.^[Allowing for minor changes to improve clarity, streamline the question, etc.]
+**Pool problems** make up the rest of the problem bank and include all problems that are not easily adjustable. These problems may be asked with minor changes; e.g., to improve clarity, streamline the question, or amplify the result.
 
 Pool problems are available at the links below:
 
