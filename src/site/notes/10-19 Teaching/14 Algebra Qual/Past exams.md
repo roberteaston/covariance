@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/past-exams/","updated":"2026-08-28T12:38:54-07:00","dg-note-properties":{"last updated":"2026-08-28T12:38:54-07:00"}}
+{"dg-publish":true,"permalink":"/10-19-teaching/14-algebra-qual/past-exams/","updated":"2026-08-28T12:47:24-07:00","dg-note-properties":{"last updated":"2026-08-28T12:47:24-07:00"}}
 ---
 
 Looking for past exams? I am working on collecting copies of the actual historical exams (i.e., the original PDFs), but for now the most recent exams have been recreated here:
@@ -38,10 +38,6 @@ Looking for past exams? I am working on collecting copies of the actual historic
 
 { .block-language-dataview}
 
-
-Let's see if I can embed a PDF here:
-
-[Fall 2025](/img/user/90-99%20Meta/95%20Attachments/Algebra%20Qual%202025-09.pdf)
 ## Related pages
 ---
 

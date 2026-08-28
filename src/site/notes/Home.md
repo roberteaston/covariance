@@ -14,7 +14,7 @@
 
 | Note                                                                     | Last Updated               |
 | ------------------------------------------------------------------------ | -------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]             | 12:38 PM - August 28, 2026 |
+| [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]             | 12:47 PM - August 28, 2026 |
 | [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]         | 12:47 PM - August 25, 2026 |
 | [[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|The Algebra Qual]] | 12:34 PM - August 25, 2026 |
 
