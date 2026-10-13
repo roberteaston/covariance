@@ -12,7 +12,7 @@ $$\begin{align*}\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\f(X) &\mapsto [f(1)]_3.
 
 > [!info]- View $\LaTeX$ code
 > ```
-> Let ${\bf Z}[X]$ be the ring of polynmomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the ``evaluation at $1' homomorphism
+> Let ${\bf Z}[X]$ be the ring of polynmomials with integer coefficients, and let $K\subset {\bf Z}[X]$ be the kernel of the ``evaluation at $1$'' homomorphism
 > \begin{align*}
 > 	\varepsilon_1:{\bf Z}[X] &\to {\bf Z}_3\\
 > 	f(X) &\mapsto [f(1)]_3.

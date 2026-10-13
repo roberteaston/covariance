@@ -23,7 +23,8 @@ Suppose $R$ is a ring, $M$ is a left $R$-module, and $r\in R$ is an element for 
 
 
 > [!summary]- Solution
-Suppose, towards a contradiction, that $r$ had a left inverse. Let $s\in R$ be a left inverse of $r$ in $R$, so that $sr=1_R$. On the one hand, we then have $s(rm)=s\cdot 0=0$; on the other hand we also have $s(rm)=(sr)m=1_R \cdot m = m$. Since $m$ was assumed to be nonzero, this is a contradiction. 
+Suppose, towards a contradiction, that $r$ had a left inverse. Let $s\in R$ be a left inverse of $r$ in $R$, so that $sr=1_R$. On the one hand, we then have $s(rm)=s\cdot 0=0$; on the other hand we also have $s(rm)=(sr)m=1_R \cdot m = m$. Since $m$ was assumed to be nonzero, this is a contradiction.
+
 
 
 </div></div>
@@ -53,7 +54,8 @@ Suppose, towards a contradiction, that $r$ had a left inverse. Let $s\in R$ be a
 > [!summary]- Solution
 > It is clear (always dangerous to say!) that $IM$ is a subgroup of the abelian group $M$, so it only remains to verify $IM$ is closed under scaling, i.e., the action of $R$. To see that, suppose we have an element of $\sum_k i_k m_k$ of $IM$ and observe that $$r\cdot \sum_k i_k m_k = \sum_k r(i_k m_k) = \sum_k (ri_k)m.$$
 > 
-> Since $I$ is a left ideal of $R$, we have $ri_k\in R$ for every $k$ and so the final sum is once again another element of the set $IM$. 
+> Since $I$ is a left ideal of $R$, we have $ri_k\in R$ for every $k$ and so the final sum is once again another element of the set $IM$.
+
 
 </div></div>
 
@@ -82,7 +84,8 @@ Suppose $R$ is a ring and $M$ is a left $R$-module. An element $m\in M$ is calle
 </div></div>
 
 > [!summary]- Solution
-> 1. First observe that $1_R\cdot 0 = 0$ so $0\in\operatorname{Tor(M)}$. Next suppose $m, n\in\operatorname{Tor(M)}$, and let $r,s\in R$ be nonzero elements such that $rm=0$ and $sn=0$. We claim that $rs$ is nonzero and $(rs)(m-n)=0$. The first statement follows from the fact that we assumed $R$ is an integral domain; for the second, observe that $$(rs)(m-n)=(rs)m-(rs)n=(sr)m-(rs)n=s(rm)-r(sn)=s\cdot 0-r\cdot 0 = 0-0=0.$$ Note that we used the commutativity of $R$ (the "integral" part of "integral domain") to switch from $(rs)m$ to $(sr)m$. >  2. In light of part 1, we need to look at rings $R$ that are *not* integral domains. One such ring is ${\bf Z}_6$. When considered as an module over itself, the elements $2$ and $3$ are torsion elements, since $3\cdot 2 = 0$ and $2\cdot 3=0$. On the other hand, the element $2+3=5$ is not torsion, as one can quickly verify that $r\cdot 5\neq 0$ for each of the five nonzero elements of ${\bf Z}_6$.
+> 1. First observe that $1_R\cdot 0 = 0$ so $0\in\operatorname{Tor(M)}$. Next suppose $m, n\in\operatorname{Tor(M)}$, and let $r,s\in R$ be nonzero elements such that $rm=0$ and $sn=0$. We claim that $rs$ is nonzero and $(rs)(m-n)=0$. The first statement follows from the fact that we assumed $R$ is an integral domain; for the second, observe that $$(rs)(m-n)=(rs)m-(rs)n=(sr)m-(rs)n=s(rm)-r(sn)=s\cdot 0-r\cdot 0 = 0-0=0.$$ Note that we used the commutativity of $R$ (the "integral" part of "integral domain") to switch from $(rs)m$ to $(sr)m$.
+>  2. In light of part 1, we need to look at rings $R$ that are *not* integral domains. One such ring is ${\bf Z}_6$. When considered as an module over itself, the elements $2$ and $3$ are torsion elements, since $3\cdot 2 = 0$ and $2\cdot 3=0$. On the other hand, the element $2+3=5$ is not torsion, as one can quickly verify that $r\cdot 5\neq 0$ for each of the five nonzero elements of ${\bf Z}_6$.
 >  3. Let $r\in R$ be a nonzero zero divisor, so that $rs=0_R$ for some nonzero $s\in R$. Let $m\in M$ be any nonzero element, and consider the element $sm$. If $sm=0$, then $m$ is torsion; if $sm\neq 0$, then $r(sm)=(rs)m=0_R\cdot m = 0$, and so $sm$ is torsion. So in either case there exists a nonzero torsion element in $M$.
 >  4. Take any torsion element $m\in M$ and let $r\in R$ be a nonzero element such that $rm=0_M$. Then observe that $r\cdot \phi(m)=\phi(rm) = \phi(0_M)=0_N$. This prove $\phi(m)$ is a torsion element in $N$.
 

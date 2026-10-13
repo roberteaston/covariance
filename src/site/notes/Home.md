@@ -5,18 +5,18 @@
 ## Welcome to Covariance
 ---
 
-<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Vakil - The Rising Sea.pdf &gt; page=25" data-href="Vakil - The Rising Sea.pdf#page=25" href="Vakil - The Rising Sea.pdf#page=25" class="internal-link" target="_blank" rel="noopener nofollow">Brian Conrad</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors.md" class="internal-link" target="_blank" rel="noopener nofollow">Functors</a></div></div><div class="callout-content">
-<p dir="auto">Before functoriality, people lived in caves.</p>
+<p><span><div data-callout-metadata="" data-callout-fold="" data-callout="quote" class="callout node-insert-event"><div class="callout-title" dir="auto"><div class="callout-icon"><svg width="16" height="16"></svg></div><div class="callout-title-inner"><a data-tooltip-position="top" aria-label="Riehl - Category Theory in Context.pdf &gt; page=24" data-href="Riehl - Category Theory in Context.pdf#page=24" href="Riehl - Category Theory in Context.pdf#page=24" class="internal-link" target="_blank" rel="noopener nofollow">Emily Riehl</a> | <a data-tooltip-position="top" aria-label="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" data-href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" href="40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories.md" class="internal-link" target="_blank" rel="noopener nofollow">Categories</a></div></div><div class="callout-content">
+<p dir="auto">The search for the most useful set-theoretical foundations for category theory is a fascinating topic that unfortunately would require too long of a digression to explore. Instead, we sweep these foundational issues under the rug, not because these issues are not serious or interesting, but because they distract from the task at hand.</p>
 </div></div></span></p>
 
 ## Recently updated notes
 ---
 
-| Note                                                                     | Last Updated               |
-| ------------------------------------------------------------------------ | -------------------------- |
-| [[10-19 Teaching/14 Algebra Qual/Past exams\|Past exams]]             | 12:47 PM - August 28, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/Problem bank\|Problem bank]]         | 12:47 PM - August 25, 2026 |
-| [[10-19 Teaching/14 Algebra Qual/The Algebra Qual\|The Algebra Qual]] | 12:34 PM - August 25, 2026 |
+| Note                                                                                                                            | Last Updated                |
+| ------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Categorification/Vertical categorification\|Vertical categorification]]     | 12:40 PM - October 13, 2026 |
+| [[40-49 Knowledge/41 Mathematics/Category theory/Categorification/Horizontal categorification\|Horizontal categorification]] | 12:36 PM - October 13, 2026 |
+| [[40-49 Knowledge/41 Mathematics/Lie theory/Lie algebras/Lie algebras\|Lie algebras]]                                        | 12:20 PM - October 13, 2026 |
 
 { .block-language-dataview}
 
@@ -29,7 +29,7 @@
 > Not to be confused with the general concept of *algebra* (abstract or otherwise), an [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras#^32e02b\|algebra]] is an algebraic structure similar to a [[40-49 Knowledge/41 Mathematics/Module theory/Basic definitions and examples/Modules#^ac6884\|module]], only with two internal binary operations.
 >  | Note                                                                                                                      | Last Updated                |
 > | ------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 2:03 PM - October 30, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Algebra theory/Algebras\|Algebras]]                                                   | 11:06 AM - October 01, 2026 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Exterior algebras\|Exterior algebras]]                                 | 2:27 PM - November 06, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric algebras\|Symmetric algebras]]                               | 7:39 PM - November 02, 2025 |
 > | [[40-49 Knowledge/41 Mathematics/Algebra theory/Symmetric and alternating tensors\|Symmetric and alternating tensors]] | 1:45 PM - November 04, 2025 |
@@ -45,31 +45,33 @@
 { .block-language-dataview}
 
 > [!summary]- Category theory
->  | Note                                                                                                                                                                                                          | Last Updated                 |
-> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------- |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Ab-categories\|Ab-categories]]                                                                                                         | 6:51 AM - December 01, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|Abelian categories]]                                                                                               | 6:55 AM - December 01, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories\|Additive categories]]                                                                                             | 6:53 AM - December 01, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]                                                                                                                             | 8:45 PM - October 07, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]]                                                                                                                 | 7:55 PM - October 07, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Chain complexes\|Chain complexes]]                                                                                                     | 12:34 PM - March 31, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram chases without elements\|Diagram chases without elements]]                                                                     | 7:26 PM - November 23, 2024  |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas\|Diagram lemmas]]                                                                                                       | 12:34 PM - March 31, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Double complexes and mural maps\|Double complexes and mural maps]]                                                                     | 6:40 AM - December 04, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Exact sequences and chain homology\|Exact sequences and chain homology]]                                                               | 12:35 PM - March 31, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|Examples of adjoints]]                                                                                                     | 9:00 PM - October 07, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functor categories\|Functor categories]]                                                                                                 | 8:42 PM - October 07, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors\|Functors]]                                                                                                                     | 8:12 PM - October 07, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Kan extensions/Kan extensions\|Kan extensions]]                                                                                                           | 11:12 AM - November 24, 2025 |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|Natural transformations]]                                                                                       | 8:38 PM - October 07, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints\|Properties of adjoints]]                                                                                                 | 12:39 PM - March 31, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Special morphisms\|Special morphisms]]                                                                                                   | 2:21 PM - November 18, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Spectral sequences\|Spectral sequences]]                                                                                               | 12:37 PM - March 31, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]]                                                                                           | 3:38 PM - December 09, 2025  |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal arrows and elements\|Universal arrows and elements]]                                                                       | 12:48 PM - March 31, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                                           | 7:56 PM - October 07, 2025   |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]] | 3:08 PM - August 06, 2025    |
-> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]                                               | 10:14 AM - October 17, 2025  |
+>  | Note                                                                                                                                                                                                          | Last Updated                  |
+> | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Ab-categories\|Ab-categories]]                                                                                                         | 6:51 AM - December 01, 2025   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Abelian categories\|Abelian categories]]                                                                                               | 6:55 AM - December 01, 2025   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Additive categories\|Additive categories]]                                                                                             | 6:53 AM - December 01, 2025   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Adjoints\|Adjoints]]                                                                                                                             | 8:45 PM - October 07, 2025    |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Categories\|Categories]]                                                                                                                 | 7:55 PM - October 07, 2025    |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Chain complexes\|Chain complexes]]                                                                                                     | 12:34 PM - March 31, 2025     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram chases without elements\|Diagram chases without elements]]                                                                     | 7:26 PM - November 23, 2024   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Diagram lemmas\|Diagram lemmas]]                                                                                                       | 12:34 PM - March 31, 2025     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Double complexes and mural maps\|Double complexes and mural maps]]                                                                     | 12:51 PM - September 28, 2026 |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Exact sequences and chain homology\|Exact sequences and chain homology]]                                                               | 12:35 PM - March 31, 2025     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Examples of adjoints\|Examples of adjoints]]                                                                                                     | 9:00 PM - October 07, 2025    |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functor categories\|Functor categories]]                                                                                                 | 8:42 PM - October 07, 2025    |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Functors\|Functors]]                                                                                                                     | 8:12 PM - October 07, 2025    |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Categorification/Horizontal categorification\|Horizontal categorification]]                                                                               | 12:36 PM - October 13, 2026   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Kan extensions/Kan extensions\|Kan extensions]]                                                                                                           | 11:12 AM - November 24, 2025  |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Natural transformations\|Natural transformations]]                                                                                       | 8:38 PM - October 07, 2025    |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Adjoints/Properties of adjoints\|Properties of adjoints]]                                                                                                 | 12:39 PM - March 31, 2025     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Basic structures/Special morphisms\|Special morphisms]]                                                                                                   | 2:21 PM - November 18, 2025   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/Spectral sequences\|Spectral sequences]]                                                                                               | 12:37 PM - March 31, 2025     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Abelian categories/The Salamander Lemma\|The Salamander Lemma]]                                                                                           | 3:38 PM - December 09, 2025   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal arrows and elements\|Universal arrows and elements]]                                                                       | 12:48 PM - March 31, 2025     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties I - Inspiring Examples\|Universal Properties I - Inspiring Examples]]                                           | 7:56 PM - October 07, 2025    |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties II - Commutative diagrams, cones and limits\|Universal Properties II - Commutative diagrams, cones and limits]] | 3:08 PM - August 06, 2025     |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Universal properties/Universal Properties III - Yoneda's Lemma\|Universal Properties III - Yoneda's Lemma]]                                               | 10:14 AM - October 17, 2025   |
+> | [[40-49 Knowledge/41 Mathematics/Category theory/Categorification/Vertical categorification\|Vertical categorification]]                                                                                   | 12:40 PM - October 13, 2026   |
 > 
 { .block-language-dataview}
 
