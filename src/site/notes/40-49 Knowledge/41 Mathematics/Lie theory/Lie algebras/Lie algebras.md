@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/lie-theory/lie-algebras/lie-algebras/","tags":["lie_theory"],"updated":"2026-10-13T12:20:42-07:00","dg-note-properties":{"last updated":"2026-10-13T12:20:42-07:00","tags":["lie_theory"]}}
+{"dg-publish":true,"permalink":"/40-49-knowledge/41-mathematics/lie-theory/lie-algebras/lie-algebras/","tags":["lie_theory"],"updated":"2026-10-19T09:16:39-07:00","dg-note-properties":{"last updated":"2026-10-19T09:16:39-07:00","tags":["lie_theory"]}}
 ---
 
 > [!warning] Warning
